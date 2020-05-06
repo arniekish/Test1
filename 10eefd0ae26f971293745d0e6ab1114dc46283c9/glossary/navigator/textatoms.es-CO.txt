@@ -1,0 +1,312 @@
+﻿#	Átomos de texto en inglés
+BULLET	&#149;
+TOK_COMPANY	SAP
+TOK_LIB	Curso
+TOK_TOUR	Lección
+TOK_TRAINER	Desktop Assistant
+TOK_AUTOMATION	epo
+NAVIGATOR	Desktop Assistant
+NAV_LIBRARY	biblioteca
+BTN_ABORT	Abandonar
+BTN_CLOSE	Abandonar
+BTN_OK	OK
+BTN_CLOSE_DLG	Cerrar
+BTN_CONTINUE	Continuar
+BTN_PREVIEW	Vista previa
+BTN_PROCEED	Continuar
+BTN_RESTART	Reiniciar
+BTN_SKIP	Omitir paso
+BTN_START	Iniciar
+BTN_STOP	Detener
+BTN_EXECUTE	Ejecutar
+CA_SWITCH	Ayuda de contexto
+CONTENT_CAP	Contenido
+MAIL_SUBJECT	Solicitud de contenido para asistente de escritorio
+MAIL_HEADER	Estimado autor:\n\nQuisiera solicitar contenido para:
+MAIL_FOOTER	- Proceso/transacción: Describa el proceso de aplicación actualmente en uso. \n\n- Descripción: Describa la información. \n\nSaludos cordiales,
+MAIL_DATA	- Nombre de aplicación:
+MAIL_TOOLTIP	Solicitar contenido
+SHARE_TOOLTIP	Compartir contenido
+REQUEST_TEXT	Haga clic en %s para solicitar contenido
+REQUEST_LINK	aquí
+SEARCH_CAP	Buscar
+INFO_CAP	Información
+SETTINGS_CAP	Configuración
+BACK_TOOLTIP	Atrás
+SHARE_CONTENT_TOOLTIP	Compartir contenido
+CB_HIDE_OPTION	No mostrar nuevamente
+MY_ROLES	Mis roles
+EDIT_ROLES	Modificar roles
+NO_ROLES	Mostrar contenido sin roles
+SELECT_ALL_CAPTION	Seleccionar todo
+USER_CAPTION	Área del usuario
+READ_MORE	Leer más...
+NO_CATEGORY_CAPTION	Otro contenido
+DELETE_FAILED	Falló la eliminación.
+RENAME_FAILED	Falló la operación de renombrado.
+FILE_EXISTS	Ya existe un archivo con el mismo nombre. Ingrese un nombre diferente.
+LBL_YES	Sí
+LBL_DELETE	Eliminar
+LBL_NO	No
+LBL_OK	Ok
+DELETE_DLG_TEXT	¿Realmente desea eliminar los documentos seleccionados (%N)?
+LBL_CONCURRENT	Iniciar modo simultáneo
+LBL_DA	Asistente de escritorio
+LBL_SIM	Iniciar simulación
+LBL_CDOC	Pendiente
+LBL_DEMO	Iniciar modo de demostración
+LBL_NAVI	Iniciar recorrido guiado
+LBL_BOOK	Reproducir libro
+LBL_GROUP	Abrir en la biblioteca
+LBL_NAVIGATION	Asistente de escritorio
+LBL_PA	Recorrido guiado
+LBL_PRACTICE	Iniciar modo de práctica
+LBL_SIMULATION	Simulación
+LBL_BOOKPAGE	Visualizar página del libro
+LBL_TEST	Iniciar modo de prueba
+LBL_RECORD_DOCUMENT	Registrar documento
+MSG_AUTOMATION_FINISHED	Automatización finalizada
+MSG_AUTOMATION_FINISHED_2	Haga clic en 'Reiniciar' para iniciar nuevamente el proceso de automatización.
+MSG_AUTOMATION_START	Editar valores de entrada
+MSG_AUTOMATION_START_2	Verificar o editar los valores siguientes. Se introducirán de forma automática durante el proceso.
+MSG_EPO_DIALOG	Optimizador de proceso electrónico
+MSG_NAVI_LIBRARY_NO_APP	No hay información disponible.
+LBL_NAVI_NO_MATCH	No hay resultados para la búsqueda.
+NO_RECORDS	No hay documentos disponibles.
+MSG_NAVI_LIBRARY_SUBTITLE	Contenido disponible:
+MSG_NAVI_LIBRARY_TITLE	Asistente de escritorio
+MSG_NOT_APPLICABLE	no se puede editar
+MSG_PA_CONTROL_STEP	Acción solicitada para el paso:
+MSG_PA_EXPLANATION_STEP	Navegar a la pantalla que se muestra a continuación.
+MSG_PA_FORM_STEP	Campos requeridos que deben completarse en el formulario:
+MSG_PA_DIALOG	Recorrido guiado
+MSG_PA_START_SCREEN	Abra la pantalla de inicio.
+MSG_PA_STEP_NOT_FOUND	Cambie a la pantalla solicitada
+MSG_PA_STEP_NOT_FOUND1	Asegúrese de que la aplicación destino (@{TARGETAPPNAME}) esté abierta.
+MSG_PA_STEP_NOT_FOUND2	Navegue a la pantalla con control destacado que se muestra a continuación:
+MSG_STEP_LIGHT	Vista previa del paso
+MSG_STEP_NOT_FOUND	No se encontró el paso del recorrido guiado.
+MSG_STEP_NOT_FOUND_2	Haga clic en la barra de título de la aplicación destino o navegue a la pantalla derecha.<br><br>Haga clic en "Vista previa" para ver la pantalla solicitada.
+PA_FINISHED	Recorrido guiado finalizado.
+PROJECT_TITLE	Título del proyecto
+TRAY_INFO_BUBBLE_HEADING	Recorrido guiado
+TRAY_INFO_BUBBLE_TEXT	El paso actual del proceso no se puede visualizar. Haga clic aquí para obtener más información.
+RESTRICTED_BUBBLE_HEADING	Acción bloqueada
+RESTRICTED_BUBBLE_TEXT	No puede ejecutar ninguna acción hasta confirmar el paso actual.
+HELP_TITLE	Ayuda
+HELP_INTRO	La ayuda le ofrece un resumen de las partes y funciones principales de @{NAVIGATOR}.</br></br><b>Nota:</b> Las funciones disponibles dependen de la configuración de @{NAVIGATOR}.</br>
+HELP_TITLE_DA	Barra lateral y ventanas
+HELP_SIDEBAR_T	Barra lateral
+HELP_SIDEBAR_H	Esta barra lateral le permite iniciar las principales funciones de @{NAVIGATOR}. Para cada función, hay un botón. La barra lateral se puede mover con la función arrastrar y soltar, y se puede minimizar y maximizar haciendo clic sobre el borde de la barra lateral.
+HELP_CONTENT_CONTROL_T	Contenido
+HELP_CONTENT_CONTROL_H	Indica si el contenido está disponible. Abre la ventana principal con el contenido.
+HELP_SEARCH_CONTROL_T	Búsqueda
+HELP_SEARCH_CONTROL_H	Abre la búsqueda de contenido.
+HELP_EXTSEARCH_CONTROL_T	Búsqueda externa
+HELP_EXTSEARCH_CONTROL_H	Abre la búsqueda externa para búsqueda de contenido.
+HELP_STICKY_CONTROL_T	Agregar notita
+HELP_STICKY_CONTROL_H	Inserta una notita para la ventana de aplicaciones actual. Puede introducir un texto para la notita.
+HELP_RECORDING_CONTROL_T	Iniciar grabación
+HELP_RECORDING_CONTROL_H	Inicie la grabación de un proceso. El proceso grabado será guardado como documento en el área de usuario.
+HELP_MAIN_WINDOW_T	Ventana principal
+HELP_MAIN_WINDOW_H	La ventana principal muestra los contenidos disponibles para un contexto de página específico.</br>Durante la reproducción de un recorrido guiado, la ventana mostrará la lista de pasos.
+HELP_HEADER_T	Cabecera
+HELP_HEADER_H	El icono de estado en la cabecera indica si el contenido está disponible para el contexto actual.
+HELP_CONTENT_TAB_T	Pestaña de contenido
+HELP_CONTENT_TAB_H	La pestaña el contenido disponible para la aplicación actual.
+HELP_CONTENT_VIEW_T	Vista de contenido
+HELP_CONTENT_VIEW_H	La vista de contenido muestra la información disponible, los modos y la documentación para el contenido seleccionado.</br>Puede usar el control 'Atrás' para volver a la lista de contenidos.
+HELP_SEARCH_TAB_T	Pestaña de búsqueda
+HELP_SEARCH_TAB_H	En la pestaña, puede buscar contenido específico para su contexto actual.
+HELP_INFO_TAB_T	Pestaña de información
+HELP_INFO_TAB_H	La pestaña muestra información general sobre @{NAVIGATOR}.
+HELP_USERAREA_TAB_T	Pestaña de área de usuario
+HELP_USERAREA_TAB_H	La pestaña contiene los documentos de proceso grabados. Puede abrir, compartir o eliminar un documento. Puede grabar más procesos.
+HELP_INSTANT_T	Ayuda instantánea
+HELP_INSTANT_H	Con la opción activada, se muestra información contextual adicional exactamente en la pantalla de aplicación actual. La opción está activada por defecto.
+HELP_REQCONTENT_T	Solicitar contenido
+HELP_REQCONTENT_H	Abre una ventana de correo electrónico que le permite solicitar contenido faltante por autor.
+HELP_SETTINGS_T	Configuración
+HELP_SETTINGS_H	La vista incluye opciones para visualizar el contenido de @{NAVIGATOR}.
+HELP_MYROLES_T	Mis roles
+HELP_MYROLES_H	La opción muestra el contenido para el rol asignado.
+HELP_WITHOUTROLES_T	Mostrar contenido sin roles
+HELP_WITHOUTROLES_H	Esta opción muestra el contenido sin roles asignados.
+HELP_EDITROLES_T	Roles
+HELP_EDITROLES_H	Todos los roles usados para el contenido están enumerados y pueden activarse o desactivarse para visualizar el contenido.
+HELP_SHARECONTENT_T	Compartir contenido
+HELP_SHARECONTENT_H	Abre una ventana de diálogo con el enlace del contenido. El enlace se puede compartir con otros usuarios.
+HELP_REQUESTCONTENT_T	Solicitar contenido
+HELP_REQUESTCONTENT_H	Abre un correo electrónico predefinido para solicitar contenido de un caso específico
+HELP_PLAYBACK_CONTENT_T	Contenido de reproducción
+HELP_PLAYBACK_CONTENT_H	Los contenidos disponibles se pueden iniciar o abrir con los botones de la ventana de contenido.
+HELP_MINIMIZED_STATUS_T	Estado minimizado
+HELP_MINIMIZED_STATUS_H	En caso de que cierre la ventana principal, un ícono de estado flotante indicará si el contenido está disponible para el contexto actual. Haga clic en el ícono para restaurar la ventana principal.
+HELP_MINIMIZED_MENU_T	Menú contextual
+HELP_MINIMIZED_MENU_H	El menú contextual (haga clic con el botón derecho del ratón en el icono) incluye funciones para visualizar la pantalla principal y la ayuda de contexto.
+HELP_BOOK_WINDOW_T	Ventana de libro
+HELP_BOOK_WINDOW_H	La ventana del libro se abre al volver a reproducir un libro. La ventana principal y la ventana de contenidos están ocultas.
+HELP_GOTOTOP	Vaya al principio
+HELP_CAPTION	Ayuda de @{NAVIGATOR}
+NAVHELP_TITLE	Ícono de estado y menú contextual
+NAVHELP_INTRO	</br>La ayuda le ofrece un resumen sobre el icono de estado y las entradas del menú contextual.
+NAVHELP_STATUS_ICON_T	Icono de estado (barra de tareas)
+NAVHELP_STATUS_ICON_H	El icono de estado está posicionado en la barra de tareas y muestra las actividades actuales de @{NAVIGATOR}. Existen los siguientes estados:
+NAVHELP_STATUS_FOUND_T	Contenido disponible (icono verde)
+NAVHELP_STATUS_FOUND_H	El contenido está disponible para el contexto actual y se puede visualizar.
+NAVHELP_STATUS_CHECK_T	Cargando contenido (icono amarillo)
+NAVHELP_STATUS_CHECK_H	@{NAVIGATOR} revisa el contexto actual en busca de contenido disponible y carga el contenido.
+NAVHELP_STATUS_NOFOUND_T	No hay contenido disponible (icono rojo)
+NAVHELP_STATUS_NOFOUND_H	El contenido no está disponible para el contexto actual.
+NAVHELP_STANDBY_T	Desactivado
+NAVHELP_STANDBY_H	@{NAVIGATOR} está desactivado. Un clic en el ícono de estado (<i>CTRL + F11</i>) activa o desactiva @{NAVIGATOR}.
+NAVHELP_STATUS_MIN_T	Minimizado
+NAVHELP_STATUS_MIN_H	Se minimizan las ventanas y la barra lateral.
+NAVHELP_STATUS_MENU_T	Menú contextual
+NAVHELP_STATUS_MENU_H	El menú contextual (clic con el botón derecho del mouse en el ícono) incluye funciones generales del @{NAVIGATOR}.
+NAVHELP_VERSION_T	Mostrar versión
+NAVHELP_VERSION_H	Muestra el número de versión del @{NAVIGATOR} instalado. Esto es necesario para cualquier contacto con el soporte en caso de problemas.
+NAVHELP_JSCONSOLE_T	Consola JavaScript
+NAVHELP_JSCONSOLE_H	Muestra la consola de JavaScript para suministrar mensajes de error detallados. Esto es necesario para cualquier contacto con el soporte en caso de problemas.
+NAVHELP_NAV_CACHE_T	Eliminar caché local
+NAVHELP_NAV_CACHE_H	Elimina el caché local del contenido de @{NAVIGATOR}.
+NAVHELP_RESET_HIDDEN_T	Mostrar de nuevo todos los elementos de ayuda ocultos
+NAVHELP_RESET_HIDDEN_H	Restaura los elementos de ayuda que están fijos en 'Ocultos' durante la reproducción.
+NAVHELP_EXIT_T	Salir
+NAVHELP_EXIT_H	Detiene la reproducción y cierra @{NAVIGATOR}.
+IDS_NAVP_ABOUT	Visualizar versión...
+IDS_NAVP_CONSOLE	Consola JavaScript...
+IDS_NAVP_DELETE_CACHE	Eliminar caché local
+IDS_NAVP_HOOKER	Hooker
+IDS_SEARCH_INPUT	Contenido de ayuda de búsqueda
+IDS_CLEAR_SEARCH	Borrar búsqueda
+IDS_NAVP_CLOSE	Salir
+IDS_RESET_CURRENT	Volver a visualizar elementos de ayuda ocultos
+IDS_RESET_ALL	Mostrar de nuevo todos los elementos de ayuda ocultos
+IDS_RESET_ALL_TIP	Mostrar de nuevo todas las pistas desactivadas al entrara en una pantalla por primera vez.
+IDS_OPEN_RECORD_LBL	Pendiente
+IDS_EDIT_RECORD_LBL	Renombrar
+IDS_DELETE_RECORD_LBL	Eliminar
+IDS_SHARE_RECORD_LBL	Compartir
+IDS_EXTERNAL_SEARCH_BTN	Búsqueda externa
+IDS_EXTERNAL_SEARCH_SUB_MENU	Búsqueda externa
+IDS_SHOW_SCREEN_ICON	Mostrar asistente de escritorio
+IDS_SHOW_DA	Mostrar ventana principal
+IDS_SHOW_CONTENT	Mostrar contenido
+IDS_HIDE_CONTENT	Ocultar contenido
+IDS_SEARCH_BTN	Búsqueda
+IDS_REQUEST_CONTENT_BTN	Solicitar contenido
+IDS_RECORDING_BTN	Iniciar grabación
+IDS_SHOW_CA_SWITCH	Mostrar ayuda instantánea
+IDS_HIDE_CA_SWITCH	Ocultar ayuda instantánea
+IDS_CA_SWITCH_INACTIVE_BTN	No hay ayuda de contexto disponible
+IDS_DO_CTX_RECOGNITION	Mostrar ayuda instantánea
+IDS_NAV_STANDBY	@{NAVIGATOR} está deshabilitada.
+IDS_NAV_NO_STANDBY	@{NAVIGATOR} está habilitada.
+IDS_SHOW_DA_PANELS	@{NAVIGATOR} está nuevamente disponible.Puede usar @{NAVIGATOR} si necesita mayor asistencia.
+IDS_HIDE_DA_PANELS	@{NAVIGATOR} desaparece automáticamente porque hay ayuda adecuada disponible en la aplicación que está abierta actualmente. Abra la ayuda si necesita mayor asistencia.
+IDS_ADD_STICKY_NOTES_BTN	Agregar notita
+IDS_ADD_STICKY_NOTES_INACTIVE_BTN	Solo puede agregar una notita para esta aplicación.
+IDS_EXIT_DA	Salir
+IDS_EXIT_DA_BTN	Salir
+IDS_EXIT_DA_SUB_MENU	Salir
+IDS_SHOW_MORE	Mostrar más
+IDS_HIDE_MORE	Ocultar más
+IDS_REQUEST_CONTENT_SUB_MENU	Solicitar contenido
+IDS_SHOW_CA_SUB_MENU	Mostrar ayuda instantánea
+IDS_HIDE_CA_SUB_MENU	Ocultar ayuda instantánea
+IDS_ADD_STICKY_NOTE_SUB_MENU	Agregar notita
+IDS_RECORDING_SUB_MENU	Iniciar grabación
+IDS_CA_SWITCH_SUB_MENU	Ayuda de contexto
+IDS_SHARE_DLG_CAPTION	Compartir documento
+IDS_DELETE_FRAMES	Eliminando marcos
+OPEN_FOLDER	Abrir carpeta
+SHARE_DOC	Compartir por correo electrónico
+IDS_SHARE_DLG_TEXT	¿Qué desea hacer?
+IDS_SEARCH_BTN_SUB_MENU	Buscar contenido
+IDS_LIBRARY_SEARCH_BTN_SUB_MENU	Buscar contenido en biblioteca
+GRACEFUL_DEGRADATION	Está función no está disponible temporalmente debido a problemas de red. \n\nVuelva a intentar más tarde.
+SHARE_BTN	Compartir por correo electrónico
+COPY_BTN	Copiar enlace
+SHARE_MAIL_SUBJECT	Contenido recomendado
+SHARE_MAIL_HEADER	Estimado usuario: \n\nEste contenido puede resultarle interesante. \n\n
+SHARE_MAIL_FOOTER	Saludos cordiales.
+SHARE_MAIL_LINK	Enlace:\t
+SHARE_MAIL_CAPTION	Epígrafe:\t
+SHARE_TITLE	Compartir contenido
+SELECT_ASSET	Seleccionar un activo para empezar.
+ENTER_NAME	Introducir un nombre.
+DELETE_RECORD_WRN	Importantes: esta acción no se puede deshacer.
+MSG_PA_NEXT_LBL	Siguiente
+MSG_PA_STEP_LBL	Lista de pasos
+TOGGLE_STEPLIST_TOOLTIP	Mostrar/Ocultar lista de pasos
+PREVIEW_STEP_TOOLTIP	Paso de vista previa
+NEXT_STEP_TOOLTIP	Ir al siguiente paso
+PREV_STEP_TOOLTIP	Ir al paso previo
+ROLES_TITLE	Roles de asistente de escritorio
+ROLES_LBL	Filtrar contenido de búsqueda por rol
+OK_CAPTION	OK
+CANCEL_CAPTION	Cancelar
+BTN_YES	Sí
+BTN_NO	Sin
+DELETE_CONFIRM	¿Está seguro que quiere eliminar esta notita?
+EXIT_CONFIRM	¿Realmente desea salir de @{NAVIGATOR}?
+sticky_notes	Notitas
+exit_da	Salir de @{NAVIGATOR}
+STICKY_NOTE_DEFAULT_TEXT	Agregar su texto aquí.
+SEARCH_BTN_TOOLTIP	Búsqueda
+NEXT_BTN_TOOLTIP	Siguiente
+PREV_BTN_TOOLTIP	Anterior
+HIDE_BTN_TOOLTIP	Ocultar carrusel
+IDS_PRJ_NAME	Ingresar nombre:
+IDS_APPLICATIONS	Seleccionar ventana:
+IDS_PRJ_LANGUAGE	Seleccionar idioma:
+IDS_FULL_SCREEN	Pantalla completa
+IDS_CHOOSE_APP_CAPTION	Seleccionar aplicación
+IDS_RECORD_BTN	Grabar
+IDS_ANALYZE_ACTIONS	Analizando acciones...
+IDS_PARSE_PROJECT	Realizando análisis sintáctico del proyecto...
+IDS_REGION	Región
+IDS_AREA_HELP	Cambiar el tamaño de región al seleccionar un plantilla a continuación. Escalar el rectángulo rojo para seleccionar una región o la pantalla completa.
+IDS_CHOOSE_SIZE	Seleccionar tamaño:
+IDS_DEFINE_REC_AREA	Área de grabación
+IDS_DEFINE_NAME_LANG	Generar contenido
+PLEASE_SELECT	Seleccionar
+quick_recorder.help_caption	Sugerencia
+quick_recorder.help	Use la tecla "PAUSA" para frenar o continuar. \nUse la tecla "FINALIZAR" para finalizar. \n\nSeleccione "OK" para comenzar a grabar.
+quick_recorder.audio_help	Use la tecla "PAUSA" para frenar o continuar. \nUse la tecla "FINALIZAR" para finalizar. \n\nAudio:\nSu audio no se graba durante un clic. Diga su texto antes de seleccionar un control. \n\nSeleccione "OK” para comenzar a grabar.
+FILE_EXISTS	Ya existe un archivo con el mismo nombre. Ingrese un nombre diferente.
+HELP_EXIT_CONTROL_H	Detiene la reproducción y cierra @{NAVIGATOR}.
+HELP_EXIT_CONTROL_T	Salir
+BTN_CLOSE_DLG	Cerrar
+DELETE_RECORD_WRN	Importantes: esta acción no se puede deshacer.
+ENTER_NAME	Introducir un nombre.
+IDS_CLEAR_SEARCH	Borrar búsqueda
+IDS_RESET_ALL_TIP	Mostrar de nuevo todas las pistas desactivadas al entrara en una pantalla por primera vez.
+IDS_SEARCH_INPUT	Contenido de ayuda de búsqueda
+LBL_DELETE	Eliminar
+LBL_NAVI_NO_MATCH	No hay resultados para la búsqueda.
+LBL_TU	Pendiente
+MSG_PA_NEXT_LBL	Siguiente
+MSG_PA_STEP_LBL	Lista de pasos
+RENAME_FAILED	Falló la operación de renombrado.
+ROLES_LBL	Filtrar contenido de búsqueda por rol
+SELECT_ASSET	Seleccionar un activo para empezar.
+LBL_CDOC	Pendiente
+LBL_RECORD_DOCUMENT	Registrar documento
+QR_CAPTION	Seleccionar salida de grabación
+QR_WELCOME	¿Qué quiere crear?
+QR_DOC_CAP	Documento
+QR_DOC_TXT	Crea un documento de Microsoft Word que muestra una captura y un texto instructivo de cada acción que graba.
+QR_VIDEO_CAP	Video
+QR_VIDEO_TXT	Crea un video de alta calidad de su grabación.
+QR_DOC_VIDEO_CAP	Documento y video
+QR_DOC_VIDEO_TXT	Crea un documento y un video.
+SHARE_ERR_CAP	No se puede compartir la grabación
+SHARE_ERR_TXT	Esta grabación es demasiado grande para compartir por correo electrónico.\n¿Quiere abrir una ubicación de archivos en su lugar?
+HELP_CONTENT_WINDOW_H	La ventana de contenido muestra la información disponible, los modos y la documentación para el contenido seleccionado de la ventana principal.</br>La ventana de contenido se puede acoplar a la ventana principal lo que le permite mover ambas ventanas juntas en la misma pantalla.
+HELP_CONTENT_WINDOW_T	Ventana de contenido
+IDS_CONTENT_BTN	Contenido
+MSG_PA_STEP_NOT_FOUND_NUMERAL_1	1.
+MSG_PA_STEP_NOT_FOUND_NUMERAL_2	2.
+SHARE_URL	URL de la página actual:

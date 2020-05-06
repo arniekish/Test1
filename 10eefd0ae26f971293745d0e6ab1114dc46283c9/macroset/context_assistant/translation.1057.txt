@@ -1,0 +1,765 @@
+﻿NAVIGATOR	Desktop Assistant
+XRAY	Web Assistant
+LIBRARY	library
+MANAGER	Manager
+form_bubble	Bentuk Gelembung
+bform_height	Tinggi
+bform_height.h	Ini menentukan tinggi gelembung yang harus ditampilkan dalam piksel.
+bform_width	Lebar
+bform_width.h	Ini menentukan tinggi gelembung yang harus ditampilkan dalam piksel.
+bform_position	Posisi
+bform_position.h	Menentukan posisi gelembung (kiri, atas) untuk mode perataan 'Bebas' pada layar. Nilai yang diberikan dalam piksel.
+paramAutoMergeComplete	Penggabungan Layar telah selesai.
+form	Bentuk
+application_contexts	Aplikasi
+﻿Application	Aplikasi
+highlight_offset	Offset
+AutoBarChooseApp	Pilih Aplikasi
+AutoBarReRecManual	Klik pada objek.
+BubbleOnActivate	Tampilkan Gelembung langsung
+ClickOnAAPosition	Klik ke dalam Aplikasi untuk mendefinisikan Segiempat.
+ClickOnPosition	Klik pada posisi dalam aplikasi.
+EnabledOnPgLoad	Aktifkan
+HighlightOnActivate	Tampilkan Sorotan langsung
+start_from_arbitrary	Mulai dari Tahap Mana Saja
+focus_step	Lapisan Fokus
+focus_step.h	Hanya untuk tur terpandu\nMenampilkan lapisan abu-abu untuk menyoroti kontrol yang diperlukan dari tahap saat ini.
+yes	Ya
+no	Tidak
+light_mode	Mode Interaktif
+light_mode.h	Menetapkan agar pengguna harus menavigasikan dalam gelembung objek ke tahap selanjutnya. Tidak ada pengenalan yang diselesaikan selama pemutaran ulang.
+restricted_mode	Mode Terbatasi
+restricted_mode.h	Menetapkan agar hanya tindakan terkini yang dapat dijalankan. Kontrol lainnya dari halaman aplikasi akan diblokir. \nPengaturan dapat digunakan apabila 'Lapisan Fokus' telah diaktifkan.
+show_highlight	Sorotan
+action	Tindakan
+active_area	Area Aktif
+add_application_expl	Sisipkan Penjelasan
+adv	Lanjutan
+display_behavior	Perilaku Tampilan
+all_values	Semua Nilai
+anim_steps	Tahap Animasi
+application_context	Aplikasi
+area	Area
+auto_merge	Gabungkan Macro Layar
+b_height	Tinggi
+form_on	Mode Form
+b_percent	Gelembung Terlihat (%)
+b_hide_option	Sembunyikan Opsi
+b_minimizable	Dapat diminimalkan
+b_closable	Dapat ditutup
+b_minimized	Diminimalkan
+b_width	Lebar
+b_width.h	Menentukan lebar gelembung objek dalam piksel.
+bmain_minimizable	Dapat diminimalkan
+bmain_position	Posisi
+bmain_win_style	Gaya
+bmain_size	Ukuran
+bmain_alignment	Penyelarasan
+bubble	Gelembung Objek
+bubble_offset	Offset
+bubblestyle_d	Gaya
+bubblestyle_init	Gaya Gelembung
+choose_appl_template	Pilih Profil Aplikasi
+choose_bool	Nilai Terpilih
+choose_nr	Indeks Terpilih
+choose_text	Nilai Terpilih
+target_static_text	direkam sebagai 'Penentu Halaman'
+target_spec_warning	Peringatan: Informasi perekaman tidak tersedia untuk kontrol ini.
+prev_step	Tahap Sebelumnya
+next_step	Tahap selanjutnya
+click	Tindakan Mouse
+click_pos	Klik Posisi
+click_pos_rel	Posisi Gelembung
+config_file	Profil Aplikasi
+define_target	Layar
+display	Edit Gelembung Utama
+display_name	Nama Tampilan
+drag	Tarik
+drop	Taruh
+dump_page	Cuplikan Layar
+elem_bubble	Gelembung Objek
+element_type	Tipe Objek
+enabled	Diaktifkan
+optional	Opsional
+enter	Masukkan Mouse
+executable	Aplikasi
+explanation_d	Teks
+explanation_d_modified	Terjemahkan Secara Manual
+explanation_long	Penjelasan
+fh_mouseover	Bantuan pada Gulir Mouse
+fh_onelem	Ikon
+fh_tooltip	Tooltip
+fh_bubble	Gelembung
+step_list	Daftar Tahap
+fieldicon	Gambar Objek
+fieldname	Nama Objek
+find	Temukan
+AutoBarChooseScn	Klik pada masing-masing Layar
+frame	Bingkai
+g_highlight_bgr	Warna
+g_highlight_border	Batas
+g_highlight_effect	Efek
+global	Global
+hide_on_focuslost	Sembunyikan pada Kehilangan Fokus
+hilight	Sorotan
+input_radio	Radio/Kotak Centang
+input_text	Teks Masukan
+init	Awal
+key	Tombol
+key_desc	Tombol Cepat
+key_name	Kode Tombol
+key_press	Tekan Tombol
+lclick	Klik Kiri
+ldblclick	Klik Kiri Dua Kali
+force_display	Paksa Tampilan
+auto_execute	Jalankan secara Otomatis
+show_confirmation	Tampilkan Tombol Konfirmasi
+show_confirmation.h	Tentukan apakah tombol konfirmasi ditampilkan dalam glembung objek selama pemutaran. Tombol ini memungkinkan pengguna untuk mengonfirmasikan tindakan yang telah dilakukan dan kemudian tahap selanjutnya akan ditampilkan.
+link_to_sim	Sisipkan Tautan Simulasi
+macro_comment	Komentar
+main_bubble	Jendela
+match_value	Nilai yang Cocok
+mini_on_focuslost	Minimalkan pada Kehilangan Fokus
+enable_tincan	@{NAVIGATOR} Pelacakan
+nav_check_freq	Perbarui Frekuensi (min)
+navigation	Asisten Desktop
+new_screen_context	Layar Baru
+no_spike	Tidak Ada Spike
+pa_caption	Tur Terarah
+none	Tidak ada
+objname	Nama Objek
+orientation	Orientasi
+path	Jalur Objek
+position	Posisi
+rclick	Klik Kanan pada Mouse
+rdblclick	Klik Kanan Dua Kali
+record_activearea	Rekam Area Aktif
+record_application_context	Rekam Aplikasi
+no_control	Tidak ada objek tersedia pada posisi yang diklik.
+record_control	Rekam Objek
+record_control_pa	Rekam Langkah Tur Terarah
+record_define_target	Rekam Layar
+record_display	Edit Gelembung Utama
+record_end_display	Edit Gelembung
+record_explanation	Tambahkan Penjelasan
+record_object_context	Rekam Objek
+record_screen_context	Rekam Layar
+record_target_specializer	Rekam Penentu Halaman
+record_compatible_application	Rekam Aplikasi yang Kompatibel
+reference	Sumber
+regexp	Ungkapan Biasa
+replace	Ganti
+replace_continue	Ganti dan Lanjutkan...
+replace_pgkey_attr	Ganti Atribut Kunci Halaman
+error_regexp	Ungkapan Biasa Tidak Sah. Koreksi masukan Anda.
+resize	Ubah Ukuran Jendela
+revision	Revisi
+sc_config_header	Informasi Profil
+screen	Layar
+screenhelp	Bantuan Layar
+screenshot_rect	Posisi Cuplikan Layar
+select_single	Pilih Satu
+selected_merge	Gabungkan Macro Layar terpilih
+show_bubble	Tampilkan langsung
+show_hilight	Tampilkan Sorotan
+show_on_focus	Tampilkan pada Fokus
+source	Sumber
+start_unit	Gaya Bantuan Konteks
+subkey	Diperbolehkan sebagai Sub-Kode
+script	Skrip
+target_name	Judul
+target_specializer	Penentu Halaman
+text_d	Teks Masukan
+text_d_specializer	Teks Masukan
+tolerance	Gabungkan Toleransi Macro Layar
+translate	Terjemahan Otomatis
+autoTranslate	Terjemahkan Proyek
+paramReRecordLanguage	Bahasa
+merge_critical_macros	Gabungkan macro secara otomatis
+merge_critical_macros.h	Jika Anda sedang mengonversikan simulasi ke dalam navigasi, Anda dapat menggabungkan layar yang dibuat secara otomatis. Penggabungan ini menggunakan nilai toleransi yang ditentukan dalam parameter 'Gabungkan Toleransi Macro Layar'.
+uid	UID
+underline	Garis bawah
+update_control	Perbarui Objek
+update_target	Perbarui Layar
+variant	Varian
+win_rect	Ukuran Jendela
+wizCancel	Batalkan
+wizFinish	Selesai
+wizNext	Selanjutnya
+wizOk	OK
+wizExplanation	Penjelasan
+wizContinue	Lanjutkan
+app_info	Tampilkan Aplikasi
+app_link_to_sim	Sisipkan Tautan Simulasi untuk Aplikasi
+screen_info	Tampilkan Layar
+screen_link_to_sim	Sisipkan Tautan Simulasi untuk Layar
+object_info	Tampilkan Varian
+object_link_to_sim	Sisipkan Tautan Simulasi
+disabled	Dinonaktifkan
+record_context_assistant_include	Sertakan Proyek @{NAVIGATOR}
+project_id	Judul Proyek
+project_id.h	Parameter berisi proyek yang disisipkan. Tombol 'Edit tautan' memungkinkan Anda memilih proyek di area kerja.
+project	Proyek
+context_assistant_include	Proyek Asisten Desktop
+open_expanded	Tampilkan gelembung utama lanjutan
+restart_option	Tombol Mulai Ulang
+next_project_id	Proyek Selanjutnya
+next_project_id.h	Opsi ini menentukan proyek yang akan dimulai setelah menyelesaikan proses yang saat ini sedang berlangsung. Proses baru akan dimulai langsung dan tidak ada gelembung akhir yang ditampilkan.
+end_unit	Tur Berakhir
+add_end_unit	Tambahkan Akhir Proses
+demo	Mode Demo
+uebung	Mode Latihan
+praxis	Mode Serentak
+test	Mode Uji
+doc	Dokumen Word
+pdf	Dokumen PDF
+html	Dokumen HTML
+ppt	Dokumen PowerPoint
+explanation_type	Ikon
+note	Catatan
+info	info
+tipp	Kiat
+warnung	Peringatan
+no_image	Tidak Ada Ikon
+display_on	Tampilkan pada gelembung utama
+nav_start	Mulai navigasi
+app_focus	Fokus aplikasi
+screen_focus	Fokus layar
+never	Jangan tampilkan
+list_type	Daftar Tipe untuk Layar
+list_type.h	Parameter ini menentukan jenis untuk pendaftaran objek dalam layar, jika opsi 'Tampilkan semua informasi objek' diaktifkan.
+unordered_list	Poin
+ordered_list	Penomoran
+convert_sn	Buat Asisten Desktop
+Application	Aplikasi
+obj_context	Objek
+expl_context	Penjelasan
+record_cntrl_type	Tipe
+disable_standby	Nonaktifkan Status Siaga (@{NAVIGATOR})
+disable_standby.h	Menentukan agar status siaga pada @{NAVIGATOR} tidak dapat diatur. Jika opsi ini dinonaaktifkan, Anda dapat mengatur status siaga menggunakan pintasan 'CTRL + F11' atau dengan mengklik ikon status.
+disable_exit	Sembunyikan Entri Keluar (@{NAVIGATOR})
+disable_exit.h	Menetapkan agar entri 'Keluar' dalam menu konteks pada ikon status @{NAVIGATOR} disembunyikan.
+bcontent_style	Gaya Gelembung
+bcontent_style.h	Pengaturan ini menentukan gaya gelembung mana yang akan digunakan untuk menampilkan gelembung.
+cache_properties	Cache
+cache_folder	Lokasi Folder
+cache_folder.h	Menetapkan lokasi folder cache 'NavigatorCache'. Pengaturan defaultnya adalah ‘%localappdata%'. Anda dapat memasukkan lokasi kustom. \nCatatan: Nama folder cache tidak dapat diubah.
+use_caching	Gunakan Pembuatan Cache
+use_caching.h	Mengaktifkan penggunaan cache @{NAVIGATOR}.
+function_keys	Tombol fungsi
+minimize_da	Perkecil
+minimize_da.h	Tentukan tombol fungsi untuk memperkecil jendela utama.
+next_tab	Pilih Tab Selanjutnya
+next_tab.h	Menentukan tombol fungsi untuk memilih tab selanjutnya di dalam jendela utama.
+next_screen	Beralih ke Layar Selanjutnya
+next_screen.h	Menentukan kode fungsi untuk menavigasikan ke layar selanjutnya untuk proyek yang dipilih.
+back	Kembali
+back.h	Menentukan tombol fungsi untuk beralih ke layar sebelumnya.
+toggle_standby	Aktifkan/nonaktifkan Mode Standby
+toggle_standby.h	Menentukan tombol fungsi untuk mengaktifkan/menonaktifkan mode standby.
+abort	Batalkan
+abort.h	Tentukan kode fungsi untuk membatalkan asisten desktop.
+restart	Mulai ulang
+restart.h	Menentukan tombol fungsi untuk memulai ulang asisten desktop.
+start_pa	Mulai Proyek Asisten Desktop
+start_pa.h	Menentukan tombol fungsi untuk memulai proyek yang dipilih.
+start_demo	Mulai Mode Demo
+start_demo.h	Menentukan tombol fungsi untuk memulai mode demo terpilih.
+start_prac	Mulai Mode Latihan
+start_prac.h	Menentukan tombol fungsi untuk memulai mode praktik terpilih.
+start_test	Mulai Mode Uji
+start_test.h	Menentukan tombol fungsi untuk memulai mode uji terpilih.
+start_concur	Mulai Mode Serentak
+start_concur.h	Menentukan tombol fungsi untuk memulai mode serentak terpilih.
+start_book	Mulai Buku
+start_book.h	Menentukan tombol fungsi untuk memulai buku terpilih.
+start_group	Buka dalam library
+start_group.h	Menentukan tombol fungsi untuk membuka grup dalam pustaka.
+toggle_ctx_rec	Aktifkan/nonaktifkan Pengenalan Konteks
+toggle_ctx_rec.h	Menentukan tombol fungsi untuk mengaktifkan/menonaktifkan pengenalan konteks asisten desktop.
+select_next	Pilih Entri Selanjutnya
+select_next.h	Menentukan tombol fungsi untuk memilih entri selanjutnya di dalam jendela utama.
+select_prev	Pilih Entri Sebelumnya
+select_prev.h	Menentukan tombol fungsi untuk memilih entri sebelumnya di dalam jendela utama.
+toggle_warning	Tampilkan Dialog Peringatan
+toggle_warning.h	Menentukan tombol fungsi untuk menampilkan dialog peringatan asisten desktop.
+execute_step	Jalankan Tahap
+execute_step.h	Menentukan kode fungsi untuk menjalankan tahap selama pemutaran ulang tur terarah.
+copy_link	Salin Tautan
+copy_link.h	Menentukan tombol fungsi untuk menyalin tautan dari entitas yang dipilih.
+maximize_trainer	Perbesar Jendela Konten
+maximize_trainer.h	Tentukan tombol fungsi untuk memperbesar jendela konten.
+share_email	Bagi melalui Email
+share_email.h	Menentukan tombol fungsi untuk membagi konten dari entitas yang dipilih melalui email.
+start_default	Memulai Konten Default
+start_default.h	Menentukan tombol fungsi untuk memulai mode default atau dokumen yang dipilih.
+show_da_help	Tampilkan Bantuan Asisten Desktop
+show_da_help.h	Menentukan tombol fungsi untuk membuka bantuan asisten desktop.
+request_content	Meminta Konten
+request_content.h	Menentukan tombol fungsi untuk meminta konten halaman aplikasi.
+search_content	Cari Konten
+search_content.h	Menentukan tombol fungsi untuk mencari konten tergantung pada tipe pencarian yang dipilih.
+show_hidden_elems	Tampilkan Elemen Bantuan Tersembunyi
+show_hidden_elems.h	Menentukan tombol fungsi untuk menampilkan elemen bantuan yang tersembunyi.
+toggle_side_bar	Tampilkan / Sembunyikan Sidebar
+toggle_side_bar.h	Menentukan tombol fungsi untuk menampilkan dan menyembunyikan sidebar.
+content_library	Asisten Desktop - Konten dan Perilaku
+content_library_window	Asisten Desktop - Gaya dan Windows
+content_library_sidebar	Asisten Desktop - Bar Sisi
+style	Gaya
+style.h	Menentukan penampilan komponen asisten desktop (jendela utama, jendela konten, ikon status). Pilih sumber daya gaya dari daftar.
+show_only_bar	Tampilkan Hanya Sidebar pada Mulai
+show_only_bar.h	Menentukan apakah hanya sidebar akan ditampilkan di awal asisten desktop atau juga jendela utama.
+clear_on_mismatch	Kosongkan Daftar Konten pada Konteks Tidak Cocok
+clear_on_mismatch.h	Menentukan, bahwa daftar konten dikosongkan jika konteks tidak ditemukan. Dengan pengaturan yang dinonaktifkan, konten dari objek yang terakhir dikenal ditampilakan.
+da_positioning	Perataan Jendela Utama
+da_positioning.h	Menentukan perataan jendela utama pada layar. Opsi 'Bebas' memungkinkan fungsi ini untuk menentukan posisi dalam parameter 'Posisi Jendela Utama'.
+bar_positioning	Perataan Sidebar
+bar_positioning.h	Menentukan perataan sidebar pada layar.
+left_top	Sudut Kiri Atas
+left_center	Kiri Tengah
+left_bottom	Sudut Kiri Bawah
+right_top	Sudut Kanan Atas
+right_center	Kanan Tengah
+top_center	Tengah Atas
+right_bottom	Sudut Kanan Bawah
+center	Tengah
+free	Bebas
+list_order	Pengurutan Konten
+list_order.h	Menentukan pengurutan konten yang tersedia di dalam daftar.
+by_default	Stuktur Explorer
+by_name	Alfabetis
+by_type	Alfabetis per Tipe
+library_position	Posisi Jendela Utama (Bebas)
+library_position.h	Menentukan posisi jendela utama (kiri, atas) untuk mode perataan 'Bebas' pada layar. Nilai diberikan dalam piksel.
+search_url	Grup Pencarian
+search_url.h	Memungkinkan Anda untuk menetapkan grup area kerja untuk mencari konten pada @{LIBRARY}.
+enable_recording	Posisi: Kontrol ‘Merekam’
+enable_recording.h	Memungkinkan Anda memperlihatkan kontrol untuk proses rekaman. Anda dapat menentukan posisi kontrol pada bar sisi.\nPerekaman memungkinkan pengguna untuk merekam proses sebagai dokumen Microsoft Words atau sebagai video. File yang direkam ditampilkan di jendela utama pada tab Area Pengguna.
+enable_exit_da	Posisi: Kontrol ‘Keluar’
+enable_exit_da.h	Memungkinkan Anda menampilkan kontrol untuk keluar @{NAVIGATOR}. Anda dapat menentukan posisi kontrol pada bar sisi.
+enable_info	Tampilkan Tab 'Info'
+enable_info.h	Mengaktifkan tab 'Info' untuk jendela utama asisten desktop. Sisipkan teks info dalam deskripsi singkat mengenai grup asisten desktop.
+request_content_type	Tipe Meminta Konten
+request_content_type.h	Menetapkan fungsionalitas untuk meminta konten. Pilih tipe dari daftar menurun. \nE-mail: Memungkinkan Anda untuk memasukkan alamat email untuk permintaan. \nURL: Memungkinkan Anda untuk memasukkan URL untuk membuka halaman web. \nKontrol 'Meminta Konten' ditampilkan pada bar sisi. Jika tidak ada konten yang ditemukan, tautan 'Meminta Konten' ditampilkan pada jendela utama.
+email	E-Mail
+url	URL
+enable_request_content	Posisi: Kontrol ‘Meminta Konten’
+enable_request_content.h	Menentukan posisi kontrol ‘Meminta Konten’ pada bar sisi.
+enable_external_search_ctx	Sediakan Informasi Konteks
+enable_external_search_ctx.h	Menyediakan informasi konteks tambahan mengenai pengguna dengan URL pencarian selama mencari. Informasi konteks akan digunakan untuk pencarian. Aktifkan pengaturan, jika pencarian yang ditetapkan Anda dapat menggunakan informasi konteks. \nInformasi konteks yang disediakan ditetapkan dalam parameter ‘Informasi Konteks’.
+external_search_ctx	Informasi Konteks
+external_search_ctx.h	Menetapkan informasi konteks, apabila pengaturan ‘Sediakan Informasi Konteks’ telah diaktifkan. Informasi konteks berikut dapat disediakan: EXE dari aplikasi saat ini (&executable=$#{EXE}), kunci halaman dari halaman aplikasi saat ini (&pagekey=$#{PAGEKEY})\nCatatan: Jangan mengubah struktur dari string informasi konteks.
+enable_external_search	Posisi: Kontrol ‘Pencarian Eksternal’
+enable_external_search.h	Memungkinkan Anda mengaktifkan halaman pencarian eksternal untuk mencari konten atau informasi lebih lanjut. Dengan pengaturan yang diaktifkan, kontrol ‘Pencarian Eksternal’ akan ditampilkan pada bar sisi. Anda dapat menetapkan posisi kontrol pada bar sisi. \nTombol akan membuka bidang pencarian untuk input istilah pencarian. Bidang hasil pencarian ditampilkan pada halaman pencarian eksternal. Untuk pencarian eksternal, Anda harus menetapkan URL pencarian dalam parameter ‘URL Pencarian Eksternal’.
+external_search_url	URL
+external_search_url.h	Memungkinkan Anda menetapkan URL untuk pencarian eksternal. Masukkan URL dalam struktur pencarian:\nhttps://www.google.com/#q=$#{SEARCHTERM}\nhttps://www.bing.com/search?q=$#{SEARCHTERM}\nhttps://search.yahoo.com/search?p=$#{SEARCHTERM}\nhttps://www.wolframalpha.com/input/?i=$#{SEARCHTERM}\n\nCatatan: Jangan menghapus atau mengubah '=$#{SEARCHTERM}' pada parameter URL.
+enable_share_content	Tampilkan Kontrol 'Konten Berbagi'
+enable_share_content.h	Tampilkan tombol 'Konten Berbagi' pada catatan kaki jendela utama. Membuka kotak dialog dengan tautan ke konten yang dipilih.
+author_email	E-Mail
+author_email.h	Memungkinkan Anda menentukan alamat e-mail untuk meminta konten. Alamat e-mail digunakan untuk fungsi 'Meminta Konten'.
+author_url	URL
+author_url.h	Memungkinkan Anda menentukan URL untuk meminta konten. URL digunakan untuk fungsi 'Meminta Konten’.
+author_url_params	Parameter URL
+author_url_params.h	Mengizinkan Anda untuk menentukan parameter URL penulis. \nAnda dapat menentukan nama aplikasi dan yang dapat dijalankan. Ganti nilai 'aplikasi' atau 'yang dapat dilaksanakan' dengan nama yang diperlukan.
+enable_fuzzy_match	Aktifkan Kecocokan Fuzzy
+enable_fuzzy_match.h	Menentukan apakah kecocokan fuzzy digunakan untuk mencocokan konteks konten dengan halaman aplikasi.
+enable_ident_filter	Aktifkan Identifikasi Aplikasi Tingkat Lanjut
+enable_ident_filter.h	Tetapkan hanya informasi aplikasi yang relevan digunakan untuk @{NAVIGATOR} playback. Langkah ini memungkinkan Anda untuk mengoptimalkan kinerja @{NAVIGATOR}.\nCatatan: Opsi tersebut dapat mengarahkan ke pengenalan objek yang salah. Disarankan untuk menguji playback sebelum memublikasikan konten.
+library_size	Ukuran Jendela Utama
+library_size.h	Menentukan ukuran (lebar, tinggi) jendela utama dalam piksel.
+book_win_position	Posisi Jendela Konten (Bebas)
+book_win_position.h	Menentukan posisi jendela konten (kiri, atas) untuk perataan 'Bebas' pada layar. Nilai diberikan dalam piksel.
+book_win_size	Ukuran Jendela Konten
+book_win_size.h	Menentukan ukuran (lebar, tinggi) jendela konten dalam piksel.
+book_win_positioning	Perataan Jendela Konten
+book_win_positioning.h	Menentukan perataan jendela konten pada layar. Opsi 'Bebas' memungkinkan Anda untuk menentukan posisi dalam parameter 'Posisi Jendela Konten'.
+errNoApplicationContext	Macro saat ini bukan konteks aplikasi.
+errNoTargetDefinition	Macro tidak sesuai dengan definisi target.
+errExtractPagekey	Tidak dapat mengekstrak kunci halaman dengan profil:
+errScreenshot	Tidak dapat membuat cuplikan layar. Coba lagi.
+errLoadTemplate	Tidak dapat memuat profil:
+errRecordProcessStep	Tahap tur terarah tidak dapat direkam untuk proyek 'bantuan konteks'.
+errLanguageSelection	Tidak ada bahasa yang dipilih.
+errNoWriteToken	Anda tidak memiliki izin tertulis untuk objek yang dipilih.
+errMacroSelection	Tidak ada macro yang dipilih.
+errObjectInformation	Tidak ada informasi objek pada posisi yang diberikan.
+errSpecializedInformation	Tidak ada Informasi khusus pada posisi yang diberikan.
+errPosition	Posisi tidak berada di area jendela.
+errActionMacroSelection	Tidak ada tindakan macro yang dipilih.
+errUpdateObject	Tipe objek yang dipilih tidak dapat diperbarui.
+errInsertExplanation	Penjelasan bebas tidak dapat disisipkan untuk macro yang dipilih.
+action.h	Hanya untuk tur terarah\nOpsi ini menentukan tindakan yang harus dilakukan oleh pengguna terhadap objek.
+all_values.h	Dalam beberapa kasus, objek aplikasi memiliki pilihan untuk nilai yang tidak dapat dicakup oleh kontrol HTML standar. Maka digunakan kontrol yang terdekat dengan objek dalam aplikasi. Di samping itu, bidang ini menyimpan semua nilai yang memberlakukan objek sebagai pilihan.
+anim_steps.h	Nilai menentukan dalam berapa tahap efek sorotan yang terpilih dianimasikan. Nilai rendah mempercepat animasi tapi mengakibatkan kesan bergelombang. Nilai tinggi membuat animasi lebih mulus tapi juga memperlambat kecepatan animasi keseluruhan.
+auto_execute.h	Pengaturan menentukan bahwa tindakan akan dijalankan secara otomatis selama pemutaran navigasi.
+b_height.h	Menentukan tinggi gelembung objek dalam piksel. Jika jumlah teks melebihi ruang yang tersedia di dalam gelembung, teks tersebut akan mengukur tinggi secara otomatis pada ruang yang diperlukan.
+b_hide_option.h	Hanya untuk baatuan konteks\nDengan mengaktifkan opsi ini, pengaturan akan muncul dalam objek atau gelembung penjelasan di mana informasi objek (gelembung dan sorotan) dapat dinonaktifkan oleh pengguna akhir. Ini memungkinkan pengguna untuk menyembunyikan informasi apa pun yang tidak lagi dibutuhkan.
+b_minimizable.h	Opsi ini menentukan apakah gelembung dapat dikecilkan selama pemutaran ulang. Dengan opsi aktif, tombol 'Tutup' ditampilkan di bagian atas gelembung.
+b_closable.h	Hanya untuk bantuan konteks\nOpsi ini menentukan apakah gelembung dapat ditutup selama pemutaran ulang. Dengan opsi aktif, tombol 'Tutup' ditampilkan di bagian atas gelembung.
+b_minimized.h	Hanya untuk bantuan konteks\nOpsi ini menentukan apakah gelembung objek yang ditampilkan diminimalkan ketika halaman dimuat.
+bmain_size.h	Menentukan ukuran (lebar, tinggi) jendela utama dalam piksel.
+bmain_minimizable.h	Opsi ini menentukan apakah jendela utama diminimalkan atau tidak.
+bmain_position.h	Nilai yang dimasukkan di sini menentukan posisi jendela utama pada layar. Angka mendeskripsikan jarak dari sudut kiri atas layar dalam piksel.
+bmain_win_style.h	Menentukan penampilan jendela utama. Pilih sumber daya gaya dari daftar.
+bmain_alignment.h	Menentukan perataan jendela utama pada layar. Opsi 'Bebas' memungkinkan fungsi ini untuk menentukan posisi dalam parameter 'Posisi Jendela'.
+bubble_offset.h	Opsi ini menentukan offset dalam piksel di mana gelembung objek ditampilkan pada objek.
+bubblestyle_d.h	Menetapkan sumber daya gaya gelembung untuk menampilkan gelembung objek dari proyek.
+bubblestyle_d.h	Menetapkan sumber daya gaya gelembung untuk menampilkan gelembung objek dari proyek.
+choose_bool.h	Bidang ini berisi nilai yang menentukan apakah tombol radio atau kotak centang dihidupkan atau dimatikan. Nilai untuk tombol radio selalu '1' (hidup). Nilai untuk kotak centang dapat berupa '0' (mati) atau "1" (hidup).
+choose_text.h	Parameter ini berisi rangkaian karakter yang ditemukan untuk entri terpilih di dalam menu pop up atau bidang daftar selama proses perekaman otomatis. Rangkaian ini disisipkan pada teks gelembung penjelasan di dalam berbagai mode dan bukan placeholder '${choose_text}' (lihat mode teks dalam Editor HTML). Ini digunakan sebagai modul teks untuk teks gelembung yang dihasilkan secara otomatis ketika membuat konten gelembung otomatis dengan model teks selama perekaman.
+click_pos.h	Mendeskripsikan posisi pada jendela aplikasi yang diklik oleh penulis ketika objek direkam. Posisi ditentukan dalam piksel dan mengacu pada sudut kiri atas konten jendela aplikasi.
+click_pos_rel.h	Mendeskripsikan posisi pada jendela aplikasi. Nilai dalam persen (%) memberikan posisi yang relatif terhadap keseluruhan lebar dan tinggi jendela aplikasi dengan tepi atas dan kiri sebagai titik acuan.
+config_file.h	Berisi nama Profil Aplikasi yang digunakan untuk membuat kode dan juga menginterpretasikan kode nantinya.
+display_name.h	Menetapkan nama aplikasi. Nama akan ditampilkan dalam jendela pengecualian pada tur terpandu.
+dump_page.h	Berisi layar yang direkam. \nAnda dapat menggubah gambar dengan menggunakan fungsi ‘Ganti Gambar’.
+element_type.h	Mendeskripsikan kelas objek yang diakui oleh mekanisme pengenalan.
+enabled.h	Hanya untuk bantuan konteks\nOpsi ini menentukan apakah macro dimasukkan ke dalam analisis halaman atau tidak. Jika opsi ini dinonaktifkan, objek bantuan tidak akan ditampilkan meskipun objek terkait ada di halaman tersebut.
+optional.h	Hanya untuk tur terpandu\nOpsi menentukan apakah tahap tur terpandu bersifat opsional untuk pengguna di dalam proses. \nSelama pemutaran ulang, ikon yang berbeda akan ditampilkan dalam daftar tahap. Jika kontrol tidak dapat terlihat pada halaman atau jika halaman salah, tahap akan dilewati.
+executable.h	Berisi nama aplikasi yang dapat dieksekusi seperti yang digunakan oleh sistem operasi.
+explanation_d.h	Berisi informasi sesuai dengan konteksnya masing-masing (teks, tautan, gambar, dll). Pastikan tampilan informasi yang optimal di dalam gelembung utama.
+explanation_d_modified.h	Jika opsi ini diaktifkan, informasi konteks tidak lagi dihasilkan secara otomatis pada saat penerjemahan otomatis tapi harus diedit secara manual. Hal ini membantu untuk mempertahankan perubahan manual pada konten gelembung.
+fieldname.h	Berisi nama kontrol yang direkam yang disisipkan dalam teks gelembung. \nAnda dapat mengubah nama objek pada bidang teks. Nama objek memiliki tempat penampung '${fieldname}'.
+fieldicon.h	Berisi gambar tombol atau ikon yang direkam yang disisipkan dalam teks gelembung. \nAnda dapat mengubah gambar objek dengan menggunakan fungsi 'Ganti Gambar'. Gambar objek memiliki tempat penampung '${fieldicon}'.
+g_highlight_bgr.h	Ini menentukan warna standar batas sorotan di dalam navigasi. Warna dapat dimasukkan langsung sebagai nilai RBG dalam format HEX atau dipilih dari luar kotak dialog Pemilih Warna.
+g_highlight_border.h	Parameter ini menentukan ketebalan umum bingkai sorotan objek dalam piksel. Lebar piksel tersedia dari '1' hingga '10'.
+g_highlight_effect.h	Opsi ini menentukan jenis efek penyorotan yang digunakan untuk objek di dalam navigasi.
+hide_on_focuslost.h	Opsi ini menentukan apakah gelembung akan disembunyikan ketika fokus pada layar meninggalkan objek terkait.
+highlight_offset.h	Parameter ini menentukan offset piksel yang ditambahkan untuk persegi sorotan yang mengelilingi elemen yang ditandai.
+key.h	Berisi semua kriteria untuk mengidentifikasi jendela aplikasi dan halaman tertentu pada aplikasi. Tombol hanya sesuai jika halaman dalam aplikasi target memenuhi semua kriteria yang ditentukan di dalam tombol. Untuk memperhalus definisi kriteria tombol tunggal, penggunaan ungkapan biasa diperbolehkan.
+key_name.h	Parameter ini menentukan tombol atau pintasan yang digunakan. Ini melibatkan pemisahan nama tombol dengan spasi, misalnya: 'ctrl + k'.
+key_desc.h	Parameter ini menentukan tombol atau pintasan yang digunakan. Ini melibatkan pemisahan nama tombol dengan spasi, misalnya: 'ctrl + k'.
+force_display.h	Hanya untuk bantuan konteks\nMenentukan apakah konten macro selalu ditampilkan sebagai bantuan instan, walaupun bantuan instan dinonaktifkan selama pemutaran ulang.
+link_to_sim.h	Opsi ini akan mencakup tautan simulasi ke dalam gelembung utama. Opsi ini terkait dengan navigasi yang telah dibuat berdasarkan proyek simulasi (menurut konversi).
+macro_comment.h	Komentar umum. Komentar umum ini ditampilkan dalam tampilan miniatur.
+match_value.h	Opsi ini menentukan apakah nilai yang terindikasi harus dibandingkan dengan nilai nyata objek di dalam aplikasi langsung.
+mini_on_focuslost.h	Opsi ini menentukan apakah gelembung akan diminimalkan ketika fokus pada layar meninggalkan objek terkait.
+nav_check_freq.h	Menentukan seberapa sering @{NAVIGATOR} memeriksa konten yang diperbarui. Jika konten yang diperbarui tersedia, @{NAVIGATOR} akan memulai konten secara otomatis. Ini khsusnya berguna untuk proses manajemen perubahan.
+enable_tincan.h	Mengaktifkan pelacakan untuk konten @{NAVIGATOR}. Konten harus dimulai dari area kerja @{MANAGER}.
+no_spike.h	Opsi ini menentukan apakah gelembung objek yang ditampilkan dengan atau tanpa spike.
+objname.h	Setiap objek di dalam navigasi memerlukan nama unik untuk tujuan identifikasi ketika menggunakan perilaku dan penugasan perilaku.
+orientation.h	Parameter ini menentukan orientasi gelembung objek yang terkait dengan objek yang direferensikan. Panah gelembung mengarah ke posisi yang direferensikan pada halaman, ketika gelembung itu sendiri ditampilkan offset pada arah terpilih, sebagaimana diinstruksikan. Jika orientasi 'Tengah' dipilih, gelembung ditampilkan tanpa panah yang dipusatkan pada posisi yang ditentukan.
+path.h	Jalur objek mendeskripsikan properti objek atas dasar profil aplikasi yang digunakan. Jalur objek digunakan untuk mengidentifikasi objek dalam aplikasi langsung. Sesuai aturan, Anda tidak perlu mengedit bidang ini secara manual.
+position.h	Nilai yang dimasukkan di sini menentukan posisi gelembung utama pada layar. Angka mendeskripsikan jarak dari sudut kiri atas layar dalam piksel.
+reference.h	Jika navigasi dikonversi dari simulasi, sumber tahap yang terkait harus disebutkan di sini.
+resize.h	Opsi ini menentukan apakah ukuran jendela aplikasi target harus diubah otomatis ke ukuran yang telah digunakan ketika navigasi dibuat. Hal ini mungkin berguna untuk area aktif karena mereka akan ditampilkan berdasarkan posisi.
+revision.h	Tampilkan versi Profil Aplikasi yang digunakan untuk membuat kode ketika merekam layar aplikasi.
+sc_config_header.h	Informasi dari profil aplikasi disimpan di dalam bidang ini. Navigasi yang menggunakan informasi ini harus mampu mengenali dengan tepat aplikasi dan objeknya selama pemutaran ulang.
+screenshot_rect.h	Menampilkan area layar asli mana yang digunakan untuk cuplikan gambar objek. Sesuai aturan, Anda tidak perlu mengedit nilai ini secara manual.
+show_bubble.h	Opsi ini menentukan apakah gelembung ditampilkan tepat setelah halaman dimuat selengkapnya.
+start_from_arbitrary.h	Opsi ini menentukan agar asisten proses dapat mulai dijalankan dari tahap mana saja dan bukan dari awal proses.
+show_hilight.h	Menetapkan apakah sorotan ditampilkan untuk objek.
+show_highlight.h	Menetapkan apakah sorotan ditampilkan untuk objek.
+show_on_focus.h	Opsi ini menentukan apakah gelembung ditampilkan ketika fokus pada layar mengubah objek terkait.
+source.h	Jika navigasi dikonversi dari simulasi, parameter menentukan pelajaran asli.
+subkey.h	Dalam beberapa kasus, akan sangat membantu apabila bagian tertentu dari bagian kode asli diabaikan, misalnya karena variasi halaman tertentu tidak relevan dan harus ditangani oleh semua Kode dan Tahap yang sama dalam navigasi. Opsi ini memaksa mekanisme pengenalan untuk menganggap kode menjadi cocok, meskipun jika halaman tersebut memiliki lebih banyak kriteria kode yang dilaporkan oleh mekanisme pengenalan dibandingkan kriteria yang telah ditentukan dalam kode itu sendiri. Untuk itu kode halaman dapat dipersingkat untuk mencakup lebih dari satu halaman dengan satu kode.
+target_name.h	Berisi nama jendela aplikasi.
+text_d.h	Parameter ini berisi rangkaian karakter yang harus dimasukkan di dalam bidang entri yang direferensikan. Rangkaian karakter ini berisi nilai yang dimasukkan selama proses perekaman otomatis. Rangkaian ini disisipkan pada teks gelembung penjelasan di dalam berbagai mode dan bukan placeholder '${text_d}' (lihat mode teks dalam Editor HTML) ketika menghasilkan konten gelembung otomatis dengan modul teks selama perekaman.
+text_d_specializer.h	Parameter ini berisi rangkaian karakter yang harus dimasukkan di dalam bidang entri yang direferensikan. Rangkaian karakter ini berisi nilai yang dimasukkan selama proses perekaman otomatis. Rangkaian ini disisipkan pada teks gelembung penjelasan di dalam berbagai mode dan bukan placeholder '${text_d}' (lihat mode teks dalam Editor HTML) ketika menghasilkan konten gelembung otomatis dengan modul teks selama perekaman.
+tolerance.h	Nilai menentukan toleransi untuk derajat kecocokan ketika menggabungkan macro 'Layar'. Pengaturan ini terkait dengan fungsi 'Gabungkan Macro Layar' yang dapat dijalankan dari menu 'Alat -> Perubahan Massal'. Meningkatkan nilai berarti meningkatkan ambang batas toleransi. Harap diingat untuk kasus ini, bahwa cuplikan layar juga dapat digabungkan, pada objek berbeda yang ditampilkan. Nilai ditentukan dalam persen.
+uid.h	Berisi pengidentifikasi unik dari makro yang di bawahnya dikelola dalam proyek.
+win_rect.h	Menentukan ukuran jendela ketika membuat proyek.
+explanation_type.h	Opsi ini menentukan tipe catatan. Tergantung pada pengaturan tipe, piktogram ditampilkan bersama dengan teks sehingga menyorot teks saran.
+app_info.h	Pengaturan menentukan apakah aplikasi ditampilkan dalam bantuan konteks. Jika aplikasi tidak harus ditampilkan, pengaturan harus dinonaktifkan.
+app_link_to_sim.h	Parameter ini dapat digunakan untuk menampilkan tautan pada simulasi yang disebutkan di dalam parameter 'Sumber' di samping tipe konteks. Mode yang berbeda dapat dipilih di dalam proses.
+screen_info.h	Pengaturan menentukan apakah halaman ditampilkan dalam bantuan konteks. Jika layar tidak harus ditampilkan, pengaturan harus dinonaktifkan.
+screen_link_to_sim.h	Parameter ini dapat digunakan untuk menampilkan tautan pada simulasi yang disebutkan di dalam parameter 'Sumber' di samping tipe konteks. Mode yang berbeda dapat dipilih di dalam proses.
+object_info.h	Hanya untuk bantuan konteks\nPengaturan menentukan varian yang akan ditampilkan untuk objek.
+open_expanded.h	Jika opsi inti diaktifkan, gelembung utama ditampilkan dengan halaman dan daftar objek terbuka.
+display_on.h	Parameter ini menentukan pada situasi bagaimana gelembung utama navigasi harus ditampilkan. Ketika memulai navigasi, aplikasi dan halaman aplikasi yang sesuai juga dilihat.
+area.h	Parameter menentukan posisi dan ukuran kontrol. Dua angka pertama mengindikasikan posisi objek dari tangan kiri dan sudut atas layar. Dua angka terakhir menentukan lebar dan tinggi objek. Tombol di samping bidang masukan membuka kotak dialog pengeditan yang memungkinkan posisi dan ukuran objek untuk disesuaikan.
+form_on.h	Menentukan bahwa tahap merupakan bentuk. Semua tindakan tahap ditampilkan di dalam satu gelembung selama pemutaran ulang.
+transition	TahapTur Terarah Selanjutnya
+transition_info	TahapTur Terarah Selanjutnya
+action_pa	Tindakan
+trans_action	Tindakan
+step_name1	Tahap selanjutnya
+step_name2	Tahap Alternatif 1
+step_name3	Tahap Alternatif 2
+step_name4	Tahap Alternatif 3
+LClick	Klik Kiri
+RClick	Klik Kanan
+LDblClick	Klik Kiri Dua Kali
+RDblClick	Klik Kanan Dua Kali
+Focus	Fokus
+FocusLost	Kehilangan fokus
+step	Langkah Tur Terarah
+name	Nama
+end_message	Teks
+show_end_window	Jendela Akhir
+show_end_window.h	Menentukan agar jendela ditampikan di bagian akhir tur terarah. Jendela mengizinkan pengguna untuk menutup tur terarah secara manual. Jika opsi ini dinonaktifkan, jendela tidak ditampilkan dan tur terarah menutup secara otomatis.
+trans_action.h	Hanya untuk tur terpandu\nMenetapkan tindakan yang memicu lompatan ke tahap tur tur terpandu selanjutnya.
+action_pa.h	Pengaturan ini menentukan tindakan pengguna manakah yang memicu lompatan ke tahap tur terarah selanjutnya.
+step_name1.h	Hanya untuk tur terpandu\nMenentukan tahap selanjutnya dalam alur proses.
+step_name2.h	Hanya untuk tur terpandu\nMenentukan tahap tur terpandu alternatif, jika tahap tur terarah yang ditentukan tidak dapat ditampilkan.
+step_name3.h	Hanya untuk tur terpandu\nMenentukan tahap tur terpandu alternatif, jika tahap tur terarah alternatif 1 yang ditentukan tidak dapat ditampilkan.
+step_name4.h	Hanya untuk tur terpandu\nMenentukan tahap tur terpandu alternatif, jika tahap tur terarah alternatif 2 yang ditentukan tidak dapat ditampilkan.
+step_on_same_page.h	Hanya untuk tur terpandu\nPengaturan ini harus diaktifkan jika tahap tur terpanduselanjutnya ada pada halaman aplikasi yang sama. Ini akan menghindarkan pengenalan halaman.
+name.h	Menentukan nama tahap tur terarah. Nama ditampilkan pada pengaturan 'Tahap Tur Terarah Selanjutnya' dari macro 'Objek' untuk pemilihan.
+set_value	Atur Nilai Secara Otomatis
+set_value.h	Pengaturan ini menentukan apakah nilai macro akan diatur otomatis selama pemutaran navigasi.
+end_message	Teks
+end_message.h	Anda dapat memasukkan teks dalam kotak teks ini yang ditampilkan dalam gelembung di akhir proses. Kotak teks telah diatur sebelumnya dengan teks default.
+restart_option	Tombol Mulai Ulang
+restart_option.h	Ketika opsi ini diaktifkan, tombol muncul di dalam gelembung dan pengguna dapat menggunakannya untuk mengulang proses. Ini memungkinkan pelaksanaan proses kembali dengan entri berbeda.
+record_end_display	Edit Gelembung
+end_bubble	Akhir Proses Gelembung
+bend_position	Posisi
+bend_position.h	Nilai yang dimasukkan di sini mengindikasikan posisi gelembung pada layar. Nilai ditentukan dalam piksel dan terkait pada sudut kiri atas layar.
+bend_style	Gaya
+bend_style.h	Pengaturan ini menentukan gaya gelembung mana yang akan digunakan untuk menampilkan gelembung. Tipe gelembung ditentukan menggunakan Editor Tipe Gelembung yang dapat dibuka dari menu 'Alat' -> 'Edit tipe gelembung'. Tipe gelembung selalu tersedia untuk seluruh area kerja.
+bend_width	Lebar
+bend_width.h	Ini menentukan lebar gelembung yang harus ditampilkan dalam piksel.
+bend_height	Tinggi
+bend_height.h	Ini menentukan tinggi gelembung yang harus ditampilkan dalam piksel.
+process_start_unit	Gaya Tur Terarah
+record_pa_control	Rekam Langkah Tur Terarah
+prev_step	Tahap Sebelumnya
+next_step	Tahap selanjutnya
+disqualifier	Keluarkan Layar
+disqualifier.h	Dengan 'Penentu Halaman', Anda dapat membedakan antara halaman aplikasi yang serupa dengan menggunakan objek tertentu. Opsi ini menentukan apakah halaman aplikasi yang dikenali harus ditampilkan atau dikeluarkan apabila 'Penentu Halaman' tersedia. \nTampilan thumbnail menampilkan status opsi: simbol ditambah (tidak dikeluarkan) atau dikurangi (dikeluarkan).
+exception_bubble	Penanganan Pengecualian Gelembung
+bexp_position	Posisi
+bexp_position.h	Nilai yang dimasukkan di sini akan menentukan posisi gelembung di layar. Nilai yang diberikan dalam piksel. Gelembung akan muncul di sudut kiri atas layar.
+bexp_style	Gaya
+bexp_style.h	Di sini Anda dapat memilih tipe gelembung yang Anda ingin gunakan. Gaya gelembung dapat ditentukan dalam editor gaya gelembung yang dapat dibuka dari menu:  Alat -> Edit Tipe Gelembung.  Tipe gelembung berbeda selalu tersedia untuk seluruh area kerja.
+content_demo	Mode Demo
+content_demo.h	Dengan opsi ini mode demo grup akan ditampilkan dalam asisten desktop.
+content_practice	Mode Latihan
+content_practice.h	Dengan opsi ini mode berlatih grup akan ditampilkan dalam asisten desktop.
+content_test	Mode Uji
+content_test.h	Dengan opsi ini mode uji grup akan ditampilkan dalam asisten desktop.
+content_concurrent	Mode Serentak
+content_concurrent.h	Dengan opsi ini mode serentak grup akan ditampilkan dalam asisten desktop.
+content_navi	Navigasi
+content_navi.h	Dengan opsi ini navigasi grup akan ditampilkan dalam asisten desktop.
+content_documentation	Dokumentasi
+content_documentation.h	Dengan opsi ini dokumentasi grup akan ditampilkan dalam asisten desktop.
+content_externals	File Eksternal
+content_externals.h	Dengan opsi ini file eksternal grup akan ditampilkan dalam asisten desktop.
+navi_style	Gaya
+navi_style.h	Menentukan penampilan jendela navigasi. Pilih sumber daya gaya dari daftar.
+menu_path:/record	Perekaman
+F1HELPNAME	bantuan
+alignment	Perataan Gelembung
+alignment.h	Menentukan perataan jendela gelembung pada layar. Opsi "Bebas" memungkinkan fungsi ini untuk menentukan posisi dalam parameter 'Posisi Gelembung'
+bform_alignment	Perataan
+bform_alignment.h	Menentukan perataan jendela gelembung pada layar. Opsi "Bebas" memungkinkan Anda untuk menentukan posisi dalam parameter 'Bentuk Posisi Gelembung'.
+gloss_bubble	Gelembung Glosarium
+gloss_bubble_style	Gaya
+gloss_bubble_style.h	Menentukan penampilan gelembung glosarium. Pilih sumber daya gaya dari daftar.
+ellipse	Lingkaran
+gloss_bubble_size	Ukuran
+gloss_bubble_size.h	Menentukan ukuran (lebar, tinggi) gelembung glosarium dalam piksel.
+Navi	Asisten Desktop
+exclude_from_da	Keluarkan dari Asisten Desktop
+exclude_from_da.h	Menentukan agar kode halaman tidak akan dianggap untuk pengenalan konteks asisten desktop.
+all_as_descr	Gunakan Teks dari
+all_as_descr.h	Menentukan tipe teks untuk @{NAVIGATOR}. Tipe teks default adalah 'Deskripsi Singkat'.
+consider_roles	Pertimbangkan Peran
+consider_roles.h	Mengaktifkan penggunaan peran untuk tampilan konten selama pemutaran ulang.
+consider_categories	Pertimbangkan Kategori Konten
+consider_categories.h	Mengaktifkan penggunaan kategori konten untuk penyortiran konten dalam jendela utama pada @{NAVIGATOR}.
+disable_ca_in_pa	Sembunyikan Bantuan Instan dalam Tur Terarah
+disable_ca_in_pa.h	Menentukan jika informasi bantuan instan disembunyikan selama pemutaran ulang tur terarah. Setelah tur terarah selesai, bantuan instan dimunculkan kembali.
+full_desc	Deskripsi
+shrt_desc	Deskripsi Singkat
+wrong_position	Kesalahan Posisi
+help	Bantuan
+warning	Peringatan
+maintenance	Pemeliharaan
+update	Perbarui
+new	Baru
+training	Pelatihan
+attachment	Lampiran
+link	Tautan
+tip	Kiat
+note	Catatan
+compliance	Kepatuhan
+mini_bubble_style	Gaya Ikon Mini
+mini_bubble_style.h	Menentukan sumber daya gaya untuk ikon mini yang digunakan untuk proyek. Ikon mini adalah tipe sumber daya dari sumber daya yang dapat diadaptasi. \nIkon dapat diatur dalam setiap makro tindakan dan penjelasan dengan menggunakan parameter 'Tipe Ikon Mini' pada bagian 'Tingkat Lanjut'.
+mini_bubble	Tipe Ikon Mini
+mini_bubble.h	Hanya untuk bantuan konteks\nMenentukan tipe untuk ikon mini objek. Ikon didasarkan pada 'Gaya Ikon Mini' yang ditentukan dari makro 'Gaya’.
+NavRecMouseWheel	Gunakan mouse untuk melanjutkan. Tekan ESC untuk menyelesaikan guliran mouse.
+search_type	Tipe Pencarian
+none	Tidak ada
+search_in_lib	Pada @{LIBRARY}
+search_in_da	Grup Asisten Desktop
+search_type.h	Menentukan fungsionalitas pencarian untuk mencari konten. \nTidak Ada: Menonaktifkan fungsionalitas pencarian. \nPada @{LIBRARY}: Membuka @{LIBRARY} untuk mencari dalam konten @{LIBRARY}. \nPada Grup Asisten Desktop: Menampilkan tab 'Pencarian' pada jendela utama untuk mencari dalam konten asisten desktop.
+errObjectUpdate	Objek tidak dapat diunggah. Perbarui objek dengan tipe yang serupa.
+config_headers_differ1	Informasi profile sudah lama. Klik 'Lanjutkan" untuk memperbarui proyek.
+config_headers_differ2	Hal ini disarankan untuk membuat arsip sebelum memperbarui.
+default_start_mode	Konten Awal Default
+default_start_mode.h	Menentukan mode atau format dokumen yang dimulai secara default dari daftar konten.
+default_start_doc	Dokumen Awal Default
+default_start_doc.h	Menentukan tipe dokumen, jika dokumen diatur dalam pengaturan "Konten Awal Default".
+show_next_btn	Tombol Selanjutnya
+show_next_btn.h	Hanya untuk tur terpandu\nMenetapkan apakah tombol 'Beralih ke Tahap Selanjutnya' ditampilkan dalam gelembung objek.
+condition	Kondisi
+condition.h	Selama pemutaran ulang, nilai yang dimasukkan oleh pengguna harus sesuai dengan kondisi agar dapat beralih ke tahap selanjutnya atau lompat ke tahap tertentu. \nPilih 'Edit Kondisi' untuk membuat atau mengedit kondisi.
+errDuplicateContext	Aplikasi ini telah direkam.
+add_sticky_notes	Posisi: Kontrol 'Tambahkan Catatan Tempel'
+add_sticky_notes.h	Memungkinkan Anda menampilkan kontrol untuk menambahkan catatan tempel pada halaman. Anda dapat menentukan posisi kontrol pada bar sisi.
+show_instant_help_btn	Posisi: Kontrol 'Bantuan Instan'
+show_instant_help_btn.h	Memungkinkan Anda menampilkan kontrol untuk mengaktifkan bantuan instan. Anda dapat menentukan posisi kontrol pada bar sisi.
+show_carousel	Tampilkan Karosel
+show_carousel.h	Opsi ini menampilkan Asisten Desktop dalam mode karosel.
+condition_pattern	Pola Kondisi
+condition_pattern.h	Menentukan pola yang digunakan untuk kondisi.
+condition_value	Nilai Kondisi
+condition_value.h	Menentukan pola yang digunakan untuk kondisi. Masukkan teks atau angka berdasarkan pola yang dipilih.
+condition_jump_target	Target Lompat
+condition_jump_target.h	Hanya untuk tur terarah\nMenentukan target lompatan untuk kondisi. Pilih langkah dari daftar menurun. Navigasi lompat ke tahap yang ditentukan, jika kondisi sesuai.
+condition_text	Teks Kondisi
+condition_text.h	Berisi teks yang akan ditampilkan, jika kondisi tidak dipenuhi.
+condition_case_sensitive	Peka huruf besar/kecil
+condition_case_sensitive.h	Menentukan, jika kondisi adalah peka huruf besar dan kecil.
+condition_ignore_on_load	Abaikan pada Muatan Halaman
+condition_ignore_on_load.h	Hanya untuk bantuan konteks\nMenentukan jika kondisi tidak diperiksa pada muatan halaman. Kondisi diperiksa ketika menggunakan kontrol yang sesuai. Ini untuk menghindari kondisi menampilkan gelembung kondisi secara langsung.
+c_equals	Setara dengan
+c_not_equals	Tidak setara dengan
+c_greater	Lebih besar dari
+c_greater_equals	Lebih besar atau sama dengan
+c_less	Lebih kecil dari
+c_less_equals	Lebih kecil atau sama dengan
+c_min_char	Jumlah minimal karakter
+c_max_char	Jumlah maksimum karakter
+c_num_char	Jumlah karakter sama dengan
+c_reg_exp	Ungkapan Biasa
+vertical	Vertikal
+horizontal	Horizontal
+AutoBarReady	Diam
+AutoBarExplanation	Sisipkan Penjelasan
+AutoBarChooseApp	Pilih Aplikasi
+AutoBarRecord	Rekam
+AutoBarBusy	Sibuk
+AutoBarPause	Jeda
+AutoBarReRecManualHotspot	Edit kontrol: Tekan Ctrl + Enter untuk melanjutkan perubahan. Tekan Esc untuk membuang perubahan.
+wizAddExplanation	Tambahkan Penjelasan
+AutoBarNoRecognition	Tidak ada kontrol yang dikenali
+AutoBarDiagnosis	Diagnosis
+condition_bubblestyle	Gaya Gelembung
+condition_bubblestyle.h	Menentukan sumber daya gaya gelembung yang harus digunakan untuk menampilkan teks kondisi.
+condition_highlight_bgr	Warna Sorotan
+condition_highlight_bgr.h	Menentukan warna sorotan untuk kontrol.
+IDS_MPI_TOURSTOP_LABEL	Nama
+IDS_MPI_TOURSTOP_LABEL_MODIFIED	Terjemahkan Secara Manual
+IDS_MPI_TOURSTOP_NAME	UID
+IDS_MPI_TOURSTOP_SHOW	Tunjukkan dalam Tampilan Progres
+IDS_MPI_TOURSTOP_JUMP	Target Lompat
+IDS_MPI_TOURSTOP_CALLABLE	Adalah Subrutin
+basic_info	Dasar
+IDS_NO_IMAGE_SELECT	Tidak ada gambar yang dipilih
+IDS_NO_IMAGE	Gambar tidak ditemukan
+ID_INSERT_TAKE	Tambahkan Tahap
+ID_PRJ_LAYOUT_HORZ	Tata Letak horizontal
+ID_PRJ_LAYOUT_VERT	Tata Letak Vertikal
+ID_PRJ_LAYOUT_DIV	Tata letak terbagi - 1
+ID_PRJ_LAYOUT_4	Tata letak terbagi - 2
+ID_PRJ_LAYOUT_5	Tata letak terbagi - 3
+IDS_UNTITLED	(tidak berjudul)
+docTableHeaderStep	Tahap
+layout_advanced	Tata Letak Tingkat Lanjut
+showEditorHelp	Tampilkan Bantuan Editor Web
+slide:insert_tb	Sisipkan
+slide:action_tb	Tindakan
+slide:structure_tb	Struktur
+slide:view_tb	Lihat
+existing_scrs_in_prj	Layar saat ini telah digunakan lebih dari satu kali dalam proyek Anda.\nPilih layar yang ingin Anda tambahkan dengan objek yang direkam.
+start_topic	Mulai
+guided_tour	Tur Terarah
+context_help	Bantuan Konteks
+off	Off
+main_bar_1	Bar Utama 1
+main_bar_2	Bar Utama 2
+main_bar_3	Bar Utama 3
+main_bar_4	Bar Utama 4
+main_bar_5	Bar Utama 5
+main_bar_6	Bar Utama 6
+main_bar_7	Bar Utama 7
+main_bar_8	Bar Utama 8
+sub_menu_1	Submenu 1
+sub_menu_2	Submenu 2
+sub_menu_3	Submenu 3
+sub_menu_4	Submenu 4
+sub_menu_5	Submenu 5
+sub_menu_6	Submenu 6
+content_btn	Posisi: Kontrol ‘Konten’
+content_btn.h	Menentukan posisi kontrol ‘Konten’ pada bar sisi.
+search_btn	Posisi: Kontrol ‘Pencarian’
+search_btn.h	Menetapkan posisi kontrol ‘Pencarian’ pada bar sisi.
+orCenter	Tengah
+orNorth	Utara
+orWest	Barat
+orNortWest	Barat Laut
+orEast	Timur
+orNortEast	Timur Laut
+orSouth	Selatan
+orSouthWest	Barat Daya
+orSoutEast	Tenggara
+screen_tolerence	Perbedaan Layar yang Ditoleransi (%)
+screen_tolerence.h	Parameter ini menentukan kecocokan grafik yang diperlukan antara halaman layar yang ditampilkan dan cuplikan layar yang direkam dalam persen untuk informasi konteks terkait yang harus ditampilkan. Jika perbedaan grafis terletak di atas nilai yang ditetapkan, @{NAVIGATOR} akan membandingkan kode halaman yang direkam dengan halaman layar dan menampilkan konten yang sesuai untuk halaman aplikasi yang berbeda.
+video_folder	Folder Rekaman Video
+video_folder.h	Tentukan folder untuk penyimpanan rekaman video. \nCatatan: Rekaman video tidak disimpan di dalam folder cache dari @{NAVIGATOR} karena ukuran filenya.
+allow_video_rec	Izinkan Rekaman Video
+allow_video_rec.h	Izinkan pengguna untuk merekam konten video.
+hide_da_on_web_assistant	Sembunyikan @{NAVIGATOR} pada saat Menjalankan @{XRAY}
+hide_da_on_web_assistant.h	Menentukan bahwa jendela @{NAVIGATOR} disembunyikan apabila @{XRAY} berjalan di latar depan.
+show_web_assistant_msg	Tampilkan Pesan @{XRAY}
+show_web_assistant_msg.h	Menentukan bahwa pesan ditampilkan apabila @{XRAY} berjalan di latar depan atau meninggalkan mode latar depan.
+auto_hide	Sembunyikan setelah Animasi
+auto_hide.h	Jika opsi ini diaktifkan, sorotan secara otomatis disembunyikan lagi tepat setelah animasi selesai.
+bmain_height	Tinggi
+bmain_height.h	Menentukan tinggi gelembung utama dalam piksel. Jika jumlah teks melebihi ruang yang tersedia di dalam gelembung, teks tersebut akan mengukur tinggi secara otomatis pada ruang yang diperlukan.
+bmain_style	Gaya
+bmain_style.h	Pengaturan ini menentukan tipe gelembung yang harus digunakan untuk menampilkan gelembung utama. Tipe gelembung ditentukan menggunakan 'Editor Tipe Gelembung' yang dapat dijalankan dari menu 'Alat' -> 'Edit tipe gelembung'. Tipe gelembung selalu tersedia untuk seluruh area kerja.
+bmain_width	Lebar
+bmain_width.h	Menentukan lebar gelembung utama dalam piksel.
+bottom_dock	Dock Bawah
+cache_stale_interval	Interval Tidak Valid (min)
+cache_stale_interval.h	Mengaktifkan penggunaan cache @{NAVIGATOR} dan menentukan rentang waktu untuk memperbarui konten dalam folder cache.  Nilai ditentukan dalam menit. \nUntuk menaonaktifkan cache, ubah nilai ke '0'.
+centered	Tengah
+close_details	Tutup Jendela Konten
+close_details.h	Menentukan kode fungsi untuk menutup jendela konten untuk proyek yang dipilih.
+confirmation_hotkey	Tombol Cepat untuk Mengonfirmasi Tahap
+confirmation_hotkey.h	Menentukan tombol cepat untuk mengonfirmasi tahapan saat pemutaran asisten proses.
+detail_positioning	Perataan Jendela Konten
+detail_positioning.h	Menentukan perataan jendela konten pada layar. Kecuali untuk opsi rata 'Tengah', jendela konten akan ditambatkan ke jendela utama.
+detail_size	Ukuran Jendela Konten
+detail_size.h	Menentukan ukuran (lebar, tinggi) jendela konten dalam piksel.
+enable_search	Aktifkan Tab Pencarian
+enable_search.h	Mengaktifkan fungsionalitas pencarian di dalam konten Asisten Desktop
+h_dock	Dock Horizontal
+icon_position	Posisi Ikon
+icon_position.h	Nilai yang dimasukkan di sini akan menentukan posisi ikon di layar. Nilai yang diberikan dalam piksel. Ikon akan muncul di sudut kiri atas layar.
+leaves_page	Tinggalkan Layar
+leaves_page.h	Opsi ini mengindikasikan pada navigasi bahwa tindakan yang diperlukan untuk objek ini mengarah kepada pemuatan halaman baru. Analisis halaman baru dilakukan segera setelah tindakan dijalankan pada objek dan halaman telah selesai dimuat.
+left_dock	Dock Kiri
+library_height	Tinggi Gelembung
+library_height.h	Ini menentukan tinggi gelembung dalam piksel.
+library_width	Lebar Gelembung
+library_width.h	Ini menentukan lebar gelembung dalam piksel.
+maximize_details	Perbesar Jendela Konten
+maximize_details.h	Tentukan tombol fungsi untuk memperbesar jendela konten.
+next_doc	Pilih Dokumen Selanjutnya
+next_doc.h	Menentukan tombol fungsi untuk memilih dokumen selanjutnya di dalam jendela konten.
+next_project	Pilih Proyek Selanjutnya
+next_project.h	Menentukan tombol fungsi untuk memilih proyek selanjutnya di dalam jendela utama.
+open_content	Buka Konten
+open_content.h	Menentukan tombol fungsi untuk membuka objek konten yang dipilih.
+open_details	Buka Jendela Konten
+open_details.h	Menentukan kode fungsi untuk membuka jendela konten untuk proyek yang dipilih.
+prev_doc	Pilih Dokumen Sebelumnya
+prev_doc.h	Menentukan tombol fungsi untuk memilih dokumen sebelumnya di dalam jendela konten.
+prev_project	Pilih Proyek Sebelumnya
+prev_project.h	Menentukan tombol fungsi untuk memilih proyek sebelumnya di dalam jendela utama.
+right_dock	Dock Kanan
+show_execute	Tampilkan Tombol Eksekusi
+show_execute.h	Menentukan apakah tombol eksekusi ditampilkan dalam glembung objek selama pemutaran. Tombol ini memungkinkan pengguna untuk melakukan tindakan di dalam aplikasi dan kemudian tahap selanjutnya akan ditampilkan.
+show_icon_on_start	Tampilkan Ikon Status saat Mulai
+show_icon_on_start.h	Menentukan pada saat asisten desktop mulai dijalankan, apabila ikon status yang akan ditampilkan menggantikan jendela utama.
+start_doc	Buka Dokumen
+start_doc.h	Menentukan tombol fungsi untuk membuka dokumen terpilih dari jendela konten.
+step_on_same_page	Tahap pada Halaman yang sama
+top_dock	Dock Atas
+v_dock	Dock Vertikal

@@ -1,0 +1,313 @@
+﻿#	Атоми тексту англійською
+BULLET	&#149;
+NEWLINE	\r\n
+TOK_COMPANY	SAP
+TOK_LIB	Курс
+TOK_TOUR	Урок
+TOK_TRAINER	Desktop Assistant
+TOK_AUTOMATION	epo
+NAVIGATOR	Desktop Assistant
+NAV_LIBRARY	бібліотека
+BTN_ABORT	Вийти
+BTN_CLOSE	Вийти
+BTN_OK	OK
+BTN_CLOSE_DLG	Закрити
+BTN_CONTINUE	Продовжити
+BTN_PREVIEW	Попередній перегляд
+BTN_PROCEED	Продовжити
+BTN_RESTART	Перезапустити
+BTN_SKIP	Пропустити крок
+BTN_START	Запустити
+BTN_STOP	Зупинити
+BTN_EXECUTE	Виконати
+CA_SWITCH	Контекстна довідка
+CONTENT_CAP	Вміст
+MAIL_SUBJECT	Запит вмісту для асистента робочого столу
+MAIL_HEADER	Шановний авторе,\n\n я хотів би запитати вміст для:
+MAIL_FOOTER	- Процес/транзакція: опишіть процес застосунку, який наразі використовується. \n\n- Опис: опишіть необхідну вам інформацію. \n\nЗ найкращими побажаннями,
+MAIL_DATA	- ім'я застосунку:
+MAIL_TOOLTIP	Вміст запиту
+SHARE_TOOLTIP	Надати спільний доступ до вмісту
+REQUEST_TEXT	Клацніть %s для запиту вмісту
+REQUEST_LINK	тут
+SEARCH_CAP	Шукати
+INFO_CAP	Інформація
+SETTINGS_CAP	Настройки
+BACK_TOOLTIP	Назад
+SHARE_CONTENT_TOOLTIP	Надати спільний доступ до вмісту
+CB_HIDE_OPTION	Більше не показувати
+MY_ROLES	Мої ролі
+EDIT_ROLES	Змінити ролі
+NO_ROLES	Показати вміст без ролей
+SELECT_ALL_CAPTION	Виділити все
+USER_CAPTION	Область користувача
+READ_MORE	Читати далі...
+NO_CATEGORY_CAPTION	Інший вміст
+DELETE_FAILED	Операція видалення не вдалася.
+RENAME_FAILED	Операція перейменування не вдалася.
+FILE_EXISTS	Вже існує файл з таким самим іменем. Введіть інше ім'я.
+LBL_YES	Так
+LBL_DELETE	Видалити
+LBL_NO	Ні
+LBL_OK	Ok
+DELETE_DLG_TEXT	Ви дійсно бажаєте видалити вибрані документи (%N)?
+LBL_CONCURRENT	Запустити паралельний режим
+LBL_DA	Асистент робочого столу
+LBL_SIM	Запустити моделювання
+LBL_CDOC	Відкрити
+LBL_DEMO	Запустити демо-режим
+LBL_NAVI	Запустити інтерактивну демонстрацію
+LBL_BOOK	Відтворити книгу
+LBL_GROUP	Відкрити у бібліотеці
+LBL_NAVIGATION	Асистент робочого столу
+LBL_PA	Інтерактивна демонстрація
+LBL_PRACTICE	Запустити режим тренування
+LBL_SIMULATION	Моделювання
+LBL_BOOKPAGE	Показати сторінку книги
+LBL_TEST	Запустити тестовий режим
+LBL_RECORD_DOCUMENT	Документ справи
+MSG_AUTOMATION_FINISHED	Автоматизацію завершено
+MSG_AUTOMATION_FINISHED_2	Клацніть 'Перезапустити' для повторного запуску автоматизованого процесу.
+MSG_AUTOMATION_START	Редагувати значення введення
+MSG_AUTOMATION_START_2	Перевірте та відредагуйте наступні значення. Вони вводяться автоматично під час процесу.
+MSG_EPO_DIALOG	Електронний оптимізатор процесів
+MSG_NAVI_LIBRARY_NO_APP	Інформація недоступна.
+LBL_NAVI_NO_MATCH	Немає результатів для вашого пошуку.
+NO_RECORDS	Немає доступних документів.
+MSG_NAVI_LIBRARY_SUBTITLE	Доступний вміст:
+MSG_NAVI_LIBRARY_TITLE	Асистент робочого столу
+MSG_NOT_APPLICABLE	редагувати неможливо
+MSG_PA_CONTROL_STEP	Необхідна операція для кроку:
+MSG_PA_EXPLANATION_STEP	Перейти до екрана, показаного нижче.
+MSG_PA_FORM_STEP	Обов'язкові поля для заповнення у формулярі:
+MSG_PA_DIALOG	Інтерактивна демонстрація
+MSG_PA_START_SCREEN	Відкрити початковий екран.
+MSG_PA_STEP_NOT_FOUND	Перемкніть на необхідний екран
+MSG_PA_STEP_NOT_FOUND1	Переконайтесь, що цільовий застосунок (@{TARGETAPPNAME}) відкритий.
+MSG_PA_STEP_NOT_FOUND2	Перейти до екрана з виділеними елементами керування, показаного нижче.
+MSG_STEP_LIGHT	Попередній перегляд кроку
+MSG_STEP_NOT_FOUND	Крок інтерактивної демонстрації не знайдено.
+MSG_STEP_NOT_FOUND_2	Клацніть рядок заголовка цільового застосунку або перейдіть до екрану праворуч.<br><br>Клацніть 'Попередній перегляд' для відображення потрібного екрану.
+PA_FINISHED	Інтерактивну демонстрацію завершено.
+PROJECT_TITLE	Заголовок проекту
+TRAY_INFO_BUBBLE_HEADING	Інтерактивна демонстрація
+TRAY_INFO_BUBBLE_TEXT	Поточний крок неможливо відобразити. Натисніть тут, щоб отримати додаткову інформацію.
+RESTRICTED_BUBBLE_HEADING	Операцію блоковано
+RESTRICTED_BUBBLE_TEXT	Ви не можете виконувати жодних операцій до підтвердження поточного кроку.
+HELP_TITLE	Довідка
+HELP_INTRO	Довідка надає вам огляд головних частин і функцій @{NAVIGATOR}.</br></br><b>Пам’ятайте:</b> доступні функції залежать від конфігурації @{NAVIGATOR}.</br>
+HELP_TITLE_DA	Бокова панель і вікна
+HELP_SIDEBAR_T	Бокова панель
+HELP_SIDEBAR_H	Бокова панель дозволяє запустити основні функції @{NAVIGATOR}. Для кожної функції відображається кнопка. Бокову панель можна перемістити, перетягнувши її, і зменшити або збільшити, клацнувши на межі бокової панелі.
+HELP_CONTENT_CONTROL_T	Вміст
+HELP_CONTENT_CONTROL_H	Вказує, чи доступний вміст. Відкриває головне вікно з вмістом.
+HELP_SEARCH_CONTROL_T	Шукати
+HELP_SEARCH_CONTROL_H	Відкриває вікно для пошуку вмісту.
+HELP_EXTSEARCH_CONTROL_T	Зовнішній пошук
+HELP_EXTSEARCH_CONTROL_H	Відкриває зовнішній пошук для пошуку вмісту.
+HELP_STICKY_CONTROL_T	Додати наклейку
+HELP_STICKY_CONTROL_H	Вставляє наклейку для поточного вікна застосунку. Ви можете ввести текст для вашої наклейки.
+HELP_RECORDING_CONTROL_T	Запустити записування
+HELP_RECORDING_CONTROL_H	Запускає записування процесу. Записаний процес буде збережено як документ в області користувача.
+HELP_MAIN_WINDOW_T	Головне вікно
+HELP_MAIN_WINDOW_H	Головне вікно показує доступний зміст контексту для певного контексту сторінки.</br>Під час відтворення інтерактивної демонстрації вікно показує список кроків процесу.
+HELP_HEADER_T	Заголовок
+HELP_HEADER_H	Піктограма статусу в заголовку відображає доступність вмісту для поточного контексту.
+HELP_CONTENT_TAB_T	Вкладка вмісту
+HELP_CONTENT_TAB_H	Вкладка показує доступний вміст для поточного застосунку.
+HELP_CONTENT_VIEW_T	Подання вмісту
+HELP_CONTENT_VIEW_H	Подання вмісту показує доступну інформацію, режими та документацію для вибраного вмісту.</br>Ви можете використати елемент керування 'Назад', щоб повернутися до списку вмісту.
+HELP_SEARCH_TAB_T	Вкладка пошуку
+HELP_SEARCH_TAB_H	В цій закладці можна шукати вміст, специфічний для вашого поточного вмісту.
+HELP_INFO_TAB_T	Вкладка інформації
+HELP_INFO_TAB_H	Вкладка показує загальну інформацію про @{NAVIGATOR}.
+HELP_USERAREA_TAB_T	Вкладка області користувача
+HELP_USERAREA_TAB_H	Вкладка містить записані документи процесу. Ви можете відкрити, поділитися або видалити документ. Ви можете записати подальші процеси.
+HELP_INSTANT_T	Миттєва довідка
+HELP_INSTANT_H	З активованою настройкою додаткова контекстна інформація відображається якраз на екрані поточного застосунку. Настройка активується усталено.
+HELP_REQCONTENT_T	Запитати вміст
+HELP_REQCONTENT_H	Відкриває вікно електронної пошти для запиту відсутнього вмісту у автора.
+HELP_SETTINGS_T	Настройки
+HELP_SETTINGS_H	Подання містить настройки для відображення вмісту @{NAVIGATOR}.
+HELP_MYROLES_T	Мої ролі
+HELP_MYROLES_H	Ця настройка відображає вміст для присвоєної ролі.
+HELP_WITHOUTROLES_T	Показати вміст без ролей
+HELP_WITHOUTROLES_H	Ця настройка відображає вміст без присвоєних ролей.
+HELP_EDITROLES_T	Ролі
+HELP_EDITROLES_H	Усі ролі, використані для вмісту, перелічені і можуть бути активовані або деактивовані для відображення вмісту.
+HELP_SHARECONTENT_T	Надати спільний доступ до вмісту
+HELP_SHARECONTENT_H	Відкриває діалогове вікно з посиланням на вміст. Посиланням можна поділитися з іншими користувачами.
+HELP_REQUESTCONTENT_T	Запитати вміст
+HELP_REQUESTCONTENT_H	Відкриває попередньо визначений електронний лист для запиту вмісту для певної справи.
+HELP_PLAYBACK_CONTENT_T	Вміст відтворення
+HELP_PLAYBACK_CONTENT_H	Доступний вміст можна відкрити або запустити за допомогою кнопок у вікні вмісту.
+HELP_MINIMIZED_STATUS_T	Згорнутий статус
+HELP_MINIMIZED_STATUS_H	У випадку закриття головного вікна плаваюча піктограма статусу буде вказувати, чи існує вміст для поточного контексту. Клацніть на піктограмі, щоб відновити головне вікно.
+HELP_MINIMIZED_MENU_T	Контекстне меню
+HELP_MINIMIZED_MENU_H	Контекстне меню (клацання правої кнопки миші на піктограмі) включає функції для відображення головного вікна і контекстної довідки.
+HELP_BOOK_WINDOW_T	Вікно книги
+HELP_BOOK_WINDOW_H	Вікно книги відкрите при відтворенні задньої частини книги. Головне вікно і вікно вмісту приховані.
+HELP_GOTOTOP	Перейти наверх
+HELP_CAPTION	@{NAVIGATOR} Довідка
+NAVHELP_TITLE	Піктограма статусу та контекстне меню
+NAVHELP_INTRO	</br>Довідка надає огляд про піктограму статусу та записи контекстного меню.
+NAVHELP_STATUS_ICON_T	Піктограма статусу (панель статусу)
+NAVHELP_STATUS_ICON_H	Піктограма статусу знаходиться на панелі завдань і відображує поточні операції для @{NAVIGATOR}. Існують три різні статуси:
+NAVHELP_STATUS_FOUND_T	Вміст доступний (зелена піктограма)
+NAVHELP_STATUS_FOUND_H	Вміст доступний для поточного контексту й відображений.
+NAVHELP_STATUS_CHECK_T	Завантаження вмісту (жовта піктограма)
+NAVHELP_STATUS_CHECK_H	@{NAVIGATOR} перевіряє поточний контекст для доступного вмісту і завантажує вміст.
+NAVHELP_STATUS_NOFOUND_T	Вміст недоступний (червона піктограма)
+NAVHELP_STATUS_NOFOUND_H	Вміст недоступний для поточного контексту.
+NAVHELP_STANDBY_T	Деактивовано
+NAVHELP_STANDBY_H	@{NAVIGATOR} деактивовано. Натискання на піктограмі статусу (<i>CTRL + F11</i>) деактивує чи активує @{NAVIGATOR}.
+NAVHELP_STATUS_MIN_T	Згорнено
+NAVHELP_STATUS_MIN_H	Вікна і бокова панель згорнені.
+NAVHELP_STATUS_MENU_T	Контекстне меню
+NAVHELP_STATUS_MENU_H	Контекстне меню (клацання правою кнопкою миші на піктограмі) містить загальні функції для @{NAVIGATOR}.
+NAVHELP_VERSION_T	Показати версію
+NAVHELP_VERSION_H	Показує номер версії установленого @{NAVIGATOR}. Це є необхідним для будь-якого контакту зі службою підтримки у випадку виникнення проблем.
+NAVHELP_JSCONSOLE_T	Консоль JavaScript
+NAVHELP_JSCONSOLE_H	Відображує консоль JavaScript для надання докладних повідомлень про помилки. Це є необхідним для будь-якого контакту зі службою підтримки у випадку виникнення проблем.
+NAVHELP_NAV_CACHE_T	Видалити локальний кеш
+NAVHELP_NAV_CACHE_H	Видаляє локальний кеш вмісту @{NAVIGATOR}.
+NAVHELP_RESET_HIDDEN_T	Показати всю приховану довідку знову
+NAVHELP_RESET_HIDDEN_H	Скидає елементи довідки, які встановлено на 'Приховано' під час відтворення.
+NAVHELP_EXIT_T	Вийти
+NAVHELP_EXIT_H	Зупиняє відтворення і закриває @{NAVIGATOR}.
+IDS_NAVP_ABOUT	Показати версію...
+IDS_NAVP_CONSOLE	Консоль JavaScript...
+IDS_NAVP_DELETE_CACHE	Видалити локальний кеш
+IDS_NAVP_HOOKER	Hooker
+IDS_SEARCH_INPUT	Вміст засобу пошуку
+IDS_CLEAR_SEARCH	Очистити пошук
+IDS_NAVP_CLOSE	Вийти
+IDS_RESET_CURRENT	Показати прихований елемент довідки знову
+IDS_RESET_ALL	Показати всю приховану довідку знову
+IDS_RESET_ALL_TIP	Показати всі деактивовані підказки знову при першому вході на екран.
+IDS_OPEN_RECORD_LBL	Відкрити
+IDS_EDIT_RECORD_LBL	Перейменувати
+IDS_DELETE_RECORD_LBL	Видалити
+IDS_SHARE_RECORD_LBL	Поділитися
+IDS_EXTERNAL_SEARCH_BTN	Зовнішній пошук
+IDS_EXTERNAL_SEARCH_SUB_MENU	Зовнішній пошук
+IDS_SHOW_SCREEN_ICON	Показати асистент робочого столу
+IDS_SHOW_DA	Показати головне вікно
+IDS_SHOW_CONTENT	Показати вміст
+IDS_HIDE_CONTENT	Приховати вміст
+IDS_SEARCH_BTN	Шукати
+IDS_REQUEST_CONTENT_BTN	Запитати вміст
+IDS_RECORDING_BTN	Запустити записування
+IDS_SHOW_CA_SWITCH	Показати контекстну довідку
+IDS_HIDE_CA_SWITCH	Приховати контекстну довідку
+IDS_CA_SWITCH_INACTIVE_BTN	Контекстна довідка недоступна
+IDS_DO_CTX_RECOGNITION	Показати контекстну довідку
+IDS_NAV_STANDBY	@{NAVIGATOR} деактивовано.
+IDS_NAV_NO_STANDBY	@{NAVIGATOR} активовано.
+IDS_SHOW_DA_PANELS	@{NAVIGATOR} знову доступний. Ви можете використовувати @{NAVIGATOR}, якщо вам потрібна допомога.
+IDS_HIDE_DA_PANELS	@{NAVIGATOR} зник автоматично, оскільки відповідна довідка доступн у застосунку, який ви наразі відкрили. Просто відкрийте довідку у застосунку, якщо вам потрібна допомога.
+IDS_ADD_STICKY_NOTES_BTN	Додати наклейку
+IDS_ADD_STICKY_NOTES_INACTIVE_BTN	Для цього застосунку можна додати лише одну наклейку.
+IDS_EXIT_DA	Вийти
+IDS_EXIT_DA_BTN	Вийти
+IDS_EXIT_DA_SUB_MENU	Вийти
+IDS_SHOW_MORE	Показати більше
+IDS_HIDE_MORE	Приховати більше
+IDS_REQUEST_CONTENT_SUB_MENU	Запитати вміст
+IDS_SHOW_CA_SUB_MENU	Показати контекстну довідку
+IDS_HIDE_CA_SUB_MENU	Приховати контекстну довідку
+IDS_ADD_STICKY_NOTE_SUB_MENU	Додати наклейку
+IDS_RECORDING_SUB_MENU	Запустити записування
+IDS_CA_SWITCH_SUB_MENU	Контекстна довідка
+IDS_SHARE_DLG_CAPTION	Надати спільний доступ до документа
+IDS_DELETE_FRAMES	Видалення рамок
+OPEN_FOLDER	Відкрити папку
+SHARE_DOC	Надати спільний доступ через електронну пошту
+IDS_SHARE_DLG_TEXT	Що б ви хотіли зробити?
+IDS_SEARCH_BTN_SUB_MENU	Шукати вміст
+IDS_LIBRARY_SEARCH_BTN_SUB_MENU	Шукати вміст у бібліотеці
+GRACEFUL_DEGRADATION	Ця функціональність тимчасово недоступна через проблеми в мережі. \n\nПовторіть спробу пізніше.
+SHARE_BTN	Надати спільний доступ через електронну пошту
+COPY_BTN	Копіювати посилання
+SHARE_MAIL_SUBJECT	Рекомендований вміст
+SHARE_MAIL_HEADER	Шановний користувач,\n\nВас може зацікавити цей вміст. \n\n
+SHARE_MAIL_FOOTER	З повагою,
+SHARE_MAIL_LINK	Посилання:\t
+SHARE_MAIL_CAPTION	Підпис екрана:\t
+SHARE_TITLE	Надати спільний доступ до вмісту
+SELECT_ASSET	Виберіть основний засіб для запуску.
+ENTER_NAME	Введіть ім’я
+DELETE_RECORD_WRN	Важливо: цю операцію неможливо відмінити.
+MSG_PA_NEXT_LBL	Далі
+MSG_PA_STEP_LBL	Список кроків
+TOGGLE_STEPLIST_TOOLTIP	Показати / приховати список кроків
+PREVIEW_STEP_TOOLTIP	Попередній перегляд кроку
+NEXT_STEP_TOOLTIP	Перейти до наступного кроку
+PREV_STEP_TOOLTIP	Перейти до попереднього кроку
+ROLES_TITLE	Ролі асистента робочого столу
+ROLES_LBL	Фільтрувати вміст довідки за роллю
+OK_CAPTION	OK
+CANCEL_CAPTION	Скасувати
+BTN_YES	Так
+BTN_NO	Ні
+DELETE_CONFIRM	Ви впевнені, що бажаєте видалити цю наклейку?
+EXIT_CONFIRM	Дійсно вийти з @{NAVIGATOR}?
+sticky_notes	Наклейки
+exit_da	Вийти з @{NAVIGATOR}
+STICKY_NOTE_DEFAULT_TEXT	Додайте свій текст тут.
+SEARCH_BTN_TOOLTIP	Шукати
+NEXT_BTN_TOOLTIP	Далі
+PREV_BTN_TOOLTIP	Попереднє
+HIDE_BTN_TOOLTIP	Приховати карусель
+IDS_PRJ_NAME	Ввести ім’я:
+IDS_APPLICATIONS	Обрати вікно:
+IDS_PRJ_LANGUAGE	Обрати мову:
+IDS_FULL_SCREEN	Повний екран
+IDS_CHOOSE_APP_CAPTION	Обрати застосунок
+IDS_RECORD_BTN	Запис
+IDS_ANALYZE_ACTIONS	Аналіз операцій...
+IDS_PARSE_PROJECT	Синтаксичний аналіз проекту...
+IDS_REGION	Регіон
+IDS_AREA_HELP	Змініть розмір регіону шляхом вибору шаблону нижче. Масштабуйте червоний прямокутник, щоб вибрати регіон або вибрати повний екран.
+IDS_CHOOSE_SIZE	Обрати розмір:
+IDS_DEFINE_REC_AREA	Область записування
+IDS_DEFINE_NAME_LANG	Генерувати вміст
+PLEASE_SELECT	Виберіть
+quick_recorder.help_caption	Підказка
+quick_recorder.help	Щоб призупинити або продовжити, використовуйте клавішу "ПАУЗА". \nЩоб завершити, використовуйте клавішу "ЗАВЕРШИТИ". \n\nЩоб запустити записування, виберіть "OK".
+quick_recorder.audio_help	Щоб призупинити або продовжити, використовуйте клавішу "ПАУЗА". \nЩоб завершити, використовуйте клавішу "ЗАВЕРШИТИ". \n\nАудіо:\nВаше аудіо не записується під час клацання. Проговоріть ваш текст перед вибором елемента керування. \n\nЩоб запустити записування, виберіть "OK".
+FILE_EXISTS	Вже існує файл з таким самим іменем. Введіть інше ім'я.
+HELP_EXIT_CONTROL_H	Зупиняє відтворення і закриває @{NAVIGATOR}.
+HELP_EXIT_CONTROL_T	Вийти
+BTN_CLOSE_DLG	Закрити
+DELETE_RECORD_WRN	Важливо: цю операцію неможливо відмінити.
+ENTER_NAME	Введіть ім’я
+IDS_CLEAR_SEARCH	Очистити пошук
+IDS_RESET_ALL_TIP	Показати всі деактивовані підказки знову при першому вході на екран.
+IDS_SEARCH_INPUT	Вміст засобу пошуку
+LBL_DELETE	Видалити
+LBL_NAVI_NO_MATCH	Немає результатів для вашого пошуку.
+LBL_TU	Відкрити
+MSG_PA_NEXT_LBL	Далі
+MSG_PA_STEP_LBL	Список кроків
+RENAME_FAILED	Операція перейменування не вдалася.
+ROLES_LBL	Фільтрувати вміст довідки за роллю
+SELECT_ASSET	Виберіть основний засіб для запуску.
+LBL_CDOC	Відкрити
+LBL_RECORD_DOCUMENT	Документ справи
+QR_CAPTION	Вибрати виведення запису
+QR_WELCOME	Що б ви хотіли зробити?
+QR_DOC_CAP	Документ
+QR_DOC_TXT	Створює документ Microsoft Word який показує змімок екрана і текст інструкції для кожної операції, яку ви записуєте.
+QR_VIDEO_CAP	Відео
+QR_VIDEO_TXT	Створює високоякісне відео вашого запису.
+QR_DOC_VIDEO_CAP	Документ і відео
+QR_DOC_VIDEO_TXT	Створює документ і відео
+SHARE_ERR_CAP	Неможливо використовувати запис спільно
+SHARE_ERR_TXT	Цей запис занадто великий для пересилання елекронною поштою.\nБажаєте натомість відкрити місцезнаходження файлу?
+HELP_CONTENT_WINDOW_H	Вікно вмісту відображає наявну інформацію, режими і документацію для обраного вмісту головного вікна.</br>Вікно вмісту може бути пристиковане до головного вікна, що дозволяє вам переміщати обидва вікна разом на екрані.
+HELP_CONTENT_WINDOW_T	Вікно вмісту
+IDS_CONTENT_BTN	Вміст
+MSG_PA_STEP_NOT_FOUND_NUMERAL_1	1.
+MSG_PA_STEP_NOT_FOUND_NUMERAL_2	2.
+SHARE_URL	URL поточної сторінки:

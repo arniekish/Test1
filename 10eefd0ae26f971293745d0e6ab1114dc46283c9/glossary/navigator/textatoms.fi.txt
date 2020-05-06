@@ -1,0 +1,313 @@
+﻿#	Englanninkieliset tekstiatomit
+BULLET	&#149;
+NEWLINE	\r\n
+TOK_COMPANY	SAP
+TOK_LIB	Kurssi
+TOK_TOUR	Oppitunti
+TOK_TRAINER	Desktop Assistant
+TOK_AUTOMATION	epo
+NAVIGATOR	Desktop Assistant
+NAV_LIBRARY	library
+BTN_ABORT	Lopeta
+BTN_CLOSE	Lopeta
+BTN_OK	OK
+BTN_CLOSE_DLG	Sulje
+BTN_CONTINUE	Jatka
+BTN_PREVIEW	Esikatselu
+BTN_PROCEED	Jatka
+BTN_RESTART	Aloita uudelleen
+BTN_SKIP	Ohita askel
+BTN_START	Käynnistä
+BTN_STOP	Pysäytä
+BTN_EXECUTE	Suorita
+CA_SWITCH	Kontekstiohje
+CONTENT_CAP	Sisältö
+MAIL_SUBJECT	Sisältöpyyntö työpöytäavustajaa varten
+MAIL_HEADER	Hyvä tekijä,\n\npyydän seuraavaa sisältöä:
+MAIL_FOOTER	- Prosessi/tapahtuma: kuvaa tällä hetkellä olevaa sovellusprosessia. \n\n- Kuvaus: kuvaa tarvitsemiasi tietoja. \n\nYstävällisin terveisin
+MAIL_DATA	- Sovelluksen nimi:
+MAIL_TOOLTIP	Pyydä sisältöä
+SHARE_TOOLTIP	Jaa sisältö
+REQUEST_TEXT	Pyydä sisältöä napsauttamalla %s
+REQUEST_LINK	tässä
+SEARCH_CAP	Haku
+INFO_CAP	Info
+SETTINGS_CAP	Asetukset
+BACK_TOOLTIP	Paluu
+SHARE_CONTENT_TOOLTIP	Jaa sisältö
+CB_HIDE_OPTION	Älä näytä enää uudelleen
+MY_ROLES	Omat roolit
+EDIT_ROLES	Muuta rooleja
+NO_ROLES	Näytä sisältö ilman rooleja
+SELECT_ALL_CAPTION	Valitse kaikki
+USER_CAPTION	Käyttäjäalue
+READ_MORE	Lue lisää...
+NO_CATEGORY_CAPTION	Muu sisältö
+DELETE_FAILED	Poistotoiminto epäonnistui.
+RENAME_FAILED	Uudelleennimeämistoiminto epäonnistui.
+FILE_EXISTS	Samanniminen tiedosto jo olemassa. Syötä toinen nimi.
+LBL_YES	Kyllä
+LBL_DELETE	Poista
+LBL_NO	Ei
+LBL_OK	OK
+DELETE_DLG_TEXT	Haluatko todella poistaa valitut asiakirjat (%N)?
+LBL_CONCURRENT	Käynnistä rinnakkaistila
+LBL_DA	Työpöytäavustaja
+LBL_SIM	Aloita simulointi
+LBL_CDOC	Avaa
+LBL_DEMO	Käynnistä demotila
+LBL_NAVI	Käynnistä opastettu kierros
+LBL_BOOK	Toista kirja
+LBL_GROUP	Avaa libraryssä
+LBL_NAVIGATION	Työpöytäavustaja
+LBL_PA	Opastettu kierros
+LBL_PRACTICE	Käynnistä harjoitustila
+LBL_SIMULATION	Simulointi
+LBL_BOOKPAGE	Näytä kirjan sivu
+LBL_TEST	Käynnistä testitila
+LBL_RECORD_DOCUMENT	Tallenna asiakirja
+MSG_AUTOMATION_FINISHED	Automatisointi lopetettu
+MSG_AUTOMATION_FINISHED_2	Aloita automatisoitu prosessi uudelleen napsauttamalla 'Aloita uudelleen'.
+MSG_AUTOMATION_START	Muokkaa syöttöarvoja
+MSG_AUTOMATION_START_2	Tarkista tai muokkaa seuraavat arvot. Ne syötetään automaattisesti uudelleen prosessin aikana.
+MSG_EPO_DIALOG	Electronic Process Optimizer
+MSG_NAVI_LIBRARY_NO_APP	Lisätietoja ei ole käytettävissä.
+LBL_NAVI_NO_MATCH	Haullesi ei ole tuloksia.
+NO_RECORDS	Asiakirjoja ei ole käytettävissä.
+MSG_NAVI_LIBRARY_SUBTITLE	Käytettävissä olevat sisällöt:
+MSG_NAVI_LIBRARY_TITLE	Työpöytäavustaja
+MSG_NOT_APPLICABLE	ei muokattavissa
+MSG_PA_CONTROL_STEP	Askelta varten tarvittava toimi:
+MSG_PA_EXPLANATION_STEP	Navigoi alla esitettyyn näyttöön.
+MSG_PA_FORM_STEP	Lomakkeessa täytettävät pakolliset kentät:
+MSG_PA_DIALOG	Opastettu kierros
+MSG_PA_START_SCREEN	Avaa aloitusnäyttö.
+MSG_PA_STEP_NOT_FOUND	Vaihda tarvittavaan näyttöön
+MSG_PA_STEP_NOT_FOUND1	Varmista, että kohdesovellus (@{TARGETAPPNAME}) on avattu.
+MSG_PA_STEP_NOT_FOUND2	Navigoi alla esitettyyn, korostetun ohjauselementin sisältävään näyttöön.
+MSG_STEP_LIGHT	Askel - esikatselu
+MSG_STEP_NOT_FOUND	Opastetun kierroksen vaihetta ei löytynyt.
+MSG_STEP_NOT_FOUND_2	Napsauta kohdesovelluksen otsikkopalkkia tai navigoi oikealle sivulle.<br><br>Napsauttamalla 'Esikatselu' voit näyttää' tarvittavan sivun.
+PA_FINISHED	Opastettu kierros lopetettu.
+PROJECT_TITLE	Projektin otsikko
+TRAY_INFO_BUBBLE_HEADING	Opastettu kierros
+TRAY_INFO_BUBBLE_TEXT	Nykyistä askelta ei voi näyttää. Lisätietoja saat napsauttamalla tästä.
+RESTRICTED_BUBBLE_HEADING	Toimi lukittu.
+RESTRICTED_BUBBLE_TEXT	Et voi suorittaa toimia, ennen kuin nykyinen askel on vahvistettu.
+HELP_TITLE	Ohje
+HELP_INTRO	Ohjeessa on kuvattu yleistiedot kohteen @{NAVIGATOR} pääosista ja -toiminnoista.</br></br><b>Huomautus:</b> Käytettävissä olevat toiminnot riippuvat kohteen @{NAVIGATOR} konfiguraatiosta.</br>
+HELP_TITLE_DA	Sivupalkki ja ikkunat
+HELP_SIDEBAR_T	Sivupalkki
+HELP_SIDEBAR_H	Sivupalkin avulla voit käynnistää kohteen @{NAVIGATOR} päätoiminnot. Kullakin toiminnolla on painike. Sivupalkkia voidaan siirtää vetämällä ja pudottamalla sekä pienentää ja suurentaa napsauttamalla sivupalkin reunaa.
+HELP_CONTENT_CONTROL_T	Sisältö
+HELP_CONTENT_CONTROL_H	Osoittaa, onko sisältöä käytettävissä. Avaa pääikkunan, jossa on sisältö.
+HELP_SEARCH_CONTROL_T	Hae
+HELP_SEARCH_CONTROL_H	Avaa haun sisällön hakua varten.
+HELP_EXTSEARCH_CONTROL_T	Ulkoinen haku
+HELP_EXTSEARCH_CONTROL_H	Avaa ulkoisen haun sisällön hakua varten.
+HELP_STICKY_CONTROL_T	Lisää muistilappu
+HELP_STICKY_CONTROL_H	Lisää muistilapun nykyistä sovellusikkunaa varten. Voit syöttää tekstiä muistilappuun.
+HELP_RECORDING_CONTROL_T	Aloita tallennus
+HELP_RECORDING_CONTROL_H	Aloittaa prosessin tallennuksen. Tallennettu prosessi tallennetaan asiakirjana käyttäjäalueella.
+HELP_MAIN_WINDOW_T	Pääikkuna
+HELP_MAIN_WINDOW_H	Pääikkunassa näkyy tietyn sivukontekstin käytettävissä oleva sisältö.</br>Opastetun kierroksen toiston aikana ikkunassa näkyy luettelo vaiheista.
+HELP_HEADER_T	Otsikko
+HELP_HEADER_H	Otsikossa oleva tilakuvake näyttää, onko nykyistä kontekstia varten käytettävissä sisältöä.
+HELP_CONTENT_TAB_T	Sisältö-välilehti
+HELP_CONTENT_TAB_H	Välilehdessä näkyy nykyisen sovelluksen käytettävissä oleva sisältö.
+HELP_CONTENT_VIEW_T	Sisältönäkymä
+HELP_CONTENT_VIEW_H	Sisältönäkymässä näkyvät valitun sisällön käytettävissä olevat tiedot, tilat ja dokumentaatio.</br>Voit palata takaisin sisältöluetteloon 'Paluu'-ohjauselementin avulla.
+HELP_SEARCH_TAB_T	Hakuvälilehti
+HELP_SEARCH_TAB_H	Välilehdestä voit hakea erityistä sisältöä nykyiselle kontekstillesi.
+HELP_INFO_TAB_T	Infovälilehti
+HELP_INFO_TAB_H	Välilehti näyttää yleiset tiedot kohteesta @{NAVIGATOR}.
+HELP_USERAREA_TAB_T	Käyttäjäalue-välilehti
+HELP_USERAREA_TAB_H	Välilehti sisältää tallennetun prosessin asiakirjat. Voit avata, jakaa tai poistaa asiakirjan. Voit tallentaa muita prosesseja.
+HELP_INSTANT_T	Pikaohje
+HELP_INSTANT_H	Jos asetus aktivoidaan, lisäkontekstitiedot näytetään nykyisen sovellusnäytön oikeassa reunassa. Oletusarvoisesti asetus on aktiivinen.
+HELP_REQCONTENT_T	Pyydä sisältöä
+HELP_REQCONTENT_H	Avaa sähköposti-ikkunan, jonka avulla pyydetään puuttuvaa sisältöä tekijältä.
+HELP_SETTINGS_T	Asetukset
+HELP_SETTINGS_H	Näkymä sisältää asetukset kohteen @{NAVIGATOR} sisällön näyttöä varten.
+HELP_MYROLES_T	Omat roolit
+HELP_MYROLES_H	Tämä asetus näyttää kohdistetun roolin sisällön.
+HELP_WITHOUTROLES_T	Näytä sisältö ilman rooleja
+HELP_WITHOUTROLES_H	Tämä asetus näyttää sisällön ilman kohdistettuja rooleja.
+HELP_EDITROLES_T	Roolit
+HELP_EDITROLES_H	Kaikki sisältöä varten käytettävät roolit listataan, ja ne voidaan aktivoida tai aktivointi poistaa sisällön näyttämiseksi.
+HELP_SHARECONTENT_T	Jaa sisältö
+HELP_SHARECONTENT_H	Avaa valintaikkunan, jossa on linkki sisältöön. Linkki voidaan jakaa muille käyttäjille.
+HELP_REQUESTCONTENT_T	Pyydä sisältöä
+HELP_REQUESTCONTENT_H	Avaa ennalta määritetyn sähköpostin tietyn tapauksen sisällön pyyntöä varten.
+HELP_PLAYBACK_CONTENT_T	Toista sisältö
+HELP_PLAYBACK_CONTENT_H	Käytettävissä oleva sisältö voidaan käynnistää tai avata käyttämällä sisältöikkunan painikkeita.
+HELP_MINIMIZED_STATUS_T	Pienennetty tila
+HELP_MINIMIZED_STATUS_H	Jos pääikkuna suljetaan, kelluvassa tilakuvakkeessa näkyy edelleen, onko nykyiselle kontekstille saatavissa sisältöä. Voit palauttaa pääikkunan napsauttamalla kuvaketta.
+HELP_MINIMIZED_MENU_T	Kontekstivalikko
+HELP_MINIMIZED_MENU_H	Kontekstivalikko (kuvaketta napsautetaan hiiren kakkospainikkeella) sisältää toimintoja pääikkunan ja kontekstiohjeen näyttöä varten.
+HELP_BOOK_WINDOW_T	Kirjaikkuna
+HELP_BOOK_WINDOW_H	Kirjaikkuna avataan, kun kirja toistetaan. Pääikkuna ja sisältöikkuna piilotetaan.
+HELP_GOTOTOP	Siirry ylös
+HELP_CAPTION	@{NAVIGATOR} - ohje
+NAVHELP_TITLE	Tilakuvake ja kontekstivalikko
+NAVHELP_INTRO	</br>Ohjeessa esitetään yleistiedot tilakuvakkeen ja kontekstivalikon merkinnöistä.
+NAVHELP_STATUS_ICON_T	Tilakuvake (tehtäväpalkki)
+NAVHELP_STATUS_ICON_H	Tilakuvake on sijoitettu tehtäväpalkkiin ja siinä näkyvät kohteen @{NAVIGATOR} nykyiset toiminnot. Kuvakkeella on kolme eri tilaa:
+NAVHELP_STATUS_FOUND_T	Sisältö käytettävissä (vihreä kuvake)
+NAVHELP_STATUS_FOUND_H	Sisältö on käytettävissä nykyistä kontekstia varten, ja se näytetään.
+NAVHELP_STATUS_CHECK_T	Ladataan sisältöä (keltainen kuvake)
+NAVHELP_STATUS_CHECK_H	@{NAVIGATOR} tarkistaa käytettävissä olevan sisällön nykyisen kontekstin ja lataa sisällön.
+NAVHELP_STATUS_NOFOUND_T	Sisältöä ei ole käytettävissä (punainen kuvake)
+NAVHELP_STATUS_NOFOUND_H	Sisältö ei ole käytettävissä nykyistä kontekstia varten.
+NAVHELP_STANDBY_T	Aktivointi poistettu
+NAVHELP_STANDBY_H	Kohteen @{NAVIGATOR} aktivointi on poistettu. Voit aktivoida kohteen @{NAVIGATOR} tai poistaa sen aktivoinnin napsauttamalla tilakuvaketta (<i>CTRL + F11</i>).
+NAVHELP_STATUS_MIN_T	Pienennetty
+NAVHELP_STATUS_MIN_H	Ikkunat ja sivupalkki pienennetään.
+NAVHELP_STATUS_MENU_T	Kontekstivalikko
+NAVHELP_STATUS_MENU_H	Kontekstivalikko (napsauta kuvaketta hiiren kakkospainikkeella) sisältää @{NAVIGATOR} yleiset toiminnot.
+NAVHELP_VERSION_T	Näytä versio
+NAVHELP_VERSION_H	Näyttää asennetun @{NAVIGATOR} versionumeron. Tietoja tarvitaan, jos ongelmien ilmetessä otetaan yhteys tukeen.
+NAVHELP_JSCONSOLE_T	JavaScript-konsoli
+NAVHELP_JSCONSOLE_H	Näyttää JavaScript-konsolin ja yksityiskohtaiset virheilmoitukset. Tietoja tarvitaan, jos ongelmien ilmetessä otetaan yhteys tukeen.
+NAVHELP_NAV_CACHE_T	Poista paikallinen välimuisti
+NAVHELP_NAV_CACHE_H	Poistaa kohteen @{NAVIGATOR} sisällön paikallisen välimuistin.
+NAVHELP_RESET_HIDDEN_T	Näytä kaikki piilotetut ohjeet uudelleen
+NAVHELP_RESET_HIDDEN_H	Palauttaa tilaan 'Piilotettu' asetetut apuelementit toiston aikana.
+NAVHELP_EXIT_T	Lopeta
+NAVHELP_EXIT_H	Pysäyttää toiston ja sulkee kohteen @{NAVIGATOR}.
+IDS_NAVP_ABOUT	Näytä versio...
+IDS_NAVP_CONSOLE	JavaScript-konsoli...
+IDS_NAVP_DELETE_CACHE	Poista paikallinen välimuisti
+IDS_NAVP_HOOKER	Hooker
+IDS_SEARCH_INPUT	Haku - ohjeen sisältö
+IDS_CLEAR_SEARCH	Tyhjennä haku
+IDS_NAVP_CLOSE	Lopeta
+IDS_RESET_CURRENT	Näytä piilotettu apuelementti uudelleen
+IDS_RESET_ALL	Näytä kaikki piilotetut ohjeet uudelleen
+IDS_RESET_ALL_TIP	Näytä kaikki käytöstä poistetut vihjeet uudelleen, kun näyttöön siirrytään ensimmäistä kertaa
+IDS_OPEN_RECORD_LBL	Avaa
+IDS_EDIT_RECORD_LBL	Nimeä uudelleen
+IDS_DELETE_RECORD_LBL	Poista
+IDS_SHARE_RECORD_LBL	Jaa
+IDS_EXTERNAL_SEARCH_BTN	Ulkoinen haku
+IDS_EXTERNAL_SEARCH_SUB_MENU	Ulkoinen haku
+IDS_SHOW_SCREEN_ICON	Näytä työpöytäavustaja
+IDS_SHOW_DA	Näytä pääikkuna
+IDS_SHOW_CONTENT	Näytä sisältö
+IDS_HIDE_CONTENT	Piilota sisältö
+IDS_SEARCH_BTN	Hae
+IDS_REQUEST_CONTENT_BTN	Pyydä sisältöä
+IDS_RECORDING_BTN	Aloita tallennus
+IDS_SHOW_CA_SWITCH	Näytä kontekstiohje
+IDS_HIDE_CA_SWITCH	Piilota kontekstiohje
+IDS_CA_SWITCH_INACTIVE_BTN	Kontekstiohjetta ei ole käytettävissä
+IDS_DO_CTX_RECOGNITION	Näytä kontekstiohje
+IDS_NAV_STANDBY	Kohteen @{NAVIGATOR} aktivointi on poistettu.
+IDS_NAV_NO_STANDBY	Kohdetta @{NAVIGATOR} ei ole aktivoitu.
+IDS_SHOW_DA_PANELS	@{NAVIGATOR} on jälleen käytettävissä. Voit käyttää kohdetta @{NAVIGATOR}, jos tarvitset apua.
+IDS_HIDE_DA_PANELS	@{NAVIGATOR} katosi automaattisesti, koska juuri avaamassasi sovelluksessa on käytettävissä sopiva ohje. Avaa ohje sovelluksessa, jos tarvitset lisää apua.
+IDS_ADD_STICKY_NOTES_BTN	Lisää muistilappu
+IDS_ADD_STICKY_NOTES_INACTIVE_BTN	Voit lisätä vain yhden muistilapun tätä sovellusta varten.
+IDS_EXIT_DA	Lopeta
+IDS_EXIT_DA_BTN	Lopeta
+IDS_EXIT_DA_SUB_MENU	Lopeta
+IDS_SHOW_MORE	Näytä enemmän
+IDS_HIDE_MORE	Piilota enemmän
+IDS_REQUEST_CONTENT_SUB_MENU	Pyydä sisältöä
+IDS_SHOW_CA_SUB_MENU	Näytä kontekstiohje
+IDS_HIDE_CA_SUB_MENU	Piilota kontekstiohje
+IDS_ADD_STICKY_NOTE_SUB_MENU	Lisää muistilappu
+IDS_RECORDING_SUB_MENU	Aloita tallennus
+IDS_CA_SWITCH_SUB_MENU	Kontekstiohje
+IDS_SHARE_DLG_CAPTION	Jaa asiakirja
+IDS_DELETE_FRAMES	Poistetaan kehyksiä
+OPEN_FOLDER	Avaa kansio
+SHARE_DOC	Jaa sähköpostitse
+IDS_SHARE_DLG_TEXT	Mitä haluat tehdä?
+IDS_SEARCH_BTN_SUB_MENU	Hae sisältö
+IDS_LIBRARY_SEARCH_BTN_SUB_MENU	Hae sisältöä librarysta
+GRACEFUL_DEGRADATION	Tämä toiminto on väliaikaisesti poissa käytöstä verkko-ongelmien vuoksi. \n\nYritä myöhemmin uudelleen.
+SHARE_BTN	Jaa sähköpostitse
+COPY_BTN	Kopioi linkki
+SHARE_MAIL_SUBJECT	Suositeltu sisältö
+SHARE_MAIL_HEADER	Hei,\n\ntämä sisältö saattaa kiinnostaa sinua. \n\n
+SHARE_MAIL_FOOTER	Ystävällisin terveisin
+SHARE_MAIL_LINK	Linkki:\t
+SHARE_MAIL_CAPTION	Kuvateksti:\t
+SHARE_TITLE	Jaa sisältö
+SELECT_ASSET	Aloita valitsemalla omaisuus.
+ENTER_NAME	Syötä nimi
+DELETE_RECORD_WRN	Tärkeää: Tätä toimea ei voi kumota.
+MSG_PA_NEXT_LBL	Seuraava
+MSG_PA_STEP_LBL	Askelluettelo
+TOGGLE_STEPLIST_TOOLTIP	Näytä/piilota askelluettelo
+PREVIEW_STEP_TOOLTIP	Esikatselu - askel
+NEXT_STEP_TOOLTIP	Siirry seuraavaan askeleeseen
+PREV_STEP_TOOLTIP	Siirry edelliseen askeleeseen
+ROLES_TITLE	Työpöytäavustajan roolit
+ROLES_LBL	Suodata ohjeen sisältö roolin mukaan
+OK_CAPTION	OK
+CANCEL_CAPTION	Peruuta
+BTN_YES	Kyllä
+BTN_NO	Ei
+DELETE_CONFIRM	Haluatko varmasti poistaa tämän muistilapun?
+EXIT_CONFIRM	Haluatko varmasti poistua kohteesta @{NAVIGATOR}?
+sticky_notes	Muistilaput
+exit_da	Lopeta @{NAVIGATOR}
+STICKY_NOTE_DEFAULT_TEXT	Lisää oma teksti tähän.
+SEARCH_BTN_TOOLTIP	Hae
+NEXT_BTN_TOOLTIP	Seuraava
+PREV_BTN_TOOLTIP	Edellinen
+HIDE_BTN_TOOLTIP	Piilota karuselli
+IDS_PRJ_NAME	Syötä nimi:
+IDS_APPLICATIONS	Valitse ikkuna:
+IDS_PRJ_LANGUAGE	Valitse kieli:
+IDS_FULL_SCREEN	Kokonäyttö
+IDS_CHOOSE_APP_CAPTION	Valitse sovellus
+IDS_RECORD_BTN	Tallenna
+IDS_ANALYZE_ACTIONS	Analysoidaan toimia...
+IDS_PARSE_PROJECT	Jäsennetään projektia...
+IDS_REGION	Alue
+IDS_AREA_HELP	Muuta alueen kokoa valitsemalla malli alla. Voit valita alueen tai kokonäytön skaalaamalla punaisen suorakulmion.
+IDS_CHOOSE_SIZE	Valitse koko:
+IDS_DEFINE_REC_AREA	Tallennusalue
+IDS_DEFINE_NAME_LANG	Generoi sisältö
+PLEASE_SELECT	Valitse
+quick_recorder.help_caption	Vihje
+quick_recorder.help	Keskeytä tai jatka "PAUSE"-näppäimen avulla. \nLopeta painamalla "END"-näppäintä. \n\nAloita tallennus valitsemalla "OK".
+quick_recorder.audio_help	Keskeytä tai jatka PAUSE-näppäimen avulla. \nLopeta painamalla END-näppäintä. \n\nÄäni:\nÄäntä ei tallenneta napsautuksen aikana. Puhu teksti ennen ohjauselementin valintaa. \n\nAloita tallennus valitsemalla OK.
+FILE_EXISTS	Samanniminen tiedosto jo olemassa. Syötä toinen nimi.
+HELP_EXIT_CONTROL_H	Pysäyttää toiston ja sulkee kohteen @{NAVIGATOR}.
+HELP_EXIT_CONTROL_T	Lopeta
+BTN_CLOSE_DLG	Sulje
+DELETE_RECORD_WRN	Tärkeää: Tätä toimea ei voi kumota.
+ENTER_NAME	Syötä nimi
+IDS_CLEAR_SEARCH	Tyhjennä haku
+IDS_RESET_ALL_TIP	Näytä kaikki käytöstä poistetut vihjeet uudelleen, kun näyttöön siirrytään ensimmäistä kertaa
+IDS_SEARCH_INPUT	Haku - ohjeen sisältö
+LBL_DELETE	Poista
+LBL_NAVI_NO_MATCH	Haullesi ei ole tuloksia.
+LBL_TU	Avaa
+MSG_PA_NEXT_LBL	Seuraava
+MSG_PA_STEP_LBL	Askelluettelo
+RENAME_FAILED	Uudelleennimeämistoiminto epäonnistui.
+ROLES_LBL	Suodata ohjeen sisältö roolin mukaan
+SELECT_ASSET	Aloita valitsemalla omaisuus.
+LBL_CDOC	Avaa
+LBL_RECORD_DOCUMENT	Tallenna asiakirja
+QR_CAPTION	Valitse tallennuksen tulostus
+QR_WELCOME	Mitä haluat luoda?
+QR_DOC_CAP	Asiakirja
+QR_DOC_TXT	Luo Microsoft Word -asiakirjan, jossa näkyy näyttökuva ja ohjeteksti jokaista tallennettua toimea varten.
+QR_VIDEO_CAP	Video
+QR_VIDEO_TXT	Luo hyvälaatuisen videon tallennuksesta.
+QR_DOC_VIDEO_CAP	Asiakirja ja video
+QR_DOC_VIDEO_TXT	Luo asiakirjan ja videon.
+SHARE_ERR_CAP	Tallennusta ei voi jakaa
+SHARE_ERR_TXT	Tämä tallennus on liian suuri jaettavaksi sähköpostin kautta.\nHaluatko avata tiedostosijainnin sen sijaan?
+HELP_CONTENT_WINDOW_H	Sisältöikkunassa näkyvät pääikkunan valitusta sisällöstä saatavissa olevat tiedot, tilat ja dokumentaatio.</br>Sisältöikkuna voidaan kiinnittää pääikkunaan, minkä jälkeen molempia ikkunoita voi liikutella näytöllä yhdessä.
+HELP_CONTENT_WINDOW_T	Sisältöikkuna
+IDS_CONTENT_BTN	Sisältö
+MSG_PA_STEP_NOT_FOUND_NUMERAL_1	1.
+MSG_PA_STEP_NOT_FOUND_NUMERAL_2	2.
+SHARE_URL	Nykyisen sivun URL:

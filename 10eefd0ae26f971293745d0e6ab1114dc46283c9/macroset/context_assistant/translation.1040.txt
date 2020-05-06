@@ -1,0 +1,765 @@
+﻿NAVIGATOR	Desktop Assistant
+XRAY	Web Assistant
+LIBRARY	library
+MANAGER	Manager
+form_bubble	Area commento modulo
+bform_height	Altezza
+bform_height.h	Definisce l'altezza in pixel della forma area comm. da visualizzare
+bform_width	Larghezza
+bform_width.h	Definisce la larghezza in pixel della forma area comm. da visualizzare
+bform_position	Posizione
+bform_position.h	Definisce la posizione della forma area comm. (sx., in alto) per l'allineamento 'libero' nella videata. I valori sono espressi in pixel
+paramAutoMergeComplete	L'unione delle videate è stata completata
+form	Modulo
+application_contexts	Applicazione
+﻿Application	Applicazione
+highlight_offset	Offset
+AutoBarChooseApp	Scegliere applicazione
+AutoBarReRecManual	Fare clic sul'oggetto
+BubbleOnActivate	Mostrare direttamente l'area commento
+ClickOnAAPosition	Fare clic nell'applicazione per definire il rettangolo.
+ClickOnPosition	Fare clic su una posizione nell'applicazione
+EnabledOnPgLoad	Attivare
+HighlightOnActivate	Mostrare direttamente l'evidenziazione
+start_from_arbitrary	Iniziare da fase arbitraria
+focus_step	Layer area attiva
+focus_step.h	Solo visita guidata\nVisualizza un layer grigio per evidenziare l’elemento di controllo richiesto nel passo attuale.
+yes	Sì
+no	No
+light_mode	Modalità interattiva
+light_mode.h	Indica che l’utente deve navigare nell’area commento dell’oggetto fino al passo successivo. Durante la riproduzione non ha luogo alcun riconoscimento pagina.
+restricted_mode	Modalità limitata
+restricted_mode.h	Specifica che solo l'azione attuale può essere eseguita. Gli altri elementi di controllo della pagina dell'applicazione sono bloccati. \nLa parametrizzazione può essere utilizzata se è stato attivato 'Layer area attiva'.
+show_highlight	Evidenziazioni
+action	Azione
+active_area	Area attiva
+add_application_expl	Inserire spiegazione
+adv	Avanzato
+display_behavior	Comportamento visualizzazione
+all_values	Tutti i valori
+anim_steps	Fasi animazione
+application_context	Applicazione
+area	Area
+auto_merge	Unione macro videata
+b_height	Altezza
+form_on	Modalità modulo
+b_percent	Area commento visibile (%)
+b_hide_option	Nascondere opzione
+b_minimizable	Riducibile
+b_closable	Chiudibile
+b_minimized	Minimizzato
+b_width	Larghezza
+b_width.h	Definisce la larghezza dell'area commento dell'oggetto in pixel.
+bmain_minimizable	Riducibile
+bmain_position	Posizione
+bmain_win_style	Stile
+bmain_size	Dimensione
+bmain_alignment	Allineamento
+bubble	Area commento dell'oggetto
+bubble_offset	Offset
+bubblestyle_d	Stile
+bubblestyle_init	Stile area commento
+choose_appl_template	Scegliere profilo dell'applicazione
+choose_bool	Valore selezionato
+choose_nr	Indice selezionato
+choose_text	Valore selezionato
+target_static_text	è registrato/a come 'ID pagina'
+target_spec_warning	Attenzine: nessuna inf. di ri-registrazione disponibile per questo controllo
+prev_step	Fase precedente
+next_step	Fase successiva
+click	Azione del mouse
+click_pos	Fare clic sulla posizione
+click_pos_rel	Posizione area commento
+config_file	Profilo dell'applicazione
+define_target	Videata
+display	Modificare area commento principale
+display_name	Nome visualizzazione
+drag	Trascinare
+drop	Rilasciare
+dump_page	Screenshot
+elem_bubble	Area commento dell'oggetto
+element_type	Tipo di oggetto
+enabled	Attivato
+optional	Facoltativo
+enter	Invio con il mouse
+executable	Applicazione
+explanation_d	Testo
+explanation_d_modified	Tradurre manualmente
+explanation_long	Spiegazione
+fh_mouseover	Guida mouseover
+fh_onelem	Icona
+fh_tooltip	Quick Info
+fh_bubble	Area commento
+step_list	Elenco fasi
+fieldicon	Immagine oggetto
+fieldname	Nome oggetto
+find	Trovare
+AutoBarChooseScn	Fare clic sulla rispettiva videata
+frame	Riquadro
+g_highlight_bgr	Colore
+g_highlight_border	Bordo
+g_highlight_effect	Effetto
+global	Globale
+hide_on_focuslost	Nascondere alla perdita dell'area attiva
+hilight	Evidenziazione
+input_radio	Pulsante radio/Casella di spunta
+input_text	Testo di input
+init	Inizializzazione
+key	Tasto
+key_desc	Tasto di scelta rapida
+key_name	Codice chiave
+key_press	KeyPress
+lclick	Fare clic con il tasto sinistro del mouse
+ldblclick	Fare doppio clic con il tasto sinistro del mouse
+force_display	Forzare visualizzazione
+auto_execute	Eseguire automaticamente
+show_confirmation	Mostrare pulsante di conferma
+show_confirmation.h	Definisce se viene visualizzato un pulsante di conferma nell'area di commento dell'oggetto, durante la riproduzione. Questo pulsante consente all'utente di confermare l'esecuzione di un'azione e al sistema di visualizzare il passo successivo.
+link_to_sim	Inserire collegamento simulazione
+macro_comment	Commento
+main_bubble	Finestra
+match_value	Corrispondenza valore
+mini_on_focuslost	Ridurre a icona alla perdita dell'area attiva
+enable_tincan	@{NAVIGATOR} Tracking
+nav_check_freq	Aggiornare frequenza (min)
+navigation	Assistente desktop
+new_screen_context	Nuova videata
+no_spike	Senza punta
+pa_caption	Visita guidata
+none	Nessuno
+objname	Nome oggetto
+orientation	Orientamento
+path	Percorso oggetto
+position	Posizione
+rclick	Clic con il pulsante destro del mouse
+rdblclick	Doppio clic destro
+record_activearea	Registrare area attiva
+record_application_context	Registrare applicazione
+no_control	Nessun oggetto disp. nella posizione sel. mediante clic
+record_control	Registrare oggetto
+record_control_pa	Registrare fase visita guidata
+record_define_target	Registrare videata
+record_display	Modificare area commento principale
+record_end_display	Modificare area commento
+record_explanation	Aggiungere spiegazione
+record_object_context	Registrare oggetto
+record_screen_context	Registrare videata
+record_target_specializer	Registrare ID di pagina
+record_compatible_application	Registrare applicazione compatibile
+reference	Origine
+regexp	Espressione regolare
+replace	Sostituire
+replace_continue	Sostituire e continuare...
+replace_pgkey_attr	Sostituire attributi chiave della pagina
+error_regexp	Espressione regolare non valida. Correggere i dati immessi.
+resize	Ridimensionare finestra
+revision	Revisione
+sc_config_header	Informazioni profilo
+screen	Videata
+screenhelp	Guida videata
+screenshot_rect	Posizione screenshot
+select_single	Selezione singola
+selected_merge	Unione macro videate selezionate
+show_bubble	Mostrare direttamente
+show_hilight	Visualizzare evidenziazione
+show_on_focus	Visualizzare in area attiva
+source	Sorgente
+start_unit	Stile dell'help contestuale
+subkey	Consentito come sottochiave
+script	Script
+target_name	Titolo
+target_specializer	ID della pagina
+text_d	Testo di input
+text_d_specializer	Testo di input
+tolerance	Tolleranza unione macro videata
+translate	Traduzione automatica
+autoTranslate	Tradurre progetto
+paramReRecordLanguage	Lingua
+merge_critical_macros	Unire macro automaticamente
+merge_critical_macros.h	Se si stanno convertendo simulazioni in navigazioni, è possibile unire automaticamente le videate così create. Queste vengono combinate utilizzando il valore di tolleranza determinato nel parametro 'Tolleranza unione macro videata'.
+uid	UID
+underline	Sottolineato
+update_control	Aggiornare oggetto
+update_target	Aggiornare videata
+variant	Variante
+win_rect	Dimensioni finestra
+wizCancel	Annullare
+wizFinish	Terminare
+wizNext	Successivo
+wizOk	OK
+wizExplanation	Spiegazione
+wizContinue	Continuare
+app_info	Mostrare applicazione
+app_link_to_sim	Inserire collegamento simulazione per applicazione
+screen_info	Mostrare videata
+screen_link_to_sim	Inserire collegamento simulazione per videata
+object_info	Visualizzare variante
+object_link_to_sim	Inserire collegamento simulazione
+disabled	Disattivato
+record_context_assistant_include	Includere @{NAVIGATOR} progetto
+project_id	Titolo progetto
+project_id.h	Il parametro contiene il progetto inserito. Il pulsante 'Modificare collegamento' consente di selezionare il progetto nell'area di lavoro
+project	Progetto
+context_assistant_include	Progetto assistente desktop
+open_expanded	Visualizzare area di commento principale avanzata
+restart_option	Pulsante di riavvio
+next_project_id	Progetto successivo
+next_project_id.h	Questa opzione definisce un progetto che sarà avviato dopo il completamento del processo attuale. Il nuovo processo viene avviato direttamente e non sarà visualizzata nessuna area commento finale.
+end_unit	Fine della visita
+add_end_unit	Aggiungere fine processo
+demo	Modalità Demo
+uebung	Modalità Esercizio
+praxis	Modalità Simultanea
+test	Modalità test
+doc	Documento Word
+pdf	Documento PDF
+html	Documento HTML
+ppt	Documento PowerPoint
+explanation_type	Icona
+note	Nota
+info	Info
+tipp	Suggerimento
+warnung	Avviso
+no_image	Nessuna icona
+display_on	Visualizzare area commento principale in
+nav_start	Avvio navigazione
+app_focus	Area attiva applicazione
+screen_focus	Area attiva videata
+never	Non mostrare
+list_type	Tipo di lista per videata
+list_type.h	Questo parametro determina il tipo di elenco degli oggetti nella videata, se l'opzione 'Visualizzare tutte le informazioni oggetto' è stata attivata.
+unordered_list	Punti elenco
+ordered_list	Numerazione
+convert_sn	Generare assistente desktop
+Application	Applicazione
+obj_context	Oggetto
+expl_context	Spiegazione
+record_cntrl_type	Tipo
+disable_standby	Disattivare lo stato di standby (@{NAVIGATOR})
+disable_standby.h	Stabilisce che non è possibile impostare lo stato di standby del @{NAVIGATOR} . Se questa opzione è disattivata, è possibile impostare lo stato di standby con lo shortcut 'CTRL + F11' o con un clic sull'icona di stato.
+disable_exit	Nascondere la voce Uscire (@{NAVIGATOR})
+disable_exit.h	Stabilisce che la voce "Uscire" nel menu contestuale dell'icona di stato del @{NAVIGATOR} è nascosta.
+bcontent_style	Stile area commento
+bcontent_style.h	Questa parametrizzazione definisce lo stile di area commento da utilizzare per visualizzare l'area commento
+cache_properties	Cache
+cache_folder	Ubicazione cartella
+cache_folder.h	Indica l'ubicazione della cartella della cache 'NavigatorCache'. L'ubicazione di default è '%localappdata%'. È possibile inserire un'ubicazione personalizzata. \nNota: Il nome della cartella della cache non può essere modificato.
+use_caching	Utilizzare gestione Cache
+use_caching.h	Attiva l'utilizzo della cache @{NAVIGATOR} .
+function_keys	Tasti funzione
+minimize_da	Ridurre a icona
+minimize_da.h	Definisce un tasto funzione per ridurre a icona la finestra principale
+next_tab	Sel. tab successivo
+next_tab.h	Definisce un tasto funzione per sel. tab successivo nella finestra principale
+next_screen	Passare a videata successiva
+next_screen.h	Definisce un tasto funzione per navigare nella videata successiva del progetto selezionato
+back	Tornare indietro
+back.h	Definisce un tasto funzione per tornare alla videata precedente
+toggle_standby	Commutare modalità stand-by
+toggle_standby.h	Definisce un tasto funzione per commutare la modalità stand-by
+abort	Interrompere
+abort.h	Definisce un tasto funzione per abbandonare l'assistente desktop
+restart	Riavviare
+restart.h	Definisce un tasto funzione per riavviare l'assistente desktop
+start_pa	Avviare progetto dell'assistente desktop
+start_pa.h	Definisce un tasto funzione per avviare un progetto selezionato
+start_demo	Avviare modalità Demo
+start_demo.h	Definisce un tasto funzione per avviare nella modalità Demo selezionata
+start_prac	Avviare modalità Esercizio
+start_prac.h	Definisce un tasto funzione per avviare nella modalità Esercizio selezionata
+start_test	Avviare modalità Test
+start_test.h	Definisce un tasto funzione per avviare nella modalità Test selezionata
+start_concur	Avviare in modalità Simultanea
+start_concur.h	Definisce un tasto funzione per avviare in modalità Simultanea
+start_book	Avviare libro
+start_book.h	Definisce un tasto funzione per avviare un libro selezionato
+start_group	Aprire in libreria
+start_group.h	Definisce un tasto funzione per aprire un gruppo nella libreria
+toggle_ctx_rec	Comm. riconoscimento contesto
+toggle_ctx_rec.h	Definisce un tasto funzione per commutare ricon. contento dell'assitente desktop
+select_next	Selezionare inserimento successivo
+select_next.h	Definisce un tasto funzione per selezionare l'inserimento successivo nella finestra attuale
+select_prev	Selezionare inserimento precedente
+select_prev.h	Definisce un tasto funzione per selezionare l'inserimento precedente nella finestra attuale
+toggle_warning	Visualzizare fin. dialogo avvertimento
+toggle_warning.h	Definisce un tasto funzione per visualizzare inf. dialogo dell'ass. desktop
+execute_step	Eseguire fase
+execute_step.h	Definisce un tasto funzione per eseguire una fase durante la riproduzione della visita guidata
+copy_link	Copia link
+copy_link.h	Definisce un tasto funzione per la copia link dell'entità selezionata
+maximize_trainer	Ingrandire finestra del contenuto
+maximize_trainer.h	Definisce un tasto funzione per ingrandire la finestra del contenuto.
+share_email	Condividere via e-mail
+share_email.h	Definisce un tasto funzione per condividere il contenuto dell'entità selezionata tramite e-mail
+start_default	Avviare contenuto standard
+start_default.h	Definisce un tasto funzione per avviare la sessione standard o il documento selezionato
+show_da_help	Visualizzare help assistente desktop
+show_da_help.h	Definisce un tasto funzione per aprire l'help assistente desktop
+request_content	Richiedere contenuto
+request_content.h	Definisce un tasto funzione per richiedere il contenuto della pagina di un'applicazione
+search_content	Cercare contenuto
+search_content.h	Definisce un tasto funzione per cercare un contenuto in base al tipo di ricerca selezionato
+show_hidden_elems	Visualizzare elementi help nascosti
+show_hidden_elems.h	Definisce un tasto funzione per vis. gli elementi help nascosti
+toggle_side_bar	Vis. / Nascondere barra laterale
+toggle_side_bar.h	Definisce un tasto funzione per vis. e nascondere la barra laterale
+content_library	Assistente desktop - contenuto e comportamento
+content_library_window	Assistente desktop - Stile e finestre
+content_library_sidebar	Assistente desktop - barra laterale
+style	Stile
+style.h	Definisce l'aspetto dei componenti dell'assistente desktop (finestra principale, finestra di contenuto, icona di stato). Selezionare una risorsa dello stile dall'elenco.
+show_only_bar	Visualizzare solo barra laterale all'avvio
+show_only_bar.h	Definisce se all'avvio dell'assistente desktop viene visualizzata solo la barra laterale o anche la finestra principale
+clear_on_mismatch	Cancellare lista contenuto per inconsistenza contesto
+clear_on_mismatch.h	Stabilisce che la lista di contenuti venga cancellata se non viene trovato contesto. Se l'impostazione è disattivata, viene visualizzato il contenuto dell'ultimo oggetto riconosciuto.
+da_positioning	Allineamento finestra principale
+da_positioning.h	Definisce l'allineamento della finestra principale sulla videata. L'opzione "Libero" consente di definire una posizione nel parametro "Posizione della finestra principale".
+bar_positioning	Allineamento barra laterale
+bar_positioning.h	Definisce l'allineamento della barra laterale nella videata
+left_top	Angolo a sinistra in alto
+left_center	Centrato a sinistra
+left_bottom	Angolo a sinistra in basso
+right_top	Angolo in alto a destra
+right_center	Centrato a destra
+top_center	In alto al centro
+right_bottom	Angolo in basso a destra
+center	Centrare
+free	Libero
+list_order	Classificazione contenuto
+list_order.h	Definisce la class. del contenuto disponibile nella lista
+by_default	Struttura gestione progetti
+by_name	Alfabetico
+by_type	Alfabetico per tipo
+library_position	Posizione finestra principale (libera)
+library_position.h	Definisce la posizione della finestra principale (a sinistra, in alto) per l'allineamento 'Libero' nella videata. I valori sono indicati in pixel
+search_url	Cercare gruppo
+search_url.h	Consente di definire un gruppo dell'area di lavoro per cercare contenuti in @{LIBRARY}.
+enable_recording	Posizione: elemento di controllo 'Registrazione'
+enable_recording.h	Consente di visualizzare un elemento di controllo per i processi di registrazione. È possibile indicare la posizione dell’elemento di controllo nella barra laterale.\nLa registrazione consente all’utente di registrare i processi come documenti Microsoft Word o come video. I documenti registrati vengono visualizzati nella finestra principale della tabpage 'Area utente'.
+enable_exit_da	Posizione: elemento di controllo  'Uscire’
+enable_exit_da.h	Consente di visualizzare un elemento di controllo per uscire da @{NAVIGATOR}. È possibile indicare la posizione dell’elemento di controllo nella barra laterale.
+enable_info	Visualizzare tab 'Informazioni'
+enable_info.h	Abilita il tab 'Informazioni' per la finestra principale dell'assistente desktop. Inserire un testo informativo nella descrizione breve del gruppo assistente desktop.
+request_content_type	Richiedere contenuto: tipo
+request_content_type.h	Indica la funzionalità per la richiesta di contenuto. Selezionare un tipo dall’elenco di riepilogo a discesa.\nE-mail: consente di inserire un indirizzo e-mail per le richieste.\nURL: consente di inserire un URL per aprire una pagina Web.\nUn elemento di controllo 'Richiedere contenuto’ è visualizzato nella barra laterale. Se non si trova del contenuto, il collegamento 'Richiedere contenuto' viene visualizzato nella finestra principale.
+email	E-mail
+url	URL
+enable_request_content	Posizione: elemento di controllo 'Richiedere contenuto'
+enable_request_content.h	Indica la posizione dell’elemento di controllo 'Richiedere contenuto’ nella barra laterale.
+enable_external_search_ctx	Fornire informazioni contesto
+enable_external_search_ctx.h	Fornisce informazioni contesto supplementari dell’utente con l’URL di ricerca durante la ricerca. Le informazioni contesto vengono utilizzate per la ricerca. Attivare la parametrizzazione se la ricerca indicata può utilizzare le informazioni contesto. \nLe informazioni contesto fornite sono indicate nel parametro 'Informazioni contesto' .
+external_search_ctx	Informazioni contesto
+external_search_ctx.h	Indica le informazioni contesto se la parametrizzazione 'Fornire informazioni contesto’ è stata attivata. Le seguenti informazioni contesto possono essere fornite: EXE dell’applicazione corrente (&executable=$#{EXE}), chiave della pagina dell’applicazione corrente (&pagekey=$#{PAGEKEY})\nNota: non modificare la struttura della stringa delie informazioni contesto.
+enable_external_search	Posizione: elemento di controllo 'Ricerca esterna'
+enable_external_search.h	Consente di attivare una pagina di ricerca esterna per cercare contenuto o altre informazioni. Se la parametrizzazione è attivata, l’elemento di controllo 'Ricerca esterna' viene visualizzato nella barra laterale. È possibile indicare la posizione dell’elemento di controllo nella barra laterale. \nIl pulsante apre un campo di ricerca per l’inserimento di un termine di ricerca. I risultati della ricerca vengono visualizzati nella pagina di ricerca esterna. Per la ricerca esterna, occorre indicare un URL di ricerca nel parametro 'URL ricerca esterna' .
+external_search_url	URL
+external_search_url.h	Consente di indicare un URL per la ricerca esterna. Inserire l’URL nella seguente struttura:\nhttps://www.google.com/#q=$#{SEARCHTERM}\nhttps://www.bing.com/search?q=$#{SEARCHTERM}\nhttps://search.yahoo.com/search?p=$#{SEARCHTERM}\nhttps://www.wolframalpha.com/input/?i=$#{SEARCHTERM}\n\nNota: non cancellare o modificare '=$#{SEARCHTERM}' del parametro URL.
+enable_share_content	Visualizzare elemento di controllo 'Condividere contenuto'
+enable_share_content.h	Visualizza un pulsante 'Condividere contenuto' nel piè di pagina della finestra principale. Il pulsante apre una finestra di dialogo con il collegamento al contenuto selezionato.
+author_email	E-mail
+author_email.h	Consente di specificare un indirizzo e-mail per richiedere contenuto. L'indirizzo e-mail viene utilizzato per la funzione 'Richiedere contenuto'.
+author_url	URL
+author_url.h	Consente di specificare un URL per richiedere contenuto. L'URL viene utilizzato per la funzione 'Richiedere contenuto'.
+author_url_params	Parametri URL
+author_url_params.h	Consente di indicare i parametri dell'URL autore. \nÈ possibile indicare il nome dell'applicazione e l'unità eseguibile. Sostituire il valore 'applicazione' o 'unità eseguibile' con il nome richiesto.
+enable_fuzzy_match	Abilitare corr. fuzzy
+enable_fuzzy_match.h	Stabilisce se la corrispondenza fuzzy viene utilizzata per abbinare il contesto del contenuto a una pagina dell'applicazione
+enable_ident_filter	Attivare identificazione dell'applicazione ampliata
+enable_ident_filter.h	Indica che solo le informazioni dell'applicazione rilevanti vengono utilizzate per la riproduzione @{NAVIGATOR} . Ciò consente di ottimizzare la performance del @{NAVIGATOR}.\nNota: l'opzione può determinare un riconoscimento oggetto errato. Si raccomanda di verificare la riproduzione prima di pubblicare il contenuto.
+library_size	Dimensioni finestra principale
+library_size.h	Definisce le dimensioni (larghezza, altezza) della finestra principale in pixel
+book_win_position	Posizione finestra del contenuto (libera)
+book_win_position.h	Definisce la posizione della finestra del contenuto (a sinistra, in alto) per l'allineamento 'Libero' nella videata. I valori sono indicati in pixel
+book_win_size	Dimensioni finestra del contenuto
+book_win_size.h	Definisce le dimensioni (larghezza, altezza) della finestra del contenuto in pixel
+book_win_positioning	Allineamento finestra del contenuto
+book_win_positioning.h	Definisce l'allineamento della finestra del contenuto sulla videata. L'opzione "Libero" consente di definire una posizione nel parametro "Posizione della finestra del contenuto".
+errNoApplicationContext	La macro attuale non è un contesto applicazione
+errNoTargetDefinition	La macro non corrisponde alla definizione target.
+errExtractPagekey	Impossibile estrarre la chiave pagina con profilo:
+errScreenshot	Impossibile eseguire lo screenshot. Riprovare.
+errLoadTemplate	Impossibile caricare il profilo:
+errRecordProcessStep	Le fasi della visita guidata non possono essere registrate per i progetti di help contestuale
+errLanguageSelection	Nessuna lingua selezionata.
+errNoWriteToken	L’utente non dispone di autorizzazione di scrittura per l’oggetto selezionato.
+errMacroSelection	Nessuna macro selezionata.
+errObjectInformation	Nessuna informazione oggetto nella posizione indicata.
+errSpecializedInformation	Nessuna informazione specializzata nella posizione indicata
+errPosition	Posizione non nell'area finestra.
+errActionMacroSelection	Nessuna macro azione selezionata
+errUpdateObject	Il tipo di oggetto sel. non può essere aggiornato
+errInsertExplanation	Impossibile inserire spiegazione libera per macro selezionata
+action.h	Solo visita guidata\nQuesta opzione definisce l'azione che si suppone l'utente esegua sull'oggetto.
+all_values.h	In alcuni casi l'oggetto di un'applicazione consente la scelta di valori che non possono essere coperti da un comando HTML standard. In tal caso viene utilizzato il comando più vicino all'oggetto dell'applicazione. Questo campo include inoltre tutti i valori che l'oggetto prevede come scelte.
+anim_steps.h	Il valore definisce il numero di fasi necessarie per l'animazione dell'effetto di evidenziazione prescelto. I valori più bassi accelerano l'animazione ma producono un effetto discontinuo. I valori alti più rendono l'animazione più fluida ma ne riducono la velocità complessiva.
+auto_execute.h	La parametrizzazione definisce che l'azione sarà eseguita automaticamente durante la riproduzione della navigazione
+b_height.h	Definisce l'altezza dell'area commento dell'oggetto in pixel. Se la quantità di testo supera lo spazio disponibile nell'area commento, l'altezza verrà scalata automaticamente per ottenere lo spazio necessario.
+b_hide_option.h	Solo help contestuale\nAttivando questa opzione, nell'area commento dell'oggetto o della spiegazione viene visualizzata una parametrizzazione in cui l'informazione oggetto (area commento ed evidenziazione) può essere disattivata dagli utenti finali. In questo modo gli utenti possono nascondere le informazioni di cui non hanno più bisogno.
+b_minimizable.h	Questa opzione stabilisce se sia possibile ridurre a icona l'area commento durante la riproduzione. Quando l'opzione è attivata, un pulsante 'Ridurre a icona' viene visualizzato nella testata dell'area commento.
+b_closable.h	Solo help contestuale\nQuesta opzione definisce se sia possibile chiudere l'area commento durante la riproduzione. Quando l'opzione è attivata, un pulsante 'Chiudere' viene visualizzato nella testata dell'area commento.
+b_minimized.h	Solo help contestuale\nQuesta opzione definisce se l'area commento dell'oggetto viene minimizzata quando la pagina viene caricata.
+bmain_size.h	Definisce le dimensioni (larghezza, altezza) della finestra principale in pixel
+bmain_minimizable.h	Questa opzione definisce se la finestra principale è riducibile o meno
+bmain_position.h	I valori inseriti qui definiscono la posizione della finestra principale nella videata. I numeri indicano la distanza in pixel dall'angolo superiore sinistro della videata.
+bmain_win_style.h	Definisce come viene visualizzata la finestra princiaple. Sel. una risorsa di stile dalla lista
+bmain_alignment.h	Definisce l'allineamento della finestra principale sulla videata. L'opzione 'Libero' consente di definire una posizione nel parametro 'Posizione della finestra'.
+bubble_offset.h	Questa opzione definisce l'offset in pixel in cui l'area commento dell'oggetto viene visualizzata nell'oggetto.
+bubblestyle_d.h	Definisce la risorsa di stile dell'area commento per visualizzare le aree commento del progetto.
+bubblestyle_d.h	Definisce la risorsa di stile dell'area commento per visualizzare le aree commento del progetto.
+choose_bool.h	Questo campo contiene il valore che determina se il pulsante radio o la casella di spunta sono attivati o disattivati. Il valore per un pulsante radio è sempre '1' (attivo). Il valore per una casella di spunta può essere '0' (disattivo) o '1' (attivo).
+choose_text.h	Questo parametro contiene la stringa di caratteri trovata per la voce selezionata in un menu pop-up o campo elenco durante il processo di registrazione automatica. Questa stringa viene inserita nei testi esplicativi dell'area commento nelle varie modalità in sostituzione del segnaposto '${choose_text}' (vedere la modalità testo nell'editor HTML). Viene utilizzata come modulo di testo per il testo dell'area commento generato automaticamente quando il contenuto dell'area commento viene generato automaticamente con i moduli di testo durante la registrazione.
+click_pos.h	Indica la posizione nella finestra dell'applicazione sulla quale l'autore ha fatto clic quando è stato registrato l'oggetto. La posizione viene specificata in pixel e si riferisce all'angolo superiore sinistro del contenuto della finestra dell'applicazione.
+click_pos_rel.h	Indica la posizione nella finestra dell'applicazione. Il valore in percentuale (%) indica la posizione rispetto alla larghezza e altezza totali della finestra dell'applicazione, con i contorni sinistro e superiore come punti di riferimento.
+config_file.h	Contiene il nome del profilo dell'applicazione utilizzato per creare la chiave e, in seguito, per interpretarla.
+display_name.h	Definisce il nome dell’applicazione che verrà visualizzato nella finestra eccezioni di una visita guidata.
+dump_page.h	Contiene la videata registrata. \nÈ possibile modificare l’immagine tramite la funzione 'Sostituire immagine'.
+element_type.h	Descrive la classe di oggetti che è stata riconosciuta tramite il meccanismo di riconoscimento.
+enabled.h	Solo help contestuale\nQuesta opzione definisce se la macro viene incorporata nell'analisi della pagina o meno. Se questa opzione è disattivata, l'oggetto della guida non viene visualizzato, anche se l'oggetto associato è presente nella pagina.
+optional.h	Solo visita guidata\nL'opzione stabilisce se la fase della visita guidata sia opzionale per l'utente, durante il processo. \nDurante la riproduzione, un'icona diversa sarà visualizzata nella lista di fasi. Se il controllo non è visualizzato sulla pagina, o se la pagina non è corretta, la fase verrà saltata.
+executable.h	Contiene il nome eseguibile dell'applicazione utilizzato dal sistema operativo
+explanation_d.h	Contiene le informazioni che rimandano al rispettivo contesto (testo, collegamenti, immagini, ecc.). Assicurare una visualizzazione ottimale delle informazioni all'interno dell'area commento principale.
+explanation_d_modified.h	Se questa opzione è attivata,le informazioni relative al contesto non vengono più create automaticamente nell'evento di traduzione automatica, ma devono essere modificate manualmente. Questo aiuta a mantenere le modifiche manuali nel contenuto delle aree commento.
+fieldname.h	Contiene il nome dell’elemento di controllo registrato inserito nei testi delle aree commento. \nÈ possibile modificare il nome oggetto nel campo testo. Il nome oggetto ha il carattere di riempimento '$#{fieldname}'.
+fieldicon.h	Contiene l'immagine di un pulsante o icona registrati, inserita nei testi delle aree commento. \nÈ possibile modificare l’immagine oggetto tramite la funzione 'Sostituire immagine’. L’immagine oggetto ha il carattere di riempimento '$I{fieldicon}'.
+g_highlight_bgr.h	Definisce il colore standard dei bordi di evidenziazione nella navigazione. È possibile inserire direttamente il colore come valore RGB in formato HEX o selezionarlo dalla finestra di dialogo Selezione colore.
+g_highlight_border.h	Questo parametro definisce lo spessore generale del riquadro di evidenziazione dell'oggetto in pixel. Le misure disponibili per la larghezza in pixel vanno da '1' a '10'.
+g_highlight_effect.h	Questa opzione determina il tipo di effetto di evidenziazione utilizzato per gli oggetti nella navigazione.
+hide_on_focuslost.h	Questa opzione definisce se l'area commento verrà nascosta quando l'area attiva nella videata lascerà l'oggetto in questione
+highlight_offset.h	Il parametro indica l'offset in pixel aggiunto per il rettangolo evidenziato che circonda l'elemento marcato
+key.h	Contiene tutti i criteri per individuare la finestra dell'applicazione e una determinata pagina nell'applicazione. La chiave corrisponde solo se la pagina nell'applicazione di destinazione soddisfa tutti i criteri definiti nella chiave stessa. Per rendere meno rigida la definizione dei criteri di una singola chiave è consentito l'utilizzo di espressioni regolari.
+key_name.h	Questo parametro determina la chiave o il collegamento utilizzato. Ciò comporta la separazione dei nomi delle chiavi con uno spazio, ad esempio: 'ctrl + k'.
+key_desc.h	Questo parametro determina la chiave o il collegamento utilizzato. Ciò comporta la separazione dei nomi delle chiavi con uno spazio, ad esempio: 'ctrl + k'.
+force_display.h	Solo guida contesto\nIndica se il contenuto della macro viene sempre visualizzato come guida istantanea, anche se quest'ultima è disattivata durante la riproduzione dell’assistente desktop.
+link_to_sim.h	Questa opzione include il collegamento alla simulazione nell'area commento principale. Questa opzione è relativa a una navigazione che è stata creata sulla base di un progetto di simulazione (mediante conversione).
+macro_comment.h	Commento generale. Viene visualizzato nella view miniature.
+match_value.h	Questa opzione specifica se il valore indicato deve essere confrontato con il valore reale dell'oggetto nell'applicazione live.
+mini_on_focuslost.h	Questa opzione definisce se l'area commento viene ridotta a icona quando l'area attiva sulla videata esce dall'oggetto interessato
+nav_check_freq.h	Definisce la frequenza con cui il @{NAVIGATOR} controlla l'aggiornamento del contenuto. Se il contenuto aggiornato è disponibile, il @{NAVIGATOR} avvierà automaticamente il contenuto. Ciò è utile specialmente nei processi di gestione delle modifiche.
+enable_tincan.h	Attiva il tracking per il contenuto @{NAVIGATOR}. Il contenuto deve essere avviato da un’area di lavoro @{MANAGER} .
+no_spike.h	Questa opzione definisce se l'area commento dell'oggetto viene visualizzata con o senza punta.
+objname.h	Ogni oggetto di una navigazione richiede un nome univoco ai fini dell'identificazione quando si utilizzano comportamenti e attribuzioni di comportamenti.
+orientation.h	Questo parametro definisce l'orientamento dell'area commento dell'oggetto a cui si fa riferimento. La freccia dell'area commento indica la posizione a cui si fa riferimento nella pagina, mentre l'area commento stessa viene visualizzata come offset nella direzione selezionata, come indicato. Se è selezionato l'orientamento 'Centrale', l'area commento viene visualizzata senza freccia, al centro della posizione definita.
+path.h	Il percorso dell'oggetto descrive le proprietà dell'oggetto in base al profilo dell'applicazione utilizzata. Il percorso dell'oggetto viene utilizzato per individuare l'oggetto nell'applicazione live. Di norma, non è necessario modificare manualmente questo campo.
+position.h	I valori inseriti qui definiscono la posizione dell'area commento principale nella videata. I numeri indicano la distanza in pixel dall'angolo superiore sinistro della videata.
+reference.h	Se la navigazione è stata convertita da una simulazione, l'origine della rispettiva fase deve essere specificata qui
+resize.h	Questa opzione definisce se le dimensioni della finestra dell'applicazione target devono essere modificate automaticamente in base alle dimensioni utilizzate quando è stata creata la navigazione. Ciò potrebbe rivelarsi utile per le aree attive, che vengono visualizzate in base alla posizione.
+revision.h	Mostra la versione del profilo dell'applicazione utilizzato per la creazione della chiave durante la registrazione della videata dell'applicazione
+sc_config_header.h	Le informazioni del profilo dell'applicazione vengono salvate in questo campo. La navigazione utilizza queste informazioni per poter riconoscere correttamente l'applicazione e i relativi oggetti durante la riproduzione.
+screenshot_rect.h	Mostra quale area della videata originale è stata utilizzata per lo screenshot dell'oggetto. Di norma, non è necessario modificare manualmente questo valore.
+show_bubble.h	Questa opzione definisce se l'area commento viene visualizzata subito dopo che la pagina è stata caricata completamente.
+start_from_arbitrary.h	Questa opzione stabilisce che la visita guidata può essere avviata da una fase casuale e non dall'inizio del processo.
+show_hilight.h	Definisce se un’evidenziazione viene visualizzata per l’oggetto.
+show_highlight.h	Definisce se le evidenziazioni vengono visualizzate negli oggetti.
+show_on_focus.h	Questa opzione definisce se l'area commento viene visualizzata quando l'area attiva nella videata passa all'oggetto in questione
+source.h	Se la navigazione è stata convertita da una simulazione, il parametro specifica la lezione originale.
+subkey.h	In alcuni casi è utile che alcune parti della chiave originale vengano ignorate, ad esempio perché le varianti di una determinata pagina non sono pertinenti e saranno gestite tutte dalla stessa chiave e dalla stessa fase nella navigazione. Questa opzione induce il meccanismo di riconoscimento a considerare una chiave come una corrispondenza, anche se la pagina presentava più criteri chiave individuati dal riconoscimento rispetto a quelli definiti nella chiave. La chiave della pagina, pertanto, può essere abbreviata per coprire più di una pagina con una sola chiave.
+target_name.h	Contiene il nome della finestra dell'applicazione.
+text_d.h	Questo parametro contiene la stringa di caratteri da inserire nel campo della voce a cui è fatto riferimento. Contiene il valore immesso durante il processo di registrazione automatica. Questa stringa viene inserita nei testi esplicativi dell'area commento nelle varie modalità in sostituzione del segnaposto '${text_d}' (vedere la modalità testo nell'editor HTML) quando il contenuto dell'area commento viene generato automaticamente con i moduli di testo durante la registrazione.
+text_d_specializer.h	Questo parametro contiene la stringa di caratteri da inserire nel campo della voce a cui è fatto riferimento. Contiene il valore immesso durante il processo di registrazione automatica. Questa stringa viene inserita nei testi esplicativi dell'area commento nelle varie modalità in sostituzione del segnaposto '${text_d}' (vedere la modalità testo nell'editor HTML) quando il contenuto dell'area commento viene generato automaticamente con i moduli di testo durante la registrazione.
+tolerance.h	Il valore definisce la tolleranza per il grado di corrispondenza quando si uniscono macro della videata. Questa parametrizzazione è correlata alla funzione 'Unione macro videata' eseguibile dal menu Strumenti -> Modifica di massa'. Aumentando il valore si innalza la soglia di tolleranza. Notare, in questo caso, che è possibile unire anche gli screenshot nei quali vengono visualizzati oggetti diversi. Il valore è specificato in percentuale.
+uid.h	Contiene un identificativo univoco della macro con il quale viene gestito nel progetto.
+win_rect.h	Definisce le dimensioni della finestra quando si crea un progetto.
+explanation_type.h	Questa opzione determina il tipo di nota. A seconda della parametrizzazione del tipo, viene visualizzato un pittogramma insieme al testo, in modo da evidenziare il testo consultivo.
+app_info.h	La parametrizzazione definisce se l'applicazione viene visualizzata nell'help contestuale. Se non è prevista la visualizzazione dell'applicazione, la parametrizzazione deve essere disattivata.
+app_link_to_sim.h	Questo parametro può essere utilizzato per visualizzare un collegamento alla simulazione specificata nel parametro 'Origine' in aggiunta al tipo di contesto. Durante il processo è possibile selezionare varie modalità.
+screen_info.h	La parametrizzazione definisce se la pagina viene visualizzata nell'help contestuale. Se non è prevista la visualizzazione della pagina, la parametrizzazione deve essere disattivata.
+screen_link_to_sim.h	Questo parametro può essere utilizzato per visualizzare un collegamento alla simulazione specificata nel parametro 'Origine' in aggiunta al tipo di contesto. Durante il processo è possibile selezionare varie modalità.
+object_info.h	Solo help contestuale\nLa parametrizzazione definisce la variante da visualizzare per l'oggetto.
+open_expanded.h	Se questa opzione è attivata, l'area commento principale viene visualizzata con la pagina e l'elenco oggetti aperti.
+display_on.h	Questo parametro definisce la situazione in cui deve essere visualizzata l'area commento principale della navigazione. All'avvio della navigazione, viene visualizzata l'applicazione o la pagina dell'applicazione corrispondente.
+area.h	Il parametro definisce la posizione e le dimensioni del comando. I primi due numeri indicano la posizione di un oggetto dal lato sinistro e dal contorno superiore della videata. Gli ultimi due numeri definiscono la larghezza e l'altezza dell'oggetto. Il pulsante vicino al campo di immissione apre una finestra di dialogo di modifica che consente la personalizzazione della posizione e delle dimensioni dell'oggetto.
+form_on.h	Definisce che la fase è un modulo; tutte le azioni della fase sono visualizzate in un'area comm. durante la riproduzione
+transition	Fase successiva della visita guidata
+transition_info	Fase successiva della visita guidata
+action_pa	Azione
+trans_action	Azione
+step_name1	Fase successiva
+step_name2	Fase alternativa 1
+step_name3	Fase alternativa 2
+step_name4	Fase alternativa 3
+LClick	Fare clic con il tasto sinistro del mouse
+RClick	Clic destro
+LDblClick	Fare doppio clic con il tasto sinistro del mouse
+RDblClick	Fare doppio clic con il pulsante destro del mouse
+Focus	Area attiva
+FocusLost	Perdita dell'area attiva
+step	Fase visita guidata
+name	Nome
+end_message	Testo
+show_end_window	Finestra di fine
+show_end_window.h	Indica che una finestra viene visualizzata al termine della visita guidata. La finestra consente all'utente di chiudere manualmente la visita guidata. Se questa opzione è disattivata, la finestra non viene visualizzata e la visita guidata si chiude automaticamente.
+trans_action.h	Solo visita guidata\nIndica l'azione che avvia il salto alla successiva fase della visita guidata.
+action_pa.h	La parametrizzazione definisce l'azione dell'utente che avvia il passaggio alla fase successiva della visita guidata
+step_name1.h	Solo visita guidata\nDefinisce la fase successiva nel flusso di processo.
+step_name2.h	Solo visita guidata\nDefinisce una fase della visita guidata alternativa se la visita guidata definita non può essere visualizzata.
+step_name3.h	Solo visita guidata\nDefinisce una fase della visita guidata alternativa se la fase 1 della visita guidata alternativa definita non può essere visualizzata.
+step_name4.h	Solo visita guidata\nDefinisce una fase della visita guidata alternativa se la fase 2 della visita guidata alternativa definita non può essere visualizzata.
+step_on_same_page.h	Solo visita guidata\nQuesta parametrizzazione deve essere attivata se la successiva fase della visita guidata si trova nella stessa pagina dell'applicazione. In questo modo si evita un riconoscimento pagina.
+name.h	Definisce il nome della fase della visita guidata. Il nome è visualizzato nella parametrizzazione 'Fase visita guidata successiva' di una macro 'Oggetto' per la selezione.
+set_value	Impostare il valore automaticamente
+set_value.h	La parametrizzazione definisce se il valore della macro deve essere impostato automaticamente durante la riproduzione della navigazione
+end_message	Testo
+end_message.h	È possibile inserire il testo in questa casella che viene visualizzata nell'area commento al termine del processo. La casella di testo è predefinita con un testo di default.
+restart_option	Pulsante di riavvio
+restart_option.h	Quando questa opzione è attivata, nell'area commento appare un pulsante che l'utente può utilizzare per ripetere un processo. In questo modo è possibile eseguire nuovamente un processo con varie voci.
+record_end_display	Modificare area commento
+end_bubble	Fine processo area commento
+bend_position	Posizione
+bend_position.h	I valori inseriti qui indicano la posizione dell'area commento nella videata. I valori sono specificati in pixel e si riferiscono all'angolo superiore sinistro della videata.
+bend_style	Stile
+bend_style.h	Questa parametrizzazione definisce lo stile da utilizzare per visualizzare l'area commento. Gli stili di aree commento sono definiti utilizzando l'editor dello stile di area commento che può essere eseguito dal menu 'Strumenti' -> 'Modificare stili aree commento'. Gli stili di aree commento sono sempre disponibili per l'intera area di lavoro.
+bend_width	Larghezza
+bend_width.h	Definisce la larghezza dell'area commento che deve essere visualizzata in pixel.
+bend_height	Altezza
+bend_height.h	Definisce l'altezza dell'area commento che deve essere visualizzata in pixel.
+process_start_unit	Stile della visita guidata
+record_pa_control	Registrare fase visita guidata
+prev_step	Fase precedente
+next_step	Fase successiva
+disqualifier	Escludere videata
+disqualifier.h	Con 'ID della pagina' è possibile differenziare pagine dell'applicazione simili tramite un oggetto specifico. Questa opzione specifica se la pagina dell'applicazione riconosciuta deve essere visualizzata o esclusa se è disponibile l''ID della pagina'. \nLa view miniature visualizza lo stato dell'opzione: un segno più (non escludere) o meno (escludere).
+exception_bubble	Gestione eccezioni area commento
+bexp_position	Posizione
+bexp_position.h	I valori inseriti qui definiscono la posizione dell'area commento nella videata. I valori vengono indicati in pixel. L'area commento verrà visualizzata nell'angolo in alto a sinistra della videata.
+bexp_style	Stile
+bexp_style.h	Qui è possibile scegliere il tipo di area commento che si desidera utilizzare. Gli stili delle aree commento possono essere definiti nell'editor dello stile area commento che è possibile aprire dal menu:  Strumenti -> Modificare stile area commento.  I diversi stili di aree commento sono sempre disponibili per l'intera area di lavoro.
+content_demo	Modalità Demo
+content_demo.h	Con questa opzione le modalità demo di un gruppo verranno visualizzate nell'assistente desktop.
+content_practice	Modalità Esercizio
+content_practice.h	Con questa opzione le modalità di esercizio di un gruppo verranno visualizzate nell'assistente desktop.
+content_test	Modalità Test
+content_test.h	Con questa opzione le modalità test di un gruppo verranno visualizzate nell'assistente desktop.
+content_concurrent	Modalità Simultanea
+content_concurrent.h	Con questa opzione le modalità simultanee di un gruppo verranno visualizzate nell'assistente desktop.
+content_navi	Navigazione
+content_navi.h	Con questa opzione le navigazioni di un gruppo verranno visualizzate nell'assistente desktop.
+content_documentation	Documentazione
+content_documentation.h	Con questa opzione le documentazioni di un gruppo verranno visualizzate nell'assistente desktop.
+content_externals	File esterni
+content_externals.h	Con questa opzione i file esterni di un gruppo verranno visualizzati nell'assistente desktop.
+navi_style	Stile
+navi_style.h	Definisce l'aspetto della finestra di navigazione. Selezionare una risorsa di stile dalla lista
+menu_path:/record	Registrazione
+F1HELPNAME	guida
+alignment	Allineamento area commento
+alignment.h	Specifica l'allineamento della finestra del commento sulla videata. L'opzione 'Libero' consente di definire una posizione nel parametro 'Posizione area commento'.
+bform_alignment	Allineamento
+bform_alignment.h	Definisce l'allineamento della forma per la finestra del commento sulla videata. L'opzione 'Libero' consente di definire una posizione nel parametro 'Posizione forma area commento'.
+gloss_bubble	Area commento glossario
+gloss_bubble_style	Stile
+gloss_bubble_style.h	Definisce la visualizzazione dell'area comm. glossario. Sel. una ris. di stile dalla lista
+ellipse	Cerchio
+gloss_bubble_size	Dimensioni
+gloss_bubble_size.h	Definisce la dimensione in pixel (largh./altezza) dell'area comm. glossario
+Navi	Assistente desktop
+exclude_from_da	Escludere dall'assistente desktop
+exclude_from_da.h	Indica che la chiave pagina non sarà considerata per il riconoscimento del contesto dell'assistente desktop
+all_as_descr	Utilizzare testo da
+all_as_descr.h	Definisce il tipo di testo per @{NAVIGATOR}; la parametrizzazione di default è 'Descrizione breve'
+consider_roles	Considerare ruoli
+consider_roles.h	Attiva l'utilizzo di ruoli per visualizzare contenuto durante la riproduzione.
+consider_categories	Considerare categorie contenuto
+consider_categories.h	Attiva l'utilizzo di categorie contenuto per classificare i contenuti nella finestra principale di @{NAVIGATOR}.
+disable_ca_in_pa	Nascondere guida istantanea nella visita guidata
+disable_ca_in_pa.h	Indica se tutte le informazioni di guida istantanea vengono nascoste durante la riproduzione della visita guidata. Una volta terminata la visita guidata, la guida istantanea viene nuovamente visualizzata.
+full_desc	Descrizione
+shrt_desc	Descrizione breve
+wrong_position	Errore di posizione
+help	Aiuto
+warning	Avviso
+maintenance	Aggiornamento
+update	Aggiornamento
+new	Nuovo
+training	Training
+attachment	Allegato
+link	Link
+tip	Suggerimento
+note	Nota
+compliance	Conformità
+mini_bubble_style	Stile mini icone
+mini_bubble_style.h	Definisce una risorsa di stile per le mini icone utilizzate per il progetto. Le mini icone sono un tipo di risorsa delle risorse adattabili. \nUn'icona può essere impostata in ogni macro di azione e spiegazione utilizzando il parametro 'Tipo di mini icona' nella sezione 'Avanzato'.
+mini_bubble	Tipo di mini icona
+mini_bubble.h	Solo help contestuale\nDefinisce un tipo per la mini icona dell'oggetto. L'icona si basa sullo 'Stile mini icone' definito nella macro 'Stile'.
+NavRecMouseWheel	Utilizzare la rotella del mouse per continuare; premere ESC per terminare lo scorrimento con il mouse
+search_type	Cercare tipo
+none	Nessuno
+search_in_lib	In @{LIBRARY}
+search_in_da	Assistente desktop: gruppo
+search_type.h	Definisce la funzionalità di ricerca per cercare contenuti. Selezionare un tipo dall’elenco di riepilogo a discesa. \nNessuno: disattiva la funzionalità di ricerca. \nIn @{LIBRARY}: apre @{LIBRARY} per cercare nel contenuto @{LIBRARY} . \nNel gruppo assistente desktop: visualizza il tab 'Cercare' nella finestra principale per cercare nel contenuto dell'assistente desktop.
+errObjectUpdate	L'oggetto non può essere aggiornato; aggiornare l'oggetto con tipo simile
+config_headers_differ1	Informazioni profilo non aggiornate. Per aggiornare il progetto fare clic su 'Continuare'
+config_headers_differ2	Si consiglia di creare un archivio prima di eseguire l'aggiornamento
+default_start_mode	Contenuto iniziale standard
+default_start_mode.h	Definisce la modalità o il formato del documento da avviare per default dalla lista dei contenuti
+default_start_doc	Documento iniziale standard
+default_start_doc.h	Definisce il tipo di documento, se nella parametrizzazione 'Contenuto iniziale standard' è impostato un documento
+show_next_btn	Pulsante Avanti
+show_next_btn.h	Solo visita guidata\nIndica se il pulsante di comando 'Passare a fase successiva' viene visualizzato nell'area commento dell'oggetto.
+condition	Condizione
+condition.h	Durante la riproduzione, il valore inserito dall'utente deve corrispondere alla condizione, in modo da passare alla fase successiva o a una fase specifica. \nSelezionare 'Modificare condizione' per creare o modificare una condizione.
+errDuplicateContext	Questa applicazione è già stata registrata
+add_sticky_notes	Posizione: 'Aggiungere elemento di controllo post-it'
+add_sticky_notes.h	Consente di visualizzare un elemento di controllo per aggiungere un post-it nella pagina. È possibile indicare la posizione dell’elemento di controllo nella barra laterale.
+show_instant_help_btn	Posizione: elemento di controllo 'Guida istantanea'
+show_instant_help_btn.h	Consente di visualizzare un elemento di controllo per attivare la guida istantanea. È possibile indicare la posizione dell’elemento di controllo nella barra laterale.
+show_carousel	Visualizzare carosello
+show_carousel.h	Questa opzione visualizza l'assistente desktop in sessione carosello
+condition_pattern	Modello condizione
+condition_pattern.h	Indica il modello utilizzato per la condizione
+condition_value	Valore condizione
+condition_value.h	Contiene il valore utilizzato per la condizione. Ins. un testo o un numero in base al modello selezionato
+condition_jump_target	Target salto
+condition_jump_target.h	Solo visita guidata\nIndica un target salto per la condizione. Selezionare una fase dall'elenco di riepilogo a discesa. La navigazione salta alla fase indicata se la condizione corrisponde.
+condition_text	Testo condizione
+condition_text.h	Contiene un testo da vis. se la condizione non viene soddisfatta
+condition_case_sensitive	Maiuscole/minuscole
+condition_case_sensitive.h	Indica che la condizione esegue la distinzione maiuscole/minuscole
+condition_ignore_on_load	Ignorare durante il caricamento della pagina
+condition_ignore_on_load.h	Solo help contestuale\nIndica che la condizione non è marcata nel caricamento della pagina. La condizione viene marcata utilizzando il comando corrispondente. Ciò evita di visualizzare direttamente l'area commento della condizione.
+c_equals	È uguale a
+c_not_equals	Non è uguale a
+c_greater	È maggiore di
+c_greater_equals	È maggiore di o uguale a
+c_less	È minore di
+c_less_equals	È minore di o uguale a
+c_min_char	Numero minimo di caratteri
+c_max_char	Numero massimo di caratteri
+c_num_char	Numero di caratteri uguale a
+c_reg_exp	Espressione regolare
+vertical	Verticale
+horizontal	Orizzontale
+AutoBarReady	Inattivo
+AutoBarExplanation	Inserire spiegazione
+AutoBarChooseApp	Scegliere applicazione
+AutoBarRecord	Registrare
+AutoBarBusy	Occupato
+AutoBarPause	Pausa
+AutoBarReRecManualHotspot	Elaborare elemento di controllo: premere Ctrl + Invio per effettuare modifiche. Premere Esc per scartere le modifiche
+wizAddExplanation	Aggiungere spiegazione
+AutoBarNoRecognition	Non sono stati riconosciuti elementi di controllo
+AutoBarDiagnosis	Diagnosi
+condition_bubblestyle	Stile dell'area commento
+condition_bubblestyle.h	Definisce lo stile dell'area commento da utilizzare per vis. il testo condizione
+condition_highlight_bgr	Colore di evidenziazione
+condition_highlight_bgr.h	Definisce il colore di evidenziazione per l'elemento di controllo
+IDS_MPI_TOURSTOP_LABEL	Nome
+IDS_MPI_TOURSTOP_LABEL_MODIFIED	Tradurre manualmente
+IDS_MPI_TOURSTOP_NAME	UID
+IDS_MPI_TOURSTOP_SHOW	Visualizzare in vis. avanzamento
+IDS_MPI_TOURSTOP_JUMP	Target salto
+IDS_MPI_TOURSTOP_CALLABLE	È subprogramma
+basic_info	Proprietà di base
+IDS_NO_IMAGE_SELECT	Immagine non selezionata
+IDS_NO_IMAGE	Immagine non trovata
+ID_INSERT_TAKE	Aggiungere fase
+ID_PRJ_LAYOUT_HORZ	Layout orizzontale
+ID_PRJ_LAYOUT_VERT	Layout verticale
+ID_PRJ_LAYOUT_DIV	Layout diviso - 1
+ID_PRJ_LAYOUT_4	Layout diviso - 2
+ID_PRJ_LAYOUT_5	Layout diviso - 3
+IDS_UNTITLED	(senza titolo)
+docTableHeaderStep	Fase
+layout_advanced	Layout ampliato
+showEditorHelp	Visualizzare help editor Web
+slide:insert_tb	Inserire
+slide:action_tb	Azione
+slide:structure_tb	Struttura
+slide:view_tb	Visualizzare
+existing_scrs_in_prj	La videata attuale viene già utilizzata più volte nel progetto dell'utente. \nSelezionare la videata in cui si intende aggiungere gli oggetti registrati.
+start_topic	Avviare
+guided_tour	Visita guidata
+context_help	Help contestuale
+off	Disattivo
+main_bar_1	Barra principale 1
+main_bar_2	Barra principale 2
+main_bar_3	Barra principale 3
+main_bar_4	Barra principale 4
+main_bar_5	Barra principale 5
+main_bar_6	Barra principale 6
+main_bar_7	Barra principale 7
+main_bar_8	Barra principale 8
+sub_menu_1	Sottomenu 1
+sub_menu_2	Sottomenu 2
+sub_menu_3	Sottomenu 3
+sub_menu_4	Sottomenu 4
+sub_menu_5	Sottomenu 5
+sub_menu_6	Sottomenu 6
+content_btn	Posizione: elemento di controllo 'Contenuto'
+content_btn.h	Indica la posizione dell’elemento di controllo 'Contenuto’ nella barra laterale.
+search_btn	Posizione: elemento di controllo 'Ricerca'
+search_btn.h	Indica la posizione dell’elemento di controllo 'Ricerca’ nella barra laterale.
+orCenter	Centro
+orNorth	Nord
+orWest	Ovest
+orNortWest	Nord ovest
+orEast	Est
+orNortEast	Nord est
+orSouth	Sud
+orSouthWest	Sud ovest
+orSoutEast	Sud est
+screen_tolerence	Differenza tollerata della videata (%)
+screen_tolerence.h	Questo parametro definisce la necessaria corrispondenza grafica in percentuale tra la videata visualizzata e lo screenshot registrato per le informazioni contestuali associate che devono essere visualizzate. Se le discrepanze grafiche superano il valore definito, il @{NAVIGATOR} mette a confronto la chiave della pagina registrata con la pagina della videata e visualizza i contenuti appropriati per una diversa pagina dell'applicazione.
+video_folder	Cartella Registrazioni video
+video_folder.h	Specifica la cartella in cui archiviare le registrazioni video. \nNota: le registrazioni video non sono archiviate nella cartella cache di @{NAVIGATOR} a causa delle dimensioni del file.
+allow_video_rec	Consentire registrazione video
+allow_video_rec.h	Consente agli utenti di registrare il contenuto video.
+hide_da_on_web_assistant	Nascondere @{NAVIGATOR} durante esecuzione @{XRAY}
+hide_da_on_web_assistant.h	Specifica che le finestre @{NAVIGATOR} vengono nascoste durante l'esecuzione di @{XRAY} in primo piano.
+show_web_assistant_msg	Visualizzare messaggio @{XRAY}
+show_web_assistant_msg.h	Specifica che viene visualizzato un messaggio durante l'esecuzione di @{XRAY} in primo piano o quando esce dalla modalità primo piano.
+auto_hide	Nascondere dopo l'animazione
+auto_hide.h	Se questa opzione è attivata, l'evidenziazione torna ad essere nascosta al termine dell'animazione.
+bmain_height	Altezza
+bmain_height.h	Definisce l'altezza dell'area commento principale in pixel. Se la quantità di testo supera lo spazio disponibile nell'area commento, l'altezza verrà scalata automaticamente per ottenere lo spazio necessario.
+bmain_style	Stile
+bmain_style.h	Questa parametrizzazione definisce il tipo di area commento da utilizzare per visualizzare l'area commento principale. I tipi di aree commento sono definiti utilizzando 'Editor del tipo di area commento' che può essere eseguito dal menu 'Strumenti' -> 'Modificare tipi di aree commento'. I tipi di aree commento sono sempre disponibili per l'intera area di lavoro.
+bmain_width	Larghezza
+bmain_width.h	Definisce la larghezza dell'area commento principale in pixel.
+bottom_dock	Fissato in basso
+cache_stale_interval	Intervallo di inattività della cache (min)
+cache_stale_interval.h	Attiva l'utilizzo della cache @{NAVIGATOR} e definisce un intervallo di tempo per l'aggiornamento del contenuto nella cartella della cache. Il valore è definito in minuti. \nPer disattivare la cache, modificare il valore in '0'.
+centered	Centrato
+close_details	Chiudere finestra contenuto
+close_details.h	Definisce un tasto funzione per chiudere la finestra contenuto per un progetto selezionato
+confirmation_hotkey	Tasto di scelta rapida conferma fase
+confirmation_hotkey.h	Definisce un tasto di scelta rapida per la conferma delle fasi durante la riproduzione dell'assistente del processo
+detail_positioning	Allineamento finestra contenuto
+detail_positioning.h	Definisce l'allineamento della finestra di contenuto sulla videata. Ad eccezione dell'allineamento "Centrato", la finestra di contenuto sarà fissata alla finestra principale.
+detail_size	Dimensioni finestra contenuto
+detail_size.h	Definisce le dimensioni (larghezza, altezza) della finestra contenuto in pixel
+enable_search	Abilitare tab ricerca
+enable_search.h	Abilita funzionalità di ricerca per contenuto dell'assistente desktop
+h_dock	Fissato/a in orizzontale
+icon_position	Posizione icona
+icon_position.h	I valori inseriti qui definiscono la posizione dell'icona nella videata. I valori vengono indicati in pixel. L'icona verrà visualizzata nell'angolo in alto a sinistra della videata.
+leaves_page	Esce dalla videata
+leaves_page.h	Questa opzione indica alla navigazione che l'azione richiesta per questo oggetto causa il caricamento di una nuova pagina. Non appena viene eseguita l'azione sull'oggetto e il caricamento della pagina è terminato, viene eseguita un'analisi della nuova pagina.
+left_dock	Fissato a sinistra
+library_height	Altezza area commento
+library_height.h	Definisce l'altezza dell'area commento in pixel.
+library_width	Larghezza area commento
+library_width.h	Definisce la larghezza dell'area commento in pixel.
+maximize_details	Ingrandire finestra contenuto
+maximize_details.h	Definisce un tasto funzione per ingrandire la finestra di contenuto
+next_doc	Selezionare documento successivo
+next_doc.h	Definisce un tasto funzione per sel. il documento successivo nella finestra di contenuto
+next_project	Sel. progetto successivo
+next_project.h	Definisce un tasto funzione per sel. il progetto successivo nella finestra successiva
+open_content	Aprire contenuto
+open_content.h	Definisce un tasto funzione per aprire l'oggetto contenuto selezionato
+open_details	Aprire finestra contenuto
+open_details.h	Definisce un tasto funzione per aprire la finestra di contenuto per il progetto selezionato
+prev_doc	Selezionare documento precedente
+prev_doc.h	Definisce un tasto funzione per sel. il documento precedente nella finestra di contenuto
+prev_project	Selezionare progetto precedente
+prev_project.h	Definisce un tasto funzione per sel. il progetto precedente nella finestra principale
+right_dock	Fissato a destra
+show_execute	Visualizzare pulsante Eseguire
+show_execute.h	Definisce se viene visualizzato un pulsante di esecuzione nell'area di commento dell'oggetto, durante la riproduzione. Questo pulsante consente all'utente di eseguire un'azione nell'applicazione e al sistema di visualizzare la fase successiva.
+show_icon_on_start	Mostrare icona stato all'avvio
+show_icon_on_start.h	Per l'avvio dell'assistente del desktop, definisce che l'icona dello stato verrà visualizzata al posto della finestra principale
+start_doc	Aprire documento
+start_doc.h	Definisce un tasto funzione per aprire un documento selezionato dalla finestra di contenuto
+step_on_same_page	Fase nella stessa pagina
+top_dock	Fissato in alto
+v_dock	Fissato verticalmente

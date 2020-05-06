@@ -1,0 +1,764 @@
+﻿NAVIGATOR	Desktop Assistant
+XRAY	Web Assistant
+LIBRARY	library
+MANAGER	Manager
+form_bubble	Formular-Bubble
+bform_height	Höhe
+bform_height.h	Legt die Höhe der darzustellenden Formular-Bubble in Pixel fest.
+bform_width	Breite
+bform_width.h	Legt die Breite der darzustellenden Formular-Bubble in Pixel fest.
+bform_position	Position
+bform_position.h	Legt die Position der Formular-Bubble (links, oben) für die Ausrichtung "Frei" auf dem Bildschirm fest. Die Werte werden in Pixel angegeben.
+paramAutoMergeComplete	Zusammenführen der Screenshots beendet.
+form	Formular
+application_contexts	Applikation
+﻿Application	Applikation
+highlight_offset	Versatz
+AutoBarChooseApp	Applikation wählen
+AutoBarReRecManual	Klicken Sie auf das Objekt.
+BubbleOnActivate	Bubble direkt anzeigen
+ClickOnAAPosition	Klicken Sie in die Applikation, um das Rechteck zu definieren.
+ClickOnPosition	Klicken Sie auf eine Position in der Applikation.
+EnabledOnPgLoad	Aktivieren
+HighlightOnActivate	Markierung direkt anzeigen
+start_from_arbitrary	Ab beliebigen Schritt beginnen
+focus_step	Fokusebene
+focus_step.h	Nur geführte Tour\nZeigt eine graue Ebene zum Markieren des im aktuellen Schritt erforderlichen Steuerelements an.
+yes	Ja
+no	Nein
+light_mode	Interaktiver Modus
+light_mode.h	Legt fest, dass der Nutzer in der Objekt-Bubble zum nächsten Schritt navigieren muss. Während des Abspielens erfolgt keine Seitenerkennung.
+restricted_mode	Eingeschränkter Modus
+restricted_mode.h	Legt fest, dass nur die aktuelle Aktion ausgeführt werden kann. Andere Steuerelemente der Applikationsseite werden blockiert. \nDiese Einstellung kann verwendet werden, wenn "Fokusebene" aktiviert wurde.
+show_highlight	Markierungen
+action	Aktion
+active_area	Aktive Fläche
+add_application_expl	Erklärung einfügen
+adv	Erweitert
+display_behavior	Anzeigeverhalten
+all_values	Alle Werte
+anim_steps	Animationsschritte
+application_context	Applikation
+area	Bereich
+auto_merge	Screenshotmakros zusammenführen
+b_height	Höhe
+form_on	Formularmodus
+b_percent	Bubble sichtbar (%)
+b_hide_option	Option "Ausblenden"
+b_minimizable	Minimierbar
+b_closable	Schließbar
+b_minimized	Minimiert
+b_width	Breite
+b_width.h	Legt die Breite der darzustellenden Objekt-Bubble in Pixel fest.
+bmain_minimizable	Minimierbar
+bmain_position	Position
+bmain_win_style	Stil
+bmain_size	Größe
+bmain_alignment	Ausrichtung
+bubble	Objekt-Bubble
+bubble_offset	Versatz
+bubblestyle_d	Stil
+bubblestyle_init	Bubble-Stil
+choose_appl_template	Applikationsprofil wählen
+choose_bool	Ausgewählter Wert
+choose_nr	Ausgewählter Index
+choose_text	Ausgewählter Wert
+target_static_text	wird als Seitenspezifizierung aufgenommen.
+target_spec_warning	Warnung: Für dieses Steuerelement sind keine Informationen für die erneute Aufnahme verfügbar.
+prev_step	Vorheriger Schritt
+next_step	Nächster Schritt
+click	Mausaktion
+click_pos	Klickposition
+click_pos_rel	Bubble-Position
+config_file	Applikationsprofil
+define_target	Bildschirm
+display	Haupt-Bubble bearbeiten
+display_name	Anzeigename
+drag	Drag
+drop	Drop
+dump_page	Screenshot
+elem_bubble	Objekt-Bubble
+element_type	Objekttyp
+enabled	Aktiviert
+optional	Optional
+enter	Mauseingabe
+executable	Applikation
+explanation_d	Text
+explanation_d_modified	Manuell übersetzen
+explanation_long	Erklärung
+fh_mouseover	Hilfe bei Mouseover
+fh_onelem	Symbol
+fh_tooltip	Quick-Info
+fh_bubble	Bubble
+step_list	Schrittliste
+fieldicon	Objektbild
+fieldname	Objektname
+find	Suchen
+AutoBarChooseScn	Klicken Sie auf den entsprechenden Screenshot
+frame	Rahmen
+g_highlight_bgr	Farbe
+g_highlight_border	Rand
+g_highlight_effect	Effekt
+global	Global
+hide_on_focuslost	Bei Fokusverlust ausblenden
+hilight	Markierung
+input_radio	Auswahlknopf/Ankreuzfeld
+input_text	Texteingabe
+init	Init
+key	Schlüssel
+key_desc	Hotkey
+key_name	Tastencode
+key_press	Tastendruck
+lclick	Linksklick
+ldblclick	Linker Doppelklick
+force_display	Anzeige erzwingen
+auto_execute	Automatisch ausführen
+show_confirmation	Bestätigungsdrucktaste anzeigen
+show_confirmation.h	Legt fest, ob während des Abspielens eine Bestätigungstaste in der Objekt-Bubble angezeigt werden soll. Die Drucktaste ermöglicht es dem Nutzer, eine ausgeführte Aktion zu bestätigen. Anschließend wird der nächste Schritt angezeigt.
+link_to_sim	Simulationslink einfügen
+macro_comment	Kommentar
+main_bubble	Fenster
+match_value	Wert vergleichen
+mini_on_focuslost	Bei Fokusverlust minimieren
+enable_tincan	@{NAVIGATOR}-Tracking
+nav_check_freq	Aktualisierungsfrequenz (min)
+navigation	Desktop Assistant
+new_screen_context	Neue Seite
+no_spike	Keine Spitze
+pa_caption	Geführte Tour
+none	Ohne
+objname	Objektname
+orientation	Ausrichtung
+path	Objektpfad
+position	Position
+rclick	Rechter Mausklick
+rdblclick	Rechter Doppelklick
+record_activearea	Aktive Fläche aufnehmen
+record_application_context	Applikation aufnehmen
+no_control	Kein Objekt an geklickter Position verfügbar.
+record_control	Objekt aufnehmen
+record_control_pa	Schritt der geführten Tour aufnehmen
+record_define_target	Seite aufnehmen
+record_display	Haupt-Bubble bearbeiten
+record_end_display	Bubble bearbeiten
+record_explanation	Erklärung hinzufügen
+record_object_context	Objekt aufnehmen
+record_screen_context	Seite aufnehmen
+record_target_specializer	Seitenspezifizierung aufnehmen
+record_compatible_application	Kompatible Applikation aufnehmen
+reference	Quelle
+regexp	Regulärer Ausdruck
+replace	Ersetzen
+replace_continue	Ersetzen und Weiter...
+replace_pgkey_attr	Seitenschlüssel-Attribute ersetzen
+error_regexp	Ungültiger regulärer Ausdruck. Korrigieren Sie Ihre Eingabe.
+resize	Fenstergröße anpassen
+revision	Überarbeitung
+sc_config_header	Profilinformationen
+screen	Bildschirm
+screenhelp	Bildschirmhilfe
+screenshot_rect	Screenshotposition
+select_single	Einfachauswahl
+selected_merge	Ausgewählte Screenshotmakros zusammenführen
+show_bubble	Direkt anzeigen
+show_hilight	Markierung anzeigen
+show_on_focus	Bei Fokus anzeigen
+source	Quelle
+start_unit	Stil Kontexthilfe
+subkey	Als Teilschlüssel zulässig
+script	Skript
+target_name	Titel
+target_specializer	Seitenspezifizierung
+text_d	Texteingabe
+text_d_specializer	Texteingabe
+tolerance	Toleranz für das Zusammenführen von Screenshotmakros
+translate	Automatische Übersetzung
+autoTranslate	Projekt übersetzen
+paramReRecordLanguage	Sprache
+merge_critical_macros	Makros automatisch zusammenführen
+merge_critical_macros.h	Wenn Sie Simulationen in Navigationen konvertieren, können Sie auf diese Weise erstellten Screenshots automatisch zusammenführen. Diese werden unter des im Parameter "Toleranz für das Zusammenführen von Screenshotmakros" bestimmten Toleranzwerts kombiniert.
+uid	UID
+underline	Unterstrichen
+update_control	Objekt aktualisieren
+update_target	Screenshot aktualisieren
+variant	Variante
+win_rect	Fenstergröße
+wizCancel	Abbrechen
+wizFinish	Fertigstellen
+wizNext	Weiter
+wizOk	OK
+wizExplanation	Erklärung
+wizContinue	Weiter
+app_info	Applikation anzeigen
+app_link_to_sim	Simulationslink für Applikation einfügen
+screen_info	Screenshot anzeigen
+screen_link_to_sim	Simulationslink für Screenshot einfügen
+object_info	Anzeigevariante
+object_link_to_sim	Simulationslink einfügen
+disabled	Deaktiviert
+record_context_assistant_include	@{NAVIGATOR}-Projekt einfügen
+project_id	Projekttitel
+project_id.h	Der Parameter enthält das eingefügte Projekt. Über die Drucktaste "Link bearbeiten" lässt sich das Projekt im Arbeitsbereich auswählen.
+project	Projekt
+context_assistant_include	Desktop-Assistant-Projekt
+open_expanded	Erweiterte Haupt-Bubble anzeigen
+restart_option	Drucktaste "Wiederholen"
+next_project_id	Nächstes Projekt
+next_project_id.h	Diese Option definiert ein Projekt, das nach Abschluss des aktuellen Prozesses gestartet wird. Der neue Prozess wird direkt gestartet und keine End-Bubble angezeigt.
+end_unit	Tourende
+add_end_unit	Prozessende hinzufügen
+demo	Demo-Modus
+uebung	Übungs-Modus
+praxis	Praxis-Modus
+test	Test-Modus
+doc	Word-Dokument
+pdf	PDF-Dokument
+html	HTML-Dokument
+ppt	PowerPoint-Dokument
+explanation_type	Symbol
+note	Hinweis
+info	Info
+tipp	Tipp
+warnung	Warnung
+no_image	Kein Symbol
+display_on	Haupt-Bubble anzeigen bei
+nav_start	Start der Navigation
+app_focus	Applikationsfokus
+screen_focus	Bildschirmfokus
+never	Nicht anzeigen
+list_type	Listentyp für Screenshot
+list_type.h	Der Parameter bestimmt den Listentyp der Objekte auf der Seite, wenn für diesen Parameter die Option "Alle Objektinformationen anzeigen" aktiviert ist.
+unordered_list	Aufzählungszeichen
+ordered_list	Nummerierung
+convert_sn	Desktop Assistant generieren
+Application	Applikation
+obj_context	Objekt
+expl_context	Erklärung
+record_cntrl_type	Typ
+disable_standby	Standby-Status deaktivieren (@{NAVIGATOR})
+disable_standby.h	Legt fest, dass der Standby-Status des @{NAVIGATOR} nicht gesetzt werden kann. Durch Deaktivieren dieser Option kann der Standby-Status mit "Strg + F11" oder einem Klick auf das Statussymbol gesetzt werden.
+disable_exit	Eintrag "Beenden" ausblenden (@{NAVIGATOR})
+disable_exit.h	Legt fest, dass der Eintrag "Beenden" im Kontextmenü des @{NAVIGATOR}-Statussymbols ausgeblendet werden soll.
+bcontent_style	Bubble-Stil
+bcontent_style.h	Legt den Bubble-Stil fest, der für die Anzeige der Bubble verwendet werden soll.
+cache_properties	Cache
+cache_folder	Ordnerspeicherort
+cache_folder.h	Legt den Speicherort des Cache-Ordners "NavigatorCache" fest. Der Standardspeicherort ist "%localappdata%". Sie können einen eigenen Speicherort eingeben.\nHinweis: Der Name des Cache-Ordners kann nicht geändert werden.
+use_caching	Caching verwenden
+use_caching.h	Aktiviert die Verwendung des @{NAVIGATOR}-Cache.
+function_keys	Funktionstasten
+minimize_da	Minimieren
+minimize_da.h	Legt eine Funktionstaste für das Minimieren des Hauptfensters fest.
+next_tab	Nächste Registerkarte auswählen
+next_tab.h	Legt eine Funktionstaste für die Auswahl der nächsten Registerkarte im Hauptfenster fest.
+next_screen	Nächste Seite
+next_screen.h	Legt eine Funktionstaste für das Navigieren zur nächsten Seite eines ausgewählten Projekts fest.
+back	Zurück
+back.h	Definiert eine Funktionstaste, um zur vorherigen Seite zurückzukehren.
+toggle_standby	Standby-Modus umschalten
+toggle_standby.h	Legt eine Funktionstaste für das Umschalten des Standby-Modus fest.
+abort	Abbrechen
+abort.h	Legt eine Funktionstaste für das Abbrechen des Desktop Assistant fest.
+restart	Neu starten
+restart.h	Legt eine Funktionstaste für das Neustarten des Desktop Assistant fest.
+start_pa	Desktop-Assistant-Projekt starten
+start_pa.h	Legt eine Funktionstaste für das Starten eines ausgewählten Projekts fest.
+start_demo	Demo-Modus starten
+start_demo.h	Legt eine Funktionstaste für das Starten eines ausgewählten Demo-Modus fest.
+start_prac	Übungs-Modus starten
+start_prac.h	Legt eine Funktionstaste für das Starten eines ausgewählten Übungs-Modus fest.
+start_test	Test-Modus starten
+start_test.h	Legt eine Funktionstaste für das Starten eines ausgewählten Test-Modus fest.
+start_concur	Praxis-Modus starten
+start_concur.h	Legt eine Funktionstaste für das Starten eines ausgewählten Praxis-Modus fest.
+start_book	Buch starten
+start_book.h	Legt eine Funktionstaste für das Starten eines ausgewählten Buches fest.
+start_group	In library öffnen
+start_group.h	Legt eine Funktionstaste für das Öffnen einer Gruppe in library fest.
+toggle_ctx_rec	Kontexterkennung umschalten
+toggle_ctx_rec.h	Legt eine Funktionstaste zum Umschalten der Kontexterkennung des Desktop Assistant fest.
+select_next	Nächsten Eintrag auswählen
+select_next.h	Legt eine Funktionstaste für das Auswählen des nächsten Eintrags im aktuellen Fenster fest.
+select_prev	Vorherigen Eintrag auswählen
+select_prev.h	Legt eine Funktionstaste für das auswählen des vorherigen Eintrags im aktuellen Fenster fest.
+toggle_warning	Warndialog anzeigen
+toggle_warning.h	Legt eine Funktionstaste für das Anzeigen des Warndialogs des Desktop Assistant fest.
+execute_step	Schritt ausführen
+execute_step.h	Legt eine Funktionstaste für das Ausführen eines Schrittes beim Abspielen der geführten Tour fest.
+copy_link	Link kopieren
+copy_link.h	Definiert einen Funktionsschlüssel zum Kopieren des Links der ausgewählten Entität.
+maximize_trainer	Inhaltsfenster maximieren
+maximize_trainer.h	Legt eine Funktionstaste für das Maximieren des Inhaltsfensters fest.
+share_email	Per E-Mail teilen
+share_email.h	Legt eine Funktionstaste für das Teilen der Inhalte der ausgewählten Entität per E-Mail fest.
+start_default	Standardinhalt starten
+start_default.h	Legt eine Funktionstaste für das Starten des Standardmodus oder des ausgewählten Dokuments fest.
+show_da_help	Desktop-Assistant-Hilfe anzeigen
+show_da_help.h	Legt eine Funktionstaste zum Öffnen der Desktop-Assistant-Hilfe fest.
+request_content	Inhalte anfordern
+request_content.h	Legt eine Funktionstaste für das Anfordern der Inhalte einer Applikationsseite fest.
+search_content	Inhalt durchsuchen
+search_content.h	Legt eine Funktionstaste für das Suchen nach Inhalten je nach ausgewähltem Suchtyp fest.
+show_hidden_elems	Ausgeblendete Hilfe-Elemente anzeigen
+show_hidden_elems.h	Legt eine Funktionstaste zum Anzeigen der ausgeblendeten Hilfe-Elemente fest.
+toggle_side_bar	Randleiste anzeigen/ausblenden
+toggle_side_bar.h	Legt eine Funktionstaste für das Anzeigen und Ausblenden der Randleiste fest.
+content_library	Desktop Assistant - Inhalt und Verhalten
+content_library_window	Desktop Assistant - Stil und Fenster
+content_library_sidebar	Desktop Assistant - Randleiste
+style	Stil
+style.h	Legt die Darstellung der Komponenten des Desktop Assistant (Hauptfenster, Inhaltsfenster, Statussymbol) fest. Wählen Sie eine Stilressource aus der Liste aus.
+show_only_bar	Beim Start nur Randleiste anzeigen
+show_only_bar.h	Definiert, ob beim Start des Desktop Assistant nur die Randleiste oder auch das Hauptfenster angezeigt werden soll.
+clear_on_mismatch	Inhaltsliste bei fehlender Übereinstimmung löschen
+clear_on_mismatch.h	Legt fest, dass die Inhaltsliste gelöscht wird, wenn kein Kontext gefunden wurde. Ist diese Einstellung deaktiviert, wird der Inhalt des letzten erkannten Objekts angezeigt.
+da_positioning	Hauptfenster Ausrichtung
+da_positioning.h	Legt die Ausrichtung des Hauptfensters auf dem Bildschirm fest. Die Option "Frei" ermöglicht im Parameter "Hauptfenster Position" das Festlegen einer Position.
+bar_positioning	Randleiste Ausrichtung
+bar_positioning.h	Legt die Ausrichtung der Randleiste auf dem Bildschirm fest.
+left_top	Linke obere Ecke
+left_center	Links zentriert
+left_bottom	Linke untere Ecke
+right_top	Rechte obere Ecke
+right_center	Rechts zentriert
+top_center	Mitte oben
+right_bottom	Rechte untere Ecke
+center	Zentriert
+free	Frei
+list_order	Inhaltssortierung
+list_order.h	Legt die Sortierung des verfügbaren Inhalts in der Liste fest.
+by_default	Explorer-Struktur
+by_name	Alphabetisch
+by_type	Alphabetisch nach Typ
+library_position	Hauptfenster Position (Frei)
+library_position.h	Legt die Position des Hauptfensters (links, oben) für die Ausrichtung "Frei" auf dem Bildschirm fest. Die Werte werden in Pixel angegeben.
+search_url	Suchgruppe
+search_url.h	Ermöglicht Ihnen die Angabe einer Arbeitsbereichsgruppe für die Suche nach Inhalten in der @{LIBRARY}.
+enable_recording	Position: Steuerelement "Aufnahme"
+enable_recording.h	Ermöglicht Ihnen die Anzeige eines Steuerelements für Aufnahmeprozesse. Sie können die Position des Steuerelements in der Randleiste angeben.\nMit der Aufnahme können Nutzer Prozesse als Microsoft-Word-Dokumente oder Videos aufnehmen. Die aufgenommenen Dateien werden im Hauptfenster auf der Registerkarte "Nutzerbereich" angezeigt.
+enable_exit_da	Position: Steuerelement "Beenden"
+enable_exit_da.h	Ermöglicht Ihnen die Anzeige eines Steuerelements für das Beenden des @{NAVIGATOR}. Sie können die Position des Steuerelements in der Randleiste angeben.
+enable_info	Registerkarte "Info" anzeigen
+enable_info.h	Aktiviert die Registerkarte "Info" für das Hauptfenster des Desktop Assistant. Geben Sie einen Informationstext in der Kurzbeschreibung der Desktop-Assistant-Gruppe ein.
+request_content_type	Inhaltsanforderungsart
+request_content_type.h	Legt die Funktion für das Anfordern von Inhalten fest. Wählen Sie eine Art aus der Dropdown-Liste aus. \nE-Mail: Ermöglicht Ihnen die Eingabe einer E-Mail-Adresse für Anforderungen. \nURL: Ermöglicht Ihnen die Eingabe einer URL zum Öffnen einer Webseite. \nIn der Randleiste wird das Steuerelement "Inhalte anfordern" angezeigt. Wurden keine Inhalte gefunden, wird im Hauptfenster der Link "Inhalte anfordern" angezeigt.
+email	E-Mail
+url	URL
+enable_request_content	Position: Steuerelement "Inhalte anfordern"
+enable_request_content.h	Gibt die Position des Steuerelements "Inhalte anfordern" in der Randleiste an.
+enable_external_search_ctx	Kontextinformationen liefern
+enable_external_search_ctx.h	Liefert dem Nutzer während der Suche mit der Such-URL zusätzliche Kontextinformationen. Die Kontextinformationen werden für die Suche verwendet. Aktivieren Sie diese Einstellung, wenn diese Kontextinformationen für Ihre angegebene Suche verwendet werden können. \nDie gelieferten Kontextinformationen werden im Parameter "Kontextinformationen" angegeben.
+external_search_ctx	Kontextinformationen
+external_search_ctx.h	Gibt die Kontextinformationen an, wenn die Einstellung "Kontextinformationen liefern" aktiviert wurde. Folgende Kontextinformationen können geliefert werden: Die ausführbare Datei der aktuellen Applikation (&executable=$#{EXE}) und der Seitenschlüssel der aktuellen Applikationsseite (&pagekey=$#{PAGEKEY}).\nHinweis: Ändern Sie nicht die Struktur des Kontextinformationsstrings.
+enable_external_search	Position: Steuerelement "Externe Suche"
+enable_external_search.h	Ermöglicht Ihnen das Aktivieren einer externen Suchseite für die Suche nach Inhalten oder weiteren Informationen. Ist diese Einstellung aktiviert, wird in der Randleiste das Steuerelement "Externe Suche" angezeigt. \nÜber diese Drucktaste wird ein Suchfeld für die Eingabe des Suchbegriffs geöffnet. Die Suchergebnisse werden auf der externen Suchseite angezeigt. Für die externe Suche müssen Sie im Parameter "URL für externe Suche" eine Such-URL eingeben.
+external_search_url	URL
+external_search_url.h	Ermöglicht Ihnen die Angabe einer URL für die externe Suche. Geben Sie die URL entsprechend folgender Struktur ein:\nhttps://www.google.com/#q=$#{SEARCHTERM}\nhttps://www.bing.com/search?q=$#{SEARCHTERM}\nhttps://search.yahoo.com/search?p=$#{SEARCHTERM}\nhttps://www.wolframalpha.com/input/?i=$#{SEARCHTERM}\n\nHinweis: Ändern oder löschen Sie nicht den '=$#{SEARCHTERM}‘ des URL-Parameters.
+enable_share_content	Steuerelement "Inhalt teilen" anzeigen
+enable_share_content.h	Zeigt die Drucktaste "Inhalt teilen" in der Fußzeile des Hauptfensters an. Über diese Drucktaste wird ein Dialog mit dem Link zum ausgewählten Inhalt geöffnet.
+author_email	E-Mail
+author_email.h	Ermöglicht Ihnen die Angabe einer E-Mail-Adresse zum Anfordern von Inhalten. Die E-Mail-Adresse wird für die Funktion "Inhalte anfordern" verwendet.
+author_url	URL
+author_url.h	Ermöglicht Ihnen die Angabe einer URL zum Anfordern von Inhalten. Die URL wird für die Funktion "Inhalte anfordern" verwendet.
+author_url_params	URL-Parameter
+author_url_params.h	Ermöglicht Ihnen, die Parameter der Autor-URLs festzulegen. \nSie können den Applikationsnamen und die ausführbare Datei festlegen. Ersetzen Sie den Wert "Applikation" oder "Ausführbare Datei" durch den erwünschten Namen.
+enable_fuzzy_match	Fuzzyübereinstimmung aktivieren
+enable_fuzzy_match.h	Definiert, ob beim Abgleich des Kontexts des Inhalts mit einer Applikationsseite die Fuzzyübereinstimmung verwendet wird.
+enable_ident_filter	Erweiterte Applikationsidentifikation aktivieren
+enable_ident_filter.h	Gibt an, dass für das Abpielen eines @{NAVIGATOR} nur relevante Applikationsinformationen verwendet werden. Dadurch können Sie die Performance von @{NAVIGATOR} optimieren.\nHinweis: Diese Option kann zu einer fehlerhaften Objekterkennung führen. Daher sollte das Abspielen vor dem Publizieren der Inhalte getestet werden.
+library_size	Hauptfenster Größe
+library_size.h	Legt die Größe (Breite, Höhe) des Hauptfensters in Pixel fest.
+book_win_position	Inhaltsfensterposition (frei)
+book_win_position.h	Legt die Position des Inhaltsfensters (links, oben) für die Ausrichtung "Frei" auf dem Bildschirm fest. Die Werte werden in Pixel angegeben.
+book_win_size	Inhaltsfenstergröße
+book_win_size.h	Legt die Größe (Breite, Höhe) des Inhaltsfensters in Pixel fest.
+book_win_positioning	Inhaltsfensterausrichtung
+book_win_positioning.h	Legt die Ausrichtung des Inhaltsfensters auf dem Bildschirm fest. Die Option "Frei" ermöglicht im Parameter "Inhaltsfensterposition" das Festlegen einer Position.
+errNoApplicationContext	Aktuelles Makro ist kein Applikationskontext.
+errNoTargetDefinition	Das Makro entspricht nicht der Zieldefinition.
+errExtractPagekey	Seitenschlüssel kann nicht mit Profil extrahiert werden:
+errScreenshot	Es kann kein Screenshot erstellt werden. Versuchen Sie es erneut.
+errLoadTemplate	Profil kann nicht geladen werden:
+errRecordProcessStep	Schritte der geführten Tour können für Projekte des Typs "Kontexthilfe" nicht aufgenommen werden.
+errLanguageSelection	Keine Sprache ausgewählt.
+errNoWriteToken	Keine Schreiberlaubnis für das ausgewählte Objekt.
+errMacroSelection	Kein Makro ausgewählt.
+errObjectInformation	An der Position sind keine Objektinformationen verfügbar.
+errSpecializedInformation	An der Position sind keine Informationen verfügbar.
+errPosition	Die Position befindet sich nicht im Fensterbereich.
+errActionMacroSelection	Kein Aktionsmakro ausgewählt.
+errUpdateObject	Gewählter Objekttyp kann nicht aktualisiert werden.
+errInsertExplanation	Erklärung kann für gewähltes Makro nicht eingefügt werden.
+action.h	Nur geführte Tour\nDiese Option legt die Aktion fest, die der Nutzer auf dem Objekt ausführen soll.
+all_values.h	In einigen Fällen kann es vorkommen, dass das Objekt einer Applikation Auswahlmöglichkeiten enthält, die über ein normales HTML-Steuerelement nicht abgebildet werden können. In diesem Fall wird das Steuerelement verwendet, das dem Objekt in der Applikation am nächsten kommt. In diesem Feld werden zusätzlich alle Werte festgehalten, die das Objekt annehmen kann.
+anim_steps.h	Der Wert legt fest, in wie vielen Schritten der gewählte Markierungseffekts animiert werden soll. Geringe Werte beschleunigen die Darstellung, sorgen aber für einen abgehakten Eindruck der Animation. Hohe Werte sorgen für einen fließenden Eindruck, verlangsamen jedoch die Gesamtgeschwindigkeit der Animation.
+auto_execute.h	Legt fest, dass die Aktion beim Abspielen der Navigation automatisch ausgeführt werden soll.
+b_height.h	Definiert die Höhe der darzustellenden Objekt-Bubble in Pixel. Übersteigt die darzustellende Textmenge den verfügbaren Bereich in der Bubble, so wird diese in der Höhe automatisch an den benötigten Platz angepasst.
+b_hide_option.h	Nur Kontexthilfe\nDurch Aktivieren der Option wird in der Objekt- oder Erklärungs-Bubble eine Einstellung angezeigt, mit der sich die Objektinformationen (Bubble und Markierung) durch den Nutzer deaktivieren lassen. Dadurch kann der Nutzer Informationen ausblenden, die er nicht mehr benötigt.
+b_minimizable.h	Diese Option legt fest, ob die Bubble während des Abspielens minimiert werden kann. Ist die Option aktiviert, wird im Kopfbereich der Bubble die Drucktaste "Minimieren" angezeigt.
+b_closable.h	Nur Kontexthilfe\nDiese Option legt fest, ob die Bubble während des Abspielens geschlossen werden kann. Ist die Option aktiviert, wird im Kopfbereich der Bubble die Drucktaste "Schließen" angezeigt.
+b_minimized.h	Nur Kontexthilfe\nDiese Option legt fest, ob eine Bubble beim Laden der Seite minimiert angezeigt wird.
+bmain_size.h	Legt die Größe (Breite, Höhe) des Hauptfensters in Pixel fest.
+bmain_minimizable.h	Definiert, ob das Hauptfenster minimierbar ist.
+bmain_position.h	Die hier eingetragenen Werte geben die Position des Hauptfensters auf dem Bildschirm an. Die Werte werden in Pixel angegeben und beziehen sich auf die linke obere Ecke des Bildschirms.
+bmain_win_style.h	Legt die Darstellung des Hauptfensters fest. Wählen Sie eine Stilressource aus der Liste aus.
+bmain_alignment.h	Legt die Ausrichtung des Hauptfensters auf dem Bildschirm fest. Die Option "Frei" ermöglicht im Parameter "Fensterposition" das Festlegen einer Position.
+bubble_offset.h	Legt den Versatz der Objekt-Bubble in Pixel fest, mit dem sie zum Objekt angezeigt wird.
+bubblestyle_d.h	Legt die Bubble-Stilressource für die Anzeige der Objekt-Bubbles des Projekts fest.
+bubblestyle_d.h	Legt die Bubble-Stilressource für die Anzeige der Objekt-Bubbles des Projekts fest.
+choose_bool.h	Dieses Feld enthält den Wert, der bestimmt, ob der Auswahlknopf oder das Ankreuzfeld an- oder ausgeschaltet ist. Für einen Auswahlknopf ist der Wert immer "1" (eingeschaltet). Für ein Ankreuzfeld kann der eingetragene Wert "0" (ausgeschaltet) oder "1" (eingeschaltet) sein.
+choose_text.h	Dieser Parameter enthält die Zeichenfolge, die für den gewählten Eintrag während der automatischen Aufnahme in einem Popup-Menü oder einem Listenfeld ermittelt wurde. Dieser String wird in den Erklärungstexten der Bubbles in den verschiedenen Modi anstelle des Platzhalters '${choose_text}' (siehe Text-Modus im HTML-Editor) eingefügt. Es wird als Textbaustein für den während der Aufnahme automatisch generierten Bubble-Text verwendet.
+click_pos.h	Beschreibt die Position im Applikationsfenster, auf die der Autor während der Aufnahme des Objekts geklickt hat. Die Position wird in Pixel angegeben und bezieht sich auf die obere linke Ecke des Applikationsfensters.
+click_pos_rel.h	Beschreibt die Position im Applikationsfenster. Die Angabe in Prozent (%) bezieht sich relativ auf die Gesamtbreite und -höhe des Applikationsfensters, wobei der linke und der obere Rand als Bezugspunkte dienen.
+config_file.h	Enthält den Namen des Applikationsprofils, mit dem der Schlüssel erstellt wurde und beim Abspielen ausgewertet wird.
+display_name.h	Gibt den Applikationsnamen an. Der Name wird im Ausnahmefenster einer geführten Tour angezeigt.
+dump_page.h	Enthält den aufgenommenen Bildschirm. \nSie können das Bild mit der Funktion "Bild ersetzen" ändern.
+element_type.h	Beschreibt die Objektklasse, die durch den Erkennungsmechanismus ermittelt wurde.
+enabled.h	Nur Kontexthilfe\nDiese Option legt fest, ob das Makro in die Analyse der Seite einbezogen wird oder nicht. Ist diese Option deaktiviert, wird das Hilfsobjekt nicht angezeigt, selbst wenn das assoziierte Objekt auf der Seite vorhanden ist.
+optional.h	Nur geführte Tour\nDiese Option legt fest, ob der Schritt der geführten Tour für den Nutzer in einem Prozess optional ist. \nWährend des Abspielens wird ein anderes Symbol in der Schrittliste angezeigt. Ist das Steuerelement auf der Seite nicht sichtbar oder handelt es sich um die falsche Seite, wird der Schritt übersprungen.
+executable.h	Enthält den Namen der ausführbaren Datei der Applikation, wie er vom Betriebssystem verwendet wird.
+explanation_d.h	Enthält die Informationen zum entsprechenden Kontext (Texte, Links, Bilder etc.). Achten Sie auf eine optimale Darstellung der Informationen in der Haupt-Bubble.
+explanation_d_modified.h	Durch Aktivieren dieser Option werden Kontextinformationen bei einer automatischen Übersetzung nicht mehr automatisch generiert, sondern müssen manuell bearbeitet werden. Dies hilft, manuell vorgenommene Änderungen am Inhalt der Bubble zu erhalten.
+fieldname.h	Enthält den Namen des aufgenommenen Steuerelements, der in Bubble-Texte eingefügt wird. \nSie können den Objektnamen im Textfeld ändern. Der Objektname hat den Platzhalter '$#{fieldname}'.
+fieldicon.h	Enthält das Bild einer aufgenommenen Drucktaste oder eines aufgenommenen Symbols, das in Bubble-Texte eingefügt wird. \nSie können das Objektbild mit der Funktion "Bild ersetzen" ändern. Das Objektbild hat den Platzhalter '$I{fieldicon}'.
+g_highlight_bgr.h	Legt die Standardfarbe für den Rand der angezeigten Markierung in der Navigation fest. Die Farbe kann direkt als RGB-Wert im HEX-Format angegeben oder aus dem Dialogfenster des Farbwählers ausgewählt werden.
+g_highlight_border.h	Dieser Parameter legt die Stärke des Rahmens der Objektmarkierung in Pixel fest. Zur Verfügung stehen die Stärken "1" bis "10".
+g_highlight_effect.h	Diese Option bestimmt die Art des Markierungseffekts, der für Objekte in der Navigation verwendet wird.
+hide_on_focuslost.h	Definiert, ob die Bubble ausgeblendet wird, wenn der Fokus das betreffende Objekt auf dem Bildschirm verlässt.
+highlight_offset.h	Legt den hinzugefügten Versatz für das Markierungsrechteck um das markierte Objekt in Pixel fest.
+key.h	Enthält alle Kriterien, mit denen das Applikationsfenster und eine bestimmte Seite in der Applikation identifiziert werden. Der Schlüssel passt nur dann, wenn die Seite in der Ziel-Applikation alle im Schlüssel definierten Kriterien erfüllt. Zum Aufweichen der Definition einzelner Schlüsselkriterien können auch reguläre Ausdrücke verwendet werden.
+key_name.h	Dieser Parameter bestimmt die verwendete Taste oder Tastenkombination. Hierbei werden die Tastennamen durch Leerzeichen getrennt angegeben, zum Beispiel: "Strg + K".
+key_desc.h	Dieser Parameter bestimmt die verwendete Taste oder Tastenkombination. Hierbei werden die Tastennamen durch Leerzeichen getrennt angegeben, zum Beispiel: "Strg + K".
+force_display.h	Nur Kontexthilfe\nLegt fest, dass die Makro-Inhalte immer als Soforthilfe angezeigt werden, selbst wenn die Soforthilfe während des Abspielens eines Desktop Assistant deaktiviert ist.
+link_to_sim.h	Diese Option definiert, ob der Simulationslink in der Haupt-Bubble angezeigt wird. Diese Option bezieht sich auf eine Navigation, die auf einem Simulationsprojekt (durch Konvertierung) basierend erstellt wurde.
+macro_comment.h	Allgemeiner Kommentar, wird in der Miniaturansicht angezeigt.
+match_value.h	Diese Option legt fest, ob der angegebene Wert mit dem realen Wert des Objekts in der Live-Anwendung verglichen werden soll.
+mini_on_focuslost.h	Definiert, ob die Bubble minimiert wird, wenn der Fokus das betreffende Objekt auf dem Bildschirm verlässt.
+nav_check_freq.h	Legt fest, wie häufig der @{NAVIGATOR} nach aktualisierten Inhalten sucht. Wenn aktualisierte Inhalte verfügbar sind, werden diese vom @{NAVIGATOR} automatisch gestartet. Dies ist besonders für Change-Management-Prozesse sinnvoll.
+enable_tincan.h	Aktiviert das Tracking von @{NAVIGATOR}-Inhalten. Der Inhalt muss über einen @{MANAGER}-Arbeitsbereich gestartet werden.
+no_spike.h	Definiert, ob Objekt-Bubbles mit oder ohne Spitze dargestellt werden sollen.
+objname.h	Für die Verwendung und Zuordnung von Verhalten benötigt jedes Objekt in einer Navigation zu Identifikationszwecken einen eindeutigen Namen.
+orientation.h	Dieser Parameter legt die Ausrichtung der Objekt-Bubbles relativ zum referenzierten Objekt fest. Hierbei weist der Pfeil der Bubble auf die auf der Seite referenzierte Stelle, während die Bubble selbst entsprechend der Angabe versetzt dazu angezeigt wird. Ist die Ausrichtung "Mitte" ausgewählt, wird die Bubble ohne Pfeil zentriert auf der angegebenen Position platziert.
+path.h	Der Objektpfad beschreibt die Eigenschaften des Objekts im Rahmen des verwendeten Applikationsprofils. Der Objektpfad wird zur Identifizierung des Objekts in der Live-Anwendung verwendet. In der Regel sollte eine manuelle Bearbeitung dieses Felds nicht nötig sein.
+position.h	Die hier eingetragenen Werte geben die Position der Haupt-Bubble auf dem Bildschirm an. Die Werte werden in Pixel angegeben und beziehen sich auf die linke obere Ecke des Bildschirms.
+reference.h	Wurde die Navigation aus einer Simulation konvertiert, ist hier die Quelle des entsprechenden Schritts anzugeben.
+resize.h	Diese Option legt fest, ob die Fenstergröße der Ziel-Applikation beim Abspielen der Navigation automatisch angepasst wird. Die Fenstergröße orientiert sich dabei an der während der Erstellung der Navigation verwendeten Fenstergröße. Dies ist besonders für aktive Flächen hilfreich, da sie positionsabhängig sind.
+revision.h	Gibt die Version des Applikationsprofils an, mit dem der Schlüssel bei der Aufnahme des Applikationsfensters erstellt wurde.
+sc_config_header.h	In diesem Feld werden Informationen aus dem Applikationsprofil gespeichert. Die Navigation verwendet diese Informationen während des Abspielens zur korrekten Erkennung der Applikation und ihrer Objekte.
+screenshot_rect.h	Zeigt an, welcher Bereich des ursprünglichen Bildschirms für den Screenshot des Objektes verwendet wurde. In der Regel sollte eine manuelle Bearbeitung dieses Werts nicht nötig sein.
+show_bubble.h	Definiert, ob die Bubble beim Aufrufen der Seite direkt und geöffnet angezeigt werden soll.
+start_from_arbitrary.h	Diese Option legt fest, ob die geführte Tour von einem beliebigen Schritt und nicht vom Anfang des Prozesses aus gestartet werden kann.
+show_hilight.h	Legt fest, ob für das Objekt eine Markierung angezeigt wird.
+show_highlight.h	Legt fest, ob für die Objekte Markierungen angezeigt werden.
+show_on_focus.h	Definiert, ob die Bubble angezeigt wird, wenn der Fokus das betreffende Objekt auf dem Bildschirm verlässt.
+source.h	Wurde eine Navigation aus einer Simulation konvertiert, so gibt der Parameter die ursprüngliche Lerneinheit an.
+subkey.h	In einigen Fällen ist es hilfreich, wenn bestimmte Teile des ursprünglichen Schlüssels ignoriert werden. Dies ist beispielsweise der Fall, wenn Varianten einer bestimmten Seite nicht relevant sind und durch einen Schlüssel oder Schritt in der Navigation verarbeitet werden sollen. Diese Option legt fest, dass der Erkennungsmechanismus den Schlüssel als passend ansieht, auch wenn die Seite mehr Schlüsselkriterien bei der Erkennung zurückliefert als im Schlüssel definiert. Der Seitenschlüssel kann somit verkürzt werden, um mit einem Schlüssel mehr als eine Seite abzudecken.
+target_name.h	Enthält den Namen des Applikationsfensters.
+text_d.h	Dieser Parameter enthält die Zeichenfolge, die in das referenzierte Eingabefeld eingegeben werden soll. Er erhält den während des automatischen Aufnahmeprozesses eingegebenen Wert. Dieser String wird bei der automatischen Textgenerierung mit Textbausteinen während der Aufnahme in die Erklärungstexte der Bubbles in den verschiedenen Modi anstelle des Platzhalters '${text_d}' (siehe Text-Modus im HTML-Editor) eingefügt.
+text_d_specializer.h	Dieser Parameter enthält die Zeichenfolge, die in das referenzierte Eingabefeld eingegeben werden soll. Er erhält den während des automatischen Aufnahmeprozesses eingegebenen Wert. Dieser String wird bei der automatischen Textgenerierung mit Textbausteinen während der Aufnahme in die Erklärungstexte der Bubbles in den verschiedenen Modi anstelle des Platzhalters '${text_d}' (siehe Text-Modus im HTML-Editor) eingefügt.
+tolerance.h	Der Wert legt den Toleranzwert für den Übereinstimmungsgrad bei dem Zusammenführen von Bildschirmmakros fest. Diese Einstellung bezieht sich auf die Funktion "Screenshotmakros zusammenführen", die über "Werkzeuge" -> "Massenänderungen" aufgerufen wird. Wird der Wert heraufgesetzt, erhöht sich die Toleranzschwelle. Beachten Sie bei der Verwendung dieser Funktion, dass ebenfalls solche Screenshots zusammengeführt werden können, auf denen unterschiedliche Objekte angezeigt werden. Der Wert wird in Prozent angegeben.
+uid.h	Enthält eine eindeutige ID des Makros, unter der es im Projekt verwaltet wird.
+win_rect.h	Legt die Fenstergröße beim Erstellen des Projektes fest.
+explanation_type.h	Diese Einstellung legt den Hinweistyp fest. Je nach eingestelltem Typ wird zur Markierung des Hinweistextes ein Piktogramm zusammen mit dem Text abgebildet.
+app_info.h	Die Einstellung legt fest, ob die Applikation in der Kontexthilfe angezeigt wird. Soll die Applikation nicht angezeigt werden, ist die Einstellung zu deaktivieren.
+app_link_to_sim.h	Über diesen Parameter lässt sich zusätzlich zum Kontexttyp ein Link auf die im Parameter "Quelle" angegebene Simulation anzeigen. Hierbei kann zwischen verschiedenen Modi gewählt werden.
+screen_info.h	Die Einstellung legt fest, ob die Seite in der Kontexthilfe angezeigt wird. Soll der Screenshot nicht angezeigt werden, ist die Einstellung zu deaktivieren.
+screen_link_to_sim.h	Über diesen Parameter lässt sich zusätzlich zum Kontexttyp ein Link auf die im Parameter "Quelle" angegebene Simulation anzeigen. Hierbei kann zwischen verschiedenen Modi gewählt werden.
+object_info.h	Nur Kontexthilfe\nDiese Einstellung legt die Variante fest, die für das Objekt angezeigt werden soll.
+open_expanded.h	Durch Aktivieren dieser Option wird die Haupt-Bubble mit geöffneter Seiten- und Objektliste angezeigt.
+display_on.h	Dieser Parameter legt fest, in welcher Situation die Haupt-Bubble der Navigation angezeigt werden soll: Beim Starten der Navigation, Anzeigen der Applikation oder der zugehörigen Applikationsseite.
+area.h	Der Parameter definiert die Position und Größe des Steuerelements. Die ersten beiden Zahlen geben die Position eines Objektes vom linken und oberen Bildschirmrand an. Die letzten beiden Zahlen definieren die Breite und Höhe des Objektes. Über die Drucktaste neben dem Eingabefeld öffnet sich ein Bearbeitungsdialog zum Anpassen der Position und Größe des Objektes.
+form_on.h	Legt fest, dass es sich beim Schritt um ein Formular handelt. Alle Aktionen des Schritts werden beim Abspielen in einer Bubble angezeigt.
+transition	Nächster Schritt der geführten Tour
+transition_info	Nächster Schritt der geführten Tour
+action_pa	Aktion
+trans_action	Aktion
+step_name1	Nächster Schritt
+step_name2	Alternativschritt 1
+step_name3	Alternativschritt 2
+step_name4	Alternativschritt 3
+LClick	Linksklick
+RClick	Rechtsklick
+LDblClick	Linker Doppelklick
+RDblClick	Rechter Doppelklick
+Focus	Fokus
+FocusLost	Fokus verloren
+step	Schritt der geführten Tour
+name	Name
+end_message	Text
+show_end_window	Fenster zum Ende
+show_end_window.h	Legt fest, dass ein Fenster nach dem Beenden der geführten Tour angezeigt wird. Dieses Fenster ermöglicht dem Nutzer, die geführte Tour manuell zu schließen. Ist diese Option deaktiviert, wird das Fenster nicht angezeigt und die geführte Tour wird automatisch geschlossen.
+trans_action.h	Nur geführte Tour\nLegt die Aktion fest, die den Sprung zum nächsten Schritt der geführten Tour anstößt.
+action_pa.h	Legt fest, durch welche Aktion des Nutzers der Sprung zum nächsten Schritt der geführten Tour ausgeführt wird.
+step_name1.h	Nur geführte Tour\nLegt den nächsten Schritt des Prozessablaufs fest.
+step_name2.h	Nur geführte Tour\nLegt einen alternativen Schritt der geführten Tour fest, zu dem gesprungen wird, wenn der definierte Schritt nicht angezeigt werden kann.
+step_name3.h	Nur geführte Tour\nLegt einen alternativen Schritt der geführten Tour fest, zu dem gesprungen wird, wenn der definierte alternative Schritt 1 nicht angezeigt werden kann.
+step_name4.h	Nur geführte Tour\nLegt einen alternativen Schritt der geführten Tour fest, zu dem gesprungen wird, wenn der definierte alternative Schritt 2 nicht angezeigt werden kann.
+step_on_same_page.h	Nur geführte Tour\nDiese Einstellung ist zu aktivieren, wenn sich der nächste Schritt der geführten Tour auf der selben Applikationsseite befindet. Dadurch muss keine erneute Seitenerkennung durchgeführt werden.
+name.h	Legt den Namen des Schritts der geführten Tour fest. Der Name wird in der Einstellung "Nächster Schritt der geführten Tour" eines "Objekt"-Makros für die Auswahl angezeigt.
+set_value	Wert automatisch setzen
+set_value.h	Definiert, ob der Wert des Makros beim Abspielen der Navigation automatisch gesetzt werden soll.
+end_message	Text
+end_message.h	In dem Textfeld können Sie einen Text eingeben, der am Ende eines Prozesses in der Bubble angezeigt wird. Das Textfeld ist mit einem Standardtext vorbelegt.
+restart_option	Drucktaste "Wiederholen"
+restart_option.h	Durch Aktivieren der Option wird in der Bubble eine Drucktaste angezeigt, mit der ein Prozess vom Nutzer wiederholt werden kann. Dadurch lässt sich ein Prozess erneut mit anderen Eingaben ausführen.
+record_end_display	Bubble bearbeiten
+end_bubble	Bubble Prozessende
+bend_position	Position
+bend_position.h	Die hier eingetragenen Werte geben die Position der Bubble auf dem Bildschirm an. Die Werte werden in Pixel angegeben und beziehen sich auf die linke obere Ecke des Bildschirms.
+bend_style	Stil
+bend_style.h	Diese Einstellung legt fest, welcher Bubble-Stil für die Darstellung der Bubble verwendet werden soll. Bubble-Stile werden über den Bubble-Stil-Editor definiert, der über das Menü "Werkzeuge" -> "Bubble-Stile bearbeiten" aufgerufen wird. Bubble-Stile sind immer für den gesamten Arbeitsbereich verfügbar.
+bend_width	Breite
+bend_width.h	Legt die Breite der darzustellenden Bubble in Pixel fest.
+bend_height	Höhe
+bend_height.h	Legt die Höhe der darzustellenden Bubble in Pixel fest.
+process_start_unit	Stil für geführte Tour
+record_pa_control	Schritt der geführten Tour aufnehmen
+prev_step	Vorheriger Schritt
+next_step	Nächster Schritt
+disqualifier	Seite ausschließen
+disqualifier.h	Durch die Seitenspezifizierung können Sie durch ein spezifisches Objekt besser zwischen ähnlichen Applikationsseiten unterscheiden. Diese Option gibt an, ob die erkannte Applikationsseite bei Verfügbarkeit einer Seitenspezifizierung angezeigt oder ausgeschlossen werden soll. \nDie Miniaturansicht zeigt den Status der Option an: ein Plus- (nicht ausschließen) oder Minus- (ausschließen) Symbol.
+exception_bubble	Bubble Ausnahmebehandlung
+bexp_position	Position
+bexp_position.h	Die hier eingetragenen Werte geben die Position der Bubble auf dem Bildschirm an. Die Werte werden in Pixel angegeben. Die Bubble wird in der oberen linken Ecke des Bildschirms angezeigt.
+bexp_style	Stil
+bexp_style.h	Diese Einstellung legt fest, welcher Bubble-Typ für die Darstellung der Bubble verwendet werden soll. Bubble-Typen werden über den Bubble-Typ-Editor definiert, der über das Menü "Werkzeuge" -> "Bubble-Typen bearbeiten" aufgerufen wird. Bubble-Typen sind immer für den gesamten Arbeitsbereich verfügbar.
+content_demo	Demo-Modus
+content_demo.h	Mit dieser Option werden die in einer Gruppe enthaltenen Demo-Modi im Desktop Assistant angezeigt.
+content_practice	Übungs-Modus
+content_practice.h	Mit dieser Option werden die in einer Gruppe enthaltenen Übungs-Modi im Desktop Assistant angezeigt.
+content_test	Test-Modus
+content_test.h	Mit dieser Option werden die in einer Gruppe enthaltenen Test-Modi im Desktop Assistant angezeigt.
+content_concurrent	Praxis-Modus
+content_concurrent.h	Mit dieser Option werden die in einer Gruppe enthaltenen Praxis-Modi im Desktop Assistant angezeigt.
+content_navi	Navigation
+content_navi.h	Mit dieser Option werden die in einer Gruppe enthaltenen Navigationen im Desktop Assistant angezeigt.
+content_documentation	Dokumentation
+content_documentation.h	Mit dieser Option werden die in einer Gruppe enthaltenen Dokumentationen im Desktop Assistant angezeigt.
+content_externals	Externe Dateien
+content_externals.h	Mit dieser Option werden die in einer Gruppe enthaltenen externen Dateien im Desktop Assistant angezeigt.
+navi_style	Stil
+navi_style.h	Legt die Darstellung des Navigationsfensters fest. Wählen Sie eine Stilressource aus der Liste aus.
+menu_path:/record	Aufnahme
+F1HELPNAME	Hilfe
+alignment	Bubble-Ausrichtung
+alignment.h	Gibt die Ausrichtung des Bubble-Fensters auf dem Bildschirm an. Die Option "Frei" ermöglicht im Parameter "Bubble-Position" das Festlegen einer Position.
+bform_alignment	Ausrichtung
+bform_alignment.h	Legt die Ausrichtung des Formular-Bubble-Fensters auf dem Bildschirm fest. Die Option "Frei" ermöglicht im Parameter "Position Formular-Bubble" das Festlegen einer Position.
+gloss_bubble	Glossar-Bubble
+gloss_bubble_style	Stil
+gloss_bubble_style.h	Legt die Darstellung der Glossar-Bubble fest. Wählen Sie eine Stilressource aus der Liste aus.
+ellipse	Kreis
+gloss_bubble_size	Größe
+gloss_bubble_size.h	Legt die Größe (Breite, Höhe) der Glossar-Bubble in Pixel fest.
+Navi	Desktop Assistant
+exclude_from_da	Aus Desktop Assistant ausschließen
+exclude_from_da.h	Legt fest, dass der Seitenschlüssel bei der Kontexterkennung im Desktop Assistant nicht berücksichtigt wird.
+all_as_descr	Text verwenden aus
+all_as_descr.h	Legt den Texttyp für den @{NAVIGATOR} fest. Standard: Kurzbeschreibung
+consider_roles	Rollen berücksichtigen
+consider_roles.h	Aktiviert die Verwendung von Rollen für die Anzeige von Inhalten während des Anspielens.
+consider_categories	Kategorien berücksichtigen
+consider_categories.h	Aktiviert die Verwendung von Kategorien für das Sortieren von Inhalten im Hauptfenster des @{NAVIGATOR}.
+disable_ca_in_pa	Soforthilfe in geführter Tour ausblenden
+disable_ca_in_pa.h	Legt fest, ob alle Informationen der Soforthilfe beim Abspielen der geführten Tour ausgeblendet werden. Sobald die geführte Tour beendet ist, wird die Soforthilfe wieder angezeigt.
+full_desc	Beschreibung
+shrt_desc	Kurzbeschreibung
+wrong_position	Positionierungsfehler
+help	Hilfe
+warning	Warnung
+maintenance	Wartung
+update	Aktualisieren
+new	Neu
+training	Schulung
+attachment	Anlage
+link	Link
+tip	Tipp
+note	Hinweis
+compliance	Compliance
+mini_bubble_style	Minisymbolstil
+mini_bubble_style.h	Legt die Stilressource für die für das Projekt verwendeten Minisymbole fest. Bei Minisymbolen handelt es sich um einen Ressourcentyp der anpassbaren Ressourcen. \nFür jedes Aktions- und Erklärungsmakro kann im Bereich "Erweitert" im Parameter "Minisymboltyp" ein Symbol gesetzt werden.
+mini_bubble	Minisymboltyp
+mini_bubble.h	Nur Kontexthilfe\nLegt einen Typ für das Minisymbol des Objekts fest. Das Symbol basiert auf dem im Makro "Stil" definierten "Minisymbolstil".
+NavRecMouseWheel	Zum Fortsetzen Mausrad verwenden. Zum Abschließen des Scrollens mit dem Mausrad Escape-Taste drücken.
+search_type	Suchtyp
+none	Ohne
+search_in_lib	In @{LIBRARY}
+search_in_da	Desktop-Assistant-Gruppe
+search_type.h	Legt die Funktion für die Suche nach Inhalten fest. Wählen Sie einen Typ aus der Dropdown-Liste aus. \nOhne: Deaktiviert die Suchfunktion. \nIn @{LIBRARY}: Öffnet die @{LIBRARY} für die Suche nach @{LIBRARY}-Inhalten. \nIn Desktop-Assistant-Gruppe: Zeigt die Registerkarte "Suche" im Hauptfenster für die Suche in Desktop-Assistant-Inhalten an.
+errObjectUpdate	Objekt kann nicht aktualisiert werden. Aktualisieren Sie das Objekt mit ähnlichem Typ.
+config_headers_differ1	Profilinformationen sind veraltet. Klicken Sie auf "Weiter", um das Projekt zu aktualisieren.
+config_headers_differ2	Es wird empfohlen, vor der Aktualisierung ein Archiv anzulegen.
+default_start_mode	Standard-Startinhalt
+default_start_mode.h	Legt für die Inhaltsliste den als Standard aufzurufenden Modus oder das als Standard aufzurufenden Dokumentformat fest.
+default_start_doc	Standard-Startdokument
+default_start_doc.h	Legt den Dokumententyp fest, wenn ein Dokument in der Einstellung "Standard-Startinhalt" definiert ist.
+show_next_btn	Drucktaste "Weiter"
+show_next_btn.h	Nur geführte Tour\nLegt fest, ob in der Objekt-Bubble die Drucktaste "Weiter zum nächsten Schritt" angezeigt wird.
+condition	Bedingung
+condition.h	Beim Abspielen muss der vom Nutzer eingebebene Wert mit der Bedingung übereinstimmen, damit der Lerner zum nächsten oder zu einem bestimmten Schritt springen kann. \nWählen Sie "Bedingung bearbeiten", um eine Bedingung zu erstellen oder zu bearbeiten.
+errDuplicateContext	Diese Applikation wurde bereits aufgenommen.
+add_sticky_notes	Position: Steuerelement "Haftnotiz hinzufügen"
+add_sticky_notes.h	Ermöglicht Ihnen die Anzeige eines Steuerelements für das Hinzufügen einer Haftnotiz auf einer Seite. Sie können die Position des Steuerelements in der Randleiste angeben.
+show_instant_help_btn	Position: Steuerelement "Soforthilfe"
+show_instant_help_btn.h	Ermöglicht Ihnen die Anzeige eines Steuerelements für das Aktivieren der Soforthilfe. Sie können die Position des Steuerelements in der Randleiste angeben.
+show_carousel	Karussell anzeigen
+show_carousel.h	Diese Option zeigt den Desktop Assistant im Karussellmodus an.
+condition_pattern	Bedingungsmuster
+condition_pattern.h	Legt das Muster für die Bedingung fest.
+condition_value	Bedingungswert
+condition_value.h	Enthält den für die Bedingung verwendeten Wert. Geben Sie bitte auf der Basis des ausgewählten Musters einen Text oder eine Zahl ein.
+condition_jump_target	Sprungziel
+condition_jump_target.h	Nur geführte Tour\nLegt ein Sprungziel für die Bedingung fest. Wählen Sie einen Schritt aus der Dropdown-Liste aus. Wenn die Bedingung übereinstimmt, springt die Navigation zum angegebenen Schritt.
+condition_text	Bedingungstext
+condition_text.h	Enthält den anzuzeigenden Text, wenn die Bedingung nicht erfüllt ist.
+condition_case_sensitive	Groß-/Kleinschreibung
+condition_case_sensitive.h	Legt fest, dass die Bedingung die Groß-/Kleinschreibung berücksichtigt.
+condition_ignore_on_load	Beim Laden der Seite ignorieren
+condition_ignore_on_load.h	Nur Kontexthilfe\nLegt fest, dass die Bedingung beim Laden der Seite nicht geprüft wird. Die Bedingung wird bei der Verwendung des entsprechenden Steuerelements geprüft. Damit kann vermieden werden, dass die Bedingungs-Bubble direkt angezeigt werden muss.
+c_equals	Ist gleich
+c_not_equals	Ist nicht gleich
+c_greater	Ist größer als
+c_greater_equals	Ist größer als oder gleich
+c_less	Ist kleiner als
+c_less_equals	Ist kleiner als oder gleich
+c_min_char	Minimale Zeichenanzahl
+c_max_char	Maximale Zeichenanzahl
+c_num_char	Zeichenanzahl ist gleich
+c_reg_exp	Regulärer Ausdruck
+vertical	Vertikal
+horizontal	Horizontal
+AutoBarReady	Bereit
+AutoBarExplanation	Erklärung einfügen
+AutoBarChooseApp	Applikation wählen
+AutoBarRecord	Aufnehmen
+AutoBarBusy	Beschäftigt
+AutoBarPause	Anhalten
+AutoBarReRecManualHotspot	Steuerelement bearbeiten: drücken Sie die Tasten Strg + Eingabetaste, um die Änderungen zu übernehmen. Drücken Sie die ESC-Taste, um die Änderungen zu verwerfen.
+wizAddExplanation	Erklärung hinzufügen
+AutoBarNoRecognition	Keine Steuerelemente erkannt
+AutoBarDiagnosis	Diagnose
+condition_bubblestyle	Bubble-Stil
+condition_bubblestyle.h	Definiert die Bubble-Stil-Ressource, die für die Anzeige des Bedingungstexts verwendet werden soll.
+condition_highlight_bgr	Markierungsfarbe
+condition_highlight_bgr.h	Definiert die Markierungsfarbe für das Steuerelement.
+IDS_MPI_TOURSTOP_LABEL	Name
+IDS_MPI_TOURSTOP_LABEL_MODIFIED	Manuell übersetzen
+IDS_MPI_TOURSTOP_NAME	UID
+IDS_MPI_TOURSTOP_SHOW	In Fortschrittsanzeige anzeigen
+IDS_MPI_TOURSTOP_JUMP	Sprungziel
+IDS_MPI_TOURSTOP_CALLABLE	Unterprogramm
+basic_info	Grundeigenschaften
+IDS_NO_IMAGE_SELECT	Es ist kein Bild ausgewählt
+IDS_NO_IMAGE	Bild nicht gefunden
+ID_INSERT_TAKE	Schritt hinzufügen
+ID_PRJ_LAYOUT_HORZ	Horizontales Layout
+ID_PRJ_LAYOUT_VERT	Vertikales Layout
+ID_PRJ_LAYOUT_DIV	Geteiltes Layout - 1
+ID_PRJ_LAYOUT_4	Geteiltes Layout - 2
+ID_PRJ_LAYOUT_5	Geteiltes Layout - 3
+IDS_UNTITLED	(kein Titel)
+docTableHeaderStep	Schritt
+layout_advanced	Erweitertes Layout
+showEditorHelp	Web-Editor-Hilfe anzeigen
+slide:insert_tb	Einfügen
+slide:action_tb	Aktion
+slide:structure_tb	Struktur
+slide:view_tb	Anzeigen
+existing_scrs_in_prj	Der aktuelle Bildschirm wird in Ihrem Projekt schon mehrmals verwendet. \nWählen Sie den Bildschirm aus, zu dem Sie die aufgenommenen Objekte hinzufügen möchten.
+start_topic	Start
+guided_tour	Geführte Tour
+context_help	Kontexthilfe
+off	Aus
+main_bar_1	Hauptleiste 1
+main_bar_2	Hauptleiste 2
+main_bar_3	Hauptleiste 3
+main_bar_4	Hauptleiste 4
+main_bar_5	Hauptleiste 5
+main_bar_6	Hauptleiste 6
+main_bar_7	Hauptleiste 7
+main_bar_8	Hauptleiste 8
+sub_menu_1	Untermenü 1
+sub_menu_2	Untermenü 2
+sub_menu_3	Untermenü 3
+sub_menu_4	Untermenü 4
+sub_menu_5	Untermenü 5
+sub_menu_6	Untermenü 6
+content_btn	Position: Steuerelement "Inhalt"
+content_btn.h	Gibt die Position des Steuerelements "Inhalt" in der Randleiste an.
+search_btn	Position: Steuerelement "Suche"
+search_btn.h	Gibt die Position des Steuerelements "Suche" in der Randleiste an.
+orCenter	Mitte
+orNorth	Nord
+orWest	West
+orNortWest	Nordwest
+orEast	Ost
+orNortEast	Nordost
+orSouth	Süd
+orSouthWest	Südwest
+orSoutEast	Südost
+screen_tolerence	Zulässige Bildschirmabweichung (%)
+screen_tolerence.h	Der Parameter legt die zum Anzeigen der zugehörigen Kontextinformationen notwendige grafische Übereinstimmung der angezeigten Bildschirmseite zu dem aufgenommenen Screenshot in Prozent fest. Liegen die grafischen Unterschiede über dem definierten Wert, vergleicht der @{NAVIGATOR} den aufgenommen Seitenschlüssel mit der Bildschirmseite und zeigt die einer anderen Applikationsseite zugehörigen Inhalte an.
+video_folder	Video-Aufnahmenordner
+video_folder.h	Legt den Ordner für das Ablegen der Video-Aufnahmen fest.\nHinweis: Video-Aufnahmen werden aufgrund ihrer Dateigröße nicht im Cache-Ordner des @{NAVIGATOR} abgelegt.
+allow_video_rec	Video-Aufnahme zulassen
+allow_video_rec.h	Ermöglicht Nutzern die Aufnahme von Video-Inhalten.
+hide_da_on_web_assistant	@{NAVIGATOR} bei laufendem @{XRAY} ausblenden
+hide_da_on_web_assistant.h	Legt fest, dass @{NAVIGATOR}-Fenster ausgeblendet werden, wenn @{XRAY} im Vordergrund ausgeführt wird.
+show_web_assistant_msg	@{XRAY}-Nachricht anzeigen
+show_web_assistant_msg.h	Legt fest, dass eine Nachricht angezeigt wird, wenn @{XRAY} im Vordergrund ausgeführt wird oder den Vordergrundmodus verlässt.
+auto_hide	Nach Animation ausblenden
+auto_hide.h	Ist diese Option akiviert, wird die Markierung nach der Fertigestellung der Anmimation automatisch wieder ausgeblendet.
+bmain_height	Höhe
+bmain_height.h	Definiert die Höhe der Haupt-Bubble in Pixel. Übersteigt die darzustellende Textmenge den verfügbaren Bereich in der Bubble, so wird diese in der Höhe automatisch an den benötigten Platz angepasst.
+bmain_style	Stil
+bmain_style.h	Diese Einstellung legt fest, welcher Bubble-Typ für die Darstellung der Haupt-Bubble verwendet werden soll. Bubble-Typen werden über den Bubble-Typ-Editor definiert, der über das Menü "Werkzeuge" -> "Bubble-Typen bearbeiten" aufgerufen wird. Bubble-Typen sind immer für den gesamten Arbeitsbereich verfügbar.
+bmain_width	Breite
+bmain_width.h	Definiert die Breite der Haupt-Bubble in Pixel.
+bottom_dock	Unten verankert
+cache_stale_interval	Ablaufintervall (Min)
+cache_stale_interval.h	Aktiviert die Verwendung des @{NAVIGATOR}-Cache und legt einen Zeitraum für die Aktualisierung von Inhalten im Cache-Ordner fest. Der Wert wird in Minuten angegeben. \nÄndern Sie zum Deaktivieren des Cache den Wert auf "0".
+centered	Zentriert
+close_details	Inhaltsfenster schließen
+close_details.h	Legt eine Funktionstaste für das Schließen des Inhaltsfensters eines ausgewählten Projekts fest.
+confirmation_hotkey	Hotkey für Schrittbestätigung
+confirmation_hotkey.h	Legt den Hotkey für das Bestätigen von Schritten während des Abspielens der Geführte Touren fest.
+detail_positioning	Inhaltsfenster Ausrichtung
+detail_positioning.h	Legt die Ausrichtung des Inhaltsfensters auf dem Bildschirm fest. Das Inhaltsfenster wird mit Ausnahme bei der Ausrichtung "Zentriert" am Hauptfenster verankert.
+detail_size	Inhaltsfenster Größe
+detail_size.h	Legt die Größe (Breite, Höhe) des Inhaltsfensters in Pixel fest.
+enable_search	Registerkarte "Suche" aktivieren
+enable_search.h	Aktiviert die Suchfunktion in Desktop-Assistent-Inhalten.
+h_dock	Horizontal verankert
+icon_position	Icon-Position
+icon_position.h	Die hier eingetragenen Werte geben die Position des Icons auf dem Bildschirm an. Die Werte werden in Pixel angegeben und beziehen sich auf die linke obere Ecke des Bildschirms.
+leaves_page	Verlässt die Seite
+leaves_page.h	Diese Option zeigt der Navigation an, dass die auf dem Objekt vorgegebene Aktion zum Aufruf einer neuen Seite führt. Sobald die Aktion auf dem Objekt durchgeführt wurde und die neue Seite fertig geladen ist, wird eine neue Seitenanalyse angestoßen.
+left_dock	Links verankert
+library_height	Bubble-Höhe
+library_height.h	Definiert die Höhe der Bubble in Pixel.
+library_width	Bubble-Breite
+library_width.h	Definiert die Breite der Bubble in Pixel.
+maximize_details	Inhaltsfenster maximieren
+maximize_details.h	Legt eine Funktionstaste für das Maximieren des Inhaltsfensters fest.
+next_doc	Nächstes Dokument auswählen
+next_doc.h	Legt eine Funktionstaste für die Auswahl des nächsten Dokuments im Inhaltsfenster fest.
+next_project	Nächstes Projekt auswählen
+next_project.h	Legt eine Funktionstaste für die Auswahl des nächsten Projekts im Hauptfenster fest.
+open_content	Inhalt öffnen
+open_content.h	Legt eine Funktionstaste für das Öffnen des ausgewählten Inhaltsobjekts fest.
+open_details	Inhaltsfenster öffnen
+open_details.h	Legt eine Funktionstaste für das Öffnen des Inhaltsfensters eines ausgewählten Projekts fest.
+prev_doc	Vorheriges Dokument auswählen
+prev_doc.h	Legt eine Funktionstaste für die Auswahl des vorherigen Dokuments im Inhaltsfenster fest.
+prev_project	Vorheriges Projekt auswählen
+prev_project.h	Legt eine Funktionstaste für die Auswahl des vorherigen Projekts im Hauptfenster fest.
+right_dock	Rechts verankert
+show_icon_on_start	Statussymbol beim Start anzeigen
+show_icon_on_start.h	Legt fest, ob beim Start des Desktop-Assistenten das Statussymbol anstelle des Hauptfensters angezeigt werden soll.
+start_doc	Dokument öffnen
+start_doc.h	Legt eine Funktionstaste für das Öffnen eines ausgewählten Dokuments im Inhaltsfenster fest.
+step_on_same_page	Schritt auf selber Seite
+top_dock	Oben verankert
+v_dock	Vertikal verankert
+variant.h	Der Parameter definiert, wie die Hilfe zu einem Objekt angezeigt und durch den Nutzer aufgerufen werden kann.

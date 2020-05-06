@@ -1,0 +1,308 @@
+﻿#	English text atoms
+BULLET	&#149;
+NEWLINE	\r\n
+TOK_COMPANY	SAP
+TOK_LIB	Course
+TOK_TOUR	Lesson
+TOK_TRAINER	Desktop Assistant
+TOK_AUTOMATION	epo
+NAVIGATOR	Desktop Assistant
+NAV_LIBRARY	library
+BTN_ABORT	Quit
+BTN_CLOSE	Quit
+BTN_OK	OK
+BTN_CLOSE_DLG	Close
+BTN_CONTINUE	Continue
+BTN_PREVIEW	Preview
+BTN_PROCEED	Proceed
+BTN_RESTART	Restart
+BTN_SKIP	Skip Step
+BTN_START	Start
+BTN_STOP	Stop
+BTN_EXECUTE	Execute
+CA_SWITCH	Context Help
+CONTENT_CAP	Content
+MAIL_SUBJECT	Content Request for Desktop Assistant
+MAIL_HEADER	Dear author,\n\nI would like to request content for:
+MAIL_FOOTER	- Process/Transaction: Please describe the application process currently in use. \n\n- Description: Please describe the information you need. \n\nBest regards,
+MAIL_DATA	- Application Name:
+MAIL_TOOLTIP	Request Content
+SHARE_TOOLTIP	Share Content
+REQUEST_TEXT	Click %s to request content
+REQUEST_LINK	here
+SEARCH_CAP	Search
+INFO_CAP	Info
+SETTINGS_CAP	Settings
+BACK_TOOLTIP	Back
+SHARE_CONTENT_TOOLTIP	Share Content
+CB_HIDE_OPTION	Do not show again
+MY_ROLES	My Roles
+EDIT_ROLES	Change Roles
+NO_ROLES	Show Content Without Roles
+SELECT_ALL_CAPTION	Select All
+USER_CAPTION	User Area
+READ_MORE	Read more...
+NO_CATEGORY_CAPTION	Other Content
+DELETE_FAILED	Delete operation failed.
+RENAME_FAILED	Rename operation failed.
+FILE_EXISTS	File with the same name already exists. Enter a different name.
+LBL_YES	Yes
+LBL_DELETE	Delete
+LBL_NO	No
+LBL_OK	Ok
+DELETE_DLG_TEXT	Do you really want to delete the selected documents (%N)?
+LBL_CONCURRENT	Start Concurrent Mode
+LBL_DA	Desktop Assistant
+LBL_SIM	Start Simulation
+LBL_CDOC	Open
+LBL_DEMO	Start Demo Mode
+LBL_NAVI	Start Guided Tour
+LBL_BOOK	Play Book
+LBL_GROUP	Open in library
+LBL_NAVIGATION	Desktop Assistant
+LBL_PA	Guided Tour
+LBL_PRACTICE	Start Practice Mode
+LBL_SIMULATION	Simulation
+LBL_BOOKPAGE	Show Book Page
+LBL_TEST	Start Test Mode
+LBL_RECORD_DOCUMENT	Record Document
+MSG_AUTOMATION_FINISHED	Automation finished
+MSG_AUTOMATION_FINISHED_2	Click 'Restart' to start automated process again.
+MSG_AUTOMATION_START	Edit input values
+MSG_AUTOMATION_START_2	Check or edit the following values. These will be entered automatically during the process.
+MSG_EPO_DIALOG	Electronic Process Optimizer
+MSG_NAVI_LIBRARY_NO_APP	There is no information available.
+LBL_NAVI_NO_MATCH	There are no results for your search.
+NO_RECORDS	There are no documents available.
+MSG_NAVI_LIBRARY_SUBTITLE	Available contents:
+MSG_NAVI_LIBRARY_TITLE	Desktop Assistant
+MSG_NOT_APPLICABLE	not editable
+MSG_PA_CONTROL_STEP	Required action for the step:
+MSG_PA_EXPLANATION_STEP	Navigate to the screen shown below.
+MSG_PA_FORM_STEP	Required fields to be filled in the form:
+MSG_PA_DIALOG	Guided Tour
+MSG_PA_START_SCREEN	Open the start screen.
+MSG_PA_STEP_NOT_FOUND	Switch to the required screen
+MSG_PA_STEP_NOT_FOUND1	Make sure that the target application (@{TARGETAPPNAME}) is open.
+MSG_PA_STEP_NOT_FOUND2	Navigate to the screen with the highlighted control shown below.
+MSG_STEP_LIGHT	Step Preview
+MSG_STEP_NOT_FOUND	Guided tour step not found.
+MSG_STEP_NOT_FOUND_2	Click in the title bar of the target application or navigate to the right screen.<br><br>Click 'Preview' to see the required screen.
+PA_FINISHED	Guided Tour Finished.
+PROJECT_TITLE	Project Title
+TRAY_INFO_BUBBLE_HEADING	Guided Tour
+TRAY_INFO_BUBBLE_TEXT	The current step cannot be displayed. Click here for further information.
+RESTRICTED_BUBBLE_HEADING	Action Blocked
+RESTRICTED_BUBBLE_TEXT	You cannot execute any actions until current step is confirmed.
+HELP_TITLE	Help
+HELP_INTRO	The help gives you an overview of the main parts and functions of the @{NAVIGATOR}.</br></br><b>Note:</b> The functions available depend on the configuration of the @{NAVIGATOR}.</br>
+HELP_TITLE_DA	Sidebar and Windows
+HELP_SIDEBAR_T	Sidebar
+HELP_SIDEBAR_H	The sidebar allows you to start the main functions of the @{NAVIGATOR}. For each function, a button is displayed. The sidebar can be moved by using drag and drop, and can be minimized and maximized by clicking on the sidebar border.
+HELP_CONTENT_CONTROL_T	Content
+HELP_CONTENT_CONTROL_H	Indicates, if content is available. Opens the main window with the content.
+HELP_SEARCH_CONTROL_T	Search
+HELP_SEARCH_CONTROL_H	Opens the search for searching content.
+HELP_EXTSEARCH_CONTROL_T	External Search
+HELP_EXTSEARCH_CONTROL_H	Opens the external search for searching content.
+HELP_STICKY_CONTROL_T	Add Sticky Note
+HELP_STICKY_CONTROL_H	Inserts a sticky note for the current application window. You can enter a text for your sticky note.
+HELP_RECORDING_CONTROL_T	Start Recording
+HELP_RECORDING_CONTROL_H	Starts the recording of a process. The recorded process will be saved as document in the User Area.
+HELP_MAIN_WINDOW_T	Main Window
+HELP_MAIN_WINDOW_H	The main window shows the contents available for a specific page context.</br>During playback of a guided tour, the window shows the step list.
+HELP_HEADER_T	Header
+HELP_HEADER_H	The status icon in the header indicates if content is available for the current context.
+HELP_CONTENT_TAB_T	Content Tab
+HELP_CONTENT_TAB_H	The tab shows the available content for the current application.
+HELP_CONTENT_VIEW_T	Content View
+HELP_CONTENT_VIEW_H	The content view shows the available information, modes and documentation for the selected content.</br>You can use the 'Back' control to go back to the content list.
+HELP_SEARCH_TAB_T	Search Tab
+HELP_SEARCH_TAB_H	On the tab you can search specific content for your current context.
+HELP_INFO_TAB_T	Info Tab
+HELP_INFO_TAB_H	The tab shows general information about the @{NAVIGATOR}.
+HELP_USERAREA_TAB_T	User Area Tab
+HELP_USERAREA_TAB_H	The tab contains the recorded process documents. You can open, share, or delete a document. You can record further processes.
+HELP_INSTANT_T	Instant Help
+HELP_INSTANT_H	With activated setting additional context information are shown right on the current application screen. The setting is enabled by default.
+HELP_REQCONTENT_T	Request Content
+HELP_REQCONTENT_H	Opens an e-mail window for requesting missing content from the author.
+HELP_SETTINGS_T	Settings
+HELP_SETTINGS_H	The view contains settings for the display of the @{NAVIGATOR} content.
+HELP_MYROLES_T	My Roles
+HELP_MYROLES_H	This setting displays content for the assigned role.
+HELP_WITHOUTROLES_T	Show Content Without Roles
+HELP_WITHOUTROLES_H	This setting displays content without assigned roles.
+HELP_EDITROLES_T	Roles
+HELP_EDITROLES_H	All roles used for the content are listed and can be activated or deactivated to display the content.
+HELP_SHARECONTENT_T	Share Content
+HELP_SHARECONTENT_H	Opens a dialog box with the link to the content. The link can be shared with other users.
+HELP_REQUESTCONTENT_T	Request Content
+HELP_REQUESTCONTENT_H	Opens a predefined email to request content for a specific case.
+HELP_PLAYBACK_CONTENT_T	Playback Content
+HELP_PLAYBACK_CONTENT_H	The available content can be started or opened using the buttons in the content window.
+HELP_MINIMIZED_STATUS_T	Minimized Status
+HELP_MINIMIZED_STATUS_H	In case you close the main window a floating status icon will still indicate if content is available for the current context. Click the icon to restore the the main window.
+HELP_MINIMIZED_MENU_T	Context Menu
+HELP_MINIMIZED_MENU_H	The context menu (right mouse click on the icon) includes functions to display the main window and the context help.
+HELP_BOOK_WINDOW_T	Book Window
+HELP_BOOK_WINDOW_H	The book window is opened when playing back a book. The main window and the content window are hidden.
+HELP_GOTOTOP	Go to top
+HELP_CAPTION	@{NAVIGATOR} Help
+NAVHELP_TITLE	Status Icon and Context Menu
+NAVHELP_INTRO	</br>The help gives you an overview about the status icon and the context menu entries.
+NAVHELP_STATUS_ICON_T	Status Icon (Task Bar)
+NAVHELP_STATUS_ICON_H	The status icon is positioned in the task bar and shows the current activities of @{NAVIGATOR}. There are the following status:
+NAVHELP_STATUS_FOUND_T	Content Available (Green Icon)
+NAVHELP_STATUS_FOUND_H	Content is available for the current context and displayed.
+NAVHELP_STATUS_CHECK_T	Loading Content (Yellow Icon)
+NAVHELP_STATUS_CHECK_H	@{NAVIGATOR} checks the current context for available content and loads the content.
+NAVHELP_STATUS_NOFOUND_T	No Content Available (Red Icon)
+NAVHELP_STATUS_NOFOUND_H	Content is not available for the current context.
+NAVHELP_STANDBY_T	Disabled
+NAVHELP_STANDBY_H	@{NAVIGATOR} is disabled. A click on the status icon (<i>CTRL + F11</i>) disables or enables @{NAVIGATOR}.
+NAVHELP_STATUS_MIN_T	Minimized
+NAVHELP_STATUS_MIN_H	Windows and sidebar are minimized.
+NAVHELP_STATUS_MENU_T	Context Menu
+NAVHELP_STATUS_MENU_H	The context menu (right mouse click on the icon) includes general functions of the @{NAVIGATOR}.
+NAVHELP_VERSION_T	Show Version
+NAVHELP_VERSION_H	Shows the version number of the installed @{NAVIGATOR}. This is necessary for any contact with the support in the event of problems.
+NAVHELP_JSCONSOLE_T	JavaScript Console
+NAVHELP_JSCONSOLE_H	Shows the JavaScript Console to provide detailed error messages. This is necessary for any contact with the support in the event of problems.
+NAVHELP_NAV_CACHE_T	Delete Local Cache
+NAVHELP_NAV_CACHE_H	Deletes the local cache of the @{NAVIGATOR} content.
+NAVHELP_RESET_HIDDEN_T	Show All Suppressed Help Again
+NAVHELP_RESET_HIDDEN_H	Resets help elements which were set to 'Hidden' during the playback.
+NAVHELP_EXIT_T	Exit
+NAVHELP_EXIT_H	Stops the playback and closes the @{NAVIGATOR}.
+IDS_NAVP_ABOUT	Show Version...
+IDS_NAVP_CONSOLE	JavaScript Console...
+IDS_NAVP_DELETE_CACHE	Delete Local Cache
+IDS_NAVP_HOOKER	Hooker
+IDS_SEARCH_INPUT	Search Help Content
+IDS_CLEAR_SEARCH	Clear Search
+IDS_NAVP_CLOSE	Exit
+IDS_RESET_CURRENT	Show Hidden Help Element again
+IDS_RESET_ALL	Show All Suppressed Help Again
+IDS_RESET_ALL_TIP	Show all disabled hints again when entering a screen first time.
+IDS_OPEN_RECORD_LBL	Open
+IDS_EDIT_RECORD_LBL	Rename
+IDS_DELETE_RECORD_LBL	Delete
+IDS_SHARE_RECORD_LBL	Share
+IDS_EXTERNAL_SEARCH_BTN	External Search
+IDS_EXTERNAL_SEARCH_SUB_MENU	External Search
+IDS_SHOW_SCREEN_ICON	Show Desktop Assistant
+IDS_SHOW_DA	Show Main Window
+IDS_SHOW_CONTENT	Show Content
+IDS_HIDE_CONTENT	Hide Content
+IDS_SEARCH_BTN	Search
+IDS_REQUEST_CONTENT_BTN	Request Content
+IDS_RECORDING_BTN	Start Recording
+IDS_SHOW_CA_SWITCH	Show Context Help
+IDS_HIDE_CA_SWITCH	Hide Context Help
+IDS_CA_SWITCH_INACTIVE_BTN	No Context Help Available
+IDS_DO_CTX_RECOGNITION	Show Context Help
+IDS_NAV_STANDBY	@{NAVIGATOR} is disabled.
+IDS_NAV_NO_STANDBY	@{NAVIGATOR} is enabled.
+IDS_SHOW_DA_PANELS	@{NAVIGATOR} is now available again. You can use @{NAVIGATOR} if you need any assistance.
+IDS_HIDE_DA_PANELS	@{NAVIGATOR} disappeared automatically as appropriate help is available in the application you have currently opened. Just open the help in the application if you need further assistance.
+TRAY_INFO_WA_HEADING	@{NAVIGATOR}
+IDS_ADD_STICKY_NOTES_BTN	Add Sticky Note
+IDS_ADD_STICKY_NOTES_INACTIVE_BTN	You can only add one sticky note for this application.
+IDS_EXIT_DA	Exit
+IDS_EXIT_DA_BTN	Exit
+IDS_EXIT_DA_SUB_MENU	Exit
+IDS_SHOW_MORE	Show More
+IDS_HIDE_MORE	Hide More
+IDS_REQUEST_CONTENT_SUB_MENU	Request Content
+IDS_SHOW_CA_SUB_MENU	Show Context Help
+IDS_HIDE_CA_SUB_MENU	Hide Context Help
+IDS_ADD_STICKY_NOTE_SUB_MENU	Add Sticky Note
+IDS_RECORDING_SUB_MENU	Start Recording
+IDS_CA_SWITCH_SUB_MENU	Context Help
+IDS_SHARE_DLG_CAPTION	Share Document
+IDS_DELETE_FRAMES	Deleting Frames
+OPEN_FOLDER	Open Folder
+SHARE_DOC	Share via Email
+IDS_SHARE_DLG_TEXT	What would you like to do?
+IDS_SEARCH_BTN_SUB_MENU	Search Content
+IDS_LIBRARY_SEARCH_BTN_SUB_MENU	Search Content in library
+GRACEFUL_DEGRADATION	This feature is temporarily unavailable due to network issues. \n\nTry again later.
+SHARE_BTN	Share via Email
+COPY_BTN	Copy Link
+SHARE_MAIL_SUBJECT	Recommended Content
+SHARE_MAIL_HEADER	Dear User,\n\nThis content might be interesting for you. \n\n
+SHARE_MAIL_FOOTER	Best Regards,
+SHARE_MAIL_LINK	Link:\t
+SHARE_MAIL_CAPTION	Caption:\t
+SHARE_TITLE	Share Content
+SELECT_ASSET	Select an asset to start.
+ENTER_NAME	Enter a name
+DELETE_RECORD_WRN	Important: This action cannot be undone.
+MSG_PA_NEXT_LBL	Next
+MSG_PA_STEP_LBL	Step List
+TOGGLE_STEPLIST_TOOLTIP	Show / Hide Step List
+PREVIEW_STEP_TOOLTIP	Preview Step
+NEXT_STEP_TOOLTIP	Go to Next Step
+PREV_STEP_TOOLTIP	Go to Previous Step
+ROLES_TITLE	Desktop Assistant Roles
+ROLES_LBL	Filter Help Content by Role
+OK_CAPTION	OK
+CANCEL_CAPTION	Cancel
+BTN_YES	Yes
+BTN_NO	No
+DELETE_CONFIRM	Are you sure you want to delete this sticky note?
+EXIT_CONFIRM	Do you really you want to exit the @{NAVIGATOR}?
+sticky_notes	Sticky Notes
+exit_da	Exit @{NAVIGATOR}
+STICKY_NOTE_DEFAULT_TEXT	Add your text here.
+SEARCH_BTN_TOOLTIP	Search
+NEXT_BTN_TOOLTIP	Next
+PREV_BTN_TOOLTIP	Previous
+HIDE_BTN_TOOLTIP	Hide Carousel
+IDS_PRJ_NAME	Enter Name:
+IDS_APPLICATIONS	Choose Window:
+IDS_PRJ_LANGUAGE	Choose Language:
+IDS_FULL_SCREEN	Full Screen
+IDS_CHOOSE_APP_CAPTION	Choose Application
+IDS_RECORD_BTN	Record
+IDS_ANALYZE_ACTIONS	Analyzing actions...
+IDS_PARSE_PROJECT	Parsing project...
+IDS_REGION	Region
+IDS_AREA_HELP	Change the region size by selecting a template below. Scale the red rectangle to select a region or select the full screen.
+IDS_CHOOSE_SIZE	Choose Size:
+IDS_DEFINE_REC_AREA	Recording Area
+IDS_DEFINE_NAME_LANG	Generate Content
+PLEASE_SELECT	Please select
+quick_recorder.help_caption	Tip
+quick_recorder.help	Use "PAUSE" key to pause or to continue. \nUse "END" key to finish. \n\nSelect "OK" to start recording.
+quick_recorder.audio_help	Use "PAUSE" key to pause or to continue. \nUse "END" key to finish. \n\nAudio:\nYour audio is not recorded during a click. Speak your text before selecting a control. \n\nSelect "OK" to start recording.
+FILE_EXISTS	File with the same name already exists. Enter a different name.
+HELP_EXIT_CONTROL_H	Stops the playback and closes the @{NAVIGATOR}.
+HELP_EXIT_CONTROL_T	Exit
+BTN_CLOSE_DLG	Close
+DELETE_RECORD_WRN	Important: This action cannot be undone.
+ENTER_NAME	Enter a name
+IDS_CLEAR_SEARCH	Clear Search
+IDS_RESET_ALL_TIP	Show all disabled hints again when entering a screen first time.
+IDS_SEARCH_INPUT	Search Help Content
+LBL_DELETE	Delete
+LBL_NAVI_NO_MATCH	There are no results for your search.
+LBL_TU	Open
+MSG_PA_NEXT_LBL	Next
+MSG_PA_STEP_LBL	Step List
+RENAME_FAILED	Rename operation failed.
+ROLES_LBL	Filter Help Content by Role
+SELECT_ASSET	Select an asset to start.
+LBL_CDOC	Open
+LBL_RECORD_DOCUMENT	Record Document
+QR_CAPTION	Select Recording Output
+QR_WELCOME	What would you like to create?
+QR_DOC_CAP	Document
+QR_DOC_TXT	Creates a Microsoft Word document that shows a screenshot and an instruction text for every action you record.
+QR_VIDEO_CAP	Video
+QR_VIDEO_TXT	Creates a high-quality video of your recording.
+QR_DOC_VIDEO_CAP	Document and Video
+QR_DOC_VIDEO_TXT	Creates a document and a video.
+SHARE_ERR_CAP	Cannot share recording
+SHARE_ERR_TXT	This recording is too big to share via email.\nDo you want to open a file location instead?

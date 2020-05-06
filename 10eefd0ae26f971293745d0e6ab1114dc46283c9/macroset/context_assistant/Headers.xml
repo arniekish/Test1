@@ -1,0 +1,1132 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MacroShelf version="6.3.0.061beta2" comment="Context-Help Macros">
+    <Translation basename="translation"/>
+    <Mode name="Navi" IconID="2" play_ok="1" offline_ok="0" doc_ok="1" dmf_suffix="dnt"/>
+    <ParamSet name="global">
+        <ParamGroup name="elem_bubble">
+            <ParamInfo type="SHELF" name="bubblestyle_d">
+                <Properties rclass="bubble" specified=""/>
+            </ParamInfo>
+            <ParamInfo type="INTEGER" name="b_width" visibility="conditional"/>
+            <ParamInfo type="INTEGER" name="b_height" visibility="conditional"/>
+            <ParamInfo type="ORIENTATION_BUBBLE" name="orientation" visibility="conditional"/>
+            <ParamInfo type="POSITION" name="bubble_offset"/>
+            <ParamInfo type="BOOL_0_1" name="b_minimized"/>
+            <ParamInfo type="BOOL_0_1" name="no_spike" visibility="conditional"/>
+            <ParamInfo type="BOOL_0_1" name="b_minimizable"/>
+            <ParamInfo type="BOOL_0_1" name="b_hide_option"/>
+        </ParamGroup>
+        <ParamGroup name="form_bubble">
+            <ParamInfo type="SHELF" name="bform_style" textkey="bubblestyle_d">
+                <Properties rclass="bubble" specified=""/>
+            </ParamInfo>
+            <ParamInfo type="ENUM" name="bform_alignment">
+                <EnumValue key="left_top" textkey="left_top"/>
+                <EnumValue key="left_center" textkey="left_center"/>
+                <EnumValue key="left_bottom" textkey="left_bottom"/>
+                <EnumValue key="right_top" textkey="right_top"/>
+                <EnumValue key="right_center" textkey="right_center"/>
+                <EnumValue key="right_bottom" textkey="right_bottom"/>
+                <EnumValue key="center" textkey="center"/>
+                <EnumValue key="free" textkey="free"/>
+            </ParamInfo>
+            <ParamInfo type="POSITION" name="bform_position" trigger_disabled="bform_alignment"
+                       trigger_value="left_top|left_center|left_bottom|right_top|right_center|right_bottom|center"/>
+            <ParamInfo type="INTEGER" name="bform_width"/>
+            <ParamInfo type="INTEGER" name="bform_height"/>
+        </ParamGroup>
+        <ParamGroup name="hilight">
+            <ParamInfo type="ENUM" name="g_highlight_effect">
+                <EnumValue value="1" name="frame"/>
+                <EnumValue value="2" name="underline"/>
+                <EnumValue value="3" name="ellipse"/>
+            </ParamInfo>
+            <ParamInfo type="INTEGER" name="g_highlight_border"/>
+            <ParamInfo type="POSSIZE" name="highlight_offset"/>
+            <ParamInfo type="COLOR" name="g_highlight_bgr"/>
+            <ParamInfo type="INTEGER" name="anim_steps" visibility="conditional"/>
+        </ParamGroup>
+        <ParamGroup name="adv">
+            <ParamInfo type="FLOAT" name="nav_check_freq" visibility="conditional"/>
+            <ParamInfo type="BOOL_0_1" name="disable_standby" visibility="conditional"/>
+            <ParamInfo type="BOOL_0_1" name="disable_exit" visibility="conditional"/>
+            <ParamInfo type="BOOL_0_1" name="enable_tincan" visibility="conditional"/>
+        </ParamGroup>
+    </ParamSet>
+    <GlobalDefault
+            bubblestyle_d="white_island" bform_style="white_island" b_width="150" b_height="40" b_minimizable="1" b_minimized="1"  bform_width = "350" bform_height = "350"
+            orientation="SE"  no_spike="0" g_highlight_effect="frame" g_highlight_border="4" g_highlight_bgr="0x0FAAFF"
+            anim_steps="0" b_hide_option="0" bend_style="small" bend_width="300" bend_height="270" library_width="304" library_height="310"
+            screen_tolerence="6" nav_check_freq="3.0" bexp_style="white_island" content_demo = "1" content_concurrent = "1" content_navi = "1" content_documentation = "1" bcontent_style = "small"
+            disable_standby="0" disable_exit="0" bform_alignment="free" enable_tincan="0">
+        <bend_position x="600" y="200"/>
+        <bexp_position x="600" y="200"/>
+        <library_position x="300" y="200"/>
+        <bubble_offset x="0" y="0"/>
+        <highlight_offset x="0" y="0" cx="0" cy="0"/>
+        <bform_position x="300" y="500"/>
+    </GlobalDefault>
+    <!--MacroTemplate global-->
+    <MacroTemplate Name="global">
+        <Properties hidden="true"/>
+        <ParamSet name="global">
+        </ParamSet>
+        <ScriptCommand name="onbeforesave" displayMode="0">
+            #use(macro_functions.js); onbeforesave();
+        </ScriptCommand>
+        <ScriptCommand name="onafterload" displayMode="0">
+            #use(macro_functions.js); onafterload();
+        </ScriptCommand>
+        <ScriptCommand name="record_context_assistant_include" displayMode="8" IconID="16" menu_path="/main/edit">
+            #use(BaseRecorder.js); RecordInclude();
+        </ScriptCommand>
+        <ScriptCommand name="translate" menu_path="/main/tools/translate" displayMode="8" IconID="18">
+            #use(ntranslate.js); ch_translate_current_project();
+        </ScriptCommand>
+    </MacroTemplate>
+    <!--MacroTemplate start_unit-->
+    <MacroTemplate Name="start_unit" rgbcolor="#daea00" Duration="20" user_defined="0" IconID="0">
+        <ScriptCommand name="add_application_expl" displayMode="2" IconID="4" wle_support="0">
+            #use(BaseRecorder.js); InsertExplainLong();
+        </ScriptCommand>
+        <ParamSet name="start_unit">
+            <ParamInfo type="COMMENT" name="macro_comment"/>
+            <ParamInfo type="TEXT" name="uid" visibility="conditional">
+                <Properties rdonly="true"/>
+            </ParamInfo>
+            <ParamInfo type="ENUM" name="object_info" helptext="">
+                <EnumValue value="1" name="fh_onelem"/>
+                <EnumValue value="2" name="fh_tooltip"/>
+                <EnumValue value="3" name="fh_bubble"/>
+            </ParamInfo>
+            <ParamInfo type="SHELF" name="mini_bubble_style">
+                <Properties rclass="adaptable" type="nav_mini"/>
+            </ParamInfo>
+            <ParamInfo type="BOOL_0_1" name="show_highlight" />
+        </ParamSet>
+
+        <Default show_highlight="0" bubblestyle_d="white_island" object_info="fh_onelem"/>
+        <Init bubblestyle_d="white_island"/>
+
+    </MacroTemplate>
+    <!--MacroTemplate process_start_unit-->
+    <MacroTemplate Name="process_start_unit" rgbcolor="#daea00" Duration="20" user_defined="0" IconID="0">
+        <ScriptCommand name="add_application_expl" displayMode="2" IconID="4" keycode="68" ctrl="1" wle_support="0">
+            #use(BaseRecorder.js); InsertExplainLong();
+        </ScriptCommand>
+        <ParamSet name="process_start_unit">
+            <ParamInfo type="COMMENT" name="macro_comment"/>
+            <ParamInfo type="TEXT" name="uid" visibility="conditional">
+                <Properties rdonly="true"/>
+            </ParamInfo>
+            <ParamInfo type="ENUM" name="object_info" helptext="" visibility="conditional">
+                <EnumValue value="1" name="fh_onelem"/>
+                <EnumValue value="2" name="fh_tooltip"/>
+                <EnumValue value="3" name="fh_bubble"/>
+            </ParamInfo>
+            <ParamInfo type="SHELF" name="bubblestyle_d" textkey="bubblestyle_init">
+                <Properties rclass="bubble" specified=""/>
+            </ParamInfo>
+            <ParamInfo type="SHELF" name="mini_bubble_style">
+                <Properties rclass="adaptable" type="nav_mini"/>
+            </ParamInfo>
+            <ParamInfo type="BOOL_0_1" name="show_highlight"/>
+            <ParamInfo type="BOOL_0_1" name="start_from_arbitrary"/>
+            <ParamInfo type="BOOL_0_1" name="focus_step"/>
+            <ParamInfo type="BOOL_0_1" name="restricted_mode" visibility="conditional"/>
+            <ParamInfo type="BOOL_0_1" name="light_mode"/>
+            <ParamGroup name="main_bubble">
+                <ParamInfo type="SHELF" name="bmain_win_style">
+                    <Properties rclass="adaptable" type="navigation_style"/>
+                </ParamInfo>
+                <ParamInfo type="ENUM" name="bmain_alignment">
+                    <EnumValue key="left_top" textkey="left_top"/>
+                    <EnumValue key="left_center" textkey="left_center"/>
+                    <EnumValue key="left_bottom" textkey="left_bottom"/>
+                    <EnumValue key="right_top" textkey="right_top"/>
+                    <EnumValue key="right_center" textkey="right_center"/>
+                    <EnumValue key="right_bottom" textkey="right_bottom"/>
+                    <EnumValue key="center" textkey="center"/>
+                    <EnumValue key="free" textkey="free"/>
+                </ParamInfo>
+                <ParamInfo type="POSITION" name="bmain_position" trigger_disabled="bmain_alignment"
+                           trigger_value="left_top|left_center|left_bottom|right_top|right_center|right_bottom|center" visibility="conditional"/>
+                <ParamInfo type="SIZE" name="bmain_size" visibility="conditional"/>
+            </ParamGroup>
+            <ParamGroup name="end_unit">
+                <ParamInfo type="BOOL_0_1" name="show_end_window"/>
+                <ParamInfo type="HTML" name="end_message"/>
+                <ParamInfo type="LINK" name="next_project_id">
+                    <Properties type="project,group" macroset="context_assistant"/>
+                </ParamInfo>
+            </ParamGroup>
+            <ParamGroup name="adv" visibility="conditional">
+                <ParamInfo type="TEXT" name="source" visibility="conditional"/>
+            </ParamGroup>
+        </ParamSet>
+        <Default show_highlight="1" start_from_arbitrary="1" focus_step="1" bubblestyle_d="white_island" bmain_win_style="navi_style" bmain_alignment="free" end_message="" object_info="fh_onelem" show_end_window="1" restricted_mode="0">
+            <bmain_position x="450" y="65"/>
+            <bmain_size x="304" y="320"/>
+        </Default>
+        <Init show_highlight="1" start_from_arbitrary="1" focus_step="1" bubblestyle_d="white_island" end_message="" show_end_window="1">
+            <bmain_position x="450" y="65"/>
+        </Init>
+        <Translatable end_message="true"/>
+    </MacroTemplate>
+    <!--MacroTemplate context_assistant_include-->
+    <MacroTemplate Name="context_assistant_include" rgbcolor="#daea00" Duration="20" user_defined="0" IconID="16">
+        <ParamSet name="context_assistant_include">
+            <ParamInfo type="COMMENT" name="macro_comment"/>
+            <ParamInfo type="TEXT" name="uid" visibility="conditional">
+                <Properties rdonly="true"/>
+            </ParamInfo>
+            <ParamInfo type="LINK" name="project_id">
+                <Properties type="project" macroset="context_assistant"/>
+            </ParamInfo>
+        </ParamSet>
+        <Default/>
+        <Init/>
+    </MacroTemplate>
+    <!--MacroTemplate application_context-->
+    <MacroTemplate Name="application_context" rgbcolor="#daea00" Duration="20" user_defined="0" IconID="15">
+        <Translatable explanation_d="true"/>
+        <ScriptCommand name="record_compatible_application" displayMode="2" IconID="23" keycode="118" ctrl="1" wle_support="0">
+            #use(BaseRecorder.js); RecordCompatApplication();
+        </ScriptCommand>
+        <ScriptCommand name="add_application_expl" displayMode="2" IconID="4" wle_support="0">
+            #use(BaseRecorder.js); InsertExplainLong();
+        </ScriptCommand>
+        <ParamSet name="application_context">
+            <ParamInfo type="COMMENT" name="macro_comment"/>
+            <ParamInfo type="TEXT" name="uid" visibility="conditional">
+                <Properties rdonly="true"/>
+            </ParamInfo>
+            <ParamInfo type="TEXT" name="executable"/>
+            <ParamInfo type="TEXT" name="display_name"/>
+            <ParamInfo type="TEXT" name="source" visibility="conditional"/>
+            <ParamInfo type="TXT_TEXT_LONG" name="sc_config_header" visibility="conditional">
+              <Properties font="fixed"/>
+            </ParamInfo>
+          </ParamSet>
+        <Default/>
+        <Init/>
+    </MacroTemplate>
+    <!--MacroTemplate define_target-->
+    <MacroTemplate Name="define_target" rgbcolor="#66c5c5" Duration="20" IconID="9">
+        <Translatable explanation_d="true"/>
+        <Properties hidden="true"/>
+        <ScriptCommand name="update_target" displayMode="2" IconID="21" keycode="119" ctrl="1" wle_support="0">
+            #use(BaseRecorder.js); RecordScreen(true);
+        </ScriptCommand>
+        <ScriptCommand name="record_target_specializer" displayMode="2" IconID="12" keycode="120" ctrl="1" wle_support="0">
+            #use(BaseRecorder.js); RecordScreenSpecializer(true);
+        </ScriptCommand>
+        <ScriptCommand name="record_explanation" displayMode="2" IconID="4" keycode="82" ctrl="1" wle_support="0">
+            #use(BaseRecorder.js); RecordExplanation(false, false, false);
+        </ScriptCommand>
+
+        <ParamSet name="define_target">
+            <ParamInfo type="COMMENT" name="macro_comment"/>
+            <ParamInfo type="TEXT" name="uid" visibility="conditional">
+                <Properties rdonly="true"/>
+            </ParamInfo>
+            <ParamInfo type="TEXT" name="target_name"/>
+            <ParamInfo type="TEXT_SHORT" name="reference" visibility="conditional"/>
+            <ParamInfo type="BOOL_0_1" name="exclude_from_da" visibility="conditional"/>
+            <ParamInfo type="BOOL_0_1" name="form_on" visibility="conditional" />
+            <ParamGroup name="screen">
+                <ParamInfo type="PAGE" name="dump_page"/>
+                <ParamInfo type="POSSIZE" name="win_rect" visibility="conditional"/>
+            </ParamGroup>
+            <ParamGroup name="key" visibility="conditional">
+                <ParamInfo type="SHELF" name="config_file" visibility="conditional">
+                    <Properties rclass="recognize" exclude_reference="true"/>
+                </ParamInfo>
+                <ParamInfo type="TEXT" name="revision" visibility="conditional"/>
+                <ParamInfo type="TEXT" name="executable" visibility="conditional"/>
+              <ParamInfo type="TEXT_SHORT" name="key" visibility="conditional" >
+                <Properties font="fixed"/>
+              </ParamInfo>
+                <ParamInfo type="BOOL_0_1" name="subkey" visibility="conditional" />
+              
+            </ParamGroup>
+        </ParamSet>
+        <Default subkey="0">
+            <win_rect x="0" y="0" cx="0" cy="0"/>
+        </Default>
+        <Init subkey="0">
+            <win_rect x="0" y="0" cx="0" cy="0"/>
+        </Init>
+    </MacroTemplate>
+    <!--MacroTemplate target_specializer-->
+    <MacroTemplate Name="target_specializer" rgbcolor="#b5bb1b" Duration="80" user_defined="0" IconID="11">
+        <Properties hidden="true"/>
+        <ParamSet name="target_specializer">
+            <ParamInfo type="COMMENT" name="macro_comment"/>
+            <ParamInfo type="TEXT" name="uid" visibility="conditional">
+                <Properties rdonly="true"/>
+            </ParamInfo>
+            <ParamInfo type="TEXT" name="fieldname"/>
+            <ParamInfo type="IMAGE" name="fieldicon">
+                <Properties filter="img_filter"/>
+            </ParamInfo>
+            <ParamInfo type="TEXT" name="text_d" textkey="text_d_specializer"/>
+            <ParamInfo type="BOOL_0_1" name="match_value"/>
+            <ParamInfo type="BOOL_0_1" name="disqualifier"/>
+            <ParamGroup name="adv" visibility="conditional">
+                <ParamInfo type="TEXT" name="element_type"/>
+                <ParamInfo type="POSITION" name="click_pos"/>
+                <ParamInfo type="POSSIZE" name="screenshot_rect"/>
+                <ParamInfo type="TEXT_SHORT" name="path">
+                  <Properties font="fixed"/>
+                </ParamInfo>
+              </ParamGroup>
+        </ParamSet>
+        <Default fieldicon="" match_value="0" disqualifier="0">
+            <click_pos x="-1" y="-1"/>
+            <screenshot_rect left="-1" top="-1" right="-1" bottom="-1"/>
+        </Default>
+        <Init fieldicon="" match_value="0" disqualifier="0">
+            <click_pos x="-1" y="-1"/>
+            <screenshot_rect left="-1" top="-1" right="-1" bottom="-1"/>
+        </Init>
+    </MacroTemplate>
+    <!--MacroTemplate explanation_long-->
+    <MacroTemplate Name="explanation_long" rgbcolor="#eada00" Duration="50" user_defined="0" IconID="4">
+        <Properties hidden="true"/>
+        <Translatable explanation_d="true"/>
+        <ParamSet name="explanation_long">
+            <ParamInfo type="COMMENT" name="macro_comment"/>
+            <ParamInfo type="TEXT" name="uid" visibility="conditional">
+                <Properties rdonly="true"/>
+            </ParamInfo>
+            <ParamInfo type="HTML" name="explanation_d"/>
+            <ParamInfo type="BOOL_0_1" name="explanation_d_modified" visibility="conditional"/>
+            <ParamInfo type="ENUM" name="type" textkey="explanation_type">
+                <EnumValue key="hinweis" textkey="note"/>
+                <EnumValue key="tipp"/>
+                <EnumValue key="info"/>
+                <EnumValue key="warnung"/>
+                <EnumValue key="none" textkey="no_image"/>
+            </ParamInfo>
+            <ParamInfo type="TEXT" name="fieldname" visibility="conditional"/>
+            <ParamInfo type="IMAGE" name="fieldicon" visibility="conditional">
+                <Properties filter="img_filter"/>
+            </ParamInfo>
+            <ParamGroup name="bubble">
+                <ParamInfo type="SHELF" name="bubblestyle_d">
+                    <Properties rclass="bubble" specified=""/>
+                </ParamInfo>
+                <ParamInfo type="ENUM" name="mini_bubble">
+                    <EnumValue key="help" textkey="help"/>
+                    <EnumValue key="info" textkey="info"/>
+                    <EnumValue key="warning" textkey="warning"/>
+                    <EnumValue key="maintenance" textkey="maintenance"/>
+                    <EnumValue key="update" textkey="update"/>
+                    <EnumValue key="new" textkey="new"/>
+                    <EnumValue key="training" textkey="training"/>
+                    <EnumValue key="attachment" textkey="attachment"/>
+                    <EnumValue key="link" textkey="link"/>
+                    <EnumValue key="tip" textkey="tip"/>
+                    <EnumValue key="note" textkey="note"/>
+                    <EnumValue key="compliance" textkey="compliance"/>
+                </ParamInfo>
+                <ParamInfo type="INTEGER" name="b_width" visibility="conditional"/>
+                <ParamInfo type="INTEGER" name="b_height" visibility="conditional"/>
+                <ParamInfo type="ENUM" name="alignment">
+                    <EnumValue key="left_top" textkey="left_top"/>
+                    <EnumValue key="left_center" textkey="left_center"/>
+                    <EnumValue key="left_bottom" textkey="left_bottom"/>
+                    <EnumValue key="right_top" textkey="right_top"/>
+                    <EnumValue key="right_center" textkey="right_center"/>
+                    <EnumValue key="right_bottom" textkey="right_bottom"/>
+                    <EnumValue key="center" textkey="center"/>
+                    <EnumValue key="free" textkey="free"/>
+                </ParamInfo>
+                <ParamInfo type="POSITION" name="click_pos_rel" trigger_disabled="alignment"
+                           trigger_value="left_top|left_center|left_bottom|right_top|right_center|right_bottom|center"/>
+                <ParamInfo type="ORIENTATION_BUBBLE" name="orientation" visibility="conditional"/>
+                <ParamInfo type="POSITION" name="bubble_offset" visibility="conditional"/>
+                <ParamInfo type="BOOL_0_1" name="b_minimized" visibility="conditional"/>
+                <ParamInfo type="BOOL_0_1" name="no_spike" visibility="conditional"/>
+                <ParamInfo type="BOOL_0_1" name="b_minimizable" visibility="conditional"/>
+                <ParamInfo type="BOOL_0_1" name="b_closable" visibility="conditional"/>
+                <ParamInfo type="BOOL_0_1" name="b_hide_option"/>
+                <ParamInfo type="BOOL_0_1" name="show_next_btn"/>
+            </ParamGroup>
+            <ParamGroup name="display_behavior">
+                <ParamInfo type="BOOL_0_1" name="enabled"/>
+                <ParamInfo type="BOOL_0_1" name="force_display"/>
+                <ParamInfo type="BOOL_0_1" name="focus_step"/>
+                <ParamInfo type="BOOL_0_1" name="restricted_mode" visibility="conditional"/>
+            </ParamGroup>
+            <ParamGroup name="transition_info" visibility="conditional">
+                <ParamInfo type="ENUM" name="trans_action">
+                    <EnumValue value="1" name="LClick"/>
+                    <EnumValue value="2" name="RClick"/>
+                    <EnumValue value="3" name="LDblClick"/>
+                    <EnumValue value="4" name="RDblClick"/>
+                    <EnumValue value="5" name="Focus"/>
+                    <EnumValue value="6" name="FocusLost"/>
+                </ParamInfo>
+                <ParamInfo type="MACROATTR_NAME" name="step_name1">
+                    <Properties macro_name="step" attr_name="name"/>
+                </ParamInfo>
+                <ParamInfo type="MACROATTR_NAME" name="step_name2">
+                    <Properties macro_name="step" attr_name="name"/>
+                </ParamInfo>
+                <ParamInfo type="MACROATTR_NAME" name="step_name3">
+                    <Properties macro_name="step" attr_name="name"/>
+                </ParamInfo>
+                <ParamInfo type="MACROATTR_NAME" name="step_name4">
+                    <Properties macro_name="step" attr_name="name"/>
+                </ParamInfo>
+            </ParamGroup>
+        </ParamSet>
+        <Default b_width="200" b_height="60" orientation="C" b_minimizable="1" fieldicon="" explanation_d="" type="none" bubblestyle_d="white_island" b_minimized="0" b_closable="1" enabled="1" no_spike="0" b_hide_option="0" alignment="free" show_next_btn="1" focus_step="0" restricted_mode="0" force_display="0" light_mode="0">
+            <click_pos_rel x="50" y="50"/>
+            <bubble_offset x="0" y="0"/>
+        </Default>
+        <Init b_width="200" b_height="60" orientation="C" b_minimizable="1" fieldicon="" explanation_d="" type="none" b_minimized="0" enabled="1" no_spike="0" b_closable="1" show_next_btn="1" light_mode="0">
+            <click_pos_rel x="50" y="50"/>
+            <bubble_offset x="0" y="0"/>
+        </Init>
+    </MacroTemplate>
+    <!--MacroTemplate click-->
+    <MacroTemplate Name="click" rgbcolor="#008684" Duration="80" user_defined="0" IconID="5" alt_name="general_action">
+        <Properties hidden="true"/>
+        <Translatable explanation_d="true"/>
+        <ScriptCommand name="update_control" displayMode="2" IconID="21" keycode="73" ctrl="1" wle_support="0">
+            #use(BaseRecorder.js); UpdateObject();
+        </ScriptCommand>
+        <ParamSet name="click">
+            <ParamInfo type="COMMENT" name="macro_comment"/>
+            <ParamInfo type="TEXT" name="uid" visibility="conditional">
+                <Properties rdonly="true"/>
+            </ParamInfo>
+            <ParamInfo type="HTML" name="explanation_d"/>
+            <ParamInfo type="BOOL_0_1" name="explanation_d_modified" visibility="conditional"/>
+            <ParamInfo type="TEXT" name="fieldname"/>
+            <ParamInfo type="IMAGE" name="fieldicon">
+                <Properties filter="img_filter"/>
+            </ParamInfo>
+            <ParamInfo type="KEY" name="hotkey" textkey="key_desc" visibility="conditional">
+                <Properties legacyKey="key_name" dispName="key_desc"/>
+            </ParamInfo>
+            <ParamInfo type="TEXT" name="key_name">
+                <Properties visibility="false"/>
+            </ParamInfo>
+            <ParamInfo type="TEXT" name="key_desc"><Properties visibility="false"/></ParamInfo>
+            <ParamInfo type="ENUM" name="action" helptext="" visibility="conditional">
+                <EnumValue value="1" name="lclick"/>
+                <EnumValue value="2" name="ldblclick"/>
+                <EnumValue value="3" name="rclick"/>
+                <EnumValue value="4" name="rdblclick"/>
+                <EnumValue value="5" name="drag"/>
+                <EnumValue value="6" name="drop"/>
+                <EnumValue value="7" name="enter"/>
+            </ParamInfo>
+            <ParamGroup name="bubble">
+                <ParamInfo type="ENUM" name="object_info" helptext="">
+                    <EnumValue value="1" name="global"/>
+                    <EnumValue value="2" name="fh_onelem"/>
+                    <EnumValue value="3" name="fh_tooltip"/>
+                    <EnumValue value="4" name="fh_bubble"/>
+                </ParamInfo>
+                <ParamInfo type="SHELF" name="bubblestyle_d">
+                    <Properties rclass="bubble" specified=""/>
+                </ParamInfo>
+                <ParamInfo type="ENUM" name="mini_bubble">
+                    <EnumValue key="help" textkey="help"/>
+                    <EnumValue key="info" textkey="info"/>
+                    <EnumValue key="warning" textkey="warning"/>
+                    <EnumValue key="maintenance" textkey="maintenance"/>
+                    <EnumValue key="update" textkey="update"/>
+                    <EnumValue key="new" textkey="new"/>
+                    <EnumValue key="training" textkey="training"/>
+                    <EnumValue key="attachment" textkey="attachment"/>
+                    <EnumValue key="link" textkey="link"/>
+                    <EnumValue key="tip" textkey="tip"/>
+                    <EnumValue key="note" textkey="note"/>
+                    <EnumValue key="compliance" textkey="compliance"/>
+                </ParamInfo>
+                <ParamInfo type="INTEGER" name="b_width" visibility="conditional"/>
+                <ParamInfo type="INTEGER" name="b_height" visibility="conditional"/>
+                <ParamInfo type="ORIENTATION_BUBBLE" name="orientation" visibility="conditional"/>
+                <ParamInfo type="POSITION" name="bubble_offset" visibility="conditional"/>
+                <ParamInfo type="BOOL_0_1" name="b_minimized" visibility="conditional"/>
+                <ParamInfo type="BOOL_0_1" name="no_spike" visibility="conditional"/>
+                <ParamInfo type="BOOL_0_1" name="b_minimizable" visibility="conditional"/>
+                <ParamInfo type="BOOL_0_1" name="b_hide_option"/>
+                <ParamInfo type="BOOL_0_1" name="show_next_btn"/>
+            </ParamGroup>
+            <ParamGroup name="hilight">
+                <ParamInfo type="BOOL_0_1" name="show_hilight"/>
+                <ParamInfo type="POSSIZE" name="highlight_offset" visibility="conditional"/>
+                <ParamInfo type="ENUM" name="g_highlight_effect">
+                    <EnumValue value="1" name="frame"/>
+                    <EnumValue value="2" name="underline"/>
+                    <EnumValue value="3" name="ellipse"/>
+                </ParamInfo>
+                <ParamInfo type="INTEGER" name="g_highlight_border"/>
+                <ParamInfo type="COLOR" name="g_highlight_bgr"/>
+                <ParamInfo type="INTEGER" name="anim_steps" visibility="conditional"/>
+            </ParamGroup>
+            <ParamGroup name="display_behavior">
+                <ParamInfo type="BOOL_0_1" name="enabled"/>
+                <ParamInfo type="BOOL_0_1" name="optional"/>
+                <ParamInfo type="BOOL_0_1" name="force_display"/>
+                <ParamInfo type="BOOL_0_1" name="focus_step"/>
+                <ParamInfo type="BOOL_0_1" name="restricted_mode" visibility="conditional"/>
+            </ParamGroup>
+            <ParamGroup name="transition_info" visibility="conditional">
+                <ParamInfo type="ENUM" name="trans_action">
+                    <EnumValue value="1" name="LClick"/>
+                    <EnumValue value="2" name="RClick"/>
+                    <EnumValue value="3" name="LDblClick"/>
+                    <EnumValue value="4" name="RDblClick"/>
+                    <EnumValue value="5" name="Focus"/>
+                    <EnumValue value="6" name="FocusLost"/>
+                </ParamInfo>
+                <ParamInfo type="MACROATTR_NAME" name="step_name1">
+                    <Properties macro_name="step" attr_name="name"/>
+                </ParamInfo>
+                <ParamInfo type="MACROATTR_NAME" name="step_name2">
+                    <Properties macro_name="step" attr_name="name"/>
+                </ParamInfo>
+                <ParamInfo type="MACROATTR_NAME" name="step_name3">
+                    <Properties macro_name="step" attr_name="name"/>
+                </ParamInfo>
+                <ParamInfo type="MACROATTR_NAME" name="step_name4">
+                    <Properties macro_name="step" attr_name="name"/>
+                </ParamInfo>
+            </ParamGroup>
+            <ParamGroup name="adv" visibility="conditional">
+                <ParamInfo type="TEXT" name="element_type" visibility="conditional"/>
+                <ParamInfo type="POSITION" name="click_pos" visibility="conditional"/>
+                <ParamInfo type="POSSIZE" name="screenshot_rect" visibility="conditional"/>
+                <ParamInfo type="TEXT_SHORT" name="path" visibility="conditional">
+                  <Properties font="fixed"/>
+                </ParamInfo>
+              </ParamGroup>
+        </ParamSet>
+        <Default action="lclick" object_info="global" g_highlight_effect="frame" fieldicon="" enabled="1" bubblestyle_d="white_island" show_hilight="0" g_highlight_border="4" g_highlight_bgr="0x0FAAFF" b_minimizable="1" b_minimized="1" b_hide_option="0" optional="0" show_next_btn="0" focus_step="0" restricted_mode="0" force_display="0">
+            <click_pos x="-1" y="-1"/>
+            <bubble_offset x="0" y="0"/>
+            <highlight_offset x="0" y="0" cx="0" cy="0"/>
+            <screenshot_rect left="-1" top="-1" right="-1" bottom="-1"/>
+        </Default>
+        <Init action="lclick" fieldicon="" enabled="1" b_minimizable="1" show_next_btn="0" force_display="0">
+            <click_pos x="-1" y="-1"/>
+
+            <screenshot_rect left="-1" top="-1" right="-1" bottom="-1"/>
+        </Init>
+    </MacroTemplate>
+    <!--MacroTemplate active_area-->
+    <MacroTemplate Name="active_area" rgbcolor="#008684" Duration="80" user_defined="0" IconID="11" alt_name="active_area">
+        <Properties hidden="true"/>
+        <Translatable explanation_d="true"/>
+        <ParamSet name="active_area">
+            <ParamInfo type="COMMENT" name="macro_comment"/>
+            <ParamInfo type="TEXT" name="uid" visibility="conditional">
+                <Properties rdonly="true"/>
+            </ParamInfo>
+            <ParamInfo type="TEXT" name="fieldname"/>
+            <ParamInfo type="POSSIZE" name="area"/>
+            <ParamInfo type="POSSIZE" name="active_area_client_rect" visibility="false"/>
+            <ParamInfo type="IMAGE" name="fieldicon">
+                <Properties filter="img_filter"/>
+            </ParamInfo>
+            <ParamInfo type="HTML" name="explanation_d"/>
+            <ParamInfo type="BOOL_0_1" name="explanation_d_modified" visibility="conditional"/>
+            <ParamInfo type="ENUM" name="object_info" helptext="">
+                <EnumValue value="1" name="global"/>
+                <EnumValue value="2" name="fh_onelem"/>
+                <EnumValue value="3" name="fh_tooltip"/>
+                <EnumValue value="4" name="fh_bubble"/>
+            </ParamInfo>
+            <ParamInfo type="BOOL_0_1" name="enabled"/>
+            <ParamInfo type="ENUM" name="action" helptext="" visibility="conditional">
+                <EnumValue value="1" name="lclick"/>
+                <EnumValue value="2" name="ldblclick"/>
+                <EnumValue value="3" name="rclick"/>
+                <EnumValue value="4" name="rdblclick"/>
+                <EnumValue value="5" name="drag"/>
+                <EnumValue value="6" name="drop"/>
+                <EnumValue value="7" name="enter"/>
+            </ParamInfo>
+            <ParamInfo type="BOOL_0_1" name="optional" visibility="conditional"/>
+            <ParamInfo type="BOOL_0_1" name="focus_step"/>
+            <ParamInfo type="BOOL_0_1" name="restricted_mode"/>
+            <ParamGroup name="bubble">
+                <ParamInfo type="SHELF" name="bubblestyle_d">
+                    <Properties rclass="bubble" specified=""/>
+                </ParamInfo>
+                <ParamInfo type="ENUM" name="mini_bubble">
+                    <EnumValue key="help" textkey="help"/>
+                    <EnumValue key="info" textkey="info"/>
+                    <EnumValue key="warning" textkey="warning"/>
+                    <EnumValue key="maintenance" textkey="maintenance"/>
+                    <EnumValue key="update" textkey="update"/>
+                    <EnumValue key="new" textkey="new"/>
+                    <EnumValue key="training" textkey="training"/>
+                    <EnumValue key="attachment" textkey="attachment"/>
+                    <EnumValue key="link" textkey="link"/>
+                    <EnumValue key="tip" textkey="tip"/>
+                    <EnumValue key="note" textkey="note"/>
+                    <EnumValue key="compliance" textkey="compliance"/>
+                </ParamInfo>
+                <ParamInfo type="INTEGER" name="b_width" visibility="conditional"/>
+                <ParamInfo type="INTEGER" name="b_height" visibility="conditional"/>
+                <ParamInfo type="ORIENTATION_BUBBLE" name="orientation" visibility="conditional"/>
+                <ParamInfo type="POSITION" name="bubble_offset"/>
+                <ParamInfo type="BOOL_0_1" name="b_minimized"/>
+                <ParamInfo type="BOOL_0_1" name="no_spike" visibility="conditional"/>
+                <ParamInfo type="BOOL_0_1" name="b_minimizable"/>
+                <ParamInfo type="BOOL_0_1" name="b_hide_option"/>
+                <ParamInfo type="BOOL_0_1" name="show_next_btn"/>
+            </ParamGroup>
+            <ParamGroup name="hilight">
+                <ParamInfo type="BOOL_0_1" name="show_hilight"/>
+                <ParamInfo type="POSSIZE" name="highlight_offset"/>
+                <ParamInfo type="ENUM" name="g_highlight_effect">
+                    <EnumValue value="1" name="frame"/>
+                    <EnumValue value="2" name="underline"/>
+                    <EnumValue value="3" name="ellipse"/>
+                </ParamInfo>
+                <ParamInfo type="INTEGER" name="g_highlight_border"/>
+                <ParamInfo type="COLOR" name="g_highlight_bgr"/>
+                <ParamInfo type="INTEGER" name="anim_steps" visibility="conditional"/>
+            </ParamGroup>
+            <ParamGroup name="adv" visibility="conditional">
+                <ParamInfo type="TEXT" name="element_type" visibility="visible"/>
+                <ParamInfo type="BOOL_0_1" name="force_display"/>
+            </ParamGroup>
+            <ParamGroup name="transition_info" visibility="conditional">
+                <ParamInfo type="ENUM" name="trans_action">
+                    <EnumValue value="1" name="LClick"/>
+                    <EnumValue value="2" name="RClick"/>
+                    <EnumValue value="3" name="LDblClick"/>
+                    <EnumValue value="4" name="RDblClick"/>
+                    <EnumValue value="5" name="Focus"/>
+                    <EnumValue value="6" name="FocusLost"/>
+                </ParamInfo>
+                <ParamInfo type="MACROATTR_NAME" name="step_name1">
+                    <Properties macro_name="step" attr_name="name"/>
+                </ParamInfo>
+                <ParamInfo type="MACROATTR_NAME" name="step_name2">
+                    <Properties macro_name="step" attr_name="name"/>
+                </ParamInfo>
+                <ParamInfo type="MACROATTR_NAME" name="step_name3">
+                    <Properties macro_name="step" attr_name="name"/>
+                </ParamInfo>
+                <ParamInfo type="MACROATTR_NAME" name="step_name4">
+                    <Properties macro_name="step" attr_name="name"/>
+                </ParamInfo>
+            </ParamGroup>
+        </ParamSet>
+        <Default object_info="global" g_highlight_effect="frame" enabled="1" bubblestyle_d="white_island" show_hilight="0" g_highlight_border="4" g_highlight_bgr="0x0FAAFF"  b_minimizable="1" b_minimized="1" b_hide_option="0" optional="0" show_next_btn="0" focus_step="0" restricted_mode="0" force_display="0">
+            <highlight_offset x="0" y="0" cx="0" cy="0"/>
+            <bubble_offset x="0" y="0"/>
+        </Default>
+        <Init enabled="1" b_minimizable="1" show_next_btn="0" force_display="0">
+
+
+        </Init>
+    </MacroTemplate>
+    <!--MacroTemplate key_press-->
+    <MacroTemplate Name="key_press" rgbcolor="#008684" Duration="80" user_defined="0" IconID="8">
+        <Properties hidden="true"/>
+        <Translatable explanation_d="true"/>
+        <ParamSet name="key_press">
+            <ParamInfo type="COMMENT" name="macro_comment"/>
+            <ParamInfo type="TEXT" name="uid" visibility="conditional">
+                <Properties rdonly="true"/>
+            </ParamInfo>
+            <ParamInfo type="HTML" name="explanation_d"/>
+            <ParamInfo type="BOOL_0_1" name="explanation_d_modified" visibility="conditional"/>
+            <ParamInfo type="KEY" name="hotkey" textkey="key_desc">
+                <Properties legacyKey="key_name" dispName="key_desc"/>
+            </ParamInfo>
+            <ParamInfo type="TEXT" name="key_name">
+                <Properties visibility="false"/>
+            </ParamInfo>
+            <ParamInfo type="TEXT" name="key_desc"><Properties visibility="false"/></ParamInfo>
+            <ParamGroup name="bubble">
+                <ParamInfo type="SHELF" name="bubblestyle_d">
+                    <Properties rclass="bubble" specified=""/>
+                </ParamInfo>
+                <ParamInfo type="ENUM" name="mini_bubble">
+                    <EnumValue key="help" textkey="help"/>
+                    <EnumValue key="info" textkey="info"/>
+                    <EnumValue key="warning" textkey="warning"/>
+                    <EnumValue key="maintenance" textkey="maintenance"/>
+                    <EnumValue key="update" textkey="update"/>
+                    <EnumValue key="new" textkey="new"/>
+                    <EnumValue key="training" textkey="training"/>
+                    <EnumValue key="attachment" textkey="attachment"/>
+                    <EnumValue key="link" textkey="link"/>
+                    <EnumValue key="tip" textkey="tip"/>
+                    <EnumValue key="note" textkey="note"/>
+                    <EnumValue key="compliance" textkey="compliance"/>
+                </ParamInfo>
+                <ParamInfo type="ENUM" name="alignment">
+                    <EnumValue key="left_top" textkey="left_top"/>
+                    <EnumValue key="left_center" textkey="left_center"/>
+                    <EnumValue key="left_bottom" textkey="left_bottom"/>
+                    <EnumValue key="right_top" textkey="right_top"/>
+                    <EnumValue key="right_center" textkey="right_center"/>
+                    <EnumValue key="right_bottom" textkey="right_bottom"/>
+                    <EnumValue key="center" textkey="center"/>
+                    <EnumValue key="free" textkey="free"/>
+                </ParamInfo>
+                <ParamInfo type="POSITION" name="click_pos_rel" trigger_disabled="alignment"
+                           trigger_value="left_top|left_center|left_bottom|right_top|right_center|right_bottom|center"/>
+                <ParamInfo type="INTEGER" name="b_width" visibility="conditional"/>
+                <ParamInfo type="INTEGER" name="b_height" visibility="conditional"/>
+                <ParamInfo type="ORIENTATION_BUBBLE" name="orientation" visibility="conditional"/>
+                <ParamInfo type="POSITION" name="bubble_offset" visibility="conditional"/>
+                <ParamInfo type="BOOL_0_1" name="b_minimized" visibility="conditional"/>
+                <ParamInfo type="BOOL_0_1" name="no_spike" visibility="conditional"/>
+                <ParamInfo type="BOOL_0_1" name="b_minimizable" visibility="conditional"/>
+                <ParamInfo type="BOOL_0_1" name="b_hide_option"/>
+                <ParamInfo type="BOOL_0_1" name="show_next_btn"/>
+            </ParamGroup>
+            <ParamGroup name="display_behavior" visibility="conditional">
+                <ParamInfo type="BOOL_0_1" name="enabled"/>
+                <ParamInfo type="BOOL_0_1" name="optional"/>
+                <ParamInfo type="BOOL_0_1" name="force_display"/>
+            </ParamGroup>
+            <ParamGroup name="transition_info" visibility="conditional">
+                <ParamInfo type="ENUM" name="trans_action">
+                    <EnumValue value="1" name="LClick"/>
+                    <EnumValue value="2" name="RClick"/>
+                    <EnumValue value="3" name="LDblClick"/>
+                    <EnumValue value="4" name="RDblClick"/>
+                    <EnumValue value="5" name="Focus"/>
+                    <EnumValue value="6" name="FocusLost"/>
+                </ParamInfo>
+                <ParamInfo type="MACROATTR_NAME" name="step_name1">
+                    <Properties macro_name="step" attr_name="name"/>
+                </ParamInfo>
+                <ParamInfo type="MACROATTR_NAME" name="step_name2">
+                    <Properties macro_name="step" attr_name="name"/>
+                </ParamInfo>
+                <ParamInfo type="MACROATTR_NAME" name="step_name3">
+                    <Properties macro_name="step" attr_name="name"/>
+                </ParamInfo>
+                <ParamInfo type="MACROATTR_NAME" name="step_name4">
+                    <Properties macro_name="step" attr_name="name"/>
+                </ParamInfo>
+            </ParamGroup>
+            <ParamGroup name="adv" visibility="conditional">
+                <ParamInfo type="TEXT_SHORT" name="path" visibility="conditional">
+                  <Properties font="fixed"/>
+                </ParamInfo>
+                <ParamInfo type="BOOL_0_1" name="force_display"/>
+            </ParamGroup>
+        </ParamSet>
+        <Default b_minimizable="1" position_h="0" bubblestyle_d="white_island" b_minimized="0" enabled="1" no_spike="0" b_hide_option="0" optional="0" alignment="free" show_next_btn="1" force_display="0">
+            <click_pos_rel x="50" y="50"/>
+            <bubble_offset x="0" y="0"/>
+            <highlight_offset x="0" y="0" cx="0" cy="0"/>
+        </Default>
+        <Init b_minimizable="1" position_h="0" b_minimized="0" enabled="1" no_spike="0" show_next_btn="1" force_display="0">
+            <click_pos_rel x="50" y="50"/>
+
+        </Init>
+    </MacroTemplate>
+    <!--MacroTemplate input_text-->
+    <MacroTemplate Name="input_text" rgbcolor="#b5bb1b" Duration="80" user_defined="0" IconID="1" alt_name="activate field text">
+        <Properties hidden="true"/>
+        <Translatable explanation_d="true"/>
+        <ScriptCommand name="update_control" displayMode="2" IconID="21" wle_support="0">
+            #use(BaseRecorder.js); UpdateObject();
+        </ScriptCommand>
+        <ParamSet name="input_text">
+            <ParamInfo type="COMMENT" name="macro_comment"/>
+            <ParamInfo type="TEXT" name="uid" visibility="conditional">
+                <Properties rdonly="true"/>
+            </ParamInfo>
+            <ParamInfo type="HTML" name="explanation_d"/>
+            <ParamInfo type="BOOL_0_1" name="explanation_d_modified" visibility="conditional"/>
+            <ParamInfo type="TEXT" name="fieldname"/>
+            <ParamInfo type="IMAGE" name="fieldicon" visibility="conditional">
+                <Properties filter="img_filter"/>
+            </ParamInfo>
+            <ParamInfo type="TEXT" name="text_d"/>
+            <ParamInfo type="TEXT" name="regexp" visibility="conditional"/>
+            <ParamGroup name="bubble">
+                <ParamInfo type="ENUM" name="object_info" helptext="">
+                    <EnumValue value="1" name="global"/>
+                    <EnumValue value="2" name="fh_onelem"/>
+                    <EnumValue value="3" name="fh_tooltip"/>
+                    <EnumValue value="4" name="fh_bubble"/>
+                </ParamInfo>
+                <ParamInfo type="SHELF" name="bubblestyle_d">
+                    <Properties rclass="bubble" specified=""/>
+                </ParamInfo>
+                <ParamInfo type="ENUM" name="mini_bubble">
+                    <EnumValue key="help" textkey="help"/>
+                    <EnumValue key="info" textkey="info"/>
+                    <EnumValue key="warning" textkey="warning"/>
+                    <EnumValue key="maintenance" textkey="maintenance"/>
+                    <EnumValue key="update" textkey="update"/>
+                    <EnumValue key="new" textkey="new"/>
+                    <EnumValue key="training" textkey="training"/>
+                    <EnumValue key="attachment" textkey="attachment"/>
+                    <EnumValue key="link" textkey="link"/>
+                    <EnumValue key="tip" textkey="tip"/>
+                    <EnumValue key="note" textkey="note"/>
+                    <EnumValue key="compliance" textkey="compliance"/>
+                </ParamInfo>
+                <ParamInfo type="INTEGER" name="b_width" visibility="conditional"/>
+                <ParamInfo type="INTEGER" name="b_height" visibility="conditional"/>
+                <ParamInfo type="ORIENTATION_BUBBLE" name="orientation" visibility="conditional"/>
+                <ParamInfo type="POSITION" name="bubble_offset" visibility="conditional"/>
+                <ParamInfo type="BOOL_0_1" name="b_minimized" visibility="conditional"/>
+                <ParamInfo type="BOOL_0_1" name="no_spike" visibility="conditional"/>
+                <ParamInfo type="BOOL_0_1" name="b_minimizable" visibility="conditional"/>
+                <ParamInfo type="BOOL_0_1" name="b_hide_option"/>
+                <ParamInfo type="BOOL_0_1" name="show_next_btn"/>
+            </ParamGroup>
+            <ParamGroup name="hilight">
+                <ParamInfo type="BOOL_0_1" name="show_hilight"/>
+                <ParamInfo type="POSSIZE" name="highlight_offset" visibility="conditional"/>
+                <ParamInfo type="ENUM" name="g_highlight_effect">
+                    <EnumValue value="1" name="frame"/>
+                    <EnumValue value="2" name="underline"/>
+                    <EnumValue value="3" name="ellipse"/>
+                </ParamInfo>
+                <ParamInfo type="INTEGER" name="g_highlight_border"/>
+                <ParamInfo type="COLOR" name="g_highlight_bgr"/>
+                <ParamInfo type="INTEGER" name="anim_steps" visibility="conditional"/>
+            </ParamGroup>
+            <ParamGroup name="display_behavior">
+                <ParamInfo type="BOOL_0_1" name="enabled"/>
+                <ParamInfo type="BOOL_0_1" name="set_value" visibility="conditional"/>
+                <ParamInfo type="BOOL_0_1" name="optional"/>
+                <ParamInfo type="BOOL_0_1" name="force_display"/>
+                <ParamInfo type="BOOL_0_1" name="focus_step"/>
+                <ParamInfo type="BOOL_0_1" name="restricted_mode" visibility="conditional"/>
+            </ParamGroup>
+            <ParamGroup name="condition" visibility="conditional">
+                <ParamInfo type="ENUM" name="condition_pattern">
+                    <EnumValue key="0" textkey="c_equals"/>
+                    <EnumValue key="1" textkey="c_not_equals"/>
+                    <EnumValue key="2" textkey="c_greater"/>
+                    <EnumValue key="3" textkey="c_greater_equals"/>
+                    <EnumValue key="4" textkey="c_less"/>
+                    <EnumValue key="5" textkey="c_less_equals"/>
+                    <EnumValue key="6" textkey="c_min_char"/>
+                    <EnumValue key="7" textkey="c_max_char"/>
+                    <EnumValue key="8" textkey="c_num_char"/>
+                    <EnumValue key="9" textkey="c_reg_exp"/>
+                </ParamInfo>
+                <ParamInfo type="TEXT" name="condition_value"/>
+
+                <ParamInfo type="MACROATTR_NAME" name="condition_jump_target" visibility="conditional">
+                    <Properties macro_name="step" attr_name="name"/>
+                </ParamInfo>
+                <ParamInfo type="HTML" name="condition_text"/>
+                <ParamInfo type="BOOL_0_1" name="condition_case_sensitive"/>
+                <ParamInfo type="BOOL_0_1" name="condition_ignore_on_load"/>
+                <ParamInfo type="SHELF" name="condition_bubblestyle">
+                    <Properties rclass="bubble" specified=""/>
+                </ParamInfo>
+                <ParamInfo type="COLOR" name="condition_highlight_bgr"/>
+            </ParamGroup>
+            <ParamGroup name="transition_info" visibility="conditional">
+                <ParamInfo type="ENUM" name="trans_action">
+                    <EnumValue value="1" name="LClick"/>
+                    <EnumValue value="2" name="RClick"/>
+                    <EnumValue value="3" name="LDblClick"/>
+                    <EnumValue value="4" name="RDblClick"/>
+                    <EnumValue value="5" name="Focus"/>
+                    <EnumValue value="6" name="FocusLost"/>
+                </ParamInfo>
+                <ParamInfo type="MACROATTR_NAME" name="step_name1">
+                    <Properties macro_name="step" attr_name="name"/>
+                </ParamInfo>
+                <ParamInfo type="MACROATTR_NAME" name="step_name2">
+                    <Properties macro_name="step" attr_name="name"/>
+                </ParamInfo>
+                <ParamInfo type="MACROATTR_NAME" name="step_name3">
+                    <Properties macro_name="step" attr_name="name"/>
+                </ParamInfo>
+                <ParamInfo type="MACROATTR_NAME" name="step_name4">
+                    <Properties macro_name="step" attr_name="name"/>
+                </ParamInfo>
+            </ParamGroup>
+            <ParamGroup name="adv" visibility="conditional">
+                <ParamInfo type="TEXT" name="element_type" visibility="conditional"/>
+                <ParamInfo type="POSITION" name="click_pos" visibility="conditional"/>
+                <ParamInfo type="POSSIZE" name="screenshot_rect" visibility="conditional"/>
+                <ParamInfo type="TEXT_SHORT" name="path" visibility="conditional">
+                  <Properties font="fixed"/>
+                </ParamInfo>
+              </ParamGroup>
+        </ParamSet>
+        <Default explanation_d="" object_info="global" g_highlight_effect="frame" fieldicon="" enabled="1" bubblestyle_d="white_island" show_hilight="0" g_highlight_border="4" g_highlight_bgr="0x0FAAFF"  b_minimizable="1" b_minimized="1" b_hide_option="0" set_value="0" optional="0" show_next_btn="1" focus_step="0" restricted_mode="0" force_display="0">
+            <click_pos x="-1" y="-1"/>
+            <bubble_offset x="0" y="0"/>
+            <highlight_offset x="0" y="0" cx="0" cy="0"/>
+            <screenshot_rect left="-1" top="-1" right="-1" bottom="-1"/>
+        </Default>
+        <Init explanation_d="" fieldicon="" enabled="1"  b_minimizable="1" show_next_btn="1" force_display="0"
+              condition_value="" condition_case_sensitive="0" condition_text="" condition_ignore_on_load="1">
+            <click_pos x="-1" y="-1"/>
+
+            <screenshot_rect left="-1" top="-1" right="-1" bottom="-1"/>
+        </Init>
+    </MacroTemplate>
+    <!--MacroTemplate select_single-->
+    <MacroTemplate Name="select_single" rgbcolor="#bb769a" Duration="80" user_defined="0" IconID="2" alt_name="select single">
+        <Properties hidden="true"/>
+        <Translatable explanation_d="true"/>
+        <ScriptCommand name="update_control" displayMode="2" IconID="21" wle_support="0">
+            #use(BaseRecorder.js); UpdateObject();
+        </ScriptCommand>
+        <ParamSet name="select_single">
+            <ParamInfo type="COMMENT" name="macro_comment"/>
+            <ParamInfo type="TEXT" name="uid" visibility="conditional">
+                <Properties rdonly="true"/>
+            </ParamInfo>
+            <ParamInfo type="HTML" name="explanation_d"/>
+            <ParamInfo type="BOOL_0_1" name="explanation_d_modified" visibility="conditional"/>
+            <ParamInfo type="TEXT" name="fieldname"/>
+            <ParamInfo type="IMAGE" name="fieldicon" visibility="conditional">
+                <Properties filter="img_filter"/>
+            </ParamInfo>
+            <ParamInfo type="INTEGER" name="choose_nr" visibility="conditional"/>
+            <ParamInfo type="TEXT" name="choose_text" visibility="conditional"/>
+            <ParamInfo type="TEXT_SHORT" name="all_values" visibility="conditional"/>
+            <ParamGroup name="bubble">
+                <ParamInfo type="ENUM" name="object_info" helptext="">
+                    <EnumValue value="1" name="global"/>
+                    <EnumValue value="2" name="fh_onelem"/>
+                    <EnumValue value="3" name="fh_tooltip"/>
+                    <EnumValue value="4" name="fh_bubble"/>
+                </ParamInfo>
+                <ParamInfo type="SHELF" name="bubblestyle_d">
+                    <Properties rclass="bubble" specified=""/>
+                </ParamInfo>
+                <ParamInfo type="ENUM" name="mini_bubble">
+                    <EnumValue key="help" textkey="help"/>
+                    <EnumValue key="info" textkey="info"/>
+                    <EnumValue key="warning" textkey="warning"/>
+                    <EnumValue key="maintenance" textkey="maintenance"/>
+                    <EnumValue key="update" textkey="update"/>
+                    <EnumValue key="new" textkey="new"/>
+                    <EnumValue key="training" textkey="training"/>
+                    <EnumValue key="attachment" textkey="attachment"/>
+                    <EnumValue key="link" textkey="link"/>
+                    <EnumValue key="tip" textkey="tip"/>
+                    <EnumValue key="note" textkey="note"/>
+                    <EnumValue key="compliance" textkey="compliance"/>
+                </ParamInfo>
+                <ParamInfo type="INTEGER" name="b_width" visibility="conditional"/>
+                <ParamInfo type="INTEGER" name="b_height" visibility="conditional"/>
+                <ParamInfo type="ORIENTATION_BUBBLE" name="orientation" visibility="conditional"/>
+                <ParamInfo type="POSITION" name="bubble_offset" visibility="conditional"/>
+                <ParamInfo type="BOOL_0_1" name="b_minimized" visibility="conditional"/>
+                <ParamInfo type="BOOL_0_1" name="no_spike" visibility="conditional"/>
+                <ParamInfo type="BOOL_0_1" name="b_minimizable" visibility="conditional"/>
+                <ParamInfo type="BOOL_0_1" name="b_hide_option"/>
+                <ParamInfo type="BOOL_0_1" name="show_next_btn"/>
+            </ParamGroup>
+            <ParamGroup name="hilight">
+                <ParamInfo type="BOOL_0_1" name="show_hilight"/>
+                <ParamInfo type="POSSIZE" name="highlight_offset" visibility="conditional"/>
+                <ParamInfo type="ENUM" name="g_highlight_effect">
+                    <EnumValue value="1" name="frame"/>
+                    <EnumValue value="2" name="underline"/>
+                    <EnumValue value="3" name="ellipse"/>
+                </ParamInfo>
+                <ParamInfo type="INTEGER" name="g_highlight_border"/>
+                <ParamInfo type="COLOR" name="g_highlight_bgr"/>
+                <ParamInfo type="INTEGER" name="anim_steps" visibility="conditional"/>
+            </ParamGroup>
+            <ParamGroup name="display_behavior">
+                <ParamInfo type="BOOL_0_1" name="enabled"/>
+                <ParamInfo type="BOOL_0_1" name="set_value" visibility="conditional"/>
+                <ParamInfo type="BOOL_0_1" name="optional"/>
+                <ParamInfo type="BOOL_0_1" name="force_display"/>
+                <ParamInfo type="BOOL_0_1" name="focus_step"/>
+                <ParamInfo type="BOOL_0_1" name="restricted_mode" visibility="conditional"/>
+            </ParamGroup>
+            <ParamGroup name="transition_info" visibility="conditional">
+                <ParamInfo type="ENUM" name="trans_action">
+                    <EnumValue value="1" name="LClick"/>
+                    <EnumValue value="2" name="RClick"/>
+                    <EnumValue value="3" name="LDblClick"/>
+                    <EnumValue value="4" name="RDblClick"/>
+                    <EnumValue value="5" name="Focus"/>
+                    <EnumValue value="6" name="FocusLost"/>
+                </ParamInfo>
+                <ParamInfo type="MACROATTR_NAME" name="step_name1">
+                    <Properties macro_name="step" attr_name="name"/>
+                </ParamInfo>
+                <ParamInfo type="MACROATTR_NAME" name="step_name2">
+                    <Properties macro_name="step" attr_name="name"/>
+                </ParamInfo>
+                <ParamInfo type="MACROATTR_NAME" name="step_name3">
+                    <Properties macro_name="step" attr_name="name"/>
+                </ParamInfo>
+                <ParamInfo type="MACROATTR_NAME" name="step_name4">
+                    <Properties macro_name="step" attr_name="name"/>
+                </ParamInfo>
+            </ParamGroup>
+            <ParamGroup name="adv" visibility="conditional">
+                <ParamInfo type="TEXT" name="element_type" visibility="conditional"/>
+                <ParamInfo type="POSITION" name="click_pos" visibility="conditional"/>
+                <ParamInfo type="POSSIZE" name="screenshot_rect" visibility="conditional"/>
+                <ParamInfo type="TEXT_SHORT" name="path" visibility="conditional">
+                  <Properties font="fixed"/>
+                </ParamInfo>
+              </ParamGroup>
+        </ParamSet>
+        <Default object_info="global" choose_nr="0" g_highlight_effect="frame" explanation_d="" fieldicon="" enabled="1" bubblestyle_d="white_island" show_hilight="0" g_highlight_border="4" g_highlight_bgr="0x0FAAFF" b_minimizable="1" b_minimized="1" b_hide_option="0" set_value="0" optional="0" show_next_btn="0" focus_step="0" restricted_mode="0" force_display="0">
+            <click_pos x="-1" y="-1"/>
+            <bubble_offset x="0" y="0"/>
+            <highlight_offset x="0" y="0" cx="0" cy="0"/>
+            <screenshot_rect left="-1" top="-1" right="-1" bottom="-1"/>
+        </Default>
+        <Init choose_nr="0" explanation_d="" fieldicon="" enabled="1" b_minimizable="1" show_next_btn="0" force_display="0">
+            <click_pos x="-1" y="-1"/>
+
+            <screenshot_rect left="-1" top="-1" right="-1" bottom="-1"/>
+        </Init>
+    </MacroTemplate>
+    <!--MacroTemplate input_radio-->
+    <MacroTemplate Name="input_radio" rgbcolor="#4e6dbb" Duration="80" user_defined="0" IconID="3" alt_name="input radio">
+        <Properties hidden="true"/>
+        <Translatable explanation_d="true"/>
+        <ScriptCommand name="update_control" displayMode="2" IconID="21" wle_support="0">
+            #use(BaseRecorder.js); UpdateObject();
+        </ScriptCommand>
+        <ParamSet name="input_radio">
+            <ParamInfo type="COMMENT" name="macro_comment"/>
+            <ParamInfo type="TEXT" name="uid" visibility="conditional">
+                <Properties rdonly="true"/>
+            </ParamInfo>
+            <ParamInfo type="HTML" name="explanation_d"/>
+            <ParamInfo type="BOOL_0_1" name="explanation_d_modified" visibility="conditional"/>
+            <ParamInfo type="TEXT" name="fieldname"/>
+            <ParamInfo type="IMAGE" name="fieldicon" visibility="conditional">
+                <Properties filter="img_filter"/>
+            </ParamInfo>
+            <ParamInfo type="TEXT" name="choose_bool" visibility="conditional"/>
+            <ParamGroup name="bubble">
+                <ParamInfo type="ENUM" name="object_info" helptext="">
+                    <EnumValue value="1" name="global"/>
+                    <EnumValue value="2" name="fh_onelem"/>
+                    <EnumValue value="3" name="fh_tooltip"/>
+                    <EnumValue value="4" name="fh_bubble"/>
+                </ParamInfo>
+                <ParamInfo type="SHELF" name="bubblestyle_d">
+                    <Properties rclass="bubble" specified=""/>
+                </ParamInfo>
+                <ParamInfo type="ENUM" name="mini_bubble">
+                    <EnumValue key="help" textkey="help"/>
+                    <EnumValue key="info" textkey="info"/>
+                    <EnumValue key="warning" textkey="warning"/>
+                    <EnumValue key="maintenance" textkey="maintenance"/>
+                    <EnumValue key="update" textkey="update"/>
+                    <EnumValue key="new" textkey="new"/>
+                    <EnumValue key="training" textkey="training"/>
+                    <EnumValue key="attachment" textkey="attachment"/>
+                    <EnumValue key="link" textkey="link"/>
+                    <EnumValue key="tip" textkey="tip"/>
+                    <EnumValue key="note" textkey="note"/>
+                    <EnumValue key="compliance" textkey="compliance"/>
+                </ParamInfo>
+                <ParamInfo type="INTEGER" name="b_width" visibility="conditional"/>
+                <ParamInfo type="INTEGER" name="b_height" visibility="conditional"/>
+                <ParamInfo type="ORIENTATION_BUBBLE" name="orientation" visibility="conditional"/>
+                <ParamInfo type="POSITION" name="bubble_offset" visibility="conditional"/>
+                <ParamInfo type="BOOL_0_1" name="b_minimized" visibility="conditional"/>
+                <ParamInfo type="BOOL_0_1" name="no_spike" visibility="conditional"/>
+                <ParamInfo type="BOOL_0_1" name="b_minimizable" visibility="conditional"/>
+                <ParamInfo type="BOOL_0_1" name="b_hide_option"/>
+                <ParamInfo type="BOOL_0_1" name="show_next_btn"/>
+            </ParamGroup>
+            <ParamGroup name="hilight">
+                <ParamInfo type="BOOL_0_1" name="show_hilight"/>
+                <ParamInfo type="POSSIZE" name="highlight_offset" visibility="conditional"/>
+                <ParamInfo type="ENUM" name="g_highlight_effect">
+                    <EnumValue value="1" name="frame"/>
+                    <EnumValue value="2" name="underline"/>
+                    <EnumValue value="3" name="ellipse"/>
+                </ParamInfo>
+                <ParamInfo type="INTEGER" name="g_highlight_border"/>
+                <ParamInfo type="COLOR" name="g_highlight_bgr"/>
+                <ParamInfo type="INTEGER" name="anim_steps" visibility="conditional"/>
+            </ParamGroup>
+            <ParamGroup name="display_behavior">
+                <ParamInfo type="BOOL_0_1" name="enabled"/>
+                <ParamInfo type="BOOL_0_1" name="set_value" visibility="conditional"/>
+                <ParamInfo type="BOOL_0_1" name="optional"/>
+                <ParamInfo type="BOOL_0_1" name="force_display"/>
+                <ParamInfo type="BOOL_0_1" name="focus_step"/>
+                <ParamInfo type="BOOL_0_1" name="restricted_mode" visibility="conditional"/>
+            </ParamGroup>
+            <ParamGroup name="transition_info" visibility="conditional">
+                <ParamInfo type="ENUM" name="trans_action">
+                    <EnumValue value="1" name="LClick"/>
+                    <EnumValue value="2" name="RClick"/>
+                    <EnumValue value="3" name="LDblClick"/>
+                    <EnumValue value="4" name="RDblClick"/>
+                    <EnumValue value="5" name="Focus"/>
+                    <EnumValue value="6" name="FocusLost"/>
+                </ParamInfo>
+                <ParamInfo type="MACROATTR_NAME" name="step_name1">
+                    <Properties macro_name="step" attr_name="name"/>
+                </ParamInfo>
+                <ParamInfo type="MACROATTR_NAME" name="step_name2">
+                    <Properties macro_name="step" attr_name="name"/>
+                </ParamInfo>
+                <ParamInfo type="MACROATTR_NAME" name="step_name3">
+                    <Properties macro_name="step" attr_name="name"/>
+                </ParamInfo>
+                <ParamInfo type="MACROATTR_NAME" name="step_name4">
+                    <Properties macro_name="step" attr_name="name"/>
+                </ParamInfo>
+            </ParamGroup>
+            <ParamGroup name="adv" visibility="conditional">
+                <ParamInfo type="TEXT" name="element_type" visibility="conditional"/>
+                <ParamInfo type="POSITION" name="click_pos" visibility="conditional"/>
+                <ParamInfo type="POSSIZE" name="screenshot_rect" visibility="conditional"/>
+                <ParamInfo type="TEXT_SHORT" name="path" visibility="conditional">
+                  <Properties font="fixed"/>
+                </ParamInfo>
+              </ParamGroup>
+        </ParamSet>
+        <Default explanation_d="" object_info="global" g_highlight_effect="frame" fieldicon="" enabled="1" set_value="0" bubblestyle_d="white_island" show_hilight="0" g_highlight_border="4" g_highlight_bgr="0x0FAAFF" b_minimizable="1" b_minimized="1" b_hide_option="0" optional="0" show_next_btn="0" focus_step="0" restricted_mode="0" force_display="0">
+            <click_pos x="-1" y="-1"/>
+            <bubble_offset x="0" y="0"/>
+            <highlight_offset x="0" y="0" cx="0" cy="0"/>
+            <screenshot_rect left="-1" top="-1" right="-1" bottom="-1"/>
+        </Default>
+        <Init explanation_d="" fieldicon="" enabled="1" b_minimizable="1" show_next_btn="0" force_display="0">
+            <click_pos x="-1" y="-1"/>
+
+            <screenshot_rect left="-1" top="-1" right="-1" bottom="-1"/>
+        </Init>
+    </MacroTemplate>
+
+    <MacroTemplate Name="step" rgbcolor="#66c5c5" Duration="20" IconID="7" required_feature="CA2PA">
+        <Properties hidden="true"/>
+        <Translatable name="true"/>
+        <ParamSet name="step">
+            <ParamInfo type="COMMENT" name="macro_comment"/>
+            <ParamInfo type="TEXT" name="uid" visibility="conditional">
+                <Properties rdonly="true"/>
+            </ParamInfo>
+            <ParamInfo type="TEXT" name="name"/>
+        </ParamSet>
+        <Default name=""/>
+        <Init name=""/>
+    </MacroTemplate>
+    <!--MacroTemplate step-->
+</MacroShelf>

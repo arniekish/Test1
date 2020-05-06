@@ -1,0 +1,313 @@
+﻿#	Engelsk tekst atomer
+BULLET	&#149;
+NEWLINE	\r\n
+TOK_COMPANY	SAP
+TOK_LIB	Kursus
+TOK_TOUR	Læringsmodul
+TOK_TRAINER	Desktop Assistant
+TOK_AUTOMATION	epo
+NAVIGATOR	Desktop Assistant
+NAV_LIBRARY	Library
+BTN_ABORT	Afslut
+BTN_CLOSE	Afslut
+BTN_OK	OK
+BTN_CLOSE_DLG	Luk
+BTN_CONTINUE	Fortsæt
+BTN_PREVIEW	Eksempel
+BTN_PROCEED	Fortsæt
+BTN_RESTART	Genstart
+BTN_SKIP	Spring trin over
+BTN_START	Start
+BTN_STOP	Stop
+BTN_EXECUTE	Udfør
+CA_SWITCH	Konteksthjælp
+CONTENT_CAP	Indhold
+MAIL_SUBJECT	Indholdsforespørgsel for desktop-guide
+MAIL_HEADER	Kære forfatter,\n\njeg vil gerne anmode om indhold for:
+MAIL_FOOTER	- Proces/transaktion: Beskriv den aktuelt anvendte applikationsproces. \n\n- Beskrivelse: Beskriv de informationer, du har brug for. \n\nHilsen,
+MAIL_DATA	- Applikationsnavn:
+MAIL_TOOLTIP	Forespørg om indhold
+SHARE_TOOLTIP	Del indhold
+REQUEST_TEXT	Klik på %s for at anmode om indhold
+REQUEST_LINK	Her
+SEARCH_CAP	Søgning
+INFO_CAP	Info
+SETTINGS_CAP	Indstillinger
+BACK_TOOLTIP	Tilbage
+SHARE_CONTENT_TOOLTIP	Del indhold
+CB_HIDE_OPTION	Vis ikke igen
+MY_ROLES	Mine roller
+EDIT_ROLES	Ændr roller
+NO_ROLES	Vis indhold uden roller
+SELECT_ALL_CAPTION	Vælg alt
+USER_CAPTION	Brugerområde
+READ_MORE	Læs mere...
+NO_CATEGORY_CAPTION	Ingen
+DELETE_FAILED	Sletteoperation mislykkedes.
+RENAME_FAILED	Omdøbningsoperation mislykkedes.
+FILE_EXISTS	Fil med samme navn findes allerede. Indtast et andet navn.
+LBL_YES	Ja
+LBL_DELETE	Slet
+LBL_NO	Nej
+LBL_OK	OK
+DELETE_DLG_TEXT	Bekræft sletning af %N dokument(er)?
+LBL_CONCURRENT	Start parallel mode
+LBL_DA	Desktop-guide
+LBL_SIM	Start simulering
+LBL_CDOC	Åbn
+LBL_DEMO	Start demomode
+LBL_NAVI	Start en guidet rundvisning
+LBL_BOOK	Afspil bog
+LBL_GROUP	Åbn i library
+LBL_NAVIGATION	Desktop-guide
+LBL_PA	Guidet rundvisning
+LBL_PRACTICE	Start øvelsesmode
+LBL_SIMULATION	Simulering
+LBL_BOOKPAGE	Vis bogside
+LBL_TEST	Start testmode
+LBL_RECORD_DOCUMENT	Optag dokument
+MSG_AUTOMATION_FINISHED	Automatisering afsluttet
+MSG_AUTOMATION_FINISHED_2	Klik på 'Genstart' for at starte den automatiske proces igen
+MSG_AUTOMATION_START	Rediger inputværdier
+MSG_AUTOMATION_START_2	Kontroller eller rediger de følgende værdier. De indtastes automatisk under processen.
+MSG_EPO_DIALOG	Elektronisk procesoptimering
+MSG_NAVI_LIBRARY_NO_APP	Ingen informationer er tilgængelige.
+LBL_NAVI_NO_MATCH	Din søgning gav ikke nogen resultater.
+NO_RECORDS	Der er ingen tilgængelige dokumenter
+MSG_NAVI_LIBRARY_SUBTITLE	Tilgængeligt indhold:
+MSG_NAVI_LIBRARY_TITLE	Desktop-guide
+MSG_NOT_APPLICABLE	kan ikke redigeres
+MSG_PA_CONTROL_STEP	Nødvendig aktion til trinet:
+MSG_PA_EXPLANATION_STEP	Naviger til skærmen, der vises nedenfor
+MSG_PA_FORM_STEP	Obligatoriske felter, der skal udfylds i formularen:
+MSG_PA_DIALOG	Guidet rundvisning
+MSG_PA_START_SCREEN	Åbn startskærmen
+MSG_PA_STEP_NOT_FOUND	Skift til den nødvendige skærm
+MSG_PA_STEP_NOT_FOUND1	Sørg for, at målapplikationen (@{TARGETAPPNAME}) er åben.
+MSG_PA_STEP_NOT_FOUND2	Naviger til skærmen med den fremhævede control, der vises nedenfor
+MSG_STEP_LIGHT	Trineksempel
+MSG_STEP_NOT_FOUND	Trin i guidet rundvisning ikke fundet.
+MSG_STEP_NOT_FOUND_2	Klik i målapplikationens titellinie, eller navigér til den rigtige skærm.<br><br>Klik på 'Eksempel' for at få vist den ønskede side.
+PA_FINISHED	Guidet rundvisning afsluttet
+PROJECT_TITLE	Projekttitel
+TRAY_INFO_BUBBLE_HEADING	Guidet rundvisning
+TRAY_INFO_BUBBLE_TEXT	Aktuelt trin kan ikke vises. Klik her for yderligere informationer.
+RESTRICTED_BUBBLE_HEADING	Aktion spærret
+RESTRICTED_BUBBLE_TEXT	Du kan ikke udføre aktioner, indtil næste trin er bekræftet
+HELP_TITLE	Hjælp
+HELP_INTRO	Hjælpen giver dig en oversigt over hoveddelene og hovedfunktionerne af @{NAVIGATOR}.</br></br><b>Bemærk:</b> De tilgængelige funktioner afhænger af konfigurationen af @{NAVIGATOR}.</br>
+HELP_TITLE_DA	Sidepaneler og vinduer
+HELP_SIDEBAR_T	Sidepanel
+HELP_SIDEBAR_H	Sidepanelet giver dig mulighed for at starte hovedfunktionerne i @{NAVIGATOR}. Der vises en knap for hver funktion. Sidepanelet kan flyttes vha. træk og slip og kan minimeres og maksimeres ved at klikke på sidepanelets ramme.
+HELP_CONTENT_CONTROL_T	Indhold
+HELP_CONTENT_CONTROL_H	Viser om indhold er tilgængeligt. Åbner hovedvinduet med indholdet.
+HELP_SEARCH_CONTROL_T	Søg
+HELP_SEARCH_CONTROL_H	Åbner søgningen for at søge efter indhold
+HELP_EXTSEARCH_CONTROL_T	Ekstern søgning
+HELP_EXTSEARCH_CONTROL_H	Åbner den eksterne søgning for at søge efter indhold
+HELP_STICKY_CONTROL_T	Tilføj Sticky Note
+HELP_STICKY_CONTROL_H	Indsætter en Sticky Note for det aktuelle applikationsvindue. Du kan indtaste en tekst for din Sticky Note.
+HELP_RECORDING_CONTROL_T	Start optagelse
+HELP_RECORDING_CONTROL_H	Starter optagelsen af en proces. Den optagede proces gemmes som et dokument i brugerområdet.
+HELP_MAIN_WINDOW_T	Hovedvindue
+HELP_MAIN_WINDOW_H	Hovedvinduet viser det tilgængelige indhold for en specifik sidekontekst.</br>Under afspilning af en guidet rundvisning viser vinduet trinlisten.
+HELP_HEADER_T	Titellinie
+HELP_HEADER_H	Statusikon i titellinie angiver, om indhold er tilgængeligt for aktuel kontekst
+HELP_CONTENT_TAB_T	Tabben Indhold
+HELP_CONTENT_TAB_H	Tabben viser det tilgængelige indhold for den aktuelle applikation.
+HELP_CONTENT_VIEW_T	Indholdsview
+HELP_CONTENT_VIEW_H	Indholdsviewet viser de tilgængelige informationer, modes og dokumentation for det valgte indhold.</br>Du kan anvende control 'Tilbage' for at gå tilbage til indholdslisten.
+HELP_SEARCH_TAB_T	Fanebladet Søg
+HELP_SEARCH_TAB_H	På fanebladet kan du søge efter specifikt indhold for din aktuelle kontekst
+HELP_INFO_TAB_T	Faneblad Info
+HELP_INFO_TAB_H	Faneblad viser generelle informationer om @{NAVIGATOR}
+HELP_USERAREA_TAB_T	Tabben brugerområde
+HELP_USERAREA_TAB_H	Tabben indeholder dokumenterne for den optagede proces. Du kan åbne, dele eller slette et dokument. Du kan optage flere processer.
+HELP_INSTANT_T	Strakshjælp
+HELP_INSTANT_H	Med aktiveret indstilling vises yderligere kontekstinformationer på den aktuelle applikationsskærm. Indstillingen aktiveres som standard.
+HELP_REQCONTENT_T	Forespørg om indhold
+HELP_REQCONTENT_H	Åbner et e-mail-vindue til forespørgsel om manglende indhold fra forfatter
+HELP_SETTINGS_T	Indstillinger
+HELP_SETTINGS_H	Viewet indeholder indstillinger til visning af indhold i @{NAVIGATOR}
+HELP_MYROLES_T	Mine roller
+HELP_MYROLES_H	Denne indstilling viser indhold for den allokerede rolle
+HELP_WITHOUTROLES_T	Vis indhold uden roller
+HELP_WITHOUTROLES_H	Denne indstilling viser indhold uden tildelte roller
+HELP_EDITROLES_T	Roller
+HELP_EDITROLES_H	Alle roller, der anvendes til indholdet, vises i listen og kan aktiveres eller inaktiveres for at vise indholdet
+HELP_SHARECONTENT_T	Del indhold
+HELP_SHARECONTENT_H	Åbner en popup-menu med link til indholdet. Linket kan deles med andre brugere.
+HELP_REQUESTCONTENT_T	Forespørg om indhold
+HELP_REQUESTCONTENT_H	Åbner en foruddefineret e-mail til at forespørge om indhold i et konkret tilfælde
+HELP_PLAYBACK_CONTENT_T	Afspil indhold
+HELP_PLAYBACK_CONTENT_H	Tilgængeligt indhold kan startes eller åbnes vha. knapperne i indholdsvinduet
+HELP_MINIMIZED_STATUS_T	Minimeret status
+HELP_MINIMIZED_STATUS_H	Hvis du lukker hovedvinduet, viser et flydende statusikon stadig, om indhold er tilgængeligt for den aktuelle kontekst. Klik på ikonet for at gendanne hovedvinduet.
+HELP_MINIMIZED_MENU_T	Genvejsmenu
+HELP_MINIMIZED_MENU_H	Genvejsmenu (højre museklik på ikon) indeholder funktioner til visning af hovedvindue og konteksthjælp
+HELP_BOOK_WINDOW_T	Bogvindue
+HELP_BOOK_WINDOW_H	Bogvinduet åbnes, når en bog afspilles. Hovedvindue og indholdsvindue skjules.
+HELP_GOTOTOP	Opad
+HELP_CAPTION	@{NAVIGATOR} Hjælp
+NAVHELP_TITLE	Statusikon og genvejsmenu
+NAVHELP_INTRO	</br>Hjælpen giver dig en oversigt over statusikon- og genvejsmenuentries.
+NAVHELP_STATUS_ICON_T	Statusikon (proceslinie)
+NAVHELP_STATUS_ICON_H	Statusikonet placeres i proceslinien og viser de aktuelle aktiviteter i @{NAVIGATOR}. Der er følgende status:
+NAVHELP_STATUS_FOUND_T	Indhold tilgængeligt (grønt ikon)
+NAVHELP_STATUS_FOUND_H	Indhold er tilgængeligt for aktuel kontekst og vises
+NAVHELP_STATUS_CHECK_T	Indlæser indhold (gult ikon)
+NAVHELP_STATUS_CHECK_H	@{NAVIGATOR} kontrollerer den aktuelle kontekst for tilgængeligt indhold og indlæser indholdet.
+NAVHELP_STATUS_NOFOUND_T	Intet indhold tilgængeligt (rødt ikon)
+NAVHELP_STATUS_NOFOUND_H	Indhold er ikke tilgængeligt for aktuel kontekst
+NAVHELP_STANDBY_T	Inaktiveret
+NAVHELP_STANDBY_H	@{NAVIGATOR} er inaktiveret. Et klik på statusikonet (<i>CTRL + F11</i>) inaktiverer eller aktiverer @{NAVIGATOR}.
+NAVHELP_STATUS_MIN_T	Minimeret
+NAVHELP_STATUS_MIN_H	Vinduer og sidepanel minimeres.
+NAVHELP_STATUS_MENU_T	Genvejsmenu
+NAVHELP_STATUS_MENU_H	Genvejsmenuen (højreklik på ikonet) inkluderer generelle funktioner for @{NAVIGATOR}.
+NAVHELP_VERSION_T	Vis version
+NAVHELP_VERSION_H	Viser versionsnummeret på den installerede @{NAVIGATOR}. Dette er nødvendigt for enhver kontakt med supporten i tilfælde af problemer.
+NAVHELP_JSCONSOLE_T	JavaScript-konsol
+NAVHELP_JSCONSOLE_H	Viser JavaScript-konsollen til at angive detaljerede fejlmeddelelser. Dette er nødvendigt for enhver kontakt med supporten i tilfælde af problemer.
+NAVHELP_NAV_CACHE_T	Slet lokal cache
+NAVHELP_NAV_CACHE_H	Sletter den lokale cache for indholdet af @{NAVIGATOR}
+NAVHELP_RESET_HIDDEN_T	Vis al skjult hjælp igen
+NAVHELP_RESET_HIDDEN_H	Nulstiller hjælpeelementer, der blev indstillet til 'Skjult' under afspilning
+NAVHELP_EXIT_T	Afslut
+NAVHELP_EXIT_H	Stopper afspilning og lukker @{NAVIGATOR}
+IDS_NAVP_ABOUT	Vis version...
+IDS_NAVP_CONSOLE	JavaScript-konsol...
+IDS_NAVP_DELETE_CACHE	Slet lokal cache
+IDS_NAVP_HOOKER	Hooker
+IDS_SEARCH_INPUT	Søgehjælpsindhold
+IDS_CLEAR_SEARCH	Ryd søgning
+IDS_NAVP_CLOSE	Afslut
+IDS_RESET_CURRENT	Vis skjulte hjælpeelementer igen
+IDS_RESET_ALL	Vis al skjult hjælp igen
+IDS_RESET_ALL_TIP	Vis alle inaktiverede noter igen ved indtastning af en skærm første gang.
+IDS_OPEN_RECORD_LBL	Åbn
+IDS_EDIT_RECORD_LBL	Omdøb
+IDS_DELETE_RECORD_LBL	Slet
+IDS_SHARE_RECORD_LBL	Del
+IDS_EXTERNAL_SEARCH_BTN	Ekstern søgning
+IDS_EXTERNAL_SEARCH_SUB_MENU	Ekstern søgning
+IDS_SHOW_SCREEN_ICON	Vis desktop-guide
+IDS_SHOW_DA	Vis hovedvindue
+IDS_SHOW_CONTENT	Vis indhold
+IDS_HIDE_CONTENT	Skjul indhold
+IDS_SEARCH_BTN	Søg
+IDS_REQUEST_CONTENT_BTN	Forespørg om indhold
+IDS_RECORDING_BTN	Start optagelse
+IDS_SHOW_CA_SWITCH	Vis konteksthjælp
+IDS_HIDE_CA_SWITCH	Skjul konteksthjælp
+IDS_CA_SWITCH_INACTIVE_BTN	Ingen konteksthjælp tilgængelig
+IDS_DO_CTX_RECOGNITION	Vis konteksthjælp
+IDS_NAV_STANDBY	@{NAVIGATOR} inaktiveres.
+IDS_NAV_NO_STANDBY	@{NAVIGATOR} aktiveres.
+IDS_SHOW_DA_PANELS	@{NAVIGATOR} er nu tilgængelig igen Du kan anvende @{NAVIGATOR}, hvis du har brug for hjælp.
+IDS_HIDE_DA_PANELS	@{NAVIGATOR} forsvandt automatisk, da relevant hjælp er tilgængelig i den applikation, du p.t. har åben. Du skal bare åbne hjælpen i applikationen, hvis du har brug for yderligere hjælp.
+IDS_ADD_STICKY_NOTES_BTN	Tilføj Sticky Note
+IDS_ADD_STICKY_NOTES_INACTIVE_BTN	Du kan kun tilføje en Sticky Note for denne applikation
+IDS_EXIT_DA	Afslut
+IDS_EXIT_DA_BTN	Afslut
+IDS_EXIT_DA_SUB_MENU	Afslut
+IDS_SHOW_MORE	Vis mere
+IDS_HIDE_MORE	Skjul mere
+IDS_REQUEST_CONTENT_SUB_MENU	Forespørg om indhold
+IDS_SHOW_CA_SUB_MENU	Vis konteksthjælp
+IDS_HIDE_CA_SUB_MENU	Skjul konteksthjælp
+IDS_ADD_STICKY_NOTE_SUB_MENU	Tilføj Sticky Note
+IDS_RECORDING_SUB_MENU	Start optagelse
+IDS_CA_SWITCH_SUB_MENU	Konteksthjælp
+IDS_SHARE_DLG_CAPTION	Del dokument
+IDS_DELETE_FRAMES	Sletter rammer
+OPEN_FOLDER	Åbn mappe
+SHARE_DOC	Del via e-mail
+IDS_SHARE_DLG_TEXT	Hvad vil du foretage dig?
+IDS_SEARCH_BTN_SUB_MENU	Søg indhold
+IDS_LIBRARY_SEARCH_BTN_SUB_MENU	Søg efter indhold i library
+GRACEFUL_DEGRADATION	Denne funktion er midlertidigt ikke tilgængelig på grund af netværksproblemer.\n\nPrøv igen senere.
+SHARE_BTN	Del via e-mail
+COPY_BTN	Kopier link
+SHARE_MAIL_SUBJECT	Anbefalet indhold
+SHARE_MAIL_HEADER	Kære bruger,\n\ndette indhold kan være interessant for dig. \n\n
+SHARE_MAIL_FOOTER	Med venlig hilsen
+SHARE_MAIL_LINK	Link:\t
+SHARE_MAIL_CAPTION	Billedtekst:\t
+SHARE_TITLE	Del indhold
+SELECT_ASSET	Vælg et værktøj for at starte.
+ENTER_NAME	Indtast et navn
+DELETE_RECORD_WRN	Vigtigt: Denne aktion kan ikke annulleres.
+MSG_PA_NEXT_LBL	Fortsæt
+MSG_PA_STEP_LBL	Trinliste
+TOGGLE_STEPLIST_TOOLTIP	Vis/skjul trinliste
+PREVIEW_STEP_TOOLTIP	Eksempeltrin
+NEXT_STEP_TOOLTIP	Gå til næste trin
+PREV_STEP_TOOLTIP	Gå til foregående trin
+ROLES_TITLE	Desktop-guideroller
+ROLES_LBL	Filtrer hjælpeindhold efter rolle
+OK_CAPTION	OK
+CANCEL_CAPTION	Afbryd
+BTN_YES	Ja
+BTN_NO	Nej
+DELETE_CONFIRM	Er du sikker på, du vil slette denne Sticky Note?
+EXIT_CONFIRM	Bekræft afslutning af @{NAVIGATOR}?
+sticky_notes	Sticky Notes
+exit_da	Afslut @{NAVIGATOR}
+STICKY_NOTE_DEFAULT_TEXT	Tilføj din tekst her
+SEARCH_BTN_TOOLTIP	Søg
+NEXT_BTN_TOOLTIP	Næste
+PREV_BTN_TOOLTIP	Foregående
+HIDE_BTN_TOOLTIP	Skjul karrusel
+IDS_PRJ_NAME	Indtast navn:
+IDS_APPLICATIONS	Vælg vindue:
+IDS_PRJ_LANGUAGE	Vælg sprog:
+IDS_FULL_SCREEN	Fuldskærm
+IDS_CHOOSE_APP_CAPTION	Vælg applikation
+IDS_RECORD_BTN	Optag
+IDS_ANALYZE_ACTIONS	Analyserer aktioner
+IDS_PARSE_PROJECT	Parser projekt
+IDS_REGION	Region
+IDS_AREA_HELP	Ændr størrelse på region ved at vælge skabelonen nedenfor. Skaler det røde rektangel for at vælge en region, eller vælg hele skærmen.
+IDS_CHOOSE_SIZE	Vælg størrelse:
+IDS_DEFINE_REC_AREA	Optagelsesområde
+IDS_DEFINE_NAME_LANG	Generer indhold
+PLEASE_SELECT	Vælg
+quick_recorder.help_caption	Tip
+quick_recorder.help	Anvend tasten "PAUSE" til at sætte optagelsen på pause eller til at fortsætte. \nAnvend "END"-tasten for at afslutte. \n\nVælg "OK" for at starte optagelsen.
+quick_recorder.audio_help	Anvend tasten "PAUSE" til at sætte optagelsen på pause eller til at fortsætte. \nAnvend "END"-tasten for at afslutte. \n\nLyd:\nDin lyd optages ikke ved et klik. Indtal din tekst, før du vælger et styreelement. \n\nVælg "OK" for at starte optagelsen.
+FILE_EXISTS	Fil med samme navn findes allerede. Indtast et andet navn.
+HELP_EXIT_CONTROL_H	Stopper afspilning og lukker @{NAVIGATOR}
+HELP_EXIT_CONTROL_T	Afslut
+BTN_CLOSE_DLG	Luk
+DELETE_RECORD_WRN	Vigtigt: Denne aktion kan ikke annulleres.
+ENTER_NAME	Indtast et navn
+IDS_CLEAR_SEARCH	Ryd søgning
+IDS_RESET_ALL_TIP	Vis alle inaktiverede noter igen ved indtastning af en skærm første gang.
+IDS_SEARCH_INPUT	Søgehjælpsindhold
+LBL_DELETE	Slet
+LBL_NAVI_NO_MATCH	Din søgning gav ikke nogen resultater.
+LBL_TU	Åbn
+MSG_PA_NEXT_LBL	Fortsæt
+MSG_PA_STEP_LBL	Trinliste
+RENAME_FAILED	Omdøbningsoperation mislykkedes.
+ROLES_LBL	Filtrer hjælpeindhold efter rolle
+SELECT_ASSET	Vælg et værktøj for at starte.
+LBL_CDOC	Åbn
+LBL_RECORD_DOCUMENT	Optag dokument
+QR_CAPTION	Vælg optagelsesoutput
+QR_WELCOME	Hvad vil du oprette?
+QR_DOC_CAP	Dokument
+QR_DOC_TXT	Opretter et Microsoft Word-dokument, der viser et skærmbillede og en instruktionstekst for hver aktion, du optager.
+QR_VIDEO_CAP	Video
+QR_VIDEO_TXT	Opretter en video af din optagelse i høj kvalitet.
+QR_DOC_VIDEO_CAP	Dokument og video
+QR_DOC_VIDEO_TXT	Opretter et dokument og en video.
+SHARE_ERR_CAP	Kan ikke dele optagelse
+SHARE_ERR_TXT	Denne optagelse er for stor til at blive delt via e-mail.\nVil du åbne en fillokation i stedet?
+HELP_CONTENT_WINDOW_H	Indholdsvinduet viser de tilgængelige informationer, modes og dokumentation for det valgte indhold af hovedvinduet.</br>Indholdsvinduet kan forankres i hovedvinduet, som giver dig mulighed for at flytte begge vinduer sammen på skærmen.
+HELP_CONTENT_WINDOW_T	Indholdsvindue
+IDS_CONTENT_BTN	Indhold
+MSG_PA_STEP_NOT_FOUND_NUMERAL_1	1.
+MSG_PA_STEP_NOT_FOUND_NUMERAL_2	2.
+SHARE_URL	URL for aktuel side:

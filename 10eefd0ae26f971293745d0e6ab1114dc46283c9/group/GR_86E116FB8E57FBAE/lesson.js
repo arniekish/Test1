@@ -1,0 +1,51 @@
+﻿{
+"modified":"2020-5-6T16:14:27",
+"modes":{
+	"include_demo":1,
+	"include_prac":0,
+	"include_test":0,
+	"include_concur":1,
+	"include_doc":[{
+		"name":"ppt",
+		"types":["doc"]
+		}],
+	"include_ca":0,
+	"include_pa":1,
+	"include_externals":0,
+	"include_books":0,
+	"include_text_units":0,
+	"include_groups":0,
+	"include_bookpages":0
+	},
+"description":"",
+"headers":[{
+	"header":"819332765",
+	"name":"GenericWebApplication:819332765"
+	}],
+"group":[{
+	"exec":"chrome.exe;iexplore.exe;microsoftedge.exe",
+	"profiles":[{
+		"name":"GenericWebApplication:819332765",
+		"projects":[{
+			"type":1,
+			"uid":"PR_DC9CB2F28C4B19A8",
+			"caption":"1) PLM Demo: Change Order",
+			"weight":0,
+			"shortdesc":"",
+			"keywords":"",
+			"keys":["<PageKey><HTML3><PageAtt type=\"url\" value=\"INVALID_URL\" langdep=\"0\"/></HTML3></PageKey>"],
+			"ts_uids":["TS_ED38F37D0B034C69A2F9066A5860FB7E"]
+			},{
+			"type":1,
+			"uid":"PR_903DDD7DB705B885",
+			"caption":"2) PLM Demo: Task Approval",
+			"weight":1,
+			"shortdesc":"",
+			"keywords":"",
+			"keys":["<PageKey><HTML3><PageAtt type=\"url\" value=\"INVALID_URL\" langdep=\"0\"/></HTML3></PageKey>"],
+			"ts_uids":["TS_989E6C6138424AB9A961B69E3C0B0F61"]
+			}]
+		}]
+	}],
+"ca_lessons":[]
+}

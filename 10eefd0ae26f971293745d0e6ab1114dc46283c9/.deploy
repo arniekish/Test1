@@ -1,7 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Deployed type="standard" root_class_id="group" root_local_id="GR_1B33386EC2F1FCA5" start_id="" dntprefix="">
+<Deployed type="standard" root_class_id="group" root_local_id="GR_86E116FB8E57FBAE" start_id="" dntprefix="">
     <Class id="adaptable">
         <Entity id="categories" timestamp="132331688265420924" caption="content_categories" version="10.3.12.1286" rev="2" types="content_categories" created_by="_SYSTEM_" creation_time="2019-11-28T08:53:32"/>
+        <Entity id="navi_style" timestamp="132331688010487118" caption="desktop_assistant_style" version="10.3.12.1286" rev="8" types="navigation_style; custom_style" cwa_must_have="true" created_by="_SYSTEM_" creation_time="2019-11-28T08:53:32"/>
+        <Entity id="navigation_playback" timestamp="132331688769787239" caption="navigation_playback_settings" version="10.2.4.960" rev="1" types="navigation_playback_settings;navigation_global" cwa_must_have="true" created_by="_SYSTEM_" creation_time="2018-08-24T11:14:09">
+            <Assets>
+                <Settings type="navigation_fallbacks" filename_base="navigation_fallbacks"/>
+                <Settings type="navigation_global" filename_base="navigation_global"/>
+            </Assets>
+        </Entity>
         <Entity id="simulation_playback" timestamp="132331688811975985" caption="simulation_playback_settings" version="10.4.0.133" rev="0" types="simulation_playback_settings;trainer_settings;slide_playback_settings" cwa_must_have="true" created_by="_SYSTEM_" creation_time="2018-08-24T11:14:09" modified_by="Gonzalez, Felipe" modification_time="2020-03-26T19:16:22">
             <Assets>
                 <Settings type="trainer_global" filename_base="trainer_global"/>
@@ -34,16 +41,21 @@
         <Entity id="white_island" timestamp="132331689572038812" caption="White Island" version="10.2.4.960" rev="1" cwa_must_have="true" created_by="_SYSTEM_" creation_time="2018-08-24T11:14:09"/>
     </Class>
     <Class id="glossary">
+        <Entity id="navigator" timestamp="132331689644807333" caption="navigator" version="10.3.9.2387" rev="10" cwa_must_have="true" created_by="_SYSTEM_" creation_time="2019-08-22T11:32:51"/>
         <Entity id="standard" timestamp="132331689660982984" caption="trainer" version="10.3.12.1286" rev="8" cwa_must_have="true" created_by="_SYSTEM_" creation_time="2019-11-28T08:53:32"/>
     </Class>
     <Class id="group">
-        <Entity id="GR_1B33386EC2F1FCA5" timestamp="132331830168656256" caption="PLM Support" language="en-US" created_by="Kishore, Aranya" creation_time="2020-05-05T16:19:01" modified_by="Kishore, Aranya" modification_time="2020-05-05T20:10:16">
+        <Entity id="GR_86E116FB8E57FBAE" timestamp="132332732701322009" caption="PLM Support" language="en-US" clone_src="group!GR_1B33386EC2F1FCA5" clone_master="group!GR_1B33386EC2F1FCA5" sub_type="desktop_assistant" created_by="Kishore, Aranya" creation_time="2020-05-06T20:18:31" modified_by="Kishore, Aranya" modification_time="2020-05-06T21:14:25" da_context_id="&lt;DAContexts&gt;&lt;DAContext&gt;&lt;Exec&gt;chrome.exe&lt;/Exec&gt;&lt;PageKey&gt;&lt;HTML3&gt;&lt;PageAtt type=&quot;url&quot; value=&quot;INVALID_URL&quot; langdep=&quot;0&quot;/&gt;&lt;/HTML3&gt;&lt;/PageKey&gt;&lt;ConfigFile&gt;GenericWebApplication&lt;/ConfigFile&gt;&lt;ConfigurationTemplate&gt;819332765&lt;/ConfigurationTemplate&gt;&lt;/DAContext&gt;&lt;/DAContexts&gt;">
             <Assets>
-                <Ref class="project" uid="PR_A17EA870C3EE8D9F" caption="1) PLM Demo: Change Order"/>
-                <Ref class="project" uid="PR_186AE377F7EC5AAD" caption="2) PLM Demo: Task Approval"/>
+                <Ref class="project" uid="PR_DC9CB2F28C4B19A8" caption="1) PLM Demo: Change Order"/>
+                <Ref class="project" uid="PR_BA41FF6A0F28CB2" caption="1) Guided Tour: Change Order" hidden="1"/>
+                <Ref class="project" uid="PR_903DDD7DB705B885" caption="2) PLM Demo: Task Approval"/>
+                <Ref class="project" uid="PR_63F8389681C6F2AC" caption="2) Guided Tour: Task Approval" hidden="1"/>
+                <Ref class="da" uid="DA_228FD4763BD75BAC" caption="Desktop Assistant PLM" hidden="1"/>
+                <Ref class="media" uid="M_C887AE1C2432049F" caption="Desktop Assistance in Action"/>
             </Assets>
             <Library>
-                <entity.txt c="3315908548"/>
+                <entity.txt c="1788107950"/>
             </Library>
         </Entity>
     </Class>
@@ -51,10 +63,19 @@
         <Entity id="en-US" timestamp="132331689691068874" caption="en-US" version="10.3.12.1286" rev="2" preview="preview.jpg" cwa_must_have="true"/>
     </Class>
     <Class id="macroset">
+        <Entity id="context_assistant" timestamp="132331689723241067" caption="context_assistant" version="10.3.12.1286" rev="14" cwa_must_have="true"/>
         <Entity id="standard" timestamp="132331689840015850" caption="standard" version="10.4.0.133" rev="15" cwa_must_have="true"/>
     </Class>
+    <Class id="media">
+        <Entity id="M_C887AE1C2432049F" timestamp="132332732311417116" caption="Desktop Assistance in Action" language="en-US" sub_type="video" original_filename="C:\Users\akishore\OneDrive - Capgemini\Desktop\Desktop Assistance\Desktop Assistance.mp4" media_ext="mp4" original_stream="video.mp4" System.Media.Duration="00:02:39" System.Video.FrameRate="30.00 frames/second" System.Video.EncodingBitrate="400kbps" media_info="Length: 00:02:39&#10;Frame width: 1920&#10;Frame height: 1020&#10;Frame rate: 30.00 frames/second&#10;Data rate: 400kbps&#10;Protected: No&#10;" created_by="Kishore, Aranya" creation_time="2020-05-06T21:13:34" modified_by="Kishore, Aranya" modification_time="2020-05-06T21:13:51">
+            <video_frame_size x="1920" y="1020"/>
+            <Library>
+                <entity.txt c="3123232799"/>
+            </Library>
+        </Entity>
+    </Class>
     <Class id="project">
-        <Entity id="PR_186AE377F7EC5AAD" timestamp="132331819888870075" caption="2) PLM Demo: Task Approval" language="en-US" macroset="standard" max_score_percent="100" mastery_score_percent="80" sub_type="simulation_project" context_info="" created_by="Welti, Ryan A" creation_time="2020-05-04T18:25:08" modified_by="Kishore, Aranya" modification_time="2020-05-05T19:53:08">
+        <Entity id="PR_903DDD7DB705B885" timestamp="132332701702313130" caption="2) PLM Demo: Task Approval" language="en-US" macroset="standard" max_score_percent="100" mastery_score_percent="80" sub_type="simulation_project" clone_src="project!PR_186AE377F7EC5AAD" clone_master="project!PR_186AE377F7EC5AAD" context_info="" created_by="Kishore, Aranya" creation_time="2020-05-06T20:18:31" modified_by="Kishore, Aranya" modification_time="2020-05-06T20:22:50">
             <Assets>
                 <Tour mode="demo" type="0" caption="2) PLM Demo: Task Approval Demo" caption_modified="0"/>
                 <Tour mode="uebung" type="0" caption="2) PLM Demo: Task Approval Practice" caption_modified="0"/>
@@ -63,10 +84,10 @@
                 <Docu fileName="ppt.pptx" mode="ppt" doc_type="ppt" caption="PowerPoint Document" src_path="ppt.pptx" original="ppt.pptx" modified_date="2020/05/04 18:56:51" import_date="2020/05/04 18:56:52"/>
             </Assets>
             <Library>
-                <entity.txt c="54335247"/>
+                <entity.txt c="994318065"/>
             </Library>
         </Entity>
-        <Entity id="PR_A17EA870C3EE8D9F" timestamp="132331832677279901" caption="1) PLM Demo: Change Order" language="en-US" macroset="standard" max_score_percent="100" mastery_score_percent="80" sub_type="simulation_project" context_info="" created_by="Kishore, Aranya" creation_time="2020-05-04T17:48:56" modified_by="Kishore, Aranya" modification_time="2020-05-05T20:14:27">
+        <Entity id="PR_DC9CB2F28C4B19A8" timestamp="132332701535315829" caption="1) PLM Demo: Change Order" language="en-US" macroset="standard" max_score_percent="100" mastery_score_percent="80" sub_type="simulation_project" clone_src="project!PR_A17EA870C3EE8D9F" clone_master="project!PR_A17EA870C3EE8D9F" context_info="" created_by="Kishore, Aranya" creation_time="2020-05-06T20:18:32" modified_by="Kishore, Aranya" modification_time="2020-05-06T20:22:33">
             <Assets>
                 <Tour mode="demo" type="0" caption="1) PLM Demo: Change Order Demo" caption_modified="0"/>
                 <Tour mode="uebung" type="0" caption="1) PLM Demo: Change Order Practice" caption_modified="0"/>
@@ -75,7 +96,7 @@
                 <Docu fileName="ppt.pptx" mode="ppt" doc_type="ppt" caption="PowerPoint Document" src_path="ppt.pptx" original="ppt.pptx" modified_date="2020/05/05 20:10:57" import_date="2020/05/05 20:10:58"/>
             </Assets>
             <Library>
-                <entity.txt c="3967489055"/>
+                <entity.txt c="3335984153"/>
             </Library>
         </Entity>
     </Class>
@@ -87,56 +108,73 @@
     </Class>
     <Referrers>
         <Item id="adaptable!categories:">
-            <Referrer id="group!GR_1B33386EC2F1FCA5:"/>
-            <Referrer id="project!PR_186AE377F7EC5AAD:"/>
-            <Referrer id="project!PR_A17EA870C3EE8D9F:"/>
+            <Referrer id="group!GR_86E116FB8E57FBAE:"/>
+            <Referrer id="media!M_C887AE1C2432049F:"/>
+            <Referrer id="project!PR_903DDD7DB705B885:"/>
+            <Referrer id="project!PR_DC9CB2F28C4B19A8:"/>
+        </Item>
+        <Item id="adaptable!navi_style:">
+            <Referrer id="group!GR_86E116FB8E57FBAE:"/>
+        </Item>
+        <Item id="adaptable!navigation_playback:">
+            <Referrer id="group!GR_86E116FB8E57FBAE:"/>
         </Item>
         <Item id="adaptable!simulation_playback:">
-            <Referrer id="project!PR_186AE377F7EC5AAD:"/>
-            <Referrer id="project!PR_A17EA870C3EE8D9F:"/>
+            <Referrer id="project!PR_903DDD7DB705B885:"/>
+            <Referrer id="project!PR_DC9CB2F28C4B19A8:"/>
             <Referrer id="trainer!10_4_0_133:"/>
         </Item>
         <Item id="adaptable!text_styles:">
-            <Referrer id="project!PR_186AE377F7EC5AAD:"/>
-            <Referrer id="project!PR_A17EA870C3EE8D9F:"/>
+            <Referrer id="project!PR_903DDD7DB705B885:"/>
+            <Referrer id="project!PR_DC9CB2F28C4B19A8:"/>
             <Referrer id="trainer!10_4_0_133:"/>
         </Item>
         <Item id="adaptable!trainer_skin_mobile:">
-            <Referrer id="project!PR_186AE377F7EC5AAD:"/>
-            <Referrer id="project!PR_A17EA870C3EE8D9F:"/>
+            <Referrer id="project!PR_903DDD7DB705B885:"/>
+            <Referrer id="project!PR_DC9CB2F28C4B19A8:"/>
             <Referrer id="trainer!10_4_0_133:"/>
         </Item>
         <Item id="book_style!standard:">
-            <Referrer id="project!PR_186AE377F7EC5AAD:"/>
-            <Referrer id="project!PR_A17EA870C3EE8D9F:"/>
+            <Referrer id="project!PR_903DDD7DB705B885:"/>
+            <Referrer id="project!PR_DC9CB2F28C4B19A8:"/>
         </Item>
         <Item id="bubble!white_island:">
-            <Referrer id="project!PR_186AE377F7EC5AAD:"/>
-            <Referrer id="project!PR_A17EA870C3EE8D9F:"/>
+            <Referrer id="group!GR_86E116FB8E57FBAE:"/>
+            <Referrer id="project!PR_903DDD7DB705B885:"/>
+            <Referrer id="project!PR_DC9CB2F28C4B19A8:"/>
+        </Item>
+        <Item id="glossary!navigator:">
+            <Referrer id="group!GR_86E116FB8E57FBAE:"/>
         </Item>
         <Item id="glossary!standard:">
-            <Referrer id="project!PR_186AE377F7EC5AAD:"/>
-            <Referrer id="project!PR_A17EA870C3EE8D9F:"/>
+            <Referrer id="project!PR_903DDD7DB705B885:"/>
+            <Referrer id="project!PR_DC9CB2F28C4B19A8:"/>
             <Referrer id="trainer!10_4_0_133:"/>
         </Item>
         <Item id="help!en-US:">
-            <Referrer id="group!GR_1B33386EC2F1FCA5:"/>
-            <Referrer id="project!PR_186AE377F7EC5AAD:"/>
-            <Referrer id="project!PR_A17EA870C3EE8D9F:"/>
+            <Referrer id="group!GR_86E116FB8E57FBAE:"/>
+            <Referrer id="media!M_C887AE1C2432049F:"/>
+            <Referrer id="project!PR_903DDD7DB705B885:"/>
+            <Referrer id="project!PR_DC9CB2F28C4B19A8:"/>
             <Referrer id="trainer!10_4_0_133:"/>
         </Item>
+        <Item id="macroset!context_assistant:">
+            <Referrer id="group!GR_86E116FB8E57FBAE:"/>
+        </Item>
         <Item id="macroset!standard:">
-            <Referrer id="project!PR_186AE377F7EC5AAD:"/>
-            <Referrer id="project!PR_A17EA870C3EE8D9F:"/>
+            <Referrer id="project!PR_903DDD7DB705B885:"/>
+            <Referrer id="project!PR_DC9CB2F28C4B19A8:"/>
         </Item>
         <Item id="rtprofile!819332765:">
-            <Referrer id="project!PR_186AE377F7EC5AAD:"/>
-            <Referrer id="project!PR_A17EA870C3EE8D9F:"/>
+            <Referrer id="group!GR_86E116FB8E57FBAE:"/>
+            <Referrer id="project!PR_903DDD7DB705B885:"/>
+            <Referrer id="project!PR_DC9CB2F28C4B19A8:"/>
         </Item>
         <Item id="trainer!10_4_0_133:">
-            <Referrer id="group!GR_1B33386EC2F1FCA5:"/>
-            <Referrer id="project!PR_186AE377F7EC5AAD:"/>
-            <Referrer id="project!PR_A17EA870C3EE8D9F:"/>
+            <Referrer id="group!GR_86E116FB8E57FBAE:"/>
+            <Referrer id="media!M_C887AE1C2432049F:"/>
+            <Referrer id="project!PR_903DDD7DB705B885:"/>
+            <Referrer id="project!PR_DC9CB2F28C4B19A8:"/>
         </Item>
     </Referrers>
 </Deployed>

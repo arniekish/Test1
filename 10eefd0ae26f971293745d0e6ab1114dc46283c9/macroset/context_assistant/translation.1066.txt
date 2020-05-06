@@ -1,0 +1,765 @@
+﻿NAVIGATOR	Desktop Assistant
+XRAY	Web Assistant
+LIBRARY	library
+MANAGER	Manager
+form_bubble	Tạo bóng thoại
+bform_height	Chiều cao
+bform_height.h	Xác định chiều cao bóng thoại biểu mẫu cần hiển thị bằng điểm ảnh.
+bform_width	Chiều rộng
+bform_width.h	Xác định chiều rộng bóng thoại biểu mẫu cần hiển thị bằng điểm ảnh.
+bform_position	Vị trí
+bform_position.h	Xác định vị trí của bóng thoại biểu mẫu (trái, trên cùng) để canh chỉnh 'Tự do' trên màn hình. Giá trị đã cho bằng điểm ảnh.
+paramAutoMergeComplete	Kết hợp màn hình đã hoàn tất.
+form	Biểu mẫu
+application_contexts	Ứng dụng
+﻿Application	Ứng dụng
+highlight_offset	Khoảng trống
+AutoBarChooseApp	Chọn ứng dụng
+AutoBarReRecManual	Nhấp vào đối tượng.
+BubbleOnActivate	Hiện bóng thoại trực tiếp
+ClickOnAAPosition	Nhấp vào ứng dụng để xác định hình chữ nhật.
+ClickOnPosition	Nhấp vào vị trí trong ứng dụng.
+EnabledOnPgLoad	Kích hoạt
+HighlightOnActivate	Hiện vùng nổi bật trực tiếp
+start_from_arbitrary	Bắt đầu từ bước tùy ý
+focus_step	Lớp tập trung
+focus_step.h	Chỉ tham quan có hướng dẫn\nHiển thị lớp màu xám để làm nổi bật điều khiển được yêu cầu trong bước hiện tại.
+yes	Có
+no	Không
+light_mode	Chế độ tương tác
+light_mode.h	Định rõ rằng người dùng phải điều hướng trong bóng thoại đối tượng đến bước tiếp theo. Không thực hiện nhận dạng trang trong khi phát lại.
+restricted_mode	Chế độ hạn chế
+restricted_mode.h	Xác định rằng chỉ có hành động hiện tại mới có thể được thực hiện. Những điều khiển khác của trang ứng dụng đang bị chặn. \nThiết lập này có thể được sử dụng nếu 'Lớp tập trung' được kích hoạt.
+show_highlight	Nổi bật
+action	Thao tác
+active_area	Vùng hoạt động
+add_application_expl	Chèn giải thích
+adv	Nâng cao
+display_behavior	Hiển thị hành vi
+all_values	Tất cả giá trị
+anim_steps	Các bước chuyển động
+application_context	Ứng dụng
+area	Vùng
+auto_merge	Kết hợp Macro màn hình
+b_height	Độ cao
+form_on	Chế độ biểu mẫu
+b_percent	Bóng thoại hiện (%)
+b_hide_option	Ẩn tùy chọn
+b_minimizable	Có thể thu nhỏ
+b_closable	Có thể đóng
+b_minimized	Thu nhỏ
+b_width	Độ rộng
+b_width.h	Xác định độ rộng của bóng thoại đối tượng bằng điểm ảnh.
+bmain_minimizable	Có thể thu nhỏ
+bmain_position	Vị trí
+bmain_win_style	Kiểu
+bmain_size	Kích cỡ
+bmain_alignment	Căn chỉnh
+bubble	Bóng thoại đối tượng
+bubble_offset	Khoảng trống
+bubblestyle_d	Kiểu
+bubblestyle_init	Kiểu bóng thoại
+choose_appl_template	Chọn thông tin ứng dụng
+choose_bool	Giá trị được chọn
+choose_nr	Chỉ mục được chọn
+choose_text	Giá trị được chọn
+target_static_text	được ghi dưới dạng 'ID trang'.
+target_spec_warning	Cảnh báo: Không sẵn có thông tin ghi cho kiểm soát này.
+prev_step	Bước trước đó
+next_step	Bước kế tiếp
+click	Nhấp vào liên kết
+click_pos	Nhấp vào vị tri
+click_pos_rel	Vị trí bóng thoại
+config_file	Thông tin ứng dụng
+define_target	Màn hình
+display	Chỉnh sửa bóng thoại chính
+display_name	Tên hiển thị
+drag	Kéo
+drop	Thả
+dump_page	Ảnh chụp màn hình
+elem_bubble	Bóng thoại đối tượng
+element_type	Kiểu đối tượng
+enabled	Bật
+optional	Tùy chọn
+enter	Nhập bằng chuột
+executable	Ứng dụng
+explanation_d	Văn bản
+explanation_d_modified	Dịch thủ công
+explanation_long	Giải thích
+fh_mouseover	Trợ giúp khi di chuột qua
+fh_onelem	Biểu tượng
+fh_tooltip	Chú giải công cụ
+fh_bubble	Bóng thoại
+step_list	Danh sách bước
+fieldicon	Ảnh đối tượng
+fieldname	Tên đối tượng
+find	Tìm
+AutoBarChooseScn	Nhấp vào màn hình tương ứng
+frame	Khung
+g_highlight_bgr	Màu
+g_highlight_border	Đường viền
+g_highlight_effect	Hiệu ứng
+global	Tổng thể
+hide_on_focuslost	Ẩn khi mất tiêu điểm
+hilight	Làm nổi bật
+input_radio	Nút radio/ô chọn
+input_text	Văn bản nhập
+init	Khởi tạo
+key	Phím
+key_desc	Phím nóng
+key_name	Mã phím
+key_press	Ấn phím
+lclick	Nhấp chuột trái
+ldblclick	Nhấp đôi chuột trái
+force_display	Bắt buộc hiển thị
+auto_execute	Thực hiện tự động
+show_confirmation	Hiện nút xác nhận
+show_confirmation.h	Xác định xem nút xác nhận có được hiển thị trong bóng thoại đối tượng trong lúc phát lại không. Nút cho phép người dùng xác nhận hành động đã thực hiện và sau đó bước kế tiếp được hiển thị.
+link_to_sim	Chèn liên kết mô phỏng
+macro_comment	Nhận xét
+main_bubble	Cửa sổ
+match_value	So khớp giá trị
+mini_on_focuslost	Thu nhỏ khi mất tiêu điểm
+enable_tincan	Theo dõi @{NAVIGATOR}
+nav_check_freq	Tần suất cập nhật (phút)
+navigation	Hỗ trợ màn hình nền
+new_screen_context	Màn hình mới
+no_spike	Không có đường bóng thoại
+pa_caption	Chuyến đi được hướng dẫn
+none	Không có
+objname	Tên đối tượng
+orientation	Hướng
+path	Đường dẫn đối tượng
+position	Vị trí
+rclick	Nhấp chuột phải
+rdblclick	Nhấp đôi chuột phải
+record_activearea	Ghi lại vùng hoạt động
+record_application_context	Ghi ứng dụng
+no_control	Không sẵn có đối tượng tại vị trí đã nhấp.
+record_control	Ghi đối tượng
+record_control_pa	Ghi lại bước tham quan có hướng dẫn
+record_define_target	Ghi màn hình
+record_display	Chỉnh sửa bóng thoại chính
+record_end_display	Chỉnh sửa bóng thoại
+record_explanation	Thêm giải thích
+record_object_context	Ghi đối tượng
+record_screen_context	Ghi màn hình
+record_target_specializer	Ghi ID trang
+record_compatible_application	Ghi lại ứng dụng tương thích
+reference	Nguồn
+regexp	Biểu thức chính quy
+replace	Thay thế
+replace_continue	Thay thế và tiếp tục...
+replace_pgkey_attr	Thay thế thuộc tính mã trang
+error_regexp	Biểu thức chính quy không hợp lệ. Sửa lại đầu vào của bạn.
+resize	Điều chỉnh kích thước cửa sổ
+revision	Sửa đổi
+sc_config_header	Thông tin hồ sơ
+screen	Màn hình
+screenhelp	Trợ giúp màn hình
+screenshot_rect	Vị trí ảnh chụp màn hình
+select_single	Chọn Đơn
+selected_merge	Kết hợp Macro màn hình đã chọn
+show_bubble	Hiện trực tiếp
+show_hilight	Hiển thị phần nổi bật
+show_on_focus	Hiện khi đặt tiêu điểm
+source	Nguồn
+start_unit	Kiểu trợ giúp ngữ cảnh
+subkey	Cho phép làm phím phụ
+script	Tập lệnh
+target_name	Tiêu đề
+target_specializer	ID trang
+text_d	Văn bản nhập
+text_d_specializer	Văn bản nhập
+tolerance	Kết hợp dung sai Macro màn hình
+translate	Dịch tự động
+autoTranslate	Dự án chuyển đổi
+paramReRecordLanguage	Ngôn ngữ
+merge_critical_macros	Kết hợp tự động Macro
+merge_critical_macros.h	Nếu bạn đang chuyển đổi mô phỏng sang điều hướng, bạn có thể tự động kết hợp các màn hình đã tạo. Các màn hình này được kết hợp bằng giá trị dung sai đã xác định trong tham số 'Kết hợp dung sai Macro màn hình'.
+uid	UID
+underline	Gạch dưới
+update_control	Cập nhật đối tượng
+update_target	Cập nhật màn hình
+variant	Biến thể
+win_rect	Kích thước cửa sổ
+wizCancel	Hủy
+wizFinish	Kết thúc
+wizNext	Kế tiếp
+wizOk	OK
+wizExplanation	Giải thích
+wizContinue	Tiếp tục
+app_info	Hiển thị ứng dụng
+app_link_to_sim	Chèn liên kết mô phỏng ứng dụng
+screen_info	Hiển thị màn hình
+screen_link_to_sim	Chèn liên kết mô phỏng màn hình
+object_info	Hiển thị biến thể
+object_link_to_sim	Chèn liên kết mô phỏng
+disabled	Vô hiệu hóa
+record_context_assistant_include	Bao gồm @{NAVIGATOR} dự án
+project_id	Tiêu đề dự án
+project_id.h	Tham số chứa dự án đã chèn. Nút 'Chỉnh sửa liên kết' cho phép bạn chọn dự án trong vùng làm việc.
+project	Dự án
+context_assistant_include	Dự án hỗ trợ màn hình nền
+open_expanded	Hiển thị bóng thoại chính nâng cao
+restart_option	Nút khởi động lại
+next_project_id	Dự án kế tiếp
+next_project_id.h	Tùy chọn này xác định dự án sẽ được bắt đầu sau khi hoàn tất quy trình hiện thời. Khởi động quy trình mới trực tiếp và không có bóng thoại kết thúc nào được hiển thị.
+end_unit	Kết thúc tham quan
+add_end_unit	Thêm kết thúc quy trình
+demo	Chế độ demo
+uebung	Chế độ thực hành
+praxis	Chế độ đồng thời
+test	Chế độ kiểm tra
+doc	Tài liệu Word
+pdf	Tài liệu PDF
+html	Tài liệu HTML
+ppt	Tài liệu PowerPoint
+explanation_type	Biểu tượng
+note	Ghi chú
+info	Thông tin
+tipp	Gợi ý
+warnung	Cảnh báo
+no_image	Không có biểu tượng
+display_on	Hiển thị bóng thoại chính khi
+nav_start	Bắt đầu điều hướng
+app_focus	Tiêu điểm ứng dụng
+screen_focus	Tiêu điểm màn hình
+never	Không hiện
+list_type	Kiểu danh sách cho màn hình
+list_type.h	Tham số này xác định kiểu lập danh sách đối tượng trong màn hình, nếu tùy chọn 'Hiển thị tất cả thông tin đối tượng' được kích hoạt.
+unordered_list	Dấu đầu dòng
+ordered_list	Đánh số
+convert_sn	Tạo hỗ trợ màn hình nền
+Application	Ứng dụng
+obj_context	Đối tượng
+expl_context	Giải thích
+record_cntrl_type	Kiểu
+disable_standby	Vô hiệu hóa tình trạng chờ (@{NAVIGATOR})
+disable_standby.h	Định rõ trạng thái dự phòng của @{NAVIGATOR} không thể thiết lập. Nếu tùy chọn này được khử kích hoạt, bạn có thể thiết lập trạng thái dự phòng với phím tắt 'CTRL + F11' hoặc bằng cách nhấp chuột trên biểu tượng trạng thái.
+disable_exit	Ẩn mục nhập thoát (@{NAVIGATOR})
+disable_exit.h	Định rõ mục nhập 'Thoát' trong trình đơn ngữ cảnh của biểu tượng tình trạng của @{NAVIGATOR} bị ẩn.
+bcontent_style	Kiểu bóng thoại
+bcontent_style.h	Thiết lập này xác định kiểu bóng thoại nào được dùng để hiển thị bóng thoại.
+cache_properties	Vùng nhớ đệm
+cache_folder	Vị trí thư mục
+cache_folder.h	Xác định vị trí thư mục bộ nhớ đệm 'NavigatorCache'. Vị trí mặc định là '%localappdata%'. Bạn có thể nhập vị trí tùy chỉnh. \nLưu ý: Không thể thay đổi tên thư mục bộ nhớ đệm.
+use_caching	Sử dụng lưu trữ tạm
+use_caching.h	Kích hoạt sử dụng bộ nhớ đệm @{NAVIGATOR}.
+function_keys	Phím chức năng
+minimize_da	Thu nhỏ
+minimize_da.h	Xác định phím chức năng thu nhỏ cửa sổ chính.
+next_tab	Chọn Tab kế tiếp
+next_tab.h	Xác định phím chức năng chọn tab kế tiếp trong cửa sổ chính.
+next_screen	Đi đến màn hình tiếp theo
+next_screen.h	Xác định mã khóa chức năng để điều hướng cho màn hình tiếp theo cho dự án được chọn.
+back	Quay lại
+back.h	Xác định phím chức năng để quay lại màn hình trước.
+toggle_standby	Bật tắt chế độ chờ
+toggle_standby.h	Xác định phím chức năng bật tắt chế độ chờ.
+abort	Hủy
+abort.h	Xác định phím chức năng hủy hỗ trợ màn hình nền.
+restart	Khởi động lại
+restart.h	Xác định phím chức năng khởi động lại hỗ trợ màn hình nền.
+start_pa	Bắt đầu dự án hỗ trợ màn hình nền
+start_pa.h	Xác định phím chức năng bắt đầu dự án đã chọn.
+start_demo	Bắt đầu chế độ Demo
+start_demo.h	Xác định phím chức năng bắt đầu chế độ demo đã chọn.
+start_prac	Bắt đầu chế độ thực hành
+start_prac.h	Xác định phím chức năng bắt đầu chế độ thực hành đã chọn.
+start_test	Bắt đầu chế độ kiểm tra
+start_test.h	Xác định phím chức năng bắt đầu chế độ kiểm tra đã chọn.
+start_concur	Bắt đầu chế độ đồng thời
+start_concur.h	Xác định phím chức năng bắt đầu chế độ đồng thời đã chọn.
+start_book	Bắt đầu cuốn sách
+start_book.h	Xác định phím chức năng bắt đầu cuốn sách đã chọn.
+start_group	Mở trong thư viện
+start_group.h	Xác định mã khóa chức năng để mở nhóm trong thư viện.
+toggle_ctx_rec	Bật tắt cấu hình ngữ cảnh
+toggle_ctx_rec.h	Xác định phím chức năng bật tắt cấu hình ngữ cảnh trong hỗ trợ màn hình nền.
+select_next	Chọn mục nhập tiếp theo
+select_next.h	Xác định mã khóa chức năng chọn mục nhập tiếp theo trong cửa sổ hiện tại.
+select_prev	Chọn màn hình trước
+select_prev.h	Xác định mã khóa chức năng chọn mục nhập trước trong cửa sổ hiện tại.
+toggle_warning	Hiển thị hội thoại cảnh báo
+toggle_warning.h	Xác định phím chức năng bật tắt hội thoại cảnh báo trong hỗ trợ màn hình nền.
+execute_step	Thực hiện bước
+execute_step.h	Xác định phím chức năng thực hiện bước trong khi phát lại mục tham quan có hướng dẫn.
+copy_link	Sao chép liên kết
+copy_link.h	Xác định khóa chức năng để sao chép đường dẫn của thực thể được chọn.
+maximize_trainer	Phóng to cửa sổ nội dung
+maximize_trainer.h	Xác định phím chức năng để phóng to cửa sổ nội dung.
+share_email	Chia sẻ qua email
+share_email.h	Xác định mã khóa chức năng chia sẻ nội dung của thực thể đã chọn qua e-mail.
+start_default	Hiện nội dung mặc định
+start_default.h	Xác định khóa chức năng để bắt đầu chế độ mặc định hoặc tài liệu được chọn.
+show_da_help	Hiện trợ giúp hỗ trợ màn hình nền
+show_da_help.h	Xác định mã khóa chức năng để mở trợ giúp hỗ trợ màn hình nền.
+request_content	Yêu cầu nội dung
+request_content.h	Xác định mã khóa chức năng yêu cầu nội dung cho trang ứng dụng.
+search_content	Tìm kiếm nội dung
+search_content.h	Xác định mã khóa chức năng để tìm kiếm nội dung dựa vào loại tìm kiếm được chọn.
+show_hidden_elems	Hiển thị yếu tố trợ giúp đã ẩn
+show_hidden_elems.h	Xác định mã khóa chức năng hiện yếu tố trợ giúp bị ẩn
+toggle_side_bar	Hiện / ẩn thanh bên
+toggle_side_bar.h	Xác định mã khóa chức năng hiện và ẩn thanh bên.
+content_library	Hỗ trợ màn hình nền - Nội dung và hành vi
+content_library_window	Hỗ trợ màn hình nền - Kiểu và cửa sổ
+content_library_sidebar	Hỗ trợ màn hình nền - Thanh bên
+style	Kiểu
+style.h	Xác định hình dạng thành phần trợ giúp màn hình (cửa sổ chính, cửa sổ nội dung, biểu tượng trạng thái). Lựa chọn nguồn kiểu từ danh sách.
+show_only_bar	Chỉ hiện thanh bên khi khởi động
+show_only_bar.h	Xác định xem chỉ có thanh bên sẽ hiển thị khi khởi động hỗ trợ màn hình nền hay còn có cửa sổ chính.
+clear_on_mismatch	Xóa danh sách nội dung trên mất cân đối nội dung
+clear_on_mismatch.h	Xác định rằng danh sách nội dung được xóa nếu không tìm thấy ngữ cảnh.  Với nội dung thiết lập được khử kích hoạt của đối tượng được nhận dạng cuối được hiển thị.
+da_positioning	Căn chỉnh cửa sổ chính
+da_positioning.h	Xác định căn chỉnh cửa sổ chính trên màn hình. Tùy chọn 'Tự do' cho phép nó xác định vị trí trong tham số 'Vị trí cửa sổ chính'.
+bar_positioning	Canh chỉnh thanh bên
+bar_positioning.h	Xác định canh chỉnh thanh bên trên màn hình.
+left_top	Góc trên cùng bên trái
+left_center	Canh giữa bên trái
+left_bottom	Góc dưới cùng bên trái
+right_top	Góc trên cùng bên phải
+right_center	Canh giữa bên phải
+top_center	Trung tâm hàng đầu
+right_bottom	Góc dưới cùng bên phải
+center	Giữa
+free	Tự do
+list_order	Sắp xếp nội dung
+list_order.h	Xác định sắp xếp nội dung sẵn có trong danh sách.
+by_default	Cấu trúc explorer
+by_name	Theo thứ tự chữ cái
+by_type	Theo thứ tự chữ cái cho mỗi kiểu
+library_position	Vị trí cửa sổ chính (Tự do)
+library_position.h	Xác định vị trí cửa sổ chính (bên trái, trên cùng) cho căn chỉnh 'tự do' trên màn hình. Giá trị được đưa ra theo điểm ảnh.
+search_url	Nhóm tìm kiếm
+search_url.h	Cho phép bạn xác định nhóm vùng làm việc để tìm kiếm nội dung trong @{LIBRARY}.
+enable_recording	Vị trí: Điều khiển 'Ghi'
+enable_recording.h	Cho phép bạn hiển thị kiểm soát để ghi lại quy trình. Bạn có thể định rõ vị trí kiểm soát trong thanh bên.\nViệc ghi lại cho phép người dùng ghi lại các quy trình là tài liệu Microsoft Word hoặc là video. Các tập tin đã ghi lại được hiển thị trong cửa sổ chính trên thẻ Phạm vi người dùng.
+enable_exit_da	Vị trí: Kiểm soát 'Thoát'
+enable_exit_da.h	Cho phép bạn hiển thị kiểm soát để thoát @{NAVIGATOR}. Bạn có thể định rõ vị trí của kiểm soát trong thanh bên.
+enable_info	Hiển thị thẻ 'Thông tin'
+enable_info.h	Bật thẻ 'Thông tin' cho cửa sổ chính của hỗ trợ màn hình nền. Chèn văn bản thông tin trong mô tả ngắn của nhóm hỗ trợ màn hình nền.
+request_content_type	Kiểu yêu cầu nội dung
+request_content_type.h	Định rõ chức năng để yêu cầu nội dung. Chọn kiểu từ danh sách thả xuống. \nE-mail: Cho phép bạn nhập địa chỉ e-mail cho yêu cầu. \nURL: Cho phép bạn nhập URL để mở trang web. \nKiểm soát 'Yêu cầu nội dung' được hiển thị trong thanh bên. Nếu không tìm thấy nội dung thì liên kết 'Yêu cầu nội dung' được hiển thị trong cửa sổ chính.
+email	Thư điện tử
+url	URL
+enable_request_content	Vị trí: Điều khiển 'Yêu cầu nội dung'
+enable_request_content.h	Định rõ vị trí của điều khiển 'Yêu cầu nội dung' trong thanh bên.
+enable_external_search_ctx	Cung cấp thông tin ngữ cảnh
+enable_external_search_ctx.h	Cung cấp thông tin ngữ cảnh bổ sung của người dùng với URL tìm kiếm trong khi tìm kiếm. Thông tin ngữ cảnh sẽ được dùng để tìm kiếm. Kích hoạt thiết lập này nếu tìm kiếm mà bạn chỉ định có thể dùng thông tin ngữ cảnh. \nThông tin ngữ cảnh đã cung cấp được định rõ trong tham số 'Thông tin ngữ cảnh'.
+external_search_ctx	Thông tin ngữ cảnh
+external_search_ctx.h	Định rõ thông tin ngữ cảnh nếu thiết lập 'Cung cấp thông tin ngữ cảnh' đã được kích hoạt. Thông tin ngữ cảnh sau đây có thể được cung cấp: EXE của ứng dụng hiện tại (&executable=$#{EXE}), khóa trang của trang ứng dụng hiện tại (&pagekey=$#{PAGEKEY})\nLưu ý: Không được thay đổi cấu trúc chuỗi thông tin ngữ cảnh.
+enable_external_search	Vị trí: Điều khiển 'Tìm kiếm bên ngoài'
+enable_external_search.h	Cho phép bạn kích hoạt trang tìm kiếm bên ngoài để tìm kiếm nội dung hoặc thông tin thêm. Khi cấu hình này được kích hoạt, điều khiển 'Tìm kiếm bên ngoài' sẽ được hiển thị trong thanh bên. Bạn có thể định rõ vị trí của điều khiển này trong thanh bên. \nNút này mở trường tìm kiếm để nhập thuật ngữ tìm kiếm. Kết quả tìm kiếm được hiển thị trên trang tìm kiếm bên ngoài. Để tìm kiếm bên ngoài, bạn phải định rõ URL tìm kiếm trong tham số 'URL tìm kiếm bên ngoài'.
+external_search_url	URL
+external_search_url.h	Cho phép bạn định rõ URL cho tìm kiếm bên ngoài. Nhập URL theo cấu trúc sau đây:\nhttps://www.google.com/#q=$#{SEARCHTERM}\nhttps://www.bing.com/search?q=$#{SEARCHTERM}\nhttps://search.yahoo.com/search?p=$#{SEARCHTERM}\nhttps://www.wolframalpha.com/input/?i=$#{SEARCHTERM}\n\nLưu ý: Không được xóa hay thay đổi '=$#{SEARCHTERM}' trong tham số URL.
+enable_share_content	Hiện kiểm soát 'Chia sẻ nội dung'
+enable_share_content.h	Hiển thị nút 'Chia sẻ nội dung' trong phần chân trang của cửa sổ chính. Nút mở hộp thoại có liên kết đến nội dung được lựa chọn.
+author_email	Thư điện tử
+author_email.h	Cho phép bạn xác định địa chỉ thư điện tử cho nội dung đang yêu cầu. Địa chỉ thư điện tử này được sử dụng cho chức năng 'Yêu cầu nội dung'.
+author_url	URL
+author_url.h	Cho phép bạn xác định URL cho nội dung đang yêu cầu. URL này được sử dụng cho chức năng 'Yêu cầu nội dung'.
+author_url_params	Tham số URL
+author_url_params.h	Cho phép bạn xác định tham số cho URL tác giả. \nBạn có thể chỉ định tên ứng dụng và cách thực hiện. Thay giá trị 'ứng dụng' hoặc 'cách thực hiện' bằng tên theo yêu cầu.
+enable_fuzzy_match	Kích hoạt so khớp Fuzzy
+enable_fuzzy_match.h	X.đ so khớp mờ có được s.d để khớp với ngữ cảnh của nội dung có trang ứ.dụng hay không.
+enable_ident_filter	Kích hoạt nhận dạng ứng dụng tiên tiến
+enable_ident_filter.h	Xác định rằng chỉ thông tin ứng dụng liên quan mới được sử dụng cho phát lại @{NAVIGATOR}. Điều này cho phép bạn tùy chỉnh hiệu suất của @{NAVIGATOR}.\nGhi chú: Tùy chọn có thể dẫn đến việc nhận dạng đối tượng sai. Nên kiểm tra phát lại trước khi công bố nội dung.
+library_size	Kích cỡ cửa sổ chính
+library_size.h	Xác định kích cỡ (độ rộng, độ cao) của cửa sổ chính theo điểm ảnh.
+book_win_position	Vị trí cửa sổ nội dung (Tự do)
+book_win_position.h	Xác định vị trí cửa sổ nội dung (bên trái, trên cùng) cho căn chỉnh 'tự do' trên màn hình. Giá trị được đưa ra theo điểm ảnh.
+book_win_size	Kích cỡ cửa sổ nội dung
+book_win_size.h	Xác định kích cỡ (chiều rộng, chiều cao) của cửa sổ nội dung theo điểm ảnh.
+book_win_positioning	Canh chỉnh cửa sổ nội dung
+book_win_positioning.h	Xác định căn chỉnh cửa sổ nội dung trên màn hình. Tùy chọn 'Tự do' cho phép bạn xác định vị trí trong tham số 'Vị trí cửa sổ nội dung'.
+errNoApplicationContext	Macro hiện tại không phải ngữ cảnh ứng dụng.
+errNoTargetDefinition	Macro không tương ứng với xác định đích.
+errExtractPagekey	Không thể trích xuất khóa trang với thông tin:
+errScreenshot	Không thể chụp ảnh màn hình. Thử lại.
+errLoadTemplate	Không thể tải thông tin:
+errRecordProcessStep	Không thể ghi lại các bước tham quan có hướng dẫn cho dự án 'trợ giúp ngữ cảnh'.
+errLanguageSelection	Không có ngôn ngữ được chọn.
+errNoWriteToken	Bạn không có quyền ghi đối với đối tượng đã chọn.
+errMacroSelection	Không có macro được chọn.
+errObjectInformation	Không có thông tin đối tượng tại vị trí đã cho.
+errSpecializedInformation	Không có thông tin chuyên môn tại vị trí đã cho.
+errPosition	Vị trí không nằm trong vùng cửa sổ.
+errActionMacroSelection	Không có macro thao tác được chọn.
+errUpdateObject	Không thể cập nhật loại đối tượng được chọn.
+errInsertExplanation	Không thể chèn giải thích tự do cho macro đã chọn.
+action.h	Chỉ tham quan có hướng dẫn\nTùy chọn này xác định hành động mà người dùng được cho là sẽ thực hiện trên đối tượng.
+all_values.h	Trong một số trường hợp đối tượng của ứng uḍng giữ lựa chọn cho giá trị không thể được bao phủ bởi kiểm soát HTML chuẩn. Vậy nên điều khiển được sử dụng gần nhất với đối tượng trong ứng dụng. Trường này còn giữ tất cả giá trị mà đối tượng giữ làm lựa chọn.
+anim_steps.h	Giá trị này xác định trong bao nhiêu bước thì hiệu ứng của vùng nổi bật đã chọn được tạo hiệu ứng. Giá trị thấp sẽ tăng tốc hoạt ảnh nhưng lại tạo cảm giác giật hình. Giá trị cao làm hoạt ảnh mượt hơn nhưng cũng làm chậm tốc độ hoạt ảnh tổng thể.
+auto_execute.h	Thiết lập xác định thao tác sẽ được thực hiện tự động trong khi phát lại điều hướng.
+b_height.h	Xác định độ cao của bóng thoại bằng điểm ảnh. Nếu số lượng văn bản vượt quá không gian sẵn có trong bóng thoại, nó sẽ tự định mức chiều cao đối với không gian yêu cầu.
+b_hide_option.h	Chỉ trợ giúp ngữ cảnh\nKhi kích hoạt tùy chọn này, thiết lập sẽ xuất hiện trong đối tượng hoặc bóng thoại giải thích mà trong đó thông tin của đối tượng (bóng thoại và tô sáng) có thể bị người dùng cuối hủy kích hoạt. Điều này cho phép người dùng ẩn bất kỳ thông tin nào mà họ không cần nữa.
+b_minimizable.h	Tùy chọn này xác định xem có thể thu nhỏ bóng thoại trong khi phát lại không. Khi tùy chọn được kích hoạt nút 'Thu nhỏ' sẽ hiển thị trong tiêu đề bóng thoại.
+b_closable.h	Chỉ trợ giúp ngữ cảnh\nTùy chọn này sẽ xác định xem có thể đóng bóng thoại trong khi phát lại không. Khi tùy chọn được kích hoạt, nút 'Đóng' sẽ hiển thị trong tiêu đề bóng thoại.
+b_minimized.h	Chỉ trợ giúp ngữ cảnh\nTùy chọn này xác định xem bóng thoại đối tượng có được hiển thị thu nhỏ khi tải trang không.
+bmain_size.h	Xác định kích cỡ (độ rộng, độ cao) của cửa sổ chính theo điểm ảnh.
+bmain_minimizable.h	Tùy chọn này xác định xem cửa sổ chính có thể thu nhỏ hay không.
+bmain_position.h	Giá trị đã nhập ở đây xác định vị trí cửa sổ chính trên màn hình. Các số mô tả khoảng cách từ góc trái phía trên của màn hình bằng điểm ảnh.
+bmain_win_style.h	Xác định hình dạng cửa sổ chính. Chọn nguồn kiểu từ danh sách.
+bmain_alignment.h	Xác định căn chỉnh cửa sổ chính trên màn hình. Tùy chọn 'Tự do' cho phép xác định vị trí trong tham số 'Vị trí cửa sổ'.
+bubble_offset.h	T.chọn này x.định kh.trống theo điểm ảnh mà trg đó bóng thoại đ.t đc hiển thị cho đ.tượng.
+bubblestyle_d.h	Xác định nguồn kiểu bóng thoại để hiển thị bóng thoại đối tượng của dự án.
+bubblestyle_d.h	Xác định nguồn kiểu bóng thoại để hiển thị bóng thoại đối tượng của dự án.
+choose_bool.h	Trường này chứa giá trị xác định xem nút radio hoặc ô chọn có bật hoặc tắt không. Giá trị cho nút radio luôn là '1' (bật). Giá trị cho ô chọn có thể là '0' (tắt) hoặc '1' (bật).
+choose_text.h	Tham số này có chứa chuỗi ký tự được tìm thấy cho mục nhập đã chọn trong trình đơn popup hoặc trường danh sách trong quy trình ghi tự động. Chuỗi này được chèn vào văn bản bóng thoại giải thích theo nhiều chế độ thay vì trình giữ chỗ '${choose_text}' (xem chế độ văn bản trong Trình soạn thảo HTML). Nó được dùng làm mô-đun văn bản cho bóng thoại được tạo tự động khi tạo tự động nội dung bóng thoại với mô-đun văn bản khi ghi.
+click_pos.h	Mô tả vị trí trong cửa sổ ứng dụng mà tác giả nhấp vào khi đối tượng được ghi lại. Vị trí được xác định bằng điểm ảnh và tham chiếu với góc trái phía trên nội dung cửa sổ ứng dụng.
+click_pos_rel.h	Mô tả vị trí trong cửa sổ ứng dụng. Giá trị bằng phần trăm (%) cung cấp vị trí liên quan đến độ rộng và độ cao tổng thể của cửa sổ ứng dụng với cạnh trái và cạnh trên như điểm tham chiếu.
+config_file.h	Chứa tên của Thông tin ứng dụng dùng để tạo khóa và để diễn giải khóa sau này.
+display_name.h	Xác định tên ứng dụng. Tên này sẽ được hiển thị trong cửa sổ ngoại lệ của tham quan có hướng dẫn.
+dump_page.h	Chứa màn hình đã ghi nhận. \nBạn có thể thay đổi hình ảnh bằng cách sử dụng chức năng 'Thay ảnh'.
+element_type.h	Mô tả lớp đối tượng được nhận dạng bằng cơ cấu nhận dạng.
+enabled.h	Chỉ trợ giúp ngữ cảnh\nTùy chọn này xác định xem macro có được kết hợp vào trong phân tích trang hay không. Nếu tùy chọn này bị vô hiệu hóa, đối tượng trợ giúp sẽ không được hiển thị ngay cả khi đối tượng liên kết tồn tại trên trang.
+optional.h	Chỉ tham quan có hướng dẫn\nTùy chọn xác định liệu bước tham quan có hướng dẫn có phải là tùy chọn cho người dùng đang xử lý hay không. \nBiểu tượng khác sẽ hiển thị trong danh sách bước trong khi phát lại. Bỏ qua bước nếu kiểm soát không hiển thị trên trang hoặc nếu trang sai.
+executable.h	Chứa tên ứng dụng có thể thi hành như hệ thống hoạt động đã sử dụng.
+explanation_d.h	Chứa thông tin của ngữ cảnh tương ứng (văn bản, liên kết, hình ảnh, v.v.). Xin đảm bảo hiển thị tối ưu thông tin bên trong bóng thoại chính.
+explanation_d_modified.h	Nếu tùy chọn này được kích hoạt, thông tin ngữ cảnh không được tạo tự động trong sự kiện dịch tự động nữa nhưng sẽ được hiệu chỉnh thủ công thay thế. Việc này giúp duy trì thay đổi thủ công đối với nội dung bóng thoại.
+fieldname.h	Chứa tên của điều khiển đã ghi nhận, được chèn vào văn bản bóng thoại. \nBạn có thể thay đổi tên đối tượng trong trường văn bản. Tên đối tượng có giá trị giữ chỗ là '$#{fieldname}'.
+fieldicon.h	Chứa hình ảnh của nút hoặc biểu tượng đã ghi nhận, được chèn vào văn bản bóng thoại. \nBạn có thể thay đổi ảnh đối tượng bằng cách sử dụng chức năng 'Thay ảnh'. Ảnh đối tượng có giá trị giữ chỗ là '$I{fieldicon}'.
+g_highlight_bgr.h	Nó xác định màu chuẩn của đường viền nổi bật trong điều hướng. Màu có thể được nhập trực tiếp như giá trị RGB theo định dạng HEX hoặc được chọn từ bên ngoài hộp thoại Chọn Màu.
+g_highlight_border.h	Tham số này xác định độ dày chung của khung nổi bật đối tượng bằng điểm ảnh. Độ rộng điểm ảnh sẵn có từ '1' đến '10'.
+g_highlight_effect.h	Tùy chọn này xác định loại hiệu ứng làm nổi bật dùng cho đối tượng trong điều hướng.
+hide_on_focuslost.h	Tùy chọn này xác định xem bóng thoại sẽ được ẩn hay không khi tiêu điểm trên màn hình rời đối tượng liên quan.
+highlight_offset.h	Th.số này x.định kh.trống điểm ảnh đã thêm cho hình chữ nhật n.bật x.quanh y.tố đã đ.dấu.
+key.h	Bao gồm tất cả tiêu chí để nhận dạng cửa sổ ứng dụng và một trang cụ thể trong ứng dụng. Khóa này chỉ khớp nếu trang trong ứng dụng đích đáp ứng tất cả tiêu chí đã xác định trong khóa. Để giảm xác định tiêu chuẩn khóa đơn, sử dụng biểu thức chính quy được cho phép.
+key_name.h	Tham số này xác định phím hoặc phím tắt đã sử dụng. Điều này liên quan đến tách tên phím bằng khoảng trắng, ví dụ: 'ctrl + k'.
+key_desc.h	Tham số này xác định phím hoặc phím tắt đã sử dụng. Điều này liên quan đến tách tên phím bằng khoảng trắng, ví dụ: 'ctrl + k'.
+force_display.h	Chỉ trợ giúp ngữ cảnh\nXác định xem nội dung macro có luôn được hiển thị dưới dạng trợ giúp tức thời, ngay cả khi trợ giúp tức thời bị vô hiệu hóa trong khi phát lại hỗ trợ màn hình nền hay không.
+link_to_sim.h	Tùy chọn này sẽ bao gồm liên kết mô phỏng trong bóng thoại chính. Tùy chọn này liên quan đến điều hướng đã được tạo dựa trên dự án mô phỏng (bởi chuyển đổi).
+macro_comment.h	Nhận xét chung. Nó được hiển thị trên màn hình thu nhỏ.
+match_value.h	Tùy chọn này xác định xem giá trị nói đến có được so sánh với giá trị thực của đối tượng trong ứng dụng đang chạy không.
+mini_on_focuslost.h	Tùy chọn này xác định xem bóng thoại có được tối thiểu hóa hay không khi tiêu điểm trên màn hình rời đối tượng liên quan.
+nav_check_freq.h	Xác định tần suất @{NAVIGATOR} kiểm tra nội dung cập nhật. Nếu có sẵn nội dung cập nhật, @{NAVIGATOR} sẽ tự động bắt đầu nội dung. Điều này đặc biệt hữu ích đối với quy trình quản lý thay đổi.
+enable_tincan.h	Kích hoạt theo dõi nội dung @{NAVIGATOR}. Nội dung phải được bắt đầu từ vùng làm việc @{MANAGER}.
+no_spike.h	Tùy chọn này xác định xem bóng thoại đối tượng có được hiển thị với đường bóng thoại hay không.
+objname.h	Mỗi đối tượng trong điều hướng cần một tên duy nhất với mục đích nhận dạng khi sử dụng trạng thái và gán trạng thái.
+orientation.h	Tham số này xác định hướng của bóng thoại đối tượng liên quan đến đối tượng tham chiếu. Mũi tên bóng thoại chỉ về vị trí tham chiếu trên trang, trong khi bản thân bóng thoại được hiển thị khoảng trống về hướng đã chọn như hướng dẫn. Nếu hướng 'Giữa' được chọn, bóng thoại được hiển thị không có mũi tên được canh giữa trên vị trí đã xác định.
+path.h	Đường dẫn đối tượng mô tả đặc tính của đối tượng dựa trên cơ sở thông tin ứng dụng đã dùng. Đường dẫn đối tượng được dùng để nhận dạng đối tượng trong ứng dụng đang chạy. Theo nguyên tắc, bạn không cần chỉnh sửa thủ công trường này.
+position.h	Giá trị đã nhập ở đây xác định vị trí bóng thoại chính trên màn hình. Các số mô tả khoảng cách từ góc trái phía trên của màn hình bằng điểm ảnh.
+reference.h	Nếu điều hướng được chuyển đổi từ mô phỏng, nguồn của bước tương ứng sẽ được xác định tại đây.
+resize.h	Tùy chọn này xác định xem kích cỡ cửa sổ ứng dụng đích có được thay đổi tự động thành kích cỡ đã sử dụng khi điều hướng được tạo không. Việc này có thể hữu ích đối với các vùng hoạt động vì chúng sẽ được hiển thị dựa trên vị trí.
+revision.h	Hiển thị phiên bản thông tin ứng dụng dùng để tạo khóa khi ghi màn hình ứng dụng.
+sc_config_header.h	Thông tin từ thông tin ứng dụng được lưu ở trường này. Điều hướng sử dụng thông tin này để có thể nhận ra đúng ứng dụng và đối tượng của nó trong khi phát lại.
+screenshot_rect.h	Hiển thị vùng màn hình ban đầu được dùng cho ảnh chụp màn hình của đối tượng. Theo nguyên tắc, bạn không cần chỉnh sửa thủ công giá trị này.
+show_bubble.h	Tùy chọn này xác định xem bóng thoại có hiện ngay sau khi tải xong trang không.
+start_from_arbitrary.h	Tùy chọn này xác định có thể khởi động phần tham quan có hướng dẫn từ bước tùy ý và không phải từ lúc bắt đầu quy trình.
+show_hilight.h	Định rõ xem vùng nổi bật có được hiển thị cho đối tượng hay không.
+show_highlight.h	Định rõ xem vùng nổi bật có được hiển thị cho các đối tượng hay không.
+show_on_focus.h	Tùy chọn này xác định xem bóng thoại có được hiển thị không khi tiêu điểm trên màn hình thay đổi cho đối tượng liên quan.
+source.h	Nếu điều hướng được chuyển đổi từ mô phỏng, tham số sẽ xác định bài học ban đầu.
+subkey.h	Trong một số trường hợp điều đó sẽ hữu ích nếu bỏ qua phần nào đó trong phần phím gốc, ví dụ: vì biến thể của trang nào đó không liên quan và sẽ được xử lý tất cả bởi cùng Phím và Bước trong điều hướng. Tùy chọn này buộc cơ chế nhận dạng xem khóa như là phù hợp, ngay cả khi trang có nhiều tiêu chí khóa hơn được báo cáo bởi nhận dạng hơn là được xác định theo khóa. Vì thế khóa trang có thể được làm ngắn lại để bao phủ nhiều hơn một trang có một khóa.
+target_name.h	Chứa tên của cửa sổ ứng dụng.
+text_d.h	Tham số này chứa chuỗi ký tự phải được nhập vào trường nhập tham chiếu. Nó chứa giá trị được nhập trong quy trình ghi tự động. Chuỗi này được chèn vào văn bản bóng thoại giải thích theo nhiều chế độ thay vì trình giữ chỗ '${text_d}' (xem chế độ văn bản trong Trình soạn thảo HTML) khi tự động tạo nội dung bóng thoại với mô-đun văn bản khi ghi.
+text_d_specializer.h	Tham số này chứa chuỗi ký tự phải được nhập vào trường nhập tham chiếu. Nó chứa giá trị được nhập trong quy trình ghi tự động. Chuỗi này được chèn vào văn bản bóng thoại giải thích theo nhiều chế độ thay vì trình giữ chỗ '${text_d}' (xem chế độ văn bản trong Trình soạn thảo HTML) khi tự động tạo nội dung bóng thoại với mô-đun văn bản khi ghi.
+tolerance.h	Giá trị này xác định dung sai mức độ so khớp khi kết hợp macro 'Màn hình'. Thiết lập này liên quan đến chức năng 'Kết hợp Macro màn hình' có thể khởi chạy từ Công cụ -> Trình đơn thay đổi hàng loạt. Tăng giá trị làm tăng ngưỡng dung sai. Xin lưu ý trong trường hợp này, ảnh chụp màn hình cũng có thể được kết hợp, trên các đối tượng khác nhau được hiển thị. Giá trị này được xác định bằng phần trăm.
+uid.h	Bao gồm bộ nhận dạng duy nhất của macro mà theo đó nó được quản lý trong dự án.
+win_rect.h	Xác định kích thước cửa sổ khi tạo dự án.
+explanation_type.h	Tùy chọn này xác định kiểu ghi chú. Tùy vào thiết lập về loại, một biểu đồ bằng hình ảnh sẽ được hiển thị cùng với văn bản để làm nổi văn bản tư vấn.
+app_info.h	Thiết lập này xác định xem ứng dụng có được hiển thị trong trợ giúp ngữ cảnh không. Nếu ứng dụng không được hiển thị, thiết lập sẽ bị hủy kích hoạt.
+app_link_to_sim.h	Tham số này có thể dùng để hiển thị liên kết với mô phỏng đã định trong tham số 'Nguồn' bên cạnh kiểu ngữ cảnh. Các chế độ khác nhau có thể được chọn trong quy trình.
+screen_info.h	Thiết lập này xác định xem ứng dụng có được hiển thị trong trợ giúp ngữ cảnh không. Nếu màn hình không hiển thị, thiết lập sẽ bị hủy kích hoạt.
+screen_link_to_sim.h	Tham số này có thể dùng để hiển thị liên kết với mô phỏng đã định trong tham số 'Nguồn' bên cạnh kiểu ngữ cảnh. Các chế độ khác nhau có thể được chọn trong quy trình.
+object_info.h	Chỉ trợ giúp ngữ cảnh\nThiết lập xác định biến thể cần được hiển thị cho đối tượng.
+open_expanded.h	Nếu kích hoạt tùy chọn này, bóng thoại chính sẽ được hiển thị với trang và danh sách đổi tượng mở.
+display_on.h	Tham số này xác định trường hợp mà bóng thoại chính của điều hướng được hiển thị. Khi bắt đầu điều hướng, xem ứng dụng hoặc xem trang ứng dụng tương ứng.
+area.h	Tham số xác định vị trí và kích thước kiểm soát. Hai số đầu chỉ vị trí đối tượng từ bên trái và cạnh trên của màn hình. Hai số cuối xác định độ rộng và độ cao của đối tượng. Nút kế bên trường nhập mở hộp thoại chỉnh sửa cho phép tùy chỉnh vị trí và kích thước đối tượng.
+form_on.h	Xác định xem bước có phải bmẫu kg. Tất cả t.tác bước đc h.thị trong một b.thoại tkhi plại.
+transition	Bước tham quan có hướng dẫn kế tiếp
+transition_info	Bước tham quan có hướng dẫn kế tiếp
+action_pa	Thao tác
+trans_action	Thao tác
+step_name1	Bước kế tiếp
+step_name2	Bước thay thế 1
+step_name3	Bước thay thế 2
+step_name4	Bước thay thế 3
+LClick	Nhấp chuột trái
+RClick	Nhấp chuột phải
+LDblClick	Nhấp đôi chuột trái
+RDblClick	Nhấp đôi chuột phải
+Focus	Tiêu điểm
+FocusLost	Mất tiêu điểm
+step	Bước tham quan có hướng dẫn
+name	Tên
+end_message	Văn bản
+show_end_window	Cửa sổ kết thúc
+show_end_window.h	Xác định cửa sổ sẽ hiển thị vào cuối phần tham quan có hướng dẫn. Cửa sổ cho phép người dùng đóng phần tham quan có hướng dẫn. Nếu tùy chọn này bị hủy kích hoạt, cửa sổ không hiển thị và phần tham quan có hướng dẫn sẽ tự động đóng.
+trans_action.h	Chỉ phần tham quan có hướng dẫn\nXác định hành động sẽ kích hoạt nhảy đến bước của phần tham quan có hướng dẫn kế tiếp.
+action_pa.h	Thiết lập này xác định hành động của người dùng sẽ kích hoạt nhảy đến bước tham quan có hướng dẫn tiếp theo.
+step_name1.h	Chỉ phần tham quan có hướng dẫn\nXác định bước kế tiếp trong luồng quy trình.
+step_name2.h	Chỉ phần tham quan có hướng dẫn\nXác định bước của phần tham quan có hướng dẫn thay thế, trong trường hợp không thể hiển thị bước của phần tham quan có hướng dẫn định sẵṇ.
+step_name3.h	Chỉ phần tham quan có hướng dẫn\nXác định bước của phần tham quan có hướng dẫn thay thế, trong trường hợp không thể hiển thị bước của phần tham quan có hướng dẫn định sẵn.
+step_name4.h	Chỉ tham quan có hướng dẫn\nXác định bước của phần tham quan có hướng dẫn thay thế, nếu không thể hiển thị bước của phần tham quan có hướng dẫn định sẵn.
+step_on_same_page.h	Chỉ phần tham quan có hướng dẫn\nThiết lập này sẽ được kích hoạt nếu bước của phần tham quan có hướng dẫn kế tiếp nằm trên cùng trang ứng dụng. Điều này sẽ tránh việc nhận dạng trang.
+name.h	Xác định tên bước của phần tham quan có hướng dẫn. Tên được hiển thị trong thiết lập 'Bước tham quan có hướng dẫn kế tiếp' của macro 'Đối tượng' để lựa chọn.
+set_value	Thiết lập giá trị tự động
+set_value.h	Thiết lập xác định xem giá trị của macro có được tự động thiết lập trong khi phát lại điều hướng không.
+end_message	Văn bản
+end_message.h	Bạn có thể nhập văn bản vào hộp văn bản được hiển thị này trong bóng thoại ở cuối quy trình. Hộp văn bản được định sẵn với văn bản mặc định.
+restart_option	Nút khởi động lại
+restart_option.h	Khi tùy chọn này được kích hoạt, một nút sẽ xuất hiện trong bóng thoại mà người dùng có thể sử dụng để lặp lại quy trình. Điều này giúp thực hiện lại quy trình với các mục nhập khác.
+record_end_display	Chỉnh sửa bóng thoại
+end_bubble	Kết thúc quy trình bóng thoại
+bend_position	Vị trí
+bend_position.h	Giá trị đã nhập ở đây sẽ xác định vị trí bóng thoại trên màn hình. Giá trị được xác định bằng điểm ảnh và liên quan đến góc trái phía trên màn hình.
+bend_style	Kiểu
+bend_style.h	Thiết lập này xác định kiểu bóng thoại nào được dùng để hiển thị bóng thoại. Kiểu bóng thoại được xác định bằng Trình soạn thảo kiểu bóng thoại có thể mở từ trình đơn 'Công cụ' -> 'Hiệu chỉnh kiểu bóng thoại'. Kiểu bóng thoại luôn sẵn có cho toàn bộ vùng làm việc.
+bend_width	Độ rộng
+bend_width.h	Điều này xác định độ rộng của bóng thoại được hiển thị bằng điểm ảnh.
+bend_height	Độ cao
+bend_height.h	Điều này xác định độ cao của bóng thoại được hiển thị bằng điểm ảnh.
+process_start_unit	Kiểu tham quan có hướng dẫn
+record_pa_control	Ghi lại bước tham quan có hướng dẫn
+prev_step	Bước trước đó
+next_step	Bước kế tiếp
+disqualifier	Ngoại trừ màn hình
+disqualifier.h	Với 'Bộ định rõ trang', bạn có thể phân biệt giữa các trang ứng dụng tương tự bằng cách sử dụng đối tượng cụ thể. Tùy chọn này xác định xem có nên hiển thị hoặc loại trừ trang ứng dụng được nhận dạng nếu 'Bộ định rõ trang' có sẵn. \nKiểu xem hình nhỏ hiển thị tình trạng tùy chọn: ký hiệu cộng (không loại trừ) hoặc trừ (loại trừ).
+exception_bubble	Xử lý ngoại lệ bóng thoại
+bexp_position	Vị trí
+bexp_position.h	Giá trị đã nhập ở đây sẽ xác định vị trí bóng thoại trên màn hình. Giá trị được xác định bằng điểm ảnh. Bóng thoại sẽ xuất hiện ở góc trái phía trên của màn hình.
+bexp_style	Kiểu
+bexp_style.h	Ở đây bạn có thể chọn kiểu bóng thoại mà bạn muốn sử dụng. Kiểu bóng thoại có thể xác định bằng trình chỉnh sửa kiểu bóng thoại từ trình đơn:  Công cụ -> Chỉnh sửa kiểu bóng thoại.  Kiểu bóng khác nhau thoại luôn sẵn có cho toàn bộ vùng làm việc.
+content_demo	Chế độ demo
+content_demo.h	Với tùy chọn này, chế độ demo của một nhóm sẽ hiện trong hỗ trợ màn hình nền.
+content_practice	Chế độ thực hành
+content_practice.h	Với tùy chọn này, chế độ thực hành của một nhóm sẽ hiện trong hỗ trợ màn hình nền.
+content_test	Chế độ kiểm tra
+content_test.h	Với tùy chọn này, chế độ kiểm tra của một nhóm sẽ hiện trong hỗ trợ màn hình nền.
+content_concurrent	Chế độ đồng thời
+content_concurrent.h	Với tùy chọn này, chế độ đồng thời của một nhóm sẽ hiện trong hỗ trợ màn hình nền.
+content_navi	Điều hướng
+content_navi.h	Với tùy chọn này, chế độ điều hướng của một nhóm sẽ hiện trong hỗ trợ màn hình nền.
+content_documentation	Tài liệu
+content_documentation.h	Với tùy chọn này, tài liệu của một nhóm sẽ hiện trong hỗ trợ màn hình nền.
+content_externals	Tập tin bên ngoài
+content_externals.h	Với tùy chọn này, tập tin bên ngoài của một nhóm sẽ hiện trong hỗ trợ màn hình nền.
+navi_style	Kiểu
+navi_style.h	Xác định hình dạng cửa sổ điều hướng. Chọn nguồn kiểu từ danh sách.
+menu_path:/record	Ghi
+F1HELPNAME	trợ giúp
+alignment	Canh chỉnh bóng thoại
+alignment.h	Định rõ canh chỉnh cửa sổ bóng thoại trên màn hình. Tùy chọn 'Tự do' cho phép bạn xác định vị trí trong tham số 'Vị trí bóng thoại'.
+bform_alignment	Canh chỉnh
+bform_alignment.h	Xác định canh chỉnh cửa sổ bóng thoại biểu mẫu trên màn hình. Tùy chọn 'Tự do' cho phép bạn xác định vị trí trong tham số 'Vị trí bóng thoại biểu mẫu'.
+gloss_bubble	Bóng thoại thuật ngữ
+gloss_bubble_style	Kiểu
+gloss_bubble_style.h	Xác định hình dạng bóng thoại thuật ngữ. Chọn nguồn kiểu từ danh sách.
+ellipse	Tròn
+gloss_bubble_size	Kích cỡ
+gloss_bubble_size.h	Xác định kích cỡ (chiều rộng, chiều cao) bóng thoại thuật ngữ bằng điểm ảnh.
+Navi	Hỗ trợ màn hình nền
+exclude_from_da	Loại trừ khỏi hỗ trợ màn hình nền
+exclude_from_da.h	Định rõ khóa trang sẽ không được xem xét về việc nhận dạng ngữ cảnh của hỗ trợ màn hình nền.
+all_as_descr	Sử dụng văn bản từ
+all_as_descr.h	Xác định kiểu văn bản cho @{NAVIGATOR}. Mặc định là 'Mô tả ngắn'.
+consider_roles	Xem xét vai trò
+consider_roles.h	Kích hoạt việc sử dụng vai trò để hiển thị nội dung trong khi phát lại.
+consider_categories	Xem xét danh mục nội dung
+consider_categories.h	Kích hoạt việc sử dụng danh mục nội dung để sắp xếp nội dung trong cửa sổ chính của @{NAVIGATOR}.
+disable_ca_in_pa	Ẩn trợ giúp tức thời trong mục tham quan có hướng dẫn
+disable_ca_in_pa.h	Xác định liệu tất cả thông tin trợ giúp tức thì có được ẩn trong khi phát lại phần tham quan có hướng dẫn hay không. Ngay khi kết thúc phần tham quan có hướng dẫn, trợ giúp tức thì sẽ lại hiển thị.
+full_desc	Mô tả
+shrt_desc	Mô tả ngắn
+wrong_position	Lỗi vị trí
+help	Trợ giúp
+warning	Cảnh báo
+maintenance	Duy trì
+update	Cập nhật
+new	Mới
+training	Huấn luyện
+attachment	Phần đính kèm
+link	Liên kết
+tip	Gợi ý
+note	Ghi chú
+compliance	Tuân thủ
+mini_bubble_style	Kiểu các biểu tượng nhỏ
+mini_bubble_style.h	Xác định tài nguyên kiểu cho biểu tượng nhỏ được sử dụng cho đối tượng. Biểu tượng nhỏ là loại tài nguyên của tài nguyên phù hợp. \nBiểu tượng có thể được thiết lập trong mỗi macro hành động và giải thích bằng cách sử dụng tham số 'Kiểu biểu tượng nhỏ' trong phần 'Nâng cao'.
+mini_bubble	Kiểu biểu tượng nhỏ
+mini_bubble.h	Chỉ trợ giúp ngữ cảnh\nXác định kiểu biểu tượng nhỏ của đối tượng. Biểu tượng dựa trên 'Kiểu biểu tượng nhỏ' đã xác định của macro 'Kiểu'.
+NavRecMouseWheel	Sử dụng nút cuộn chuột để tiếp tục. Nhấn ESC để hoàn tất cuộn chuột.
+search_type	Kiểu tìm kiếm
+none	Không có
+search_in_lib	Trong @{LIBRARY}
+search_in_da	Nhóm hỗ trợ màn hình nền
+search_type.h	Định rõ chức năng để tìm kiếm nội dung. Chọn một kiểu từ danh sách thả xuống. \nKhông có: Hủy kích hoạt chức năng tìm kiếm. \nTrong @{LIBRARY}: Mở @{LIBRARY} để tìm kiếm trong nội dung @{LIBRARY}. \nTrong nhóm hỗ trợ màn hình nền: Hiển thị thẻ 'Tìm kiếm' trong cửa sổ chính để tìm kiếm trong nội dung hỗ trợ màn hình nền.
+errObjectUpdate	Không thể cập nhật đối tượng. Cập nhật đối tượng có kiểu tương tự.
+config_headers_differ1	Thông tin hồ sơ đã quá hạn. Nhấp vào 'Tiếp tục' để cập nhật dự án.
+config_headers_differ2	Đề nghị tạo bản lưu trữ trước khi cập nhật.
+default_start_mode	Nội dung bắt đầu mặc định
+default_start_mode.h	Xác định chế độ hoặc định dạng tài liệu sẽ đc b.đầu theo mặc định từ d.sách n.dung.
+default_start_doc	Tài liệu khởi động mặc định
+default_start_doc.h	Xác định loại văn bản, nếu tài liệu đc th.lập trong th.lập 'Nội dung bắt đầu m.định'.
+show_next_btn	Nút tiếp theo
+show_next_btn.h	Chỉ tham quan có hướng dẫn\nXác định xem nút 'Đến bước kế tiếp' có được hiển thị trong bóng thoại đối tượng hay không.
+condition	Điều kiện
+condition.h	Trong lúc phát lại, giá trị do người dùng nhập phải khớp với điều kiện, để chuyển sang bước tiếp theo hoặc nhảy đến bước cụ thể. \nChọn 'Hiệu chỉnh điều kiện' để tạo hoặc hiệu chỉnh điều kiện.
+errDuplicateContext	Ứng dụng này đã được ghi.
+add_sticky_notes	Vị trí: Điều khiển 'Thêm ghi chú'
+add_sticky_notes.h	Cho phép bạn hiển thị điều khiển thêm ghi chú vào trang. Bạn có thể chỉ định vị trí của điều khiển này trong thanh bên.
+show_instant_help_btn	Vị trí: Điều khiển 'Trợ giúp tức thời'
+show_instant_help_btn.h	Cho phép bạn hiển thị điều khiển để kích hoạt hỗ trợ tức thời. Bạn có thể định rõ vị trí của điều khiển này trong thanh bên.
+show_carousel	Hiện carousel
+show_carousel.h	Tùy chọn này hiện hỗ trợ màn hình nền ở chế độ xoay vòng.
+condition_pattern	Mẫu điều kiện
+condition_pattern.h	Xác định mẫu sử dụng cho điều kiện.
+condition_value	Giá trị điều kiện
+condition_value.h	Chứa giá trị sử dụng cho điều kiện. Nhập văn bản hoặc chữ số dựa trên mẫu đc chọn.
+condition_jump_target	Đích nhảy đến
+condition_jump_target.h	Chỉ tham quan có hướng dẫn\nXác định đích nhảy cho điều kiện. Chọn bước từ danh sách thả. Điều hướng sẽ nhảy đến bước cụ thể nếu điều kiện trùng khớp.
+condition_text	Văn bản điều kiện
+condition_text.h	Chứa văn bản sẽ được hiển thị, nếu điều kiện không được đáp ứng.
+condition_case_sensitive	Phân biệt chữ hoa/thường
+condition_case_sensitive.h	Xác định, rằng điều kiện là phân biệt chữ hoa/thường
+condition_ignore_on_load	Bỏ qua trên tải trang
+condition_ignore_on_load.h	Chỉ trợ giúp ngữ cảnh\nChỉ định điều kiện không được chọn khi tải trang. Điều kiện được chọn khi dùng phím điều khiển tương ứng. Việc này sẽ ngăn hiển thị trực tiếp bóng thoại điều kiện.
+c_equals	bằng
+c_not_equals	Không bằng
+c_greater	lớn hơn
+c_greater_equals	lớn hơn hoặc bằng
+c_less	nhỏ hơn
+c_less_equals	nhỏ hơn hoặc bằng
+c_min_char	Số ký tự tối thiểu
+c_max_char	Số ký tự tối đa
+c_num_char	Số ký tự bằng
+c_reg_exp	Biểu thức chính quy
+vertical	Theo hàng dọc
+horizontal	Theo hàng ngang
+AutoBarReady	Nhàn rỗi
+AutoBarExplanation	Chèn giải thích
+AutoBarChooseApp	Chọn ứng dụng
+AutoBarRecord	Ghi
+AutoBarBusy	Bận
+AutoBarPause	Tạm ngừng
+AutoBarReRecManualHotspot	Hiệu chỉnh kiểm soát: Nhấn Ctrl + Enter để tiếp tục thay đổi. Nhấn Esc để hủy thay đổi.
+wizAddExplanation	Thêm giải thích
+AutoBarNoRecognition	Không nhận diện được điều khiển
+AutoBarDiagnosis	Chẩn đoán
+condition_bubblestyle	Kiểu bóng thoại
+condition_bubblestyle.h	Xác định nguồn kiểu bóng thoại sẽ được dùng để hiển thị văn bản điều kiện.
+condition_highlight_bgr	Màu nổi bật
+condition_highlight_bgr.h	Xác định màu nổi bật cho điều khiển.
+IDS_MPI_TOURSTOP_LABEL	Tên
+IDS_MPI_TOURSTOP_LABEL_MODIFIED	Dịch thủ công
+IDS_MPI_TOURSTOP_NAME	UID
+IDS_MPI_TOURSTOP_SHOW	Hiển thị trong hiển thị tiến độ
+IDS_MPI_TOURSTOP_JUMP	Đích nhảy đến
+IDS_MPI_TOURSTOP_CALLABLE	Là chương trình con
+basic_info	Đặc tính cơ bản
+IDS_NO_IMAGE_SELECT	Không hình ảnh nào được chọn
+IDS_NO_IMAGE	Không tìm thấy hình ảnh
+ID_INSERT_TAKE	Thêm bước
+ID_PRJ_LAYOUT_HORZ	Bố cục theo chiều ngang
+ID_PRJ_LAYOUT_VERT	Bố cục theo chiều dọc
+ID_PRJ_LAYOUT_DIV	Bố cục được phân chia - 1
+ID_PRJ_LAYOUT_4	Bố cục được phân chia - 2
+ID_PRJ_LAYOUT_5	Bố cục được phân chia - 3
+IDS_UNTITLED	(không có tiêu đề)
+docTableHeaderStep	Bước
+layout_advanced	Bố cục nâng cao
+showEditorHelp	Hiển thị trợ giúp trình soạn thảo web
+slide:insert_tb	Chèn
+slide:action_tb	Hành động
+slide:structure_tb	Cấu trúc
+slide:view_tb	Màn hình
+existing_scrs_in_prj	Màn hình hiện tại đã tồn tại nhiều hơn một lần trong dự án của bạn. \nChọn màn hình mà bạn muốn thêm đối tượng được ghi lại vào.
+start_topic	Khởi động
+guided_tour	Chuyến đi được hướng dẫn
+context_help	Trợ giúp ngữ cảnh
+off	Tắt
+main_bar_1	Thanh chính 1
+main_bar_2	Thanh chính 2
+main_bar_3	Thanh chính 3
+main_bar_4	Thanh chính 4
+main_bar_5	Thanh chính 5
+main_bar_6	Thanh chính 6
+main_bar_7	Thanh chính 7
+main_bar_8	Thanh chính 8
+sub_menu_1	Trình đơn phụ 1
+sub_menu_2	Trình đơn phụ 2
+sub_menu_3	Trình đơn phụ 3
+sub_menu_4	Trình đơn phụ 4
+sub_menu_5	Trình đơn phụ 5
+sub_menu_6	Trình đơn phụ 6
+content_btn	Vị trí: Điều khiển 'Nội dung'
+content_btn.h	Định rõ vị trí của điều khiển 'Nội dung' trong thanh bên.
+search_btn	Vị trí: Điều khiển 'Tìm kiếm'
+search_btn.h	Định rõ vị trí của điều khiển 'Tìm kiếm' trong thanh bên.
+orCenter	Giữa
+orNorth	Bắc
+orWest	Tây
+orNortWest	Tây Bắc
+orEast	Đông
+orNortEast	Đông Bắc
+orSouth	Nam
+orSouthWest	Tây Nam
+orSoutEast	Đông Nam
+screen_tolerence	Khác biệt màn hình cho phép (%)
+screen_tolerence.h	Tham số này xác định so khớp đồ họa cần thiết giữa trang màn hình hiển thị và ảnh chụp màn hình được ghi lại bằng phần trăm để hiển thị thông tin ngữ cảnh liên kết. Nếu khác biệt đồ họa nằm trên mức giá trị đã xác định, @{NAVIGATOR} sẽ so sánh khóa trang đã ghi với trang màn hình và hiển thị nội dung thích hợp cho trang ứng dụng khác nhau.
+video_folder	Thư mục bản ghi video
+video_folder.h	Định rõ thư mục để lưu trữ bản ghi video. \nLưu ý: Bản ghi khôngđược lưu trữ trong thư mục bộ đệm của @{NAVIGATOR} vì kích thước tập tin của chúng.
+allow_video_rec	Cho phép ghi lại video
+allow_video_rec.h	Cho phép người dùng ghi lại nội dung video.
+hide_da_on_web_assistant	Ẩn @{NAVIGATOR} về việc chạy @{XRAY}
+hide_da_on_web_assistant.h	Xác định rằng @{NAVIGATOR} cửa sổ được ẩn khi @{XRAY} đang chạy trên tiền cảnh.
+show_web_assistant_msg	Hiển thị @{XRAY} thông báo
+show_web_assistant_msg.h	Xác định rằng thông báo được hiển thị khi @{XRAY} đang chạy trong tiền cảnh hoặc thoát khỏi chế độ tiền cảnh.
+auto_hide	Ẩn sau hoạt ảnh
+auto_hide.h	Nếu bật tùy chọn này, vùng nổi bật sẽ tự động ẩn lại ngay sau khi hoạt ảnh kết thúc.
+bmain_height	Độ cao
+bmain_height.h	Xác định độ cao của bóng thoại chính bằng điểm ảnh. Nếu số lượng văn bản vượt quá không gian sẵn có trong bóng thoại, nó sẽ tự định mức chiều cao đối với không gian yêu cầu.
+bmain_style	Kiểu
+bmain_style.h	Thiết lập này xác định kiểu bóng thoại được sử dụng để hiển thị bóng thoại chính. Loại bóng thoại được xác định bằng 'Trình chỉnh sửa loại bóng thoại' có thể được khởi động từ trình đơn 'Công cụ' -> 'Chỉnh sửa loại bóng thoại'. Luôn có sẵn các loại bóng thoại cho toàn bộ vùng làm việc.
+bmain_width	Độ rộng
+bmain_width.h	Xác định độ rộng của bóng thoại chính bằng điểm ảnh.
+bottom_dock	Cắt bớt dưới cùng
+cache_stale_interval	Khoảng thời gian vùng nhớ đệm (phút)
+cache_stale_interval.h	Kích hoạt sử dụng @{NAVIGATOR} vùng nhớ đệm và xác định khung thời gian để cập nhật nội dung trong thư mục vùng nhớ đệm. Giá trị xác định bằng phút. \nĐể khử kích hoạt vùng nhớ đệm, thay đổi giá trị thành '0'.
+centered	Giữa
+close_details	Đóng cửa sổ nội dung
+close_details.h	Xác định phím chức năng đóng cửa sổ nội dung cho dự án đã chọn.
+confirmation_hotkey	Phím nóng xác nhận bước
+confirmation_hotkey.h	Xác định phím nóng để xác nhận các bước trong khi phát lại trợ giúp quy trình.
+detail_positioning	Căn chỉnh cửa sổ nội dung
+detail_positioning.h	Xác định căn chỉnh cửa sổ chính trên màn hình. Ngoại trừ căn chỉnh "Chính giữa' ra thì cửa sổ nội dung sẽ được cắt bớt đối với cửa sổ chính.
+detail_size	Kích cỡ cửa sổ nội dung
+detail_size.h	Xác định kích cỡ (độ rộng, độ cao) cửa sổ nội dung theo điểm ảnh.
+enable_search	Kích hoạt Tab tìm kiếm
+enable_search.h	Kích hoạt chức năng tìm kiếm trong nội dung hỗ trợ màn hình nền
+h_dock	Đã neo theo hàng ngang
+icon_position	Vị trí biểu tượng
+icon_position.h	Giá trị đã nhập ở đây sẽ xác định vị trí biểu tượng trên màn hình. Giá trị được xác định bằng điểm ảnh. Biểu tượng sẽ xuất hiện ở góc trái phía trên của màn hình.
+leaves_page	Rời màn hình
+leaves_page.h	Tùy chọn này cho điều hướng biết hành động yêu cầu cho đối tượng này dẫn đến tải trang mới. Tiến hành phân tích trang mới ngay khi thực hiện thao tác trên đối tượng và hoàn tất tải trang.
+left_dock	Cắt bớt bên trái
+library_height	Độ cao bóng thoại
+library_height.h	Nó xác định độ cao của bóng thoại bằng điểm ảnh.
+library_width	Độ rộng bóng thoại
+library_width.h	Nó xác định độ rộng của bóng thoại bằng điểm ảnh.
+maximize_details	Thu nhỏ cửa sổ nội dung
+maximize_details.h	Xác định phím chức năng thu nhỏ cửa sổ nội dung.
+next_doc	Chọn tài liệu mới
+next_doc.h	Xác định phím chức năng chọn tài liệu mới trong cửa sổ nội dung.
+next_project	Chọn dự án mới
+next_project.h	Xác định phím chức năng chọn dự án mới trong cửa sổ chính.
+open_content	Mở nội dung
+open_content.h	Xác định mã khóa chức năng để mở dự án nội dung đã chọn.
+open_details	Mở cửa sổ nội dung
+open_details.h	Xác định phím chức năng mở cửa sổ nội dung cho dự án đã chọn.
+prev_doc	Chọn tài liệu trước
+prev_doc.h	Xác định phím chức năng chọn tài liệu trước trong cửa sổ nội dung.
+prev_project	Chọn dự án trước
+prev_project.h	Xác định phím chức năng chọn dự án trước trong cửa sổ nội chính.
+right_dock	Cắt bớt bên phải
+show_execute	Hiển thị nút thực hiện
+show_execute.h	Xác định xem nút thực hiện có hiển thị trong bóng thoại đối tượng trong khi phát lại không. Nút cho phép người dùng thực hiện thao tác trong ứng dụng và sau đó hiển thị bước kế tiếp.
+show_icon_on_start	Hiển thị biểu tượng trạng thái khi bắt đầu
+show_icon_on_start.h	Xác định bắt đầu hỗ trợ màn hình nền, nếu biểu tượng trạng thái sẽ được hiển thị thay cho cửa sổ chính.
+start_doc	Mở tài liệu
+start_doc.h	Xác định phím chức năng mở tài liệu đã chọn từ cửa sổ nội dung.
+step_on_same_page	Bước trên cùng trang
+top_dock	Cắt bớt trên cùng
+v_dock	Đã neo theo hàng dọc

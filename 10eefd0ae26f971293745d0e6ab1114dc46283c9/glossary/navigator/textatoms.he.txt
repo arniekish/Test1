@@ -1,0 +1,312 @@
+﻿#	אטומי טקסט באנגלית
+BULLET	&#149;
+TOK_COMPANY	SAP
+TOK_LIB	קורס
+TOK_TOUR	שיעור
+TOK_TRAINER	Desktop Assistant
+TOK_AUTOMATION	epo
+NAVIGATOR	Desktop Assistant
+NAV_LIBRARY	library
+BTN_ABORT	צא
+BTN_CLOSE	צא
+BTN_OK	OK
+BTN_CLOSE_DLG	סגור
+BTN_CONTINUE	המשך
+BTN_PREVIEW	תצוגה מקדימה
+BTN_PROCEED	המשך
+BTN_RESTART	אתחל
+BTN_SKIP	דלג על שלב
+BTN_START	התחל
+BTN_STOP	הפסק
+BTN_EXECUTE	בצע
+CA_SWITCH	עזרת הקשר
+CONTENT_CAP	תוכן
+MAIL_SUBJECT	בקשת תוכן עבור סייע של שולחן עבודה
+MAIL_HEADER	מחבר יקר,\n\nאני מבקש תוכן עבור:
+MAIL_FOOTER	- תהליך/טרנזקציה: תאר את תהליך היישום שנמצא בשימוש כעת. \n\n- תיאור: תאר את המידע לו אתה זקוק. \n\n בברכה,
+MAIL_DATA	- שם יישום:
+MAIL_TOOLTIP	בקש תוכן
+SHARE_TOOLTIP	שתף תוכן
+REQUEST_TEXT	לחץ על %s כדי לבקש תוכן
+REQUEST_LINK	כאן
+SEARCH_CAP	חפש
+INFO_CAP	מידע
+SETTINGS_CAP	הגדרות
+BACK_TOOLTIP	חזור
+SHARE_CONTENT_TOOLTIP	שתף תוכן
+CB_HIDE_OPTION	אל תציג שוב
+MY_ROLES	התפקידים שלי
+EDIT_ROLES	שנה תפקידים
+NO_ROLES	הצג תוכן ללא תפקידים
+SELECT_ALL_CAPTION	בחר הכול
+USER_CAPTION	אזור משתמש
+READ_MORE	קרא עוד...
+NO_CATEGORY_CAPTION	תוכן אחר
+DELETE_FAILED	פעולת מחיקה נכשלה.
+RENAME_FAILED	שינוי שם פעולה נכשל.
+FILE_EXISTS	כבר קיים קובץ בשם זהה. הזן שם שונה.
+LBL_YES	כן
+LBL_DELETE	מחק
+LBL_NO	לא
+LBL_OK	Ok
+DELETE_DLG_TEXT	האם אתה בטוח שברצונך למחוק את המסמכים שנבחרו (%N)?
+LBL_CONCURRENT	התחל מצב מקביל
+LBL_DA	סייע שולחן עבודה
+LBL_SIM	התחל הדמיה
+LBL_CDOC	פתוח
+LBL_DEMO	התחל מצב הדגמה
+LBL_NAVI	התחל סיור מודרך
+LBL_BOOK	הפעל ספר
+LBL_GROUP	פתח בספרייה
+LBL_NAVIGATION	סייע שולחן עבודה
+LBL_PA	סיור מודרך
+LBL_PRACTICE	התחל מצב תרגול
+LBL_SIMULATION	הדמיה
+LBL_BOOKPAGE	הצג דף ספר
+LBL_TEST	התחל מצב בדיקה
+LBL_RECORD_DOCUMENT	מסמך רשומה
+MSG_AUTOMATION_FINISHED	אוטומציה הסתיימה
+MSG_AUTOMATION_FINISHED_2	לחץ על 'אתחל' כדי להתחיל את התהליך האוטומטי שוב.
+MSG_AUTOMATION_START	ערוך ערכי קלט
+MSG_AUTOMATION_START_2	בדוק או ערוך את הערכים הבאים. הם יוזנו אוטומטית במהלך התהליך.
+MSG_EPO_DIALOG	ממטב תהליך אלקטרוני
+MSG_NAVI_LIBRARY_NO_APP	אין מידע נוסף זמין.
+LBL_NAVI_NO_MATCH	החיפוש שלך לא החזיר תוצאות.
+NO_RECORDS	אין מסמכים זמינים.
+MSG_NAVI_LIBRARY_SUBTITLE	תוכן זמין:
+MSG_NAVI_LIBRARY_TITLE	סייע שולחן עבודה
+MSG_NOT_APPLICABLE	לא ניתן לעריכה
+MSG_PA_CONTROL_STEP	פעולה נדרשת עבור השלב:
+MSG_PA_EXPLANATION_STEP	נווט אל המסך שמוצג למטה.
+MSG_PA_FORM_STEP	שדות נדרשים למילוי בטופס:
+MSG_PA_DIALOG	סיור מודרך
+MSG_PA_START_SCREEN	פתח את מסך הפתיחה.
+MSG_PA_STEP_NOT_FOUND	עבור למסך הנדרש
+MSG_PA_STEP_NOT_FOUND1	ודא שיישום היעד (@{TARGETAPPNAME}) פתוח.
+MSG_PA_STEP_NOT_FOUND2	נווט למסך עם הבקרה המודגשת שמוצג למטה.
+MSG_STEP_LIGHT	תצוגה מקדימה של שלב
+MSG_STEP_NOT_FOUND	שלב בסיור מודרך לא נמצא.
+MSG_STEP_NOT_FOUND_2	לחץ בפס הכותרת של יישום היעד או נווט למסך הנכון.<br><br>לחץ על 'תצוגה מקדימה' כדי לראות את המסך הנדרש.
+PA_FINISHED	סיור מודרך הסתיים.
+PROJECT_TITLE	כותרת פרויקט
+TRAY_INFO_BUBBLE_HEADING	סיור מודרך
+TRAY_INFO_BUBBLE_TEXT	לא ניתן להציג את השלב הנוכחי. לחץ כאן כדי לקבל מידע נוסף.
+RESTRICTED_BUBBLE_HEADING	פעולה חסומה
+RESTRICTED_BUBBLE_TEXT	לא ניתן לבצע פעולות עד שהשלב הנוכחי יאושר.
+HELP_TITLE	עזרה
+HELP_INTRO	העזרה מספקת לך סקירה על הפונקציות והחלקים העיקריים של @{NAVIGATOR}.</br></br><b>שים לב:</b> הפונקציות הזמינות תלויות בתצורה של @{NAVIGATOR}.</br>
+HELP_TITLE_DA	חלונות וסרגל צידי
+HELP_SIDEBAR_T	סרגל צידי
+HELP_SIDEBAR_H	סרגל הצד מאפשר הפעלת הפונקציות העיקריות של @{NAVIGATOR}. כל פונקציה מיוצגת על-ידי לחצן. ניתן להעביר את סרגל הצד ממקום למקום באמצעות פעולה 'גרור ושחרר' וניתן להקטינו ולהגדילו על-ידי לחיצה על גבול הסרגל הצידי.
+HELP_CONTENT_CONTROL_T	תוכן
+HELP_CONTENT_CONTROL_H	מציין אם התוכן זמין. פותח את החלון הראשי עם התוכן.
+HELP_SEARCH_CONTROL_T	חפש
+HELP_SEARCH_CONTROL_H	פותח את החיפוש לצורך חיפוש תוכן.
+HELP_EXTSEARCH_CONTROL_T	חיפוש חיצוני
+HELP_EXTSEARCH_CONTROL_H	פותח את החיפוש החיצוני עבור חיפוש תוכן.
+HELP_STICKY_CONTROL_T	הוסף פתק נדבק
+HELP_STICKY_CONTROL_H	מכניס פתק נדבק לחלון היישום הנוכחי. באפשרותך להזין טקסט לפתק הנדבק.
+HELP_RECORDING_CONTROL_T	התחל הקלטה
+HELP_RECORDING_CONTROL_H	מתחיל את הרישום של תהליך. התהליך שנרשם יישמר כמסמך באזור המשתמש.
+HELP_MAIN_WINDOW_T	חלון ראשי
+HELP_MAIN_WINDOW_H	החלון הראשי מציג את התכנים הזמינים עבור הקשר דף מסוים.</br>במהלך ניגון הקלטה של סיור מודרך, החלון מציג את רשימת השלבים.
+HELP_HEADER_T	כותרת עליונה
+HELP_HEADER_H	סמל הסטאטוס בכותרת העליונה מציין אם התוכן זמין עבור ההקשר הנוכחי.
+HELP_CONTENT_TAB_T	לשונית תוכן
+HELP_CONTENT_TAB_H	הלשוניות מציגות את התוכן הזמין עבור היישום הנוכחי.
+HELP_CONTENT_VIEW_T	תצוגת תוכן
+HELP_CONTENT_VIEW_H	תצוגת התוכן מציגה את המידע, המצבים והתיעוד הזמינים עבור התוכן שנבחר.</br>ניתן להשתמש בבקרה 'הקודם' כדי לחזור לרשימת התכנים.
+HELP_SEARCH_TAB_T	לשונית חיפוש
+HELP_SEARCH_TAB_H	בלשונית תוכל לחפש תוכן מסוים עבור ההקשר הנוכחי שלך.
+HELP_INFO_TAB_T	לשונית מידע
+HELP_INFO_TAB_H	הלשונית מציגה מידע כללי על אודות @{NAVIGATOR}.
+HELP_USERAREA_TAB_T	לשונית אזור משתמש.
+HELP_USERAREA_TAB_H	הלשונית מכילה את מסמכי התהליך שנרשמו. באפשרותך לפתוח, לשתף או למחוק מסמך. באפשרותך לבצע רישום של תהליכים נוספים.
+HELP_INSTANT_T	עזרה מיידית
+HELP_INSTANT_H	באמצעות ההגדרה המופעלת, מידע הקשר נוסף מוצג ישירות במסך היישום הנוכחי. ההגדרה מופעלת בברירת מחדל.
+HELP_REQCONTENT_T	בקש תוכן
+HELP_REQCONTENT_H	פותח חלון דוא"ל עבור בקשות לתוכן חסר מהמחבר.
+HELP_SETTINGS_T	הגדרות
+HELP_SETTINGS_H	התצוגה מכילה הגדרות להצגת התוכן של @{NAVIGATOR} .
+HELP_MYROLES_T	התפקידים שלי
+HELP_MYROLES_H	הגדרה זו מציגה תוכן עבור התפקיד שהוקצה.
+HELP_WITHOUTROLES_T	הצג תוכן ללא תפקידים
+HELP_WITHOUTROLES_H	הגדרה זו מציגה תוכן ללא תפקידים מוקצים.
+HELP_EDITROLES_T	תפקידים
+HELP_EDITROLES_H	כל התפקידים המשמשים את התוכן רשומים וניתנים להפעלה או להשבתה לצורך הצגת התוכן.
+HELP_SHARECONTENT_T	שתף תוכן
+HELP_SHARECONTENT_H	פותח תיבת דיאלוג עם הקישור לתוכן. ניתן לשתף את הקישור עם משתמשים אחרים.
+HELP_REQUESTCONTENT_T	בקש תוכן
+HELP_REQUESTCONTENT_H	פותח הודעת דוא"ל מוגדרת מראש לבקשת תוכן עבור מקרה ספציפי
+HELP_PLAYBACK_CONTENT_T	תוכן ניגון הקלטה
+HELP_PLAYBACK_CONTENT_H	ניתן להפעיל או לפתוח את התוכן הזמין באמצעות הלחצנים בחלון התוכן.
+HELP_MINIMIZED_STATUS_T	סטאטוס ממוזער
+HELP_MINIMIZED_STATUS_H	במקרה של סגירת החלון הראשי, סמל סטאטוס צף עדיין יציין אם יש תוכן זמין עבור ההקשר הנוכחי. לחץ על הסמל כדי לשחזר את החלון הראשי.
+HELP_MINIMIZED_MENU_T	תפריט לחצן ימני
+HELP_MINIMIZED_MENU_H	תפריט הלחצן הימני (לחיצת לחצן ימני בעכבר על הסמל) כולל פונקציות להצגת החלון העיקרי ועזרת ההקשר.
+HELP_BOOK_WINDOW_T	חלון ספר
+HELP_BOOK_WINDOW_H	חלון הספר נפתח כשמנגנים הקלטת ספר. החלון הראשי וחלון התוכן מוסתרים.
+HELP_GOTOTOP	עבור לקצה עליון
+HELP_CAPTION	@{NAVIGATOR} עזרה
+NAVHELP_TITLE	סמל סטאטוס ותפריט הקשר
+NAVHELP_INTRO	</br>העזרה מספקת לך סקירה על סמל הסטאטוס והזנות תפריט הקשר.
+NAVHELP_STATUS_ICON_T	סמל סטאטוס (סרגל משימות)
+NAVHELP_STATUS_ICON_H	סמל הסטאטוס ממוקם בסרגל המשימות ומציג את הפעילויות הנוכחיות של ה-@{NAVIGATOR}. אלה הסטאטוסים:
+NAVHELP_STATUS_FOUND_T	תוכן זמין (סמל ירוק)
+NAVHELP_STATUS_FOUND_H	התוכן זמין עבור ההקשר הנוכחי ומוצג.
+NAVHELP_STATUS_CHECK_T	טוען תוכן (סמל צהוב)
+NAVHELP_STATUS_CHECK_H	@{NAVIGATOR} בודק את ההקשר הנוכחי עבור תוכן זמיןוטוען את התוכן.
+NAVHELP_STATUS_NOFOUND_T	אין תוכן זמין (סמל אדום)
+NAVHELP_STATUS_NOFOUND_H	התוכן לא זמין עבור ההקשר הנוכחי.
+NAVHELP_STANDBY_T	מושבת
+NAVHELP_STANDBY_H	@{NAVIGATOR} מושבת. לחיצה על סמל סטאטוס (<i>CTRL + F11</i>) משבית או מאפשר @{NAVIGATOR}.
+NAVHELP_STATUS_MIN_T	ממוזער
+NAVHELP_STATUS_MIN_H	חלונות וסרגל צדדי ממוזערים.
+NAVHELP_STATUS_MENU_T	תפריט לחצן ימני
+NAVHELP_STATUS_MENU_H	תפריט לחצן ימני (לחיצה על הסמל באמצעות הלחצן הימני בעכבר) כולל פונקציות כלליות של @{NAVIGATOR}.
+NAVHELP_VERSION_T	הצג גרסה
+NAVHELP_VERSION_H	מציג את מספר הגרסה של ה-@{NAVIGATOR} שמותקן. הדבר הכרחי בכל פעם שיוצרים קשר עם התמיכה במקרה של בעיות.
+NAVHELP_JSCONSOLE_T	לוח בקרה של Javascript
+NAVHELP_JSCONSOLE_H	מציג את לוח הבקרה של Javascript כדי לספק הודעות שגיאה מפורטות. הדבר הכרחי בכל פעם שיוצרים קשר עם התמיכה במקרה של בעיות.
+NAVHELP_NAV_CACHE_T	מחק מטמון מקומי
+NAVHELP_NAV_CACHE_H	מוחק את המטמון המקומי של תוכן @{NAVIGATOR} .
+NAVHELP_RESET_HIDDEN_T	הצג עזרה מוסתרת שוב
+NAVHELP_RESET_HIDDEN_H	מאפס אלמנטים של עזרה שהוגדרו כ'נסתרים' במהלך ה-Playback.
+NAVHELP_EXIT_T	צא
+NAVHELP_EXIT_H	עוצר את ניגון ההקלטה וסוגר את @{NAVIGATOR}.
+IDS_NAVP_ABOUT	הצג גרסה...
+IDS_NAVP_CONSOLE	לוח בקרה של Javascript...
+IDS_NAVP_DELETE_CACHE	מחק מטמון מקומי
+IDS_NAVP_HOOKER	Hooker
+IDS_SEARCH_INPUT	תוכן של עזרת חיפוש
+IDS_CLEAR_SEARCH	נקה חיפוש
+IDS_NAVP_CLOSE	צא
+IDS_RESET_CURRENT	הצג שוב אלמנט עזרה מוסתר
+IDS_RESET_ALL	הצג עזרה מוסתרת שוב
+IDS_RESET_ALL_TIP	הצג רמזים שהושבתו שוב בכניסה למסך בפעם הראשונה.
+IDS_OPEN_RECORD_LBL	פתח
+IDS_EDIT_RECORD_LBL	שנה שם
+IDS_DELETE_RECORD_LBL	מחק
+IDS_SHARE_RECORD_LBL	שתף
+IDS_EXTERNAL_SEARCH_BTN	חיפוש חיצוני
+IDS_EXTERNAL_SEARCH_SUB_MENU	חיפוש חיצוני
+IDS_SHOW_SCREEN_ICON	הצג סייע של שולחן עבודה
+IDS_SHOW_DA	הצג חלון ראשי
+IDS_SHOW_CONTENT	הצג תוכן
+IDS_HIDE_CONTENT	הסתר תוכן
+IDS_SEARCH_BTN	חפש
+IDS_REQUEST_CONTENT_BTN	בקש תוכן
+IDS_RECORDING_BTN	התחל הקלטה
+IDS_SHOW_CA_SWITCH	הצג עזרת הקשר
+IDS_HIDE_CA_SWITCH	הסתר עזרת הקשר
+IDS_CA_SWITCH_INACTIVE_BTN	עזרה הקשר אינה זמינה
+IDS_DO_CTX_RECOGNITION	הצג עזרת הקשר
+IDS_NAV_STANDBY	@{NAVIGATOR} מושבת.
+IDS_NAV_NO_STANDBY	@{NAVIGATOR} מופעל.
+IDS_SHOW_DA_PANELS	@{NAVIGATOR} זמין כעת שוב. ניתן להשתמש ב-@{NAVIGATOR} אם אתה זקוק לעזרה נוספת.
+IDS_HIDE_DA_PANELS	@{NAVIGATOR} נעלם אוטומטית מכיוון שעזרה מתאימה זמינה ביישום שפתוח כרגע. פתח את העזרה ביישום שבו אתה זקוק לעזרה נוספת.
+IDS_ADD_STICKY_NOTES_BTN	הוסף פתק נדבק
+IDS_ADD_STICKY_NOTES_INACTIVE_BTN	ניתן להוסיף רק פתק נדבק אחד ליישום זה.
+IDS_EXIT_DA	צא
+IDS_EXIT_DA_BTN	צא
+IDS_EXIT_DA_SUB_MENU	צא
+IDS_SHOW_MORE	הצג יותר
+IDS_HIDE_MORE	הסתר עוד
+IDS_REQUEST_CONTENT_SUB_MENU	בקש תוכן
+IDS_SHOW_CA_SUB_MENU	הצג עזרת הקשר
+IDS_HIDE_CA_SUB_MENU	הסתר עזרת הקשר
+IDS_ADD_STICKY_NOTE_SUB_MENU	הוסף פתק נדבק
+IDS_RECORDING_SUB_MENU	התחל הקלטה
+IDS_CA_SWITCH_SUB_MENU	עזרת הקשר
+IDS_SHARE_DLG_CAPTION	שתף מסמך
+IDS_DELETE_FRAMES	מחיקת מסגרות
+OPEN_FOLDER	פתח תיקייה
+SHARE_DOC	שתף באמצעות דוא"ל
+IDS_SHARE_DLG_TEXT	מה ברצונך לעשות?
+IDS_SEARCH_BTN_SUB_MENU	חפש תוכן
+IDS_LIBRARY_SEARCH_BTN_SUB_MENU	חפש תוכן בספרייה
+GRACEFUL_DEGRADATION	מאפיין זה אינו זמין באופן זמני עקב בעיות רשת. \n\nנסה שוב מאוחר יותר.
+SHARE_BTN	שתף באמצעות דוא"ל
+COPY_BTN	העתק קישור
+SHARE_MAIL_SUBJECT	תוכן מומלץ
+SHARE_MAIL_HEADER	משתמש יקר,\n\nתוכן זה עשוי לעניין אותך. \n\n
+SHARE_MAIL_FOOTER	בברכה,
+SHARE_MAIL_LINK	קישור:\t
+SHARE_MAIL_CAPTION	כיתוב:\t
+SHARE_TITLE	שתף תוכן
+SELECT_ASSET	בחר נכס כדי להתחיל.
+ENTER_NAME	הזן שם
+DELETE_RECORD_WRN	חשוב: פעולה זו אינה ניתנת לביטול.
+MSG_PA_NEXT_LBL	הבא
+MSG_PA_STEP_LBL	רשימת שלבים
+TOGGLE_STEPLIST_TOOLTIP	הצג / הסתר רשימת שלבים
+PREVIEW_STEP_TOOLTIP	הצג תצוגה מקדימה של שלב
+NEXT_STEP_TOOLTIP	עבור לשלב הבא
+PREV_STEP_TOOLTIP	עבור אל השלב הקודם
+ROLES_TITLE	תפקידי סייע שולחן העבודה
+ROLES_LBL	סנן תוכן עזרה לפי תפקיד
+OK_CAPTION	OK
+CANCEL_CAPTION	בטל
+BTN_YES	כן
+BTN_NO	לא
+DELETE_CONFIRM	האם אתה בטוח שברצונך למחוק את הפתק הנדבק הזה?
+EXIT_CONFIRM	האם אתה בטוח שברצונך לצאת מ-@{NAVIGATOR}?
+sticky_notes	פתקים נדבקים
+exit_da	צא מ-@{NAVIGATOR}
+STICKY_NOTE_DEFAULT_TEXT	הוסף את הטקסט שלך כאן.
+SEARCH_BTN_TOOLTIP	חפש
+NEXT_BTN_TOOLTIP	הבא
+PREV_BTN_TOOLTIP	הקודם
+HIDE_BTN_TOOLTIP	הסתר קרוסלה
+IDS_PRJ_NAME	הזן שם:
+IDS_APPLICATIONS	בחר חלון:
+IDS_PRJ_LANGUAGE	בחר שפה:
+IDS_FULL_SCREEN	מסך מלא
+IDS_CHOOSE_APP_CAPTION	בחר יישום
+IDS_RECORD_BTN	רשומה
+IDS_ANALYZE_ACTIONS	מנתח פעולות...
+IDS_PARSE_PROJECT	מנתח פרויקט...
+IDS_REGION	אזור
+IDS_AREA_HELP	שנה את גודל האזור על-ידי בחירת תבנית להלן. שנה את קנה המידה של המלבן האדום כדי לבחור אזור או בחר את המסך המלא.
+IDS_CHOOSE_SIZE	בחר גודל:
+IDS_DEFINE_REC_AREA	אזור רישום
+IDS_DEFINE_NAME_LANG	צור מסמך
+PLEASE_SELECT	בחר
+quick_recorder.help_caption	טיפ
+quick_recorder.help	השתמש במקש "PAUSE" כדי להשהות או כדי להמשיך. \nהשתמש במקש "END" כדי לסיים. \n\nלחץ על 'אישור' כדי להתחיל את ההקלטה.
+quick_recorder.audio_help	השתמש במקש "PAUSE" כדי להשהות או כדי להמשיך. \nהשתמש במקש "END" כדי לסיים. \n\nשמע:\nהשמע שלך אינו מוקלט בזמן לחיצה. דקלם את הטקסט שלך לפני בחירת בקרה. \n\nלחץ על 'אישור' כדי להתחיל את ההקלטה.
+FILE_EXISTS	כבר קיים קובץ בשם זהה. הזן שם שונה.
+HELP_EXIT_CONTROL_H	עוצר את ניגון ההקלטה וסוגר את @{NAVIGATOR}.
+HELP_EXIT_CONTROL_T	צא
+BTN_CLOSE_DLG	סגור
+DELETE_RECORD_WRN	חשוב: פעולה זו אינה ניתנת לביטול.
+ENTER_NAME	הזן שם
+IDS_CLEAR_SEARCH	נקה חיפוש
+IDS_RESET_ALL_TIP	הצג רמזים שהושבתו שוב בכניסה למסך בפעם הראשונה.
+IDS_SEARCH_INPUT	תוכן של עזרת חיפוש
+LBL_DELETE	מחק
+LBL_NAVI_NO_MATCH	החיפוש שלך לא החזיר תוצאות.
+LBL_TU	פתוח
+MSG_PA_NEXT_LBL	הבא
+MSG_PA_STEP_LBL	רשימת שלבים
+RENAME_FAILED	שינוי שם פעולה נכשל.
+ROLES_LBL	סנן תוכן עזרה לפי תפקיד
+SELECT_ASSET	בחר נכס כדי להתחיל.
+LBL_CDOC	פתוח
+LBL_RECORD_DOCUMENT	מסמך רשומה
+QR_CAPTION	פתח פלט רישום
+QR_WELCOME	מה ברצונך ליצור?
+QR_DOC_CAP	מסמך
+QR_DOC_TXT	יוצר מסמך Microsoft Word המראה צילום מסך וטקסט הנחייה עבור כל פעולה שנרשמה.
+QR_VIDEO_CAP	וידאו
+QR_VIDEO_TXT	יוצר וידאו באיכות גבוהה של ההקלטה.
+QR_DOC_VIDEO_CAP	מסמך ווידאו
+QR_DOC_VIDEO_TXT	יוצר מסמך ווידאו
+SHARE_ERR_CAP	לא ניתן לשתף הקטלה
+SHARE_ERR_TXT	הקלטה זו גדולה מדי עבור שיתוף באמצעות דוא"ל.\nהאם ברצונך לפתוח מיקום קובץ במקום זאת?
+HELP_CONTENT_WINDOW_H	חלון התוכן מציג את המידע, המצבים והתיעוד הזמינים עבור התוכן הנבחר של החלון הראשי.</br>ניתן לעגן את חלון התוכן בחלון הראשי, וכך תוכל להזיז את שני החלונות ביחד במסך.
+HELP_CONTENT_WINDOW_T	חלון תוכן
+IDS_CONTENT_BTN	תוכן
+MSG_PA_STEP_NOT_FOUND_NUMERAL_1	1.
+MSG_PA_STEP_NOT_FOUND_NUMERAL_2	2.
+SHARE_URL	כתובת URL של דף נוכחי:

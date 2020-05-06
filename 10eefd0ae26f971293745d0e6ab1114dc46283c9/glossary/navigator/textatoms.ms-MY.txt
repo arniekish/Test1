@@ -1,0 +1,313 @@
+﻿#	Atom teks berbahasa Inggeris
+BULLET	&#149;
+NEWLINE	\r\n
+TOK_COMPANY	SAP
+TOK_LIB	Kursus
+TOK_TOUR	Pelajaran
+TOK_TRAINER	Desktop Assistant
+TOK_AUTOMATION	epo
+NAVIGATOR	Desktop Assistant
+NAV_LIBRARY	library
+BTN_ABORT	Berhenti
+BTN_CLOSE	Berhenti
+BTN_OK	OK
+BTN_CLOSE_DLG	Tutup
+BTN_CONTINUE	Teruskan
+BTN_PREVIEW	Pratonton
+BTN_PROCEED	Teruskan
+BTN_RESTART	Mula semula
+BTN_SKIP	Langkau Langkah
+BTN_START	Mula
+BTN_STOP	Berhenti
+BTN_EXECUTE	Laksana
+CA_SWITCH	Bantuan Konteks
+CONTENT_CAP	Kandungan
+MAIL_SUBJECT	Minta Kandungan untuk Pembantu Desktop
+MAIL_HEADER	Pengarang yang dikasihi,\n\nSaya ingin meminta kandungan untuk:
+MAIL_FOOTER	- Proses/Transaksi: Sila terangkan proses aplikasi yang sedang digunakan. \n\n- Perihalan: Sila terangkan maklumat yang anda perlukan. \n\nYang benar,
+MAIL_DATA	- Nama Aplikasi:
+MAIL_TOOLTIP	Minta Kandungan
+SHARE_TOOLTIP	Kongsi Kandungan
+REQUEST_TEXT	Klik %s untuk meminta kandungan
+REQUEST_LINK	di sini
+SEARCH_CAP	Cari
+INFO_CAP	info
+SETTINGS_CAP	Tetapan
+BACK_TOOLTIP	Kembali
+SHARE_CONTENT_TOOLTIP	Kongsi Kandungan
+CB_HIDE_OPTION	Jangan tunjukkan lagi
+MY_ROLES	Peranan Saya
+EDIT_ROLES	Ubah Peranan
+NO_ROLES	Tunjuk Kandungan Tanpa Peranan
+SELECT_ALL_CAPTION	Pilih Semua
+USER_CAPTION	Bahagian Pengguna
+READ_MORE	Baca lagi...
+NO_CATEGORY_CAPTION	Kandungan Lain
+DELETE_FAILED	Operasi pemadaman gagal.
+RENAME_FAILED	Operasi penamaan semula gagal.
+FILE_EXISTS	Fail dengan nama sama telah wujud. Masukkan nama berlainan.
+LBL_YES	Ya
+LBL_DELETE	Padam
+LBL_NO	Tidak
+LBL_OK	Ok
+DELETE_DLG_TEXT	Adakah anda benar-benar ingin memadam dokumen dipilih (%N)?
+LBL_CONCURRENT	Mulakan Mod Serentak
+LBL_DA	Pembantu Desktop
+LBL_SIM	Mulakan Simulasi
+LBL_CDOC	Buka
+LBL_DEMO	Mula Mod Demo
+LBL_NAVI	Mulakan Lawatan Berpandu
+LBL_BOOK	Main Buku
+LBL_GROUP	Buka dalam pustaka
+LBL_NAVIGATION	Pembantu Desktop
+LBL_PA	Lawatan Berpandu
+LBL_PRACTICE	Mula Mod Latihan
+LBL_SIMULATION	Simulasi
+LBL_BOOKPAGE	Tunjuk Halaman Buku 
+LBL_TEST	Mulakan Mod Ujian
+LBL_RECORD_DOCUMENT	Rekod Dokumen
+MSG_AUTOMATION_FINISHED	Automasi selesai
+MSG_AUTOMATION_FINISHED_2	Klik 'Mula semula' untuk memulakan proses automatik sekali lagi.
+MSG_AUTOMATION_START	Edit nilai input
+MSG_AUTOMATION_START_2	Semak atau mengedit nilai berikut. Ini akan dimasukkan secara automatik semasa proses tersebut.
+MSG_EPO_DIALOG	Pengoptimum Proses Elektronik
+MSG_NAVI_LIBRARY_NO_APP	Tiada maklumat tersedia.
+LBL_NAVI_NO_MATCH	Tiada hasil untuk carian anda.
+NO_RECORDS	Tiada dokumen tersedia.
+MSG_NAVI_LIBRARY_SUBTITLE	Kandungan tersedia:
+MSG_NAVI_LIBRARY_TITLE	Pembantu Desktop
+MSG_NOT_APPLICABLE	tidak boleh diedit
+MSG_PA_CONTROL_STEP	Tindakan diperlukan untuk langkah:
+MSG_PA_EXPLANATION_STEP	Navigasi ke skrin yang ditunjukkan di bawah.
+MSG_PA_FORM_STEP	Medan perlu diisi dalam borang:
+MSG_PA_DIALOG	Lawatan Berpandu
+MSG_PA_START_SCREEN	Buka mula skrin.
+MSG_PA_STEP_NOT_FOUND	Tukar kepada skrin yang diperlukan
+MSG_PA_STEP_NOT_FOUND1	Sila pastikan bahawa aplikasi sasaran (@{TARGETAPPNAME}) terbuka.
+MSG_PA_STEP_NOT_FOUND2	Navigasi ke skrin dengan kawalan diserlah yang ditunjukkan di bawah.
+MSG_STEP_LIGHT	Pratonton Langkah
+MSG_STEP_NOT_FOUND	Langkah jelajah berpandu tidak dijumpai.
+MSG_STEP_NOT_FOUND_2	Klik pada bar tajuk aplikasi sasaran atau navigasikan ke skrin yang betul.<br><br>Klik ‘Pratonton’ untuk melihat skrin diperlukan.
+PA_FINISHED	Lawatan Berpandu Selesai.
+PROJECT_TITLE	Judul Projek
+TRAY_INFO_BUBBLE_HEADING	Lawatan Berpandu
+TRAY_INFO_BUBBLE_TEXT	Langkah semasa tidak dapat dipaparkan. Klik di sini untuk maklumat lanjut.
+RESTRICTED_BUBBLE_HEADING	Tindakan Disekat
+RESTRICTED_BUBBLE_TEXT	Anda tidak boleh melaksanakan sebarang tindakan sehingga langkah semasa disahkan.
+HELP_TITLE	Bantuan
+HELP_INTRO	Bantuan ini memberi anda paparan keseluruhan mengenai bahagian dan fungsi utama @{NAVIGATOR}.</br></br><b>Nota:</b> Fungsi tersedia bergantung pada konfigurasi @{NAVIGATOR}.</br>
+HELP_TITLE_DA	Bar Sisi dan Tetingkap
+HELP_SIDEBAR_T	Bar sisi
+HELP_SIDEBAR_H	Bar sisi membolehkan anda untuk memulakan fungsi utama bagi @{NAVIGATOR}. Untuk setiap fungsi satu butang dipaparkan. Bar sisi boleh digerakkan dengan menggunakan seret dan jatuh, dan boleh diminimumkan dan di maksimumkan dengan mengklik pada sempadan bar sisi.
+HELP_CONTENT_CONTROL_T	Kandungan
+HELP_CONTENT_CONTROL_H	Nyatakan, jika kandungan tersedia. Buka tetingkap utama dengan kandungan.
+HELP_SEARCH_CONTROL_T	Cari
+HELP_SEARCH_CONTROL_H	Buka carian untuk mencari kandungan .
+HELP_EXTSEARCH_CONTROL_T	Carian Luaran
+HELP_EXTSEARCH_CONTROL_H	Buka carian luaran untuk mencari kandungan.
+HELP_STICKY_CONTROL_T	Nota Lekat
+HELP_STICKY_CONTROL_H	Masukkan nota lekat untuk tetingkap aplikasi semasa. Anda boleh memasukkan teks untuk nota lekat anda.
+HELP_RECORDING_CONTROL_T	Mulakan Rakaman
+HELP_RECORDING_CONTROL_H	Mula merakam proses. Proses yang dirakam akan disimpan sebagai dokumen dalam Bahagian Pengguna.
+HELP_MAIN_WINDOW_T	Tetingkap Utama
+HELP_MAIN_WINDOW_H	Tetingkap utama menunjukkan kandungan yang tersedia untuk konteks halaman tertentu.</br>Semasa main semula lawatan berpandu, tetingkap menunjukkan senarai langkah.
+HELP_HEADER_T	Pengepala
+HELP_HEADER_H	Ikon status dalam pengepala menunjukkan jika kandungan tersedia untuk konteks semasa.
+HELP_CONTENT_TAB_T	Tab Kandungan
+HELP_CONTENT_TAB_H	Tab menunjukkan kandungan tersedia untuk aplikasi semasa.
+HELP_CONTENT_VIEW_T	Paparan Kandungan
+HELP_CONTENT_VIEW_H	Paparan kandungan menunjukkan maklumat, mod dan dokumentasi tersedia untuk kandungan dipilih.</br>Anda boleh menggunakan kawalan ‘Kembali’ untuk kembali ke senarai kandungan.
+HELP_SEARCH_TAB_T	Tab carian
+HELP_SEARCH_TAB_H	Pada tab anda boleh mencari kandungan khusus untuk konteks semasa anda.
+HELP_INFO_TAB_T	Tab Maklumat
+HELP_INFO_TAB_H	Tab menunjukkan maklumat am mengenai @{NAVIGATOR}.
+HELP_USERAREA_TAB_T	Tab Bahagian Pengguna
+HELP_USERAREA_TAB_H	Tab mengandungi dokumen proses yang dirakam. Anda boleh buka, kongsi atau padam dokumen. Anda boleh merakam proses selanjutnya.
+HELP_INSTANT_T	Bantuan Segera
+HELP_INSTANT_H	Dengan maklumat konteks tambahan tetapan diaktifkan ditunjukkan betul-betul pada skrin aplikasi semasa. Tetapan lalai didayakan mengikut lalai.
+HELP_REQCONTENT_T	Minta Kandungan
+HELP_REQCONTENT_H	Buka tetingkap e-mel untuk meminta kandungan hilang daripada pengarang.
+HELP_SETTINGS_T	Tetapan
+HELP_SETTINGS_H	Paparan mengandungi tetapan untuk paparan @{NAVIGATOR} kandungan.
+HELP_MYROLES_T	Peranan Saya
+HELP_MYROLES_H	Tetapan ini memaparkan kandungan untuk peranan yang diumpuk.
+HELP_WITHOUTROLES_T	Tunjuk Kandungan Tanpa Peranan
+HELP_WITHOUTROLES_H	Tetapan ini memaparkan kandungan tanpa peranan yang diumpuk.
+HELP_EDITROLES_T	Peranan
+HELP_EDITROLES_H	Semua peranan digunakan untuk kandungan adalah disenaraikan dan boleh diaktifkan atau dinyahaktifkan untuk memaparkan kandungan.
+HELP_SHARECONTENT_T	Kongsi Kandungan
+HELP_SHARECONTENT_H	Buka kotak dialog dengan pautan kepada kandungan. Pautan ini boleh dikongsi dengan pengguna lain.
+HELP_REQUESTCONTENT_T	Minta Kandungan
+HELP_REQUESTCONTENT_H	Buka e-mel dipratakrif untuk meminta kandungan untuk kes tertentu.
+HELP_PLAYBACK_CONTENT_T	Main Semula Kandungan
+HELP_PLAYBACK_CONTENT_H	Kandungan tersedia boleh dimulakan atau dibuka menggunakan butang dalam tetingkap kandungan.
+HELP_MINIMIZED_STATUS_T	Minimumkan Status
+HELP_MINIMIZED_STATUS_H	Sekiranya anda tutup tetingkap utama ikon status terapung masih akan menunjukkan jika kandungan tersedia untuk konteks semasa. Klik ikon untuk memulih tetingkap utama.
+HELP_MINIMIZED_MENU_T	Menu Konteks
+HELP_MINIMIZED_MENU_H	Menu konteks (klik kanan tetikus pada ikon) termasuk fungsi untuk memaparkan tetingkap utama dan bantuan konteks.
+HELP_BOOK_WINDOW_T	Tetingkap Buku
+HELP_BOOK_WINDOW_H	Tetingkap buku dibuka apabila memainkan semula buku. Tetingkap utama dan tetingkap kandungan tersembunyi.
+HELP_GOTOTOP	Pergi ke atas
+HELP_CAPTION	@{NAVIGATOR} Bantuan
+NAVHELP_TITLE	Status Ikon dan Menu Konteks
+NAVHELP_INTRO	</br>Bantuan memberikan anda paparan keseluruhan mengenai ikon status dan entri menu konteks.
+NAVHELP_STATUS_ICON_T	Ikon Status (Palang Tugas)
+NAVHELP_STATUS_ICON_H	Ikon status diletakkan dalam bar tugas dan menunjukkan aktiviti semasa @{NAVIGATOR}. Berikut adalah status yang ada:
+NAVHELP_STATUS_FOUND_T	Kandungan Tersedia (Ikon Hijau)
+NAVHELP_STATUS_FOUND_H	Kandungan tersedia untuk konteks semasa dan dipaparkan.
+NAVHELP_STATUS_CHECK_T	Memuatkan Kandungan (Ikon Kuning)
+NAVHELP_STATUS_CHECK_H	@{NAVIGATOR} periksa konteks semasa untuk kandungan tersedia dan muatkan kandungan.
+NAVHELP_STATUS_NOFOUND_T	Tiada Kandungan Tersedia (Ikon Merah)
+NAVHELP_STATUS_NOFOUND_H	Kandungan tidak tersedia untuk konteks semasa.
+NAVHELP_STANDBY_T	Dinyahdayakan
+NAVHELP_STANDBY_H	@{NAVIGATOR} dinyahdayakan. Klik pada status ikon (<i>CTRL + F11</i>) menyahdayakan atau mendayakan @{NAVIGATOR}.
+NAVHELP_STATUS_MIN_T	Diminimumkan
+NAVHELP_STATUS_MIN_H	Tetingkap dan bar sisi diminimumkan.
+NAVHELP_STATUS_MENU_T	Menu Konteks
+NAVHELP_STATUS_MENU_H	Menu konteks (klik tetikus kanan pada ikon) termasuk fungsi umum @{NAVIGATOR}.
+NAVHELP_VERSION_T	Tunjukkan Versi
+NAVHELP_VERSION_H	Tunjukkan nombor versi @{NAVIGATOR} dipasang. Ini perlu untuk mana-mana hubungan dengan sokongan jika berlaku masalah.
+NAVHELP_JSCONSOLE_T	Konsol JavaScript
+NAVHELP_JSCONSOLE_H	Tunjukkan Konsol JavaScript untuk menyediakan mesej ralat terperinci. Ini perlu untuk mana-mana hubungan dengan sokongan jika berlaku masalah.
+NAVHELP_NAV_CACHE_T	Padam Cache Tempatan
+NAVHELP_NAV_CACHE_H	Padam cache tempatan bagi @{NAVIGATOR} kandungan.
+NAVHELP_RESET_HIDDEN_T	Tunjukkan Semua Bantuan Tersembunyi Semula
+NAVHELP_RESET_HIDDEN_H	Set semula elemen bantuan yang ditetapkan kepada 'Tersembunyi' semasa main semula.
+NAVHELP_EXIT_T	Keluar
+NAVHELP_EXIT_H	Hentikan main semula dan tutup @{NAVIGATOR}.
+IDS_NAVP_ABOUT	Tunjukkan Versi...
+IDS_NAVP_CONSOLE	Konsol JavaScript...
+IDS_NAVP_DELETE_CACHE	Padam Cache Tempatan
+IDS_NAVP_HOOKER	Hooker
+IDS_SEARCH_INPUT	Kandungan Bantuan Carian
+IDS_CLEAR_SEARCH	Kosongkan Carian
+IDS_NAVP_CLOSE	Keluar
+IDS_RESET_CURRENT	Tunjukkan Elemen Bantuan Tersorok semula
+IDS_RESET_ALL	Tunjukkan Semua Bantuan Tersembunyi Semula
+IDS_RESET_ALL_TIP	Tunjukkan semua kenaan dinyahdaya semula semasa memasukkan skrin pada kali pertama.
+IDS_OPEN_RECORD_LBL	Buka
+IDS_EDIT_RECORD_LBL	Namakan semula
+IDS_DELETE_RECORD_LBL	Padam
+IDS_SHARE_RECORD_LBL	Kongsi
+IDS_EXTERNAL_SEARCH_BTN	Carian Luaran
+IDS_EXTERNAL_SEARCH_SUB_MENU	Carian Luaran
+IDS_SHOW_SCREEN_ICON	Tunjukan Pembantu Desktop
+IDS_SHOW_DA	Tunjukkan Tetingkap Utama
+IDS_SHOW_CONTENT	Tunjukkan Kandungan
+IDS_HIDE_CONTENT	Sembunyikan Kandungan
+IDS_SEARCH_BTN	Cari
+IDS_REQUEST_CONTENT_BTN	Minta Kandungan
+IDS_RECORDING_BTN	Mulakan Rakaman
+IDS_SHOW_CA_SWITCH	Tunjukkan Bantuan Konteks
+IDS_HIDE_CA_SWITCH	Sembunyikan Bantuan Konteks
+IDS_CA_SWITCH_INACTIVE_BTN	Tiada Bantuan Konteks Tersedia
+IDS_DO_CTX_RECOGNITION	Tunjukkan Bantuan Konteks
+IDS_NAV_STANDBY	@{NAVIGATOR} dinyahdayakan.
+IDS_NAV_NO_STANDBY	@{NAVIGATOR} didayakan.
+IDS_SHOW_DA_PANELS	@{NAVIGATOR} kini tersedia lagi. Anda boleh gunakan @{NAVIGATOR} jika perlukan apa-apa bantuan.
+IDS_HIDE_DA_PANELS	@{NAVIGATOR} hilang secara automatik setelah bantuan yang sesuai tersedia dalam aplikasi yang anda buka buat masa ini. Hanya buka bantuan dalam aplikasi jika anda perlukan bantuan selanjutnya.
+IDS_ADD_STICKY_NOTES_BTN	Tambah Nota Lekat
+IDS_ADD_STICKY_NOTES_INACTIVE_BTN	Anda hanya boleh menambah satu nota lekat untuk aplikasi ini.
+IDS_EXIT_DA	Keluar
+IDS_EXIT_DA_BTN	Keluar
+IDS_EXIT_DA_SUB_MENU	Keluar
+IDS_SHOW_MORE	Tunjukkan Lagi
+IDS_HIDE_MORE	Sembunyikan Lagi
+IDS_REQUEST_CONTENT_SUB_MENU	Minta Kandungan
+IDS_SHOW_CA_SUB_MENU	Tunjukkan Bantuan Konteks
+IDS_HIDE_CA_SUB_MENU	Sembunyikan Bantuan Konteks
+IDS_ADD_STICKY_NOTE_SUB_MENU	Tambah Nota Lekat
+IDS_RECORDING_SUB_MENU	Mulakan Rakaman
+IDS_CA_SWITCH_SUB_MENU	Bantuan Konteks
+IDS_SHARE_DLG_CAPTION	Kongsi Dokumen
+IDS_DELETE_FRAMES	Memadam Bingkai
+OPEN_FOLDER	Buka Folder
+SHARE_DOC	Kongsi melalui E-mel
+IDS_SHARE_DLG_TEXT	Apakah anda ingin buat?
+IDS_SEARCH_BTN_SUB_MENU	Cari Kandungan
+IDS_LIBRARY_SEARCH_BTN_SUB_MENU	Cari Kandungan dalam pustaka
+GRACEFUL_DEGRADATION	Ciri ini tidak tersedia buat sementara waktu disebabkan oleh isu rangkaian. \n\nSila cuba lagi kemudian.
+SHARE_BTN	Kongsi melalui E-mel
+COPY_BTN	Salin Pautan
+SHARE_MAIL_SUBJECT	Kandungan Disyorkan
+SHARE_MAIL_HEADER	Pengguna yang Dikasihi,\n\nKandungan ini mungkin menarik bagi anda. \n\n
+SHARE_MAIL_FOOTER	Yang Benar,
+SHARE_MAIL_LINK	Pautan:\t
+SHARE_MAIL_CAPTION	Kapsyen:\t
+SHARE_TITLE	Kongsi Kandungan
+SELECT_ASSET	Pilih aset untuk mulakan.
+ENTER_NAME	Masukkan nama
+DELETE_RECORD_WRN	Penting: Tindakan ini tidak boleh dibatalkan.
+MSG_PA_NEXT_LBL	Seterusnya
+MSG_PA_STEP_LBL	Senarai Langkah
+TOGGLE_STEPLIST_TOOLTIP	Tunjukkan/Sembunyikan Senarai Langkah
+PREVIEW_STEP_TOOLTIP	Pratonton Langkah
+NEXT_STEP_TOOLTIP	Pergi ke Langkah Seterusnya
+PREV_STEP_TOOLTIP	Pergi ke Langkah Sebelumnya
+ROLES_TITLE	Peranan Pembantu Desktop
+ROLES_LBL	Tapis Kandungan Bantuan Mengikut Fungsi
+OK_CAPTION	OK
+CANCEL_CAPTION	Batal
+BTN_YES	Ya
+BTN_NO	Tidak
+DELETE_CONFIRM	Anda pasti yang anda ingin memadam nota lekat ini?
+EXIT_CONFIRM	Adakah anda betul-betul ingin keluar @{NAVIGATOR}?
+sticky_notes	Nota Lekat
+exit_da	Keluar @{NAVIGATOR}
+STICKY_NOTE_DEFAULT_TEXT	Tambah teks anda di sini.
+SEARCH_BTN_TOOLTIP	Cari
+NEXT_BTN_TOOLTIP	Seterusnya
+PREV_BTN_TOOLTIP	Sebelumnya
+HIDE_BTN_TOOLTIP	Sembunyikan Karusel
+IDS_PRJ_NAME	Masukkan Nama:
+IDS_APPLICATIONS	Pilih Tetingkap:
+IDS_PRJ_LANGUAGE	Pilih Bahasa:
+IDS_FULL_SCREEN	Skrin Penuh
+IDS_CHOOSE_APP_CAPTION	Pilih Aplikasi
+IDS_RECORD_BTN	Rakam
+IDS_ANALYZE_ACTIONS	Menganalisis tindakan...
+IDS_PARSE_PROJECT	Projek penghuraian
+IDS_REGION	Kawasan
+IDS_AREA_HELP	Tukar saiz kawasan dengan memilih templat di bawah. Skalakan segi empat tepat merah untuk memilih kawasan atau memilih skrin penuh.
+IDS_CHOOSE_SIZE	Pilih Saiz:
+IDS_DEFINE_REC_AREA	Bahagian Rakaman
+IDS_DEFINE_NAME_LANG	Janakan Kandungan
+PLEASE_SELECT	Sila pilih
+quick_recorder.help_caption	Tip
+quick_recorder.help	Gunakan kekunci "PAUSE" untuk jeda atau untuk teruskan. \nGunakan kekunci "END" untuk menamatkan. \n\nPilih "OK" untuk memulakan rakaman.
+quick_recorder.audio_help	Gunakan kekunci "PAUSE" untuk jeda atau untuk teruskan. \nGunakan kekunci "END" untuk menamatkan. \n\nAudio:\nAudio anda tidak dirakam semasa klik. Nyatakan teks anda sebelum memilih kawalan. \n\nPilih "OK" untuk memulakan rakaman.
+FILE_EXISTS	Fail dengan nama sama telah wujud. Masukkan nama berlainan.
+HELP_EXIT_CONTROL_H	Hentikan main semula dan tutup @{NAVIGATOR}.
+HELP_EXIT_CONTROL_T	Keluar
+BTN_CLOSE_DLG	Tutup
+DELETE_RECORD_WRN	Penting: Tindakan ini tidak boleh dibatalkan.
+ENTER_NAME	Masukkan nama
+IDS_CLEAR_SEARCH	Kosongkan Carian
+IDS_RESET_ALL_TIP	Tunjukkan semua kenaan dinyahdaya semula semasa memasukkan skrin pada kali pertama.
+IDS_SEARCH_INPUT	Kandungan Bantuan Carian
+LBL_DELETE	Padam
+LBL_NAVI_NO_MATCH	Tiada hasil untuk carian anda.
+LBL_TU	Buka
+MSG_PA_NEXT_LBL	Seterusnya
+MSG_PA_STEP_LBL	Senarai Langkah
+RENAME_FAILED	Operasi penamaan semula gagal.
+ROLES_LBL	Tapis Kandungan Bantuan Mengikut Fungsi
+SELECT_ASSET	Pilih aset untuk mulakan.
+LBL_CDOC	Buka
+LBL_RECORD_DOCUMENT	Rekod Dokumen
+QR_CAPTION	Pilih Output Rakaman
+QR_WELCOME	Apakah anda ingin cipta?
+QR_DOC_CAP	Dokumen
+QR_DOC_TXT	Cipta dokumen Microsoft Word yang menunjukkan syot layar dan teks arahan untuk setiap tindakan yang anda rekodkan.
+QR_VIDEO_CAP	Video
+QR_VIDEO_TXT	Cipta video yang berkualiti tinggi bagi rakaman anda.
+QR_DOC_VIDEO_CAP	Dokumen dan Video
+QR_DOC_VIDEO_TXT	Cipta dokumen dan video.
+SHARE_ERR_CAP	Tidak boleh kongsi rakaman
+SHARE_ERR_TXT	Rakaman ini terlalu besar untuk dikongsi melalui e-mel.\nAdakah anda ingin membuka lokasi fail?
+HELP_CONTENT_WINDOW_H	Tetingkap kandungan menunjukkan maklumat tersedia, mod dan dokumentasi untuk kandungan dipilih tetingkap utama.</br>Tetingkap kandungan boleh didok pada tetingkap utama, yang membolehkan anda untuk menggerakkan tetingkap bersama-sama pada skrin.
+HELP_CONTENT_WINDOW_T	Tetingkap Kandungan
+IDS_CONTENT_BTN	Kandungan
+MSG_PA_STEP_NOT_FOUND_NUMERAL_1	1.
+MSG_PA_STEP_NOT_FOUND_NUMERAL_2	2.
+SHARE_URL	URL halaman semasa:

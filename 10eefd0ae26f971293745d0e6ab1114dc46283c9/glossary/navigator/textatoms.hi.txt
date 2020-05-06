@@ -1,0 +1,313 @@
+﻿#	अंग्रेज़ी टेक्स्ट एटम
+BULLET	&#149;
+NEWLINE	\r\n
+TOK_COMPANY	SAP
+TOK_LIB	पाठ्यक्रम
+TOK_TOUR	पाठ
+TOK_TRAINER	Desktop Assistant
+TOK_AUTOMATION	epo
+NAVIGATOR	Desktop Assistant
+NAV_LIBRARY	लाइब्रेरी
+BTN_ABORT	छोड़ दें
+BTN_CLOSE	छोड़ दें
+BTN_OK	ठीक
+BTN_CLOSE_DLG	बंद करें
+BTN_CONTINUE	जारी रखें
+BTN_PREVIEW	पूर्वावलोकन
+BTN_PROCEED	जारी रखें
+BTN_RESTART	पुनर्प्रारंभ करें
+BTN_SKIP	चरण छोड़ें
+BTN_START	प्रारंभ करें
+BTN_STOP	बंद करें
+BTN_EXECUTE	निष्पादित करें
+CA_SWITCH	प्रसंग सहायता
+CONTENT_CAP	सामग्री
+MAIL_SUBJECT	डेस्कटॉप सहायता के लिए सामग्री अनुरोध
+MAIL_HEADER	प्रिय लेखक,\n\nमैं सामग्री के लिए अनुरोध करना चाहता हूँ:
+MAIL_FOOTER	प्रक्रिया/लेनदेन: कृपया यह बताएं कि एप्लिकेशन प्रक्रिया वर्तमान में उपयोग में है \n\n– वर्णन: आपको जिस चीज की जानकारी चाहिए, कृपया उसके बारे में बताएं \n\n भवदीय
+MAIL_DATA	- एप्लिकेशन का नाम:
+MAIL_TOOLTIP	अनुरोध सामग्री
+SHARE_TOOLTIP	सामग्री का साझा करें
+REQUEST_TEXT	अनुसोध सामग्री के लिए %s क्लिक करें
+REQUEST_LINK	यहां
+SEARCH_CAP	खोजें
+INFO_CAP	सूचना
+SETTINGS_CAP	सेटिंग
+BACK_TOOLTIP	पिछला
+SHARE_CONTENT_TOOLTIP	सामग्री का साझा करें
+CB_HIDE_OPTION	पुनः न दिखाएं
+MY_ROLES	मेरी भूमिकाएं
+EDIT_ROLES	भूमिकाओं को बदलें
+NO_ROLES	भूमिकाओं के बिना सामग्री दिखाएं
+SELECT_ALL_CAPTION	सभी का चयन करें
+USER_CAPTION	उपयोगकर्ता क्षेत्र
+READ_MORE	अधिक पढ़ें...
+NO_CATEGORY_CAPTION	अन्य सामग्री
+DELETE_FAILED	विफल संचालन हटाएं.
+RENAME_FAILED	विफल संचालन नाम बदलें.
+FILE_EXISTS	एक हीं नाम से फ़ाइल पहले से मौजूद है. अलग नाम दर्ज करें.
+LBL_YES	हां
+LBL_DELETE	हटाएं
+LBL_NO	नहीं
+LBL_OK	ठीक
+DELETE_DLG_TEXT	क्या आप वाकई चयनित दस्तावेज़ों (%N) को हटाना चाहते हैं?
+LBL_CONCURRENT	समवर्ती मोड प्रारंभ करें
+LBL_DA	डेस्कटॉप सहायक
+LBL_SIM	अनुरूपण प्रारंभ करें
+LBL_CDOC	खोलें
+LBL_DEMO	डेमो मोड प्रारंभ करें
+LBL_NAVI	निर्देशित यात्रा प्रारंभ करें
+LBL_BOOK	बुक चलाएं
+LBL_GROUP	लाइब्रेरी में खोलें
+LBL_NAVIGATION	डेस्कटॉप सहायक
+LBL_PA	निर्देशित यात्रा
+LBL_PRACTICE	अभ्यास मोड प्रारंभ करें
+LBL_SIMULATION	अनुरूपण
+LBL_BOOKPAGE	बुक पेज दिखाएं
+LBL_TEST	परीक्षण मोड प्रारंभ करें
+LBL_RECORD_DOCUMENT	रिकॉर्ड दस्तावेज़
+MSG_AUTOMATION_FINISHED	स्वचालन समाप्त
+MSG_AUTOMATION_FINISHED_2	स्वचालित प्रोसेस पुनः प्रारंभ करने के लिए "पुनर्प्रारंभ करें" क्लिक करें.
+MSG_AUTOMATION_START	इनपुट मानों को संपादित करें
+MSG_AUTOMATION_START_2	निम्न मान जांचें या संपादित करें. इन्हें प्रोसेस के दौरान स्वतः दर्ज किया जाएगा.
+MSG_EPO_DIALOG	इलेक्ट्रोनिक प्रोसेस ऑप्टीमाइज़र
+MSG_NAVI_LIBRARY_NO_APP	कोई जानकारी उपलब्ध नहीं है.
+LBL_NAVI_NO_MATCH	आपके खोज के लिए कोई परिणाम नहीं है.
+NO_RECORDS	कोई दस्तावेज़ उपलब्ध नहीं हैं.
+MSG_NAVI_LIBRARY_SUBTITLE	उपलब्ध सामग्रियां:
+MSG_NAVI_LIBRARY_TITLE	डेस्कटॉप सहायक
+MSG_NOT_APPLICABLE	संपादन योग्य नहीं
+MSG_PA_CONTROL_STEP	इस चरण के लिए आवश्यक कार्रवाई:
+MSG_PA_EXPLANATION_STEP	नीचे दिए गए स्क्रीन को नेविगेट करें.
+MSG_PA_FORM_STEP	आवश्यक फ़ील्ड फ़ॉर्म में भरा जाना है:
+MSG_PA_DIALOG	निर्देशित यात्रा
+MSG_PA_START_SCREEN	प्रारंभ स्क्रीन खोलें.
+MSG_PA_STEP_NOT_FOUND	आवश्यक स्क्रीन पर स्विच करें
+MSG_PA_STEP_NOT_FOUND1	सुनिश्चित करें कि लक्षित एप्लिकेशन (@{TARGETAPPNAME}) खुला है.
+MSG_PA_STEP_NOT_FOUND2	नीचे दिए गए हाइलाइट नियंत्रण के साथ स्क्रीन के लिए नेविगेट करें.
+MSG_STEP_LIGHT	चरण पूर्वावलोकन
+MSG_STEP_NOT_FOUND	निर्देशित भ्रमण चरण नहीं मिला.
+MSG_STEP_NOT_FOUND_2	लक्ष्य एप्लिकेशन के संज्ञा बार में क्लिक करें या दाईं स्क्रीन पर क्लिक करें.<br><br>आवश्यक स्क्रीन देखने के लिए 'पूर्वावलोकन' क्लिक करें.
+PA_FINISHED	निर्देशित यात्रा समाप्त हुई.
+PROJECT_TITLE	प्रोजेक्ट शीर्षक
+TRAY_INFO_BUBBLE_HEADING	निर्देशित यात्रा
+TRAY_INFO_BUBBLE_TEXT	वर्तमान चरण प्रदर्शित नहीं किया जा सकता. अधिक जानकारी के लिए यहां क्लिक करें.
+RESTRICTED_BUBBLE_HEADING	अवरोधित कार्रवाई
+RESTRICTED_BUBBLE_TEXT	वर्तमान चरण की पुष्टि होने तक आप कोई भी कार्रवाई निष्पादित नहीं कर सकते.
+HELP_TITLE	सहायता
+HELP_INTRO	सहायता से आप मुख्य भाग का ओवरव्यू और डेस्कटॉप सहायक के फ़ंक्शन बताते हैं.@{NAVIGATOR}.</br></br><b>ध्यान दें:</b> कि उपलब्ध फ़ंक्शन डेस्कटॉप सहायक के कॉन्फ़िगरेशन पर निर्भर करता है.@{NAVIGATOR}.</br>.
+HELP_TITLE_DA	लाइडबार और विंडो
+HELP_SIDEBAR_T	साइडबार
+HELP_SIDEBAR_H	साइडबार आपको डेस्कटॉप सहायक के लिए मुख्य फ़ंक्शन आरंभ करने की अनुमति देता है @{NAVIGATOR}. प्रत्येक फ़ंक्शन बटन के लिए प्रदर्शन किया गया है. साइटबार खीचते और छोड़ते समय जाया जा सकता है और कम से कम और साइडबार सीमा पर क्लिक करने के साथ बड़ा किया जा सकता है.
+HELP_CONTENT_CONTROL_T	सामग्री
+HELP_CONTENT_CONTROL_H	सामग्री उपलब्ध होने पर संकेत देता है. सामग्री के साथ मुख्य विंडो खोलता है.
+HELP_SEARCH_CONTROL_T	खोजें
+HELP_SEARCH_CONTROL_H	सामग्री खोज करने के लिए खोज खोलता है.
+HELP_EXTSEARCH_CONTROL_T	बाहरी खोज
+HELP_EXTSEARCH_CONTROL_H	सामग्री खोज करने के लिए बाहरी खोज खोलता है.
+HELP_STICKY_CONTROL_T	स्टिकी नोट जोडें
+HELP_STICKY_CONTROL_H	वर्तमान एप्लिकेशन विंडो के लिए स्टिकी नोट सम्मिलित करता है. अपने स्टिकी नोट के लिए आप टेक्स्ट दर्ज कर सकत
+HELP_RECORDING_CONTROL_T	रिकॉर्डिंग प्रारंभ करें
+HELP_RECORDING_CONTROL_H	प्रक्रिया की रिकॉर्डिंग प्रारंभ करता है. रिकॉर्ड की गई प्रक्रिया उपयोगकर्ता क्षेत्र में दस्तावेज़ के रूप में सहेजी जाएगी.
+HELP_MAIN_WINDOW_T	मुख्य विंडो
+HELP_MAIN_WINDOW_H	मुख्य विंडो विशिष्ट पृष्ठ प्रसंग के लिए उपलब्ध सामग्रियां दिखाता है.</br>निर्देशित यात्रा के प्लेबैक के दौरान, विंडो चरण सूची को प्रदर्शित करता है.
+HELP_HEADER_T	शीर्षलेख
+HELP_HEADER_H	शीर्षलेख में स्थिति आइकन यह इंगित करता है कि सामग्री वर्तमान प्रसंग के लिए उपलब्ध है.
+HELP_CONTENT_TAB_T	सामग्री टैब
+HELP_CONTENT_TAB_H	टैब वर्तमान एप्लिकेशन के लिए उपलब्ध सामग्री दिखाता है.
+HELP_CONTENT_VIEW_T	सामग्री दृश्य
+HELP_CONTENT_VIEW_H	सामग्री दृश्य चयनित सामग्री के लिए उपलब्ध जानकारी, मोड और दस्तावेजीकरण दिखाता है.</br>सामग्री सूची पर वापस जाने के लिए आप ‘वापस जाएं’ नियंत्रण का उपयोग कर सकते हैं.
+HELP_SEARCH_TAB_T	खोज टैब
+HELP_SEARCH_TAB_H	टैब पर आप अपने वर्तमान प्रसंग के लिए विशिष्ट प्रसंग खोज सकते हैं.
+HELP_INFO_TAB_T	सूचना टैब
+HELP_INFO_TAB_H	टैब, डेस्कटॉप सहायक के बारे में सामान्य जानकारी दिखाता है @{NAVIGATOR}.
+HELP_USERAREA_TAB_T	उपयोगकर्ता क्षेत्र टैब
+HELP_USERAREA_TAB_H	टैब में रिकॉर्ड किए गए प्रक्रिया दस्तावेज़ शामिल होते हैं. आप दस्तावेज़ को खोल सकते हैं, साझा कर सकते हैं या हटा सकते हैं. आप अग्रिम प्रक्रिया को रिकॉर्ड कर सकते हैं.
+HELP_INSTANT_T	तत्काल सहायता
+HELP_INSTANT_H	सक्रिय की गई सेटिंग के साथ अतिरिक्त प्रसंग जानकारी वर्तमान एप्लिकेशन स्क्रीन पर सीधे दिखाई देती है. सेटिंग डिफ़ॉल्ट रूप से सक्षम है.
+HELP_REQCONTENT_T	अनुरोध सामग्री
+HELP_REQCONTENT_H	लेखक से अनुपलब्ध प्रसंग का अनुरोध करने के लिए एक ई-मेल विंडो खोलता है.
+HELP_SETTINGS_T	सेटिंग
+HELP_SETTINGS_H	सेटिंग मेनु डेस्कटॉप सहायक सामग्री प्रदर्शन के लिए सेटिंग में @{NAVIGATOR} शामिल है.
+HELP_MYROLES_T	मेरी भूमिकाएं
+HELP_MYROLES_H	असाइन किए गए भूमिका के लिए सेटिंग सामग्री प्रदर्शित करता है
+HELP_WITHOUTROLES_T	भूमिकाओं के बिना सामग्री दिखाएं
+HELP_WITHOUTROLES_H	इस असाइन किए गए भूमिकाओं के बिना सेटिंग प्रदर्शित करता है.
+HELP_EDITROLES_T	भूमिकाएं
+HELP_EDITROLES_H	सामग्री के लिए प्रयुक्त सभी भूमिकाओं का सूचीबद्ध किया गया है और सामग्री प्रदर्शित करने के लिए सक्रिय या न
+HELP_SHARECONTENT_T	सामग्री का साझा करें
+HELP_SHARECONTENT_H	सामग्री के लिए लिंक के साथ डाएलॉग बॉक्स खोलें. लिंक अन्य उपयोगकर्ता के साथ साझा हो सकता है.
+HELP_REQUESTCONTENT_T	अनुरोध सामग्री
+HELP_REQUESTCONTENT_H	निर्दिष्ट केस हेतु अनुरोध सामग्री के लिए पूर्व-निर्धारित ई-मेल खोलते है.
+HELP_PLAYBACK_CONTENT_T	प्लेबैक प्रसंग
+HELP_PLAYBACK_CONTENT_H	उपलब्ध सामग्री को कनटेंट विंडो में दिए गए बटन का उपयोग करते समय प्रारंभ या खोला जा सकता है.
+HELP_MINIMIZED_STATUS_T	न्यूनतम स्थिति
+HELP_MINIMIZED_STATUS_H	अगर आप विंडो को बंद कर देते हैं, तो एक फ़्लोटिंग स्थिति आइकन यह इंगित करेगा कि सामग्री वर्तमान प्रसंग के लिए उपलब्ध है या नहीं. मुख्य विंडो को प्रतिस्थापित करने के लिए आइकन क्लिक करें.
+HELP_MINIMIZED_MENU_T	प्रसंग मेनू
+HELP_MINIMIZED_MENU_H	प्रसंग मेनू में (आइकन पर दायां माउस क्लिक करें) मुख्य विंडो और प्रसंग सहायता प्रदर्शित करने के फ़ंक्शन शामिल होते हैं.
+HELP_BOOK_WINDOW_T	बुक विंडो
+HELP_BOOK_WINDOW_H	बुक विंडो बुक को वापस खेलने के लिए खोला गया. मुख्य विंडो और सामग्री विंडो को छिपाया गया.
+HELP_GOTOTOP	शीर्ष पर जाएं
+HELP_CAPTION	@{NAVIGATOR} सहायता
+NAVHELP_TITLE	स्थिति आइकन और प्रसंग मेनु
+NAVHELP_INTRO	</br>सहायता आपको के मुख्य भागों और फ़ंक्शन के बारे में ओवरव्यू देता है.
+NAVHELP_STATUS_ICON_T	स्थिति आइकन (टास्कबार)
+NAVHELP_STATUS_ICON_H	स्थिति आइकन को टास्कबार में स्थित किया जाता है और वह @{NAVIGATOR} की वर्तमान गतिविधियां दिखाता है. निम्नलिखित स्थितियां हैं:
+NAVHELP_STATUS_FOUND_T	सामग्री उपलब्ध (हरा आइकन)
+NAVHELP_STATUS_FOUND_H	वर्तमान प्रसंग के लिए सामग्री उपलब्ध और प्रदर्शित है.
+NAVHELP_STATUS_CHECK_T	सामग्री लोड करना (पीला आइकन)
+NAVHELP_STATUS_CHECK_H	@{NAVIGATOR} उपलब्ध सामग्री के लिए वर्तमान संदर्भ की जाँच करता है और सामग्री लोड करता है.
+NAVHELP_STATUS_NOFOUND_T	कोई सामग्री उपलब्ध नहीं (लाल आइकन)
+NAVHELP_STATUS_NOFOUND_H	वर्तमान प्रसंग के लिए सामग्री उपलब्ध नहीं है.
+NAVHELP_STANDBY_T	अक्षम
+NAVHELP_STANDBY_H	@{NAVIGATOR} अक्षम है. स्थिति आइकन (<i>CTRL + F11</i>) पर क्लिक करने से @{NAVIGATOR} अक्षम या सक्षम होगा.
+NAVHELP_STATUS_MIN_T	छोटा किया गया
+NAVHELP_STATUS_MIN_H	विंडोज़ और साइडबार छोटे किए गए हैं.
+NAVHELP_STATUS_MENU_T	प्रसंग मेनू
+NAVHELP_STATUS_MENU_H	प्रसंग मेनू (आइकन पर दायां माउस क्लिक) में @{NAVIGATOR} के सामान्य फ़ंक्शन शामिल होते हैं.
+NAVHELP_VERSION_T	संस्करण दिखाएं
+NAVHELP_VERSION_H	इंस्टॉल किए गए @{NAVIGATOR} की संस्करण संख्या दिखाता है. यह समस्याओं की स्थिति में सहायता के साथ किसी भी संपर्क के लिए आवश्यक है.
+NAVHELP_JSCONSOLE_T	JavaScript कंसोल
+NAVHELP_JSCONSOLE_H	विस्तृत त्रुटि संदेश प्रदान करने के लिए JavaScript कंसोल दिखाता है. यह समस्याओं की स्थिति में सहायता के साथ किसी भी संपर्क के लिए आवश्यक है.
+NAVHELP_NAV_CACHE_T	स्थानीय संचय हटाएं
+NAVHELP_NAV_CACHE_H	@{NAVIGATOR} सामग्री के स्थानीय संचय को हटाता है.
+NAVHELP_RESET_HIDDEN_T	छिपे सहायता को फिर से दिखाएं
+NAVHELP_RESET_HIDDEN_H	प्लेबैक के दौरान "छिपाएं" पर सेट किए गए मदद तत्वों को रीसेट करता है.
+NAVHELP_EXIT_T	निकास
+NAVHELP_EXIT_H	प्लेबैक रोकता है और बंद करता है @{NAVIGATOR}.
+IDS_NAVP_ABOUT	संस्करण दिखाएं...
+IDS_NAVP_CONSOLE	JavaScript कंसोल...
+IDS_NAVP_DELETE_CACHE	स्थानीय संचय हटाएं
+IDS_NAVP_HOOKER	हुकर
+IDS_SEARCH_INPUT	सहायता सामग्री की खोज
+IDS_CLEAR_SEARCH	खोज साफ करें
+IDS_NAVP_CLOSE	निकास
+IDS_RESET_CURRENT	छिपे सहायाता तत्व को दुबारा दिखाएं
+IDS_RESET_ALL	छिपे सहायता को फिर से दिखाएं
+IDS_RESET_ALL_TIP	स्क्रीन पहली बार दर्ज करते समय सभी अक्षम संकेत को फिर से दिखाएं.
+IDS_OPEN_RECORD_LBL	खोलें
+IDS_EDIT_RECORD_LBL	नाम बदलें
+IDS_DELETE_RECORD_LBL	हटाएं
+IDS_SHARE_RECORD_LBL	साझा करें
+IDS_EXTERNAL_SEARCH_BTN	बाहरी खोज
+IDS_EXTERNAL_SEARCH_SUB_MENU	बाहरी खोज
+IDS_SHOW_SCREEN_ICON	डेस्कटॉप सहायक दिखाएं
+IDS_SHOW_DA	मुख्य विंडो दिखाएं
+IDS_SHOW_CONTENT	घटक दिखाएं
+IDS_HIDE_CONTENT	सामग्री छिपाएं
+IDS_SEARCH_BTN	खोजें
+IDS_REQUEST_CONTENT_BTN	अनुरोध सामग्री
+IDS_RECORDING_BTN	रिकॉर्डिंग प्रारंभ करें
+IDS_SHOW_CA_SWITCH	प्रसंग सहायता दिखाएं
+IDS_HIDE_CA_SWITCH	तत्काल सहायता छिपाएं
+IDS_CA_SWITCH_INACTIVE_BTN	कोई प्रसंग सहायता उपलब्ध नहीं
+IDS_DO_CTX_RECOGNITION	प्रसंग सहायता दिखाएं
+IDS_NAV_STANDBY	@{NAVIGATOR} अक्षम किया गया है.
+IDS_NAV_NO_STANDBY	@{NAVIGATOR} सक्षम किया गया है.
+IDS_SHOW_DA_PANELS	@{NAVIGATOR} अब फिर से उपलब्ध है. यदि आपको किसी सहायता की आवश्यकता है तो @{NAVIGATOR} आप उपयोग कर सकते हैं.
+IDS_HIDE_DA_PANELS	@{NAVIGATOR} आपके द्वारा वर्तमान में खोले गए एप्लिकेशन में उपयुक्त सहायता उपलब्ध होने पर अपने आप गायब हो जाता है. यदि आपको और सहायता की आवश्यकता हो तो बस आवेदन में सहायता खोलें.
+IDS_ADD_STICKY_NOTES_BTN	स्टिकी नोट जोडें
+IDS_ADD_STICKY_NOTES_INACTIVE_BTN	इस एप्लिकेशन के लिए आप केवल स्टिकी नोट जोड सकते है.
+IDS_EXIT_DA	निकास
+IDS_EXIT_DA_BTN	निकास
+IDS_EXIT_DA_SUB_MENU	निकास
+IDS_SHOW_MORE	अधिक दिखाएं
+IDS_HIDE_MORE	अधिक छिपाएं
+IDS_REQUEST_CONTENT_SUB_MENU	अनुरोध सामग्री
+IDS_SHOW_CA_SUB_MENU	प्रसंग सहायता दिखाएं
+IDS_HIDE_CA_SUB_MENU	तत्काल सहायता छिपाएं
+IDS_ADD_STICKY_NOTE_SUB_MENU	स्टिकी नोट जोडें
+IDS_RECORDING_SUB_MENU	रिकॉर्डिंग प्रारंभ करें
+IDS_CA_SWITCH_SUB_MENU	प्रसंग सहायता
+IDS_SHARE_DLG_CAPTION	दस्तावेज़ साझा करें
+IDS_DELETE_FRAMES	फ्रेम हटाएं
+OPEN_FOLDER	फ़ोल्डर खोलें
+SHARE_DOC	ई-मेल के माध्यम से साझा करें
+IDS_SHARE_DLG_TEXT	आप क्या करना चाहते हैं?
+IDS_SEARCH_BTN_SUB_MENU	खोज सामग्री
+IDS_LIBRARY_SEARCH_BTN_SUB_MENU	लाइब्रेरी में सामग्री खोजें
+GRACEFUL_DEGRADATION	नेटवर्क समस्या होने के कारण यह सुविधा अस्थायी रूप से अनुपलब्ध है. \n\n दोबारा फिर से प्रयास करें.
+SHARE_BTN	ई-मेल के माध्यम से साझा करें
+COPY_BTN	प्रति लिंक
+SHARE_MAIL_SUBJECT	अनुशंसित सामग्री
+SHARE_MAIL_HEADER	प्रिय उपयोगकर्ता,\n\nयह कंटेंट आपके लिए रुचिकर हो सकता है. \n\n
+SHARE_MAIL_FOOTER	शुभकामनाओं सहित,
+SHARE_MAIL_LINK	लिंक:\t
+SHARE_MAIL_CAPTION	कैप्शन:\t
+SHARE_TITLE	सामग्री का साझा करें
+SELECT_ASSET	प्रारंभ करने के लिए संपत्ति का चयन करें।
+ENTER_NAME	नाम दर्ज करें
+DELETE_RECORD_WRN	महत्वपूर्ण: यह कार्रवाई नहीं की जा सकती।
+MSG_PA_NEXT_LBL	अगला
+MSG_PA_STEP_LBL	चरण सूची
+TOGGLE_STEPLIST_TOOLTIP	चरण सूची दिखाएं/छिपाएं
+PREVIEW_STEP_TOOLTIP	पूर्वांचल चरण
+NEXT_STEP_TOOLTIP	अगला चरण के लिए जाएं
+PREV_STEP_TOOLTIP	पिछले चरण में जाएं
+ROLES_TITLE	डेस्कटॉप सहायक भूमिकाएं
+ROLES_LBL	भूमिका द्वारा फिल्टर सहायता सामग्री
+OK_CAPTION	ठीक
+CANCEL_CAPTION	रद्द करें
+BTN_YES	हां
+BTN_NO	नहीं
+DELETE_CONFIRM	क्या आप वाकई इस स्टिकी नोट को हटाना चाहते है?
+EXIT_CONFIRM	क्या आप वास्तव में बाहर निकलना चाहते हैं @{NAVIGATOR}?
+sticky_notes	स्टिकी नोट
+exit_da	निकास @{NAVIGATOR}
+STICKY_NOTE_DEFAULT_TEXT	अपने टेक्स्ट यहां जोड़ें.
+SEARCH_BTN_TOOLTIP	खोजें
+NEXT_BTN_TOOLTIP	अगला
+PREV_BTN_TOOLTIP	पिछला
+HIDE_BTN_TOOLTIP	केरोसेल छिपाएं
+IDS_PRJ_NAME	नाम दर्ज करें:
+IDS_APPLICATIONS	विंडो चुनें:
+IDS_PRJ_LANGUAGE	भाषा चुनें:
+IDS_FULL_SCREEN	पूर्ण स्क्रीन
+IDS_CHOOSE_APP_CAPTION	एप्लिकेशन चुनें
+IDS_RECORD_BTN	रिकॉर्ड करें
+IDS_ANALYZE_ACTIONS	कार्रवाइयों का विश्लेषण कर रहा है
+IDS_PARSE_PROJECT	पार्सिंग प्रोजेक्ट
+IDS_REGION	क्षेत्र
+IDS_AREA_HELP	नीचे दिए टेम्पलेट का चयन करके क्षेत्र आकार बदलें. क्षेत्र का चयन करने के लिए लाल आयत को मापें या पूर्ण स्क्रीन का चयन करें.
+IDS_CHOOSE_SIZE	आकार चुनें:
+IDS_DEFINE_REC_AREA	रिकॉर्डिंग क्षेत्र
+IDS_DEFINE_NAME_LANG	जनरेट सामग्री
+PLEASE_SELECT	कृपया चयन करें
+quick_recorder.help_caption	युक्ति
+quick_recorder.help	विराम करने या जारी रखने के लिए \"PAUSE\" कुंजी का उपयोग करें. \nसमाप्त करने के लिए \"END\" कुंजी का उपयोग करें. \n\nरिकॉर्डिंग शुरू करने के लिए "ठिक" पर क्लिक करें.
+quick_recorder.audio_help	विराम करने या जारी रखने के लिए \"PAUSE\" कुंजी का उपयोग करें. \nसमाप्त करने के लिए \"END\" कुंजी का उपयोग करें. \n\nAudio:\nYour audio is not recorded during a click. संबंधित नियंत्रण का चयन करने से पहले अपना टेक्स्ट बोलें. \n\nरिकॉर्डिंग शुरू करने के लिए "ठिक" पर क्लिक करें.
+FILE_EXISTS	एक हीं नाम से फ़ाइल पहले से मौजूद है. अलग नाम दर्ज करें.
+HELP_EXIT_CONTROL_H	प्लेबैक रोकता है और बंद करता है @{NAVIGATOR}.
+HELP_EXIT_CONTROL_T	निकास
+BTN_CLOSE_DLG	बंद करें
+DELETE_RECORD_WRN	महत्वपूर्ण: यह कार्रवाई नहीं की जा सकती।
+ENTER_NAME	नाम दर्ज करें
+IDS_CLEAR_SEARCH	खोज साफ करें
+IDS_RESET_ALL_TIP	स्क्रीन पहली बार दर्ज करते समय सभी अक्षम संकेत को फिर से दिखाएं.
+IDS_SEARCH_INPUT	सहायता सामग्री की खोज
+LBL_DELETE	हटाएं
+LBL_NAVI_NO_MATCH	आपके खोज के लिए कोई परिणाम नहीं है.
+LBL_TU	खोलें
+MSG_PA_NEXT_LBL	अगला
+MSG_PA_STEP_LBL	चरण सूची
+RENAME_FAILED	विफल संचालन नाम बदलें.
+ROLES_LBL	भूमिका द्वारा फिल्टर सहायता सामग्री
+SELECT_ASSET	प्रारंभ करने के लिए संपत्ति का चयन करें।
+LBL_CDOC	खोलें
+LBL_RECORD_DOCUMENT	रिकॉर्ड दस्तावेज़
+QR_CAPTION	रिकॉर्डिंग आउटपुट चयन करें
+QR_WELCOME	आप क्या बनाना चाहते हैं?
+QR_DOC_CAP	दस्तावेज़
+QR_DOC_TXT	Microsoft वर्ड दस्तावेज़ बनाता है जो स्क्रीनशॉट दिखाता है और आपके द्वारा रिकॉर्ड की गई प्रत्येक कार्रवाई के लिए निर्देश
+QR_VIDEO_CAP	वीडियो
+QR_VIDEO_TXT	आपकी रिकॉर्डिंग की उच्च-मात्रा वीडियो बनाता है.
+QR_DOC_VIDEO_CAP	दस्तावेज़ और वीडियो
+QR_DOC_VIDEO_TXT	दस्तावेज़ और वीडियो बनाता है.
+SHARE_ERR_CAP	रिकॉर्डिंग साझा नहीं की जा सकती है
+SHARE_ERR_TXT	यह रिकॉर्डिंग ईमेल के माध्यम से साझा करने के लिए बहुत बड़ी है.\nक्या आप इसके बजाय फ़ाइल स्थान खोलना चाहेंगे?
+HELP_CONTENT_WINDOW_H	सामग्री विंडो उपलब्ध जानकारी दिखाता है.</br>इस सामग्री विंडो को मुख्य विंडो पर डॉक किया जा सकता है, जो आपको स्क्रीन पर दोनों विंडो को एक साथ स्थानांतरित करने की अनुमति देता है.
+HELP_CONTENT_WINDOW_T	सामग्री विंडो
+IDS_CONTENT_BTN	सामग्री
+MSG_PA_STEP_NOT_FOUND_NUMERAL_1	1.
+MSG_PA_STEP_NOT_FOUND_NUMERAL_2	2.
+SHARE_URL	वर्तमान पृष्ठ का URL:

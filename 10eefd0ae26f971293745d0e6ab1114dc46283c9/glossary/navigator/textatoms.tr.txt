@@ -1,0 +1,313 @@
+﻿#	İngilizce metin atomları
+BULLET	&#149;
+NEWLINE	\r\n
+TOK_COMPANY	SAP
+TOK_LIB	Kurs
+TOK_TOUR	Ders
+TOK_TRAINER	Desktop Assistant
+TOK_AUTOMATION	epo
+NAVIGATOR	Desktop Assistant
+NAV_LIBRARY	library
+BTN_ABORT	Çık
+BTN_CLOSE	Çık
+BTN_OK	Tamam
+BTN_CLOSE_DLG	Kapat
+BTN_CONTINUE	Devam
+BTN_PREVIEW	Önizleme
+BTN_PROCEED	Devam et
+BTN_RESTART	Yeniden başlat
+BTN_SKIP	Adımı atla
+BTN_START	Başlat
+BTN_STOP	Durdur
+BTN_EXECUTE	Yürüt
+CA_SWITCH	Bağlam yardımı
+CONTENT_CAP	İçerik
+MAIL_SUBJECT	Masaüstü yardımcısı için içerik talebi
+MAIL_HEADER	Sayın yazan,\n\n şunun için içerik talep etmek istiyorum:
+MAIL_FOOTER	- Süreç/işlem: Lütfen şu anda kullanılan uygulama sürecini tanımlayın. \n\n- Tanım: Lütfen ihtiyacınız olan bilgiyi tanımlayın. \n\nSaygılarımızla,
+MAIL_DATA	- Uygulama adı:
+MAIL_TOOLTIP	İçerik talep et
+SHARE_TOOLTIP	İçeriği paylaş
+REQUEST_TEXT	İçerik talep etmek için %s tıkla
+REQUEST_LINK	burada
+SEARCH_CAP	Arama
+INFO_CAP	Bilgi
+SETTINGS_CAP	Ayarlar
+BACK_TOOLTIP	Geri
+SHARE_CONTENT_TOOLTIP	İçeriği paylaş
+CB_HIDE_OPTION	Artık gösterme
+MY_ROLES	Rollerim
+EDIT_ROLES	Rolleri değiştir
+NO_ROLES	Roller olmadan içerik
+SELECT_ALL_CAPTION	Tümünü seç
+USER_CAPTION	Kullanıcı alanı
+READ_MORE	Daha fazla oku...
+NO_CATEGORY_CAPTION	Diğer içerik
+DELETE_FAILED	Silme işlemi başarısız oldu.
+RENAME_FAILED	Yeniden adlandırma işlemi başarısız oldu.
+FILE_EXISTS	Aynı ada sahip dosya zaten mevcut. Farklı ad girin.
+LBL_YES	Evet
+LBL_DELETE	Sil
+LBL_NO	Hayır
+LBL_OK	Tamam
+DELETE_DLG_TEXT	Seçilen belgeleri (%N) silmeyi gerçekten istiyor musunuz?
+LBL_CONCURRENT	Eşzamanlı modu başlat
+LBL_DA	Masaüstü yardımcısı
+LBL_SIM	Simülasyonu başlat
+LBL_CDOC	Aç
+LBL_DEMO	Demo modunu başlat
+LBL_NAVI	Rehberli turu başlat
+LBL_BOOK	Kitabı oynat
+LBL_GROUP	Kitaplıkta aç
+LBL_NAVIGATION	Masaüstü yardımcısı
+LBL_PA	Rehberli tur
+LBL_PRACTICE	Alıştırma modunu başlat
+LBL_SIMULATION	Simülasyon
+LBL_BOOKPAGE	Kitap sayfasını göster
+LBL_TEST	Test modunu başlat
+LBL_RECORD_DOCUMENT	Kayıt belgesi
+MSG_AUTOMATION_FINISHED	Otomasyon sonlandı
+MSG_AUTOMATION_FINISHED_2	Otomatik süreci yeniden başlatmak için 'Yeniden başlat'a tıklayın.
+MSG_AUTOMATION_START	Giriş değerlerini düzenle
+MSG_AUTOMATION_START_2	Aşağıdaki değerleri kontrol edin veya düzenleyin. Bu değerler, süreç sırasında otomatik olarak girilecektir.
+MSG_EPO_DIALOG	Elektronik süreç optimizasyon programı
+MSG_NAVI_LIBRARY_NO_APP	Bilgi mevcut değil.
+LBL_NAVI_NO_MATCH	Aramanız için sonuç yok.
+NO_RECORDS	Hiç belge yok.
+MSG_NAVI_LIBRARY_SUBTITLE	Mevcut içerikler:
+MSG_NAVI_LIBRARY_TITLE	Masaüstü yardımcısı
+MSG_NOT_APPLICABLE	Düzenlenemez
+MSG_PA_CONTROL_STEP	Adım için gerekli işlem:
+MSG_PA_EXPLANATION_STEP	Aşağıda gösterilen ekrana gidin.
+MSG_PA_FORM_STEP	Formda dolsurulması gereken alanlar:
+MSG_PA_DIALOG	Rehberli tur
+MSG_PA_START_SCREEN	Başlangıç ekranını açın.
+MSG_PA_STEP_NOT_FOUND	Gerekli ekrana geçin
+MSG_PA_STEP_NOT_FOUND1	Hedef uygulamanın (@{TARGETAPPNAME}) açık olduğundan emin olun.
+MSG_PA_STEP_NOT_FOUND2	Aşağıda gösterilen vurgulu denetim içeren ekrana gidin.
+MSG_STEP_LIGHT	Adım önizlemesi
+MSG_STEP_NOT_FOUND	Rehberli tur adımı bulunamadı.
+MSG_STEP_NOT_FOUND_2	Hedef uygulamanın başlık çubuğuna tıklayın veya doğru ekrana gidin.<br><br>Gerekli ekranı görüntülemek için 'Önizleme’ seçeneğine tıklayın.
+PA_FINISHED	Rehberli tur sonlandırıldı.
+PROJECT_TITLE	Proje başlığı
+TRAY_INFO_BUBBLE_HEADING	Rehberli tur
+TRAY_INFO_BUBBLE_TEXT	Geçerli adım görüntülenemiyor. Daha fazla bilgi için buraya tıklayın.
+RESTRICTED_BUBBLE_HEADING	Eylem engellendi
+RESTRICTED_BUBBLE_TEXT	Geçerli adım doğrulanana kadar hiçbir eylem yürütemezsiniz.
+HELP_TITLE	Yardım
+HELP_INTRO	Yardım, @{NAVIGATOR} ana parçaları ve işlevlerine genel bakış sağlar.</br></br><b>Not:</b> Mevcut işlevler, @{NAVIGATOR} konfigürasyonuna bağlıdır.</br>
+HELP_TITLE_DA	Kenar çubuğu ve pencereler
+HELP_SIDEBAR_T	Kenar çubuğu
+HELP_SIDEBAR_H	Bu kenar çubuğu, @{NAVIGATOR} ana işlevlerini başlatmanızı sağlar. Her işlev için bir düğme görüntülenir. Kenar çubuğu sürükle ve bırak aracılığıyla taşınabilir ve kenar çubuğu kenarlığına tıklatıldığında simge durumuna küçültülebilir veya ekran boyutuna getirilebilir.
+HELP_CONTENT_CONTROL_T	İçerik
+HELP_CONTENT_CONTROL_H	İçeriğin kullanılabilir olup olmadığını gösterir. İçerikle ana pencereyi açar.
+HELP_SEARCH_CONTROL_T	Arama
+HELP_SEARCH_CONTROL_H	Arama içeriği için aramayı açar
+HELP_EXTSEARCH_CONTROL_T	Harici arama
+HELP_EXTSEARCH_CONTROL_H	İçerik arama için harici aramayı açar.
+HELP_STICKY_CONTROL_T	Yapışkan not ekle
+HELP_STICKY_CONTROL_H	Geçerli uygulama penceresi için yapışkan not ekler. Yapışkan not için metin girebilirsiniz.
+HELP_RECORDING_CONTROL_T	Kaydı başlat
+HELP_RECORDING_CONTROL_H	Bir sürecin kaydını başlatır. Kayıtlı süreç Kullanıcı alanında bir belge olarak kaydedilir.
+HELP_MAIN_WINDOW_T	Ana pencere
+HELP_MAIN_WINDOW_H	Ana pencere belirli bir sayfa bağlamı için mevcut içerikleri gösterir.</br>Rehberli turun kayıttan yürütülmesi sırasında pencere, adım listesini gösterir.
+HELP_HEADER_T	Başlık
+HELP_HEADER_H	Başlıktaki durum ikonu mevcut bağlam için içeriğin mevcut olup olmadığını gösterir.
+HELP_CONTENT_TAB_T	Geçerli sekme
+HELP_CONTENT_TAB_H	Sekme, geçerli uygulama için kullanılabilir içeriği gösterir.
+HELP_CONTENT_VIEW_T	İçerik görünümü
+HELP_CONTENT_VIEW_H	İçerik görünümü seçilen içerik için kullanılabilir bilgiyi, modları ve dokümantasyonu gösterir.</br>İçerik listesine geri dönmek için 'Geri' denetimini kullanabilirsiniz.
+HELP_SEARCH_TAB_T	Arama sekmesi
+HELP_SEARCH_TAB_H	Sekmede geçerli bağlam için belirli içeriği araştırabilirsiniz.
+HELP_INFO_TAB_T	Bilgi sekmesi
+HELP_INFO_TAB_H	Sekme, @{NAVIGATOR} hakkında genel bilgileri gösterir.
+HELP_USERAREA_TAB_T	Kullanıcı alanı sekmesi
+HELP_USERAREA_TAB_H	Sekme, kayıtlı süreç belgelerini içerir. Bir belgeyi açabilir, paylaşabilir veya silebilirsiniz. Başka süreçleri de kaydedebilirsiniz.
+HELP_INSTANT_T	Anlık yardım
+HELP_INSTANT_H	Etkinleştirilen ayarla ek bağlam bilgileri geçerli uygulama ekranında sağda gösterilir. Ayarlama varsayılan olarak etkinleştirilir.
+HELP_REQCONTENT_T	Talep içeriği
+HELP_REQCONTENT_H	Yazandan talep edilen eksik içerik için e-posta penceresi açar.
+HELP_SETTINGS_T	Ayarlar
+HELP_SETTINGS_H	Görünüm, @{NAVIGATOR} içeriğinin görüntüsü için ayarları içermektedir.
+HELP_MYROLES_T	Rollerim
+HELP_MYROLES_H	Bu ayar tayin edilmiş rol için içeriği görüntüler.
+HELP_WITHOUTROLES_T	Roller olmadan içerik
+HELP_WITHOUTROLES_H	Bu ayar tayin edilen rollere sahip olmayan içeriği görüntüler.
+HELP_EDITROLES_T	Roller
+HELP_EDITROLES_H	İçerik için kullanılan tüm roller listelenir ve içeriği görüntülemek için etkinleştirilebilir veya devre dışı bırakılabilir.
+HELP_SHARECONTENT_T	İçeriği paylaş
+HELP_SHARECONTENT_H	Bağlantıya ilişkin bağlantıyı içeren bir diyalog kutusu açar. Bağlantı başka kullanıcılar ile paylaşılabilir.
+HELP_REQUESTCONTENT_T	Talep içeriği
+HELP_REQUESTCONTENT_H	Belirli bir olaya ilişkin içeriği talep etmek için ön tanımlı e-posta açar.
+HELP_PLAYBACK_CONTENT_T	Kayıttan yürütme içeriği
+HELP_PLAYBACK_CONTENT_H	İçerik penceresindeki düğmeler kullanılarak mevcut içerik başlatılabilir veya açılabilir.
+HELP_MINIMIZED_STATUS_T	Küçültülen durum
+HELP_MINIMIZED_STATUS_H	Ana pencereyi kapattığınız takdirde kayan durum ikonu hala geçerli bağlam için içerik mevcut olup olmadığını gösterecektir. Ana pencereyi geri yüklemek için ikona tıklayın.
+HELP_MINIMIZED_MENU_T	Bağlam menüsü
+HELP_MINIMIZED_MENU_H	İçerik menüsü (ikona sağ fare tıklaması) ana pencere ve bağlam yardımı görüntüleme işlevlerini içerir.
+HELP_BOOK_WINDOW_T	Kitap penceresi
+HELP_BOOK_WINDOW_H	Kitap oynatıldığında kitap penceresi açılır. Ana pencere ve içerik penceresi gizlenir.
+HELP_GOTOTOP	Yukarıya git
+HELP_CAPTION	@{NAVIGATOR} yardımı
+NAVHELP_TITLE	Durum ikonu ve bağlam menüsü
+NAVHELP_INTRO	</br>Yardım, size durum ikonu ve bağlam menüsü girişleri hakkında genel bakış sunar.
+NAVHELP_STATUS_ICON_T	Durum ikonu (görev çubuğu)
+NAVHELP_STATUS_ICON_H	Durum ikonu görev çubuğunda konumlandırılır ve geçerli @{NAVIGATOR} aktivitelerini gösterir. Şu durumlar mevcuttur:
+NAVHELP_STATUS_FOUND_T	İçerik mevcut (yeşil ikon)
+NAVHELP_STATUS_FOUND_H	İçerik geçerli bağlam için mevcuttur ve görüntülenir.
+NAVHELP_STATUS_CHECK_T	İçerik yükleniyor (sarı ikon)
+NAVHELP_STATUS_CHECK_H	@{NAVIGATOR} ,mevcut içerik için geçerli bağlamı kontrol eder ve içeriği yükler.
+NAVHELP_STATUS_NOFOUND_T	İçerik mevcut değil (kırmızı ikon)
+NAVHELP_STATUS_NOFOUND_H	Geçerli bağlam için içerik mevcut.
+NAVHELP_STANDBY_T	Devre dışı bırakıldı
+NAVHELP_STANDBY_H	@{NAVIGATOR} devre dışı bırakıldı. Durum ikonuna (<i>CTRL + F11</i>) tıklanması halinde @{NAVIGATOR} devre dışı bırakılır veya etkinleştirilir.
+NAVHELP_STATUS_MIN_T	Simge durumuna küçültüldü
+NAVHELP_STATUS_MIN_H	Pencereler ve kenar çubuğu simge durumuna küçültülür.
+NAVHELP_STATUS_MENU_T	Bağlam menüsü
+NAVHELP_STATUS_MENU_H	Bağlam menüsü (ikonda sağ fare tıklaması) @{NAVIGATOR} genel işlevlerini içerir.
+NAVHELP_VERSION_T	Versiyonu göster
+NAVHELP_VERSION_H	Kurulu @{NAVIGATOR} versiyon numarasını gösterir. Bu, problemler durumunda destekle herhangi bir irtibat için gereklidir.
+NAVHELP_JSCONSOLE_T	JavaScript konsolu
+NAVHELP_JSCONSOLE_H	Ayrıntılı hata iletilerini sağlamak için JavaScript konsolunu gösterir. Bu, problemler durumunda destekle herhangi bir irtibat için gereklidir.
+NAVHELP_NAV_CACHE_T	Yerel önbelleği sil
+NAVHELP_NAV_CACHE_H	@{NAVIGATOR} içeriğinin yerel önbelleğini siler.
+NAVHELP_RESET_HIDDEN_T	Tüm gizli yardımı yeniden göster
+NAVHELP_RESET_HIDDEN_H	Kayıttan yürütme sırasında 'Gizli' olarak belirlenen yardım öğelerini geri alır.
+NAVHELP_EXIT_T	Çıkış
+NAVHELP_EXIT_H	Kayıttan yürütmeyi durdurur ve @{NAVIGATOR}'ı kapatır.
+IDS_NAVP_ABOUT	Versiyonu göster...
+IDS_NAVP_CONSOLE	JavaScript konsolu...
+IDS_NAVP_DELETE_CACHE	Yerel önbelleği sil
+IDS_NAVP_HOOKER	Hooker
+IDS_SEARCH_INPUT	Yardım içeriği ara
+IDS_CLEAR_SEARCH	Aramayı temizle
+IDS_NAVP_CLOSE	Çıkış
+IDS_RESET_CURRENT	Gizli yardım öğesini yeniden göster
+IDS_RESET_ALL	Tüm gizli yardımı yeniden göster
+IDS_RESET_ALL_TIP	Ekran ilk adı girerken tüm etkinliği kaldırılan ipuçlarını yeniden göster.
+IDS_OPEN_RECORD_LBL	Aç
+IDS_EDIT_RECORD_LBL	Yeniden adlandır
+IDS_DELETE_RECORD_LBL	Sil
+IDS_SHARE_RECORD_LBL	Paylaş
+IDS_EXTERNAL_SEARCH_BTN	Harici arama
+IDS_EXTERNAL_SEARCH_SUB_MENU	Harici arama
+IDS_SHOW_SCREEN_ICON	Masaüstü yardımcısını göster
+IDS_SHOW_DA	Ana pencereyi göster
+IDS_SHOW_CONTENT	İçeriği göster
+IDS_HIDE_CONTENT	İçeriği gizle
+IDS_SEARCH_BTN	Arama
+IDS_REQUEST_CONTENT_BTN	İçerik talep et
+IDS_RECORDING_BTN	Kaydı başlat
+IDS_SHOW_CA_SWITCH	Bağlam yardımını göster
+IDS_HIDE_CA_SWITCH	Bağlam yardımını gizle
+IDS_CA_SWITCH_INACTIVE_BTN	Kullanılabilir bağlam yardımı yok
+IDS_DO_CTX_RECOGNITION	Bağlam yardımını göster
+IDS_NAV_STANDBY	@{NAVIGATOR} devre dışı bırakıldı.
+IDS_NAV_NO_STANDBY	@{NAVIGATOR} etkinleştirildi.
+IDS_SHOW_DA_PANELS	@{NAVIGATOR} şimdi tekrar kullanılabilir. Yardıma ihtiyacınız olursa @{NAVIGATOR} kullanabilirsiniz.
+IDS_HIDE_DA_PANELS	@{NAVIGATOR} şu anda açtığınız uygulamada uygun yardım bulunduğundan otomatik olarak kayboldu. Daha fazla yardım gerekiyorsa uygulamadaki yardımı açın.
+IDS_ADD_STICKY_NOTES_BTN	Yapışkan not ekle
+IDS_ADD_STICKY_NOTES_INACTIVE_BTN	Bu uygulama için yalnız bir yapışkan not ekleyebilirsiniz.
+IDS_EXIT_DA	Çık
+IDS_EXIT_DA_BTN	Çık
+IDS_EXIT_DA_SUB_MENU	Çık
+IDS_SHOW_MORE	Daha fazla göster
+IDS_HIDE_MORE	Daha fazla gizle
+IDS_REQUEST_CONTENT_SUB_MENU	İçerik talep et
+IDS_SHOW_CA_SUB_MENU	Bağlam yardımını göster
+IDS_HIDE_CA_SUB_MENU	Bağlam yardımını gizle
+IDS_ADD_STICKY_NOTE_SUB_MENU	Yapışkan not ekle
+IDS_RECORDING_SUB_MENU	Kaydı başlat
+IDS_CA_SWITCH_SUB_MENU	Bağlam yardımı
+IDS_SHARE_DLG_CAPTION	Belgeyi paylaş
+IDS_DELETE_FRAMES	Silme çerçeveleri
+OPEN_FOLDER	Klasörü aç
+SHARE_DOC	E-posta aracılığıyla paylaş
+IDS_SHARE_DLG_TEXT	Ne yapmak istersiniz?
+IDS_SEARCH_BTN_SUB_MENU	İçerik ara
+IDS_LIBRARY_SEARCH_BTN_SUB_MENU	Kitaplıkta içerik ara
+GRACEFUL_DEGRADATION	Bu özellik ağ sorunları nedeniyle geçici olarak kullanılamıyor. \n\nDaha sonra tekrar deneyin.
+SHARE_BTN	E-posta aracılığıyla paylaş
+COPY_BTN	Bağlantıyı kopyala
+SHARE_MAIL_SUBJECT	Önerilen içerik
+SHARE_MAIL_HEADER	Sayın kullanıcı,\n\nBu içerik ilginizi çekebilir. \n\n
+SHARE_MAIL_FOOTER	Saygılarımla,
+SHARE_MAIL_LINK	Bağlantı:\t
+SHARE_MAIL_CAPTION	Başlık:\t
+SHARE_TITLE	İçeriği paylaş
+SELECT_ASSET	Başlatılacak duran varlık seçin.
+ENTER_NAME	Ad gir
+DELETE_RECORD_WRN	Önemli: Bu işlem geri alınamaz.
+MSG_PA_NEXT_LBL	Sonraki
+MSG_PA_STEP_LBL	Adım listesi
+TOGGLE_STEPLIST_TOOLTIP	Adım listesini göster/gizle
+PREVIEW_STEP_TOOLTIP	Önizleme adımı
+NEXT_STEP_TOOLTIP	Sonraki adıma git
+PREV_STEP_TOOLTIP	Önceki adıma git
+ROLES_TITLE	Masaüstü yardımcısı rolleri
+ROLES_LBL	Yardım içeriğini role göre filtrele
+OK_CAPTION	Tamam
+CANCEL_CAPTION	İptal et
+BTN_YES	Evet
+BTN_NO	Hayır
+DELETE_CONFIRM	Bu yapışkan notu silmek istediğinizden emin misiniz?
+EXIT_CONFIRM	Gerçekten @{NAVIGATOR}'dan çıkmak istiyor musunuz?
+sticky_notes	Yapışkan notlar
+exit_da	@{NAVIGATOR}'dan çık
+STICKY_NOTE_DEFAULT_TEXT	Metninizi buraya ekleyin.
+SEARCH_BTN_TOOLTIP	Arama
+NEXT_BTN_TOOLTIP	İleri
+PREV_BTN_TOOLTIP	Önceki
+HIDE_BTN_TOOLTIP	Karuseli gizle
+IDS_PRJ_NAME	Ad gir:
+IDS_APPLICATIONS	Pencere seç:
+IDS_PRJ_LANGUAGE	Dili seç:
+IDS_FULL_SCREEN	Tam ekran
+IDS_CHOOSE_APP_CAPTION	Uygulama seç
+IDS_RECORD_BTN	Kaydet
+IDS_ANALYZE_ACTIONS	Eylemler analiz ediliyor...
+IDS_PARSE_PROJECT	Proje ayrıştırılıyor...
+IDS_REGION	Bölge
+IDS_AREA_HELP	Aşağıdan şablon seçerek bölge boyutunu değiştirin. Bölge seçmek için kırmızı dikdörtgeni ölçeklendirin veya tam ekran seçeneğini belirleyin.
+IDS_CHOOSE_SIZE	Boyut seç:
+IDS_DEFINE_REC_AREA	Kayıt alanı
+IDS_DEFINE_NAME_LANG	İçerik oluştur
+PLEASE_SELECT	Lütfen seçin
+quick_recorder.help_caption	İpucu
+quick_recorder.help	Duraklatmak veya devam etmek için "PAUSE" tuşunu kullanın. \nSonlandırmak için "END" tuşunu kullanın. \n\nKaydı başlatmak "TAMAM" seçeneğini belirleyin.
+quick_recorder.audio_help	Duraklatmak veya devam etmek için "PAUSE" tuşunu kullanın.\nSonlandırmak için "END" tuşunu kullanın.\n\nSes:\nTıklama sırasında sesiniz kaydedilmez. Denetimi seçmeden önce metninizi söyleyin. \n\nKaydı başlatmak için "TAMAM" seçeneğini belirleyin.
+FILE_EXISTS	Aynı ada sahip dosya zaten mevcut. Farklı ad girin.
+HELP_EXIT_CONTROL_H	Kayıttan yürütmeyi durdurur ve @{NAVIGATOR}'ı kapatır.
+HELP_EXIT_CONTROL_T	Çık
+BTN_CLOSE_DLG	Kapat
+DELETE_RECORD_WRN	Önemli: Bu işlem geri alınamaz.
+ENTER_NAME	Ad gir
+IDS_CLEAR_SEARCH	Aramayı temizle
+IDS_RESET_ALL_TIP	Ekran ilk adı girerken tüm etkinliği kaldırılan ipuçlarını yeniden göster.
+IDS_SEARCH_INPUT	Yardım içeriği ara
+LBL_DELETE	Sil
+LBL_NAVI_NO_MATCH	Aramanız için sonuç yok.
+LBL_TU	Aç
+MSG_PA_NEXT_LBL	Sonraki
+MSG_PA_STEP_LBL	Adım listesi
+RENAME_FAILED	Yeniden adlandırma işlemi başarısız oldu.
+ROLES_LBL	Yardım içeriğini role göre filtrele
+SELECT_ASSET	Başlatılacak duran varlık seçin.
+LBL_CDOC	Aç
+LBL_RECORD_DOCUMENT	Kayıt belgesi
+QR_CAPTION	Kayıt çıktısını seç
+QR_WELCOME	Ne oluşturmak istiyorsunuz?
+QR_DOC_CAP	Belge
+QR_DOC_TXT	Kaydettiğiniz her bir eylem için bir ekran görüntüsünün ve talimat metninin gösterildiği bir Microsoft Word belgesi oluşturur.
+QR_VIDEO_CAP	Video
+QR_VIDEO_TXT	Kaydınızın yüksek kaliteli bir videosunu oluşturur.
+QR_DOC_VIDEO_CAP	Belge ve video
+QR_DOC_VIDEO_TXT	Bir belge ve video oluşturur.
+SHARE_ERR_CAP	Kayıt paylaşılamıyor
+SHARE_ERR_TXT	Bu kayıt e-posta yoluyla paylaşmak için çok büyük.\nBunun yerine bir dosya konumu açmak ister misiniz?
+HELP_CONTENT_WINDOW_H	İçerik penceresi size pencerenin seçilen içeriği için mevcut bilgileri, modları ve dokümantasyonu gösterir.</br>İçerik penceresi her iki pencereyi ekranda birlikte hareket ettirmenizi sağlayan ana pencereye yerleştirilebilir.
+HELP_CONTENT_WINDOW_T	İçerik penceresi
+IDS_CONTENT_BTN	İçerik
+MSG_PA_STEP_NOT_FOUND_NUMERAL_1	1.
+MSG_PA_STEP_NOT_FOUND_NUMERAL_2	2.
+SHARE_URL	Geçerli sayfanın URL'si:

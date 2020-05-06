@@ -1,0 +1,313 @@
+﻿#	英语文本原子
+BULLET	&#149;
+NEWLINE	\r\n
+TOK_COMPANY	SAP
+TOK_LIB	课程
+TOK_TOUR	课程
+TOK_TRAINER	Desktop Assistant
+TOK_AUTOMATION	epo
+NAVIGATOR	Desktop Assistant
+NAV_LIBRARY	library
+BTN_ABORT	退出
+BTN_CLOSE	退出
+BTN_OK	确定
+BTN_CLOSE_DLG	关闭
+BTN_CONTINUE	继续
+BTN_PREVIEW	预览
+BTN_PROCEED	继续
+BTN_RESTART	重新启动
+BTN_SKIP	跳过步骤
+BTN_START	开始
+BTN_STOP	停止
+BTN_EXECUTE	执行
+CA_SWITCH	上下文帮助
+CONTENT_CAP	内容
+MAIL_SUBJECT	Desktop Assistant 的内容请求
+MAIL_HEADER	作者您好！\n\n我想要请求以下内容：
+MAIL_FOOTER	- 流程/事务：请描述当前使用的应用程序流程。\n\n- 描述：请描述所需信息。\n\n祝好！
+MAIL_DATA	- 应用程序名称：
+MAIL_TOOLTIP	请求内容
+SHARE_TOOLTIP	共享内容
+REQUEST_TEXT	单击 %s 请求内容
+REQUEST_LINK	此处
+SEARCH_CAP	搜索
+INFO_CAP	信息
+SETTINGS_CAP	设置
+BACK_TOOLTIP	返回
+SHARE_CONTENT_TOOLTIP	共享内容
+CB_HIDE_OPTION	不再显示
+MY_ROLES	我的角色
+EDIT_ROLES	更改角色
+NO_ROLES	显示不含角色的内容
+SELECT_ALL_CAPTION	全选
+USER_CAPTION	用户范围
+READ_MORE	阅读更多信息...
+NO_CATEGORY_CAPTION	其他内容
+DELETE_FAILED	删除操作失败。
+RENAME_FAILED	重命名操作失败。
+FILE_EXISTS	同名文件已存在。请输入其他名称。
+LBL_YES	是
+LBL_DELETE	删除
+LBL_NO	否
+LBL_OK	确定
+DELETE_DLG_TEXT	是否确实要删除所选文档 (%N)？
+LBL_CONCURRENT	启动并发模式
+LBL_DA	Desktop Assistant
+LBL_SIM	启动模拟
+LBL_CDOC	打开
+LBL_DEMO	启动显示模式
+LBL_NAVI	开始向导浏览
+LBL_BOOK	播放书
+LBL_GROUP	在库中打开
+LBL_NAVIGATION	Desktop Assistant
+LBL_PA	向导浏览
+LBL_PRACTICE	启动练习模式
+LBL_SIMULATION	模拟
+LBL_BOOKPAGE	显示书页
+LBL_TEST	启动测试模式
+LBL_RECORD_DOCUMENT	录制文档
+MSG_AUTOMATION_FINISHED	自动操作已结束
+MSG_AUTOMATION_FINISHED_2	点击“重启”，以重新启动自动操作进程。
+MSG_AUTOMATION_START	编辑输入值
+MSG_AUTOMATION_START_2	检查或者编辑下列值。这类值会在进程中自动输入。
+MSG_EPO_DIALOG	电子流程优化器
+MSG_NAVI_LIBRARY_NO_APP	不存在可用信息。
+LBL_NAVI_NO_MATCH	没有符合搜索的结果。
+NO_RECORDS	没有可用文档。
+MSG_NAVI_LIBRARY_SUBTITLE	可用内容：
+MSG_NAVI_LIBRARY_TITLE	Desktop Assistant
+MSG_NOT_APPLICABLE	不可编辑
+MSG_PA_CONTROL_STEP	步骤所需操作：
+MSG_PA_EXPLANATION_STEP	导航到下面显示的屏幕。
+MSG_PA_FORM_STEP	表单中待填充的必填字段：
+MSG_PA_DIALOG	向导浏览
+MSG_PA_START_SCREEN	请打开启动屏幕。
+MSG_PA_STEP_NOT_FOUND	请切换至所需屏幕
+MSG_PA_STEP_NOT_FOUND1	确保目标应用程序 (@{TARGETAPPNAME}) 已打开。
+MSG_PA_STEP_NOT_FOUND2	导航至包含下面显示的突出显示控件的屏幕。
+MSG_STEP_LIGHT	步骤预览
+MSG_STEP_NOT_FOUND	未找到向导浏览步骤。
+MSG_STEP_NOT_FOUND_2	请单击目标应用程序标题栏或者导航至正确屏幕。<br><br>单击“预览”，查看所需屏幕。
+PA_FINISHED	向导浏览已完成。
+PROJECT_TITLE	项目标题
+TRAY_INFO_BUBBLE_HEADING	向导浏览
+TRAY_INFO_BUBBLE_TEXT	无法显示当前步骤。请单击此处获取详细信息。
+RESTRICTED_BUBBLE_HEADING	操作已阻止
+RESTRICTED_BUBBLE_TEXT	确认当前步骤前，您无法执行任何操作。
+HELP_TITLE	帮助
+HELP_INTRO	该帮助可提供 @{NAVIGATOR} 主要构成和功能的概览。</br></br><b>注意：</b>可用功能取决于 @{NAVIGATOR} 的配置。</br>
+HELP_TITLE_DA	侧边栏和窗口
+HELP_SIDEBAR_T	侧边栏
+HELP_SIDEBAR_H	侧边栏用于启动 @{NAVIGATOR} 的主要功能。针对每种功能显示一个按钮。可通过拖放操作移动侧边栏，并且可单击侧边栏边框缩放侧边栏。
+HELP_CONTENT_CONTROL_T	内容
+HELP_CONTENT_CONTROL_H	指示内容是否可用。打开含该内容的主窗口。
+HELP_SEARCH_CONTROL_T	搜索
+HELP_SEARCH_CONTROL_H	打开用于搜索内容的搜索功能。
+HELP_EXTSEARCH_CONTROL_T	外部搜索
+HELP_EXTSEARCH_CONTROL_H	打开外部搜索来搜索内容。
+HELP_STICKY_CONTROL_T	添加便笺
+HELP_STICKY_CONTROL_H	为当前应用程序窗口插入便笺。可为您的便笺输入文本。
+HELP_RECORDING_CONTROL_T	开始录制
+HELP_RECORDING_CONTROL_H	开始录制流程。录制的流程将另存为用户范围中的文档。
+HELP_MAIN_WINDOW_T	主窗口
+HELP_MAIN_WINDOW_H	主窗口显示特定页面上下文的可用内容。</br>回放向导浏览期间，该窗口会显示步骤列表。
+HELP_HEADER_T	标题
+HELP_HEADER_H	标题中的状态图标指示内容对于当前上下文是否可用。
+HELP_CONTENT_TAB_T	内容标签
+HELP_CONTENT_TAB_H	标签显示当前应用程序的可用内容。
+HELP_CONTENT_VIEW_T	内容查看
+HELP_CONTENT_VIEW_H	内容视图显示所选内容的可用信息、模式和文档。</br>您可以使用“返回”控件返回到内容列表。
+HELP_SEARCH_TAB_T	搜索标签
+HELP_SEARCH_TAB_H	可在该标签中搜索当前上下文的特定内容。
+HELP_INFO_TAB_T	信息标签
+HELP_INFO_TAB_H	该标签显示 @{NAVIGATOR} 的常规信息。
+HELP_USERAREA_TAB_T	用户范围标签
+HELP_USERAREA_TAB_H	该标签包含录制的流程文档。您可以打开、共享或删除文档。您可以录制更多流程。
+HELP_INSTANT_T	即时帮助
+HELP_INSTANT_H	激活该设置后，当前应用程序屏幕上会显示附加上下文信息。该设置缺省为启用。
+HELP_REQCONTENT_T	请求内容
+HELP_REQCONTENT_H	打开电子邮件窗口以向作者请求缺少的内容。
+HELP_SETTINGS_T	设置
+HELP_SETTINGS_H	该视图包含用于显示 @{NAVIGATOR} 内容的设置。
+HELP_MYROLES_T	我的角色
+HELP_MYROLES_H	此设置显示所分配角色的内容。
+HELP_WITHOUTROLES_T	显示不含角色的内容
+HELP_WITHOUTROLES_H	此设置显示不含所分配角色的内容。
+HELP_EDITROLES_T	角色
+HELP_EDITROLES_H	内容所用的所有角色将列出并可激活或取消激活以显示内容。
+HELP_SHARECONTENT_T	共享内容
+HELP_SHARECONTENT_H	打开包含内容链接的对话框。可与其他用户共享该链接。
+HELP_REQUESTCONTENT_T	请求内容
+HELP_REQUESTCONTENT_H	打开预定义电子邮件以请求特定内容。
+HELP_PLAYBACK_CONTENT_T	回放内容
+HELP_PLAYBACK_CONTENT_H	可使用内容窗口中的按钮启动或打开可用内容。
+HELP_MINIMIZED_STATUS_T	最小化状态
+HELP_MINIMIZED_STATUS_H	关闭主窗口后，会有一个浮动状态图标指示内容对于当前上下文是否可用。单击该图标可恢复主窗口。
+HELP_MINIMIZED_MENU_T	上下文菜单
+HELP_MINIMIZED_MENU_H	上下文菜单（右键单击图标）包含显示主窗口和上下文帮助的功能。
+HELP_BOOK_WINDOW_T	书窗口
+HELP_BOOK_WINDOW_H	回放书时将打开书窗口。主窗口和内容窗口将隐藏。
+HELP_GOTOTOP	转到顶部
+HELP_CAPTION	@{NAVIGATOR} 帮助
+NAVHELP_TITLE	状态图标和上下文菜单
+NAVHELP_INTRO	</br>帮助概括介绍了状态图标和上下文菜单条目。
+NAVHELP_STATUS_ICON_T	状态图标（任务栏）
+NAVHELP_STATUS_ICON_H	状态图标位于任务栏中，可显示 @{NAVIGATOR} 的当前活动。具有以下状态：
+NAVHELP_STATUS_FOUND_T	内容可用（绿色图标）
+NAVHELP_STATUS_FOUND_H	内容对于当前上下文可用并已显示出来。
+NAVHELP_STATUS_CHECK_T	正在加载内容（黄色图标）
+NAVHELP_STATUS_CHECK_H	@{NAVIGATOR} 检查当前上下文的可用内容并加载内容。
+NAVHELP_STATUS_NOFOUND_T	无可用内容（红色图标）
+NAVHELP_STATUS_NOFOUND_H	内容对于当前上下文不可用。
+NAVHELP_STANDBY_T	已禁用
+NAVHELP_STANDBY_H	@{NAVIGATOR} 已禁用。单击状态图标 (<i>CTRL + F11</i>) 会禁用或启用 @{NAVIGATOR}。
+NAVHELP_STATUS_MIN_T	最小化
+NAVHELP_STATUS_MIN_H	最小化窗口和侧边栏。
+NAVHELP_STATUS_MENU_T	上下文菜单
+NAVHELP_STATUS_MENU_H	上下文菜单（在图标上单击鼠标右键）包括 @{NAVIGATOR} 的常规功能。
+NAVHELP_VERSION_T	显示版本
+NAVHELP_VERSION_H	显示所安装的 @{NAVIGATOR} 的版本号。 一旦出现问题需要联系支持部门时必须提供此信息。
+NAVHELP_JSCONSOLE_T	JavaScript 控制台
+NAVHELP_JSCONSOLE_H	显示 JavaScript 控制台以提供详细的错误消息。 一旦出现问题需要联系支持部门时必须提供此信息。
+NAVHELP_NAV_CACHE_T	删除本地缓存
+NAVHELP_NAV_CACHE_H	删除 @{NAVIGATOR} 内容的本地缓存。
+NAVHELP_RESET_HIDDEN_T	再次显示所有隐藏帮助
+NAVHELP_RESET_HIDDEN_H	重置已在回放期间设置为“隐藏”的帮助要素。
+NAVHELP_EXIT_T	退出
+NAVHELP_EXIT_H	停止回放并关闭 @{NAVIGATOR}。
+IDS_NAVP_ABOUT	显示版本...
+IDS_NAVP_CONSOLE	JavaScript 控制台...
+IDS_NAVP_DELETE_CACHE	删除本地缓存
+IDS_NAVP_HOOKER	挂接器
+IDS_SEARCH_INPUT	搜索帮助内容
+IDS_CLEAR_SEARCH	清除搜索
+IDS_NAVP_CLOSE	退出
+IDS_RESET_CURRENT	再次显示隐藏帮助要素
+IDS_RESET_ALL	再次显示所有隐藏帮助
+IDS_RESET_ALL_TIP	首次进入屏幕时再次显示所有已禁用提示。
+IDS_OPEN_RECORD_LBL	打开
+IDS_EDIT_RECORD_LBL	重命名
+IDS_DELETE_RECORD_LBL	删除
+IDS_SHARE_RECORD_LBL	共享
+IDS_EXTERNAL_SEARCH_BTN	外部搜索
+IDS_EXTERNAL_SEARCH_SUB_MENU	外部搜索
+IDS_SHOW_SCREEN_ICON	显示 Desktop Assistant
+IDS_SHOW_DA	显示主窗口
+IDS_SHOW_CONTENT	显示内容
+IDS_HIDE_CONTENT	隐藏内容
+IDS_SEARCH_BTN	搜索
+IDS_REQUEST_CONTENT_BTN	请求内容
+IDS_RECORDING_BTN	开始录制
+IDS_SHOW_CA_SWITCH	显示上下文帮助
+IDS_HIDE_CA_SWITCH	隐藏上下文帮助
+IDS_CA_SWITCH_INACTIVE_BTN	未提供上下文帮助
+IDS_DO_CTX_RECOGNITION	显示上下文帮助
+IDS_NAV_STANDBY	@{NAVIGATOR} 已禁用。
+IDS_NAV_NO_STANDBY	@{NAVIGATOR} 已启用。
+IDS_SHOW_DA_PANELS	@{NAVIGATOR} 现在重新可用。如果您需要任何帮助，可以使用 @{NAVIGATOR}。
+IDS_HIDE_DA_PANELS	如果您当前打开的应用程序中有适当的帮助，@{NAVIGATOR} 会自动消失。如果您需要进一步帮助，只需打开应用程序中的帮助。
+IDS_ADD_STICKY_NOTES_BTN	添加便笺
+IDS_ADD_STICKY_NOTES_INACTIVE_BTN	只能为此应用程序添加一个便笺。
+IDS_EXIT_DA	退出
+IDS_EXIT_DA_BTN	退出
+IDS_EXIT_DA_SUB_MENU	退出
+IDS_SHOW_MORE	显示更多
+IDS_HIDE_MORE	隐藏更多
+IDS_REQUEST_CONTENT_SUB_MENU	请求内容
+IDS_SHOW_CA_SUB_MENU	显示上下文帮助
+IDS_HIDE_CA_SUB_MENU	隐藏上下文帮助
+IDS_ADD_STICKY_NOTE_SUB_MENU	添加便笺
+IDS_RECORDING_SUB_MENU	开始录制
+IDS_CA_SWITCH_SUB_MENU	上下文帮助
+IDS_SHARE_DLG_CAPTION	共享文档
+IDS_DELETE_FRAMES	删除框架
+OPEN_FOLDER	打开文件夹
+SHARE_DOC	通过电子邮件共享
+IDS_SHARE_DLG_TEXT	您想执行何种操作？
+IDS_SEARCH_BTN_SUB_MENU	搜索内容
+IDS_LIBRARY_SEARCH_BTN_SUB_MENU	在库中搜索内容
+GRACEFUL_DEGRADATION	由于网络问题，此功能暂时不可用。\n\n请稍后重试。
+SHARE_BTN	通过电子邮件共享
+COPY_BTN	复制链接
+SHARE_MAIL_SUBJECT	建议内容
+SHARE_MAIL_HEADER	用户您好！\n\n您可能对此内容感兴趣。 \n\n
+SHARE_MAIL_FOOTER	此致
+SHARE_MAIL_LINK	链接：\t
+SHARE_MAIL_CAPTION	标题：\t
+SHARE_TITLE	共享内容
+SELECT_ASSET	选择要开始的资产。
+ENTER_NAME	输入名称
+DELETE_RECORD_WRN	重要事项：此操作无法撤消。
+MSG_PA_NEXT_LBL	下一个
+MSG_PA_STEP_LBL	步骤列表
+TOGGLE_STEPLIST_TOOLTIP	显示/隐藏步骤列表
+PREVIEW_STEP_TOOLTIP	预览步骤
+NEXT_STEP_TOOLTIP	转到下一步
+PREV_STEP_TOOLTIP	转到上一步
+ROLES_TITLE	Desktop Assistant 角色
+ROLES_LBL	按角色过滤帮助内容
+OK_CAPTION	确定
+CANCEL_CAPTION	取消
+BTN_YES	是
+BTN_NO	否
+DELETE_CONFIRM	是否确定删除此便笺？
+EXIT_CONFIRM	是否确实要退出 @{NAVIGATOR}？
+sticky_notes	便笺
+exit_da	退出 @{NAVIGATOR}
+STICKY_NOTE_DEFAULT_TEXT	在此处添加您的文本。
+SEARCH_BTN_TOOLTIP	搜索
+NEXT_BTN_TOOLTIP	下一个
+PREV_BTN_TOOLTIP	上一个
+HIDE_BTN_TOOLTIP	隐藏轮播控件
+IDS_PRJ_NAME	输入名称：
+IDS_APPLICATIONS	选择窗口：
+IDS_PRJ_LANGUAGE	选择语言：
+IDS_FULL_SCREEN	全屏
+IDS_CHOOSE_APP_CAPTION	选择应用程序
+IDS_RECORD_BTN	录制
+IDS_ANALYZE_ACTIONS	分析操作...
+IDS_PARSE_PROJECT	正在解析项目...
+IDS_REGION	区域
+IDS_AREA_HELP	通过选择以下模板更改区域大小。调整红色矩形以选择区域或选择全屏。
+IDS_CHOOSE_SIZE	选择大小：
+IDS_DEFINE_REC_AREA	录制范围
+IDS_DEFINE_NAME_LANG	生成内容
+PLEASE_SELECT	请选择
+quick_recorder.help_caption	提示
+quick_recorder.help	使用 "PAUSE" 键暂停或继续。\n使用 "END" 键完成。\n\n选择“确定”开始录制。
+quick_recorder.audio_help	使用 "PAUSE" 键暂停或继续。\n使用 "END" 键完成。\n\n音频：\n在单击的过程中未录制您的音频。在选择控件之前说出您的文本。\n\n选择“确定”开始录制。
+FILE_EXISTS	同名文件已存在。请输入其他名称。
+HELP_EXIT_CONTROL_H	停止回放并关闭 @{NAVIGATOR}。
+HELP_EXIT_CONTROL_T	退出
+BTN_CLOSE_DLG	关闭
+DELETE_RECORD_WRN	重要事项：此操作无法撤消。
+ENTER_NAME	输入名称
+IDS_CLEAR_SEARCH	清除搜索
+IDS_RESET_ALL_TIP	首次进入屏幕时再次显示所有已禁用提示。
+IDS_SEARCH_INPUT	搜索帮助内容
+LBL_DELETE	删除
+LBL_NAVI_NO_MATCH	没有符合搜索的结果。
+LBL_TU	打开
+MSG_PA_NEXT_LBL	下一个
+MSG_PA_STEP_LBL	步骤列表
+RENAME_FAILED	重命名操作失败。
+ROLES_LBL	按角色过滤帮助内容
+SELECT_ASSET	选择要开始的资产。
+LBL_CDOC	打开
+LBL_RECORD_DOCUMENT	录制文档
+QR_CAPTION	选择录制输出
+QR_WELCOME	想要创建什么内容？
+QR_DOC_CAP	文档
+QR_DOC_TXT	为录制的每个操作创建显示截屏和说明文本的 Microsoft Word 文档。
+QR_VIDEO_CAP	视频
+QR_VIDEO_TXT	创建录制的高质量视频。
+QR_DOC_VIDEO_CAP	文档和视频
+QR_DOC_VIDEO_TXT	创建文档和视频。
+SHARE_ERR_CAP	无法共享录制
+SHARE_ERR_TXT	此录制过大，无法通过电子邮件共享。\n是否要打开文件位置？
+HELP_CONTENT_WINDOW_H	内容窗口显示主窗口所选内容的可用信息、模式和文档。</br>可将内容窗口停靠在主窗口上，这样可同时在屏幕上移动这两个窗口。
+HELP_CONTENT_WINDOW_T	内容窗口
+IDS_CONTENT_BTN	内容
+MSG_PA_STEP_NOT_FOUND_NUMERAL_1	1.
+MSG_PA_STEP_NOT_FOUND_NUMERAL_2	2.
+SHARE_URL	当前页面的 URL：

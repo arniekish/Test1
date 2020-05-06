@@ -1,0 +1,18 @@
+{
+sidebar_border: '#3BBCEF',
+sidebar_fill: '#009DE0',
+sidebar_size: 'medium',
+
+dialog_outer_border: '#3BBCEF',
+dialog_border: '#009DE0',
+dialog_frame_fill: '#009DE0',
+dialog_inner_border: '#009DE0',
+dialog_inner_fill: '#FFFFFF',
+dialog_title_text: '#FFFFFF',
+
+submenu_text: '#FFFFFF',
+submenu_text_selected: '#FFFFFF',
+submenu_text_disabled: '#66C4EC',
+submenu_selection_fill: '#30C9F4',
+submenu_selection_border: '#66E8FF'
+}

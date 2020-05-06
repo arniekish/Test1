@@ -1,0 +1,765 @@
+﻿NAVIGATOR	Desktop Assistant
+XRAY	Web Assistant
+LIBRARY	library
+MANAGER	Manager
+form_bubble	Dymek formularza
+bform_height	Wysokość
+bform_height.h	Definiuje wysokość dymku formularza do wyświetlenia (w pikselach).
+bform_width	Szerokość
+bform_width.h	Definiuje szerokość dymku formularza do wyświetlenia (w pikselach).
+bform_position	Pozycja
+bform_position.h	Definiuje pozycję dymku formularza (z lewej, na górze) do "dowolnego" wyrównania na ekranie. Wartości podane w pikselach.
+paramAutoMergeComplete	Zakończono łączenie ekranów.
+form	Formularz
+application_contexts	Aplikacja
+﻿Application	Aplikacja
+highlight_offset	Przesunięcie
+AutoBarChooseApp	Wybór aplikacji
+AutoBarReRecManual	Należy kliknąć obiekt.
+BubbleOnActivate	Bezpośrednie wyświetlanie dymku
+ClickOnAAPosition	Aby zdefiniować prostokąt, należy kliknąć aplikację.
+ClickOnPosition	Należy kliknąć pozycję w aplikacji.
+EnabledOnPgLoad	Aktywacja
+HighlightOnActivate	Bezpośrednie wyświetlanie podświetlenia
+start_from_arbitrary	Rozpoczęcie od dowolnego kroku
+focus_step	Warstwa fokusu
+focus_step.h	Tylko przewodnik\nWyświetla szarą warstwę, aby podświetlić wymagany obiekt sterowania bieżącego kroku.
+yes	Tak
+no	Nie
+light_mode	Tryb interaktywny
+light_mode.h	Określa, że użytkownik musi nawigować do kolejnego etapu w dymku obiektu. Podczas odtwarzania strony nie są rozpoznawane.
+restricted_mode	Tryb ograniczony
+restricted_mode.h	Definiuje, że można wykonać tylko bieżącą czynność. Inne obiekty sterowania dla strony aplikacji zostaną zablokowane. \nTego ustawienia można użyć, jeśli aktywowano opcję 'Warstwa fokusu'.
+show_highlight	Podświetlenia
+action	Czynność
+active_area	Aktywny obszar
+add_application_expl	Wstawianie objaśnienia
+adv	Zaawansowane
+display_behavior	Zachowanie wyświetlania
+all_values	Wszystkie wartości
+anim_steps	Kroki animacji
+application_context	Aplikacja
+area	Obszar
+auto_merge	Łączenie makr ekranu
+b_height	Wysokość
+form_on	Tryb formularza
+b_percent	Dymek widoczny (%)
+b_hide_option	Opcja ukrywania
+b_minimizable	Możliwe do minimalizacji
+b_closable	Możliwe do zamknięcia
+b_minimized	Zminimalizowane
+b_width	Szerokość
+b_width.h	Definiuje szerokość dymku obiektu w pikselach.
+bmain_minimizable	Możliwe do minimalizacji
+bmain_position	Pozycja
+bmain_win_style	Styl
+bmain_size	Rozmiar
+bmain_alignment	Wyrównanie
+bubble	Dymek obiektu
+bubble_offset	Przesunięcie
+bubblestyle_d	Styl
+bubblestyle_init	Styl dymku
+choose_appl_template	Wybór profilu aplikacji
+choose_bool	Wybrana wartość
+choose_nr	Wybrany indeks
+choose_text	Wybrana wartość
+target_static_text	jest zap. jako 'ID strony'.
+target_spec_warning	Ostrzeżenie: Brak dostępnych inf. do pon. zapisu dla tego obiektu sterowania.
+prev_step	Poprzedni krok
+next_step	Następny krok
+click	Czynność myszką
+click_pos	Kliknięcie pozycji
+click_pos_rel	Pozycja dymku
+config_file	Profil aplikacji
+define_target	Ekran
+display	Edycja głównego dymku
+display_name	Wyświetlana nazwa
+drag	Przeciąganie
+drop	Upuszczanie
+dump_page	Zrzut ekranu
+elem_bubble	Dymek obiektu
+element_type	Typ obiektu
+enabled	Aktywne
+optional	Opcjonalne
+enter	Umieszczenie kursora myszy w obrębie elementu
+executable	Aplikacja
+explanation_d	Tekst
+explanation_d_modified	Tłumaczenie ręczne
+explanation_long	Objaśnienie
+fh_mouseover	Pomoc przy użyciu mouseover
+fh_onelem	Ikona
+fh_tooltip	Objaśnienie
+fh_bubble	Dymek
+step_list	Lista kroków
+fieldicon	Obraz obiektu
+fieldname	Nazwa obiektu
+find	Szukanie
+AutoBarChooseScn	Proszę kliknąć na odpowiedni ekran
+frame	Ramka
+g_highlight_bgr	Kolor
+g_highlight_border	Obramowanie
+g_highlight_effect	Efekt
+global	Globalne
+hide_on_focuslost	Ukrywanie na utraconym fokusie
+hilight	Podświetlenie
+input_radio	Przycisk/pole wyboru
+input_text	Tekst wprowadzania
+init	Inicjalizacja
+key	Klawisz
+key_desc	Klawisz skrótu
+key_name	Kod klawisza
+key_press	Naciśnięcie klawisza
+lclick	Kliknięcie lewym przyciskiem
+ldblclick	Dwukrotne kliknięcie lewym przyciskiem
+force_display	Wymuszanie wyświetlania
+auto_execute	Automatyczne wykonanie
+show_confirmation	Wyświetlanie przycisku potwierdzenia
+show_confirmation.h	Definiuje, czy podczas odtwarzania w dymku obiektu wyświetlany jest przycisk potwierdzenia. Przycisk umożliwia użytkownikowi zatwierdzanie wykonywanej czynności, a następnie wyświetlany jest kolejny krok.
+link_to_sim	Wstawianie odsyłacza symulacji
+macro_comment	Komentarz
+main_bubble	Okno
+match_value	Porównanie wartości
+mini_on_focuslost	Minimalizacja na utraconym fokusie
+enable_tincan	Śledzenie @{NAVIGATOR}
+nav_check_freq	Aktualizacja częstotliwości (min)
+navigation	Asystent pulpitu
+new_screen_context	Nowy ekran
+no_spike	Bez ostrego końca
+pa_caption	Przewodnik
+none	Brak
+objname	Nazwa obiektu
+orientation	Orientacja
+path	Ścieżka obiektu
+position	Pozycja
+rclick	Kliknięcie prawym przyciskiem myszy
+rdblclick	Dwukrotne kliknięcie prawym przyciskiem
+record_activearea	Zapis aktywnego obszaru
+record_application_context	Zapis aplikacji
+no_control	Brak dostępnego obiektu w klikniętej pozycji.
+record_control	Zapis obiektu
+record_control_pa	Zapis kroku przewodnika
+record_define_target	Zapis ekranu
+record_display	Edycja głównego dymku
+record_end_display	Edycja dymku
+record_explanation	Dodawanie objaśnienia
+record_object_context	Zapis obiektu
+record_screen_context	Zapis ekranu
+record_target_specializer	Zapis ID strony
+record_compatible_application	Zapis kompatybilnej aplikacji
+reference	Źródło
+regexp	Wyrażenie regularne
+replace	Zastąpienie
+replace_continue	Zastąpienie i kontynuacja...
+replace_pgkey_attr	Zastępowanie atrybutów klucza strony
+error_regexp	Nieprawidłowe wyrażenie regularne. Proszę poprawić wpis.
+resize	Zmiana rozmiaru okna
+revision	Weryfikacja
+sc_config_header	Informacje o profilu
+screen	Ekran
+screenhelp	Pomoc ekranu
+screenshot_rect	Pozycja zrzutu ekranu
+select_single	Wybór pojedynczy
+selected_merge	Łączenie wybranych makr ekranu
+show_bubble	Wyświetlanie bezpośrednie
+show_hilight	Wyświetlanie podświetlenia
+show_on_focus	Wyświetlanie na fokusie
+source	Źródło
+start_unit	Styl pomocy kontekstowej
+subkey	Dozwolone jako klucz podrzędny
+script	Skrypt
+target_name	Tytuł
+target_specializer	ID strony
+text_d	Tekst wprowadzania
+text_d_specializer	Tekst wprowadzania
+tolerance	Łączenie makr ekranu — tolerancja
+translate	Automatyczne tłumaczenie
+autoTranslate	Tłumaczenie projektu
+paramReRecordLanguage	Język
+merge_critical_macros	Automatyczne łączenie makr
+merge_critical_macros.h	Jeśli użytkownik wykonuje konwersję symulacji na nawigacje, może automatycznie połączyć ekrany, które zostały w ten sposób utworzone. Są one łączone przy użyciu wartości tolerancji ustalonej w parametrze 'Łączenie makr Ekran — tolerancja'.
+uid	UID
+underline	Podkreślenie
+update_control	Aktualizacja obiektu
+update_target	Aktualizacja ekranu
+variant	Wariant
+win_rect	Rozmiar okna
+wizCancel	Anulowanie
+wizFinish	Zakończenie
+wizNext	Następne
+wizOk	OK
+wizExplanation	Objaśnienie
+wizContinue	Kontynuacja
+app_info	Wyświetlanie aplikacji
+app_link_to_sim	Wstawianie odsyłacza symulacji dla aplikacji
+screen_info	Wyświetlanie ekranu
+screen_link_to_sim	Wstawianie odsyłacza symulacji dla ekranu
+object_info	Wariant wyświetlania
+object_link_to_sim	Wstawianie odsyłacza symulacji
+disabled	Wyłączone
+record_context_assistant_include	Uwzględnianie projektu @{NAVIGATOR}
+project_id	Tytuł projektu
+project_id.h	Parametr zawiera wstawiony projekt. Przycisk 'Edycja odsyłacza' umożliwia wybór projektu w obszarze roboczym.
+project	Projekt
+context_assistant_include	Projekt asystenta pulpitu
+open_expanded	Wyświetlanie zaawansowanego dymku głównego
+restart_option	Ponowne uruchomienie przycisku
+next_project_id	Następny projekt
+next_project_id.h	Ta opcja definiuje projekt, który zostanie uruchomiony po zakończeniu bieżącego procesu. Nowy proces zostanie uruchomiony bezpośrednio, bez wyświetlania dymku końcowego.
+end_unit	Koniec procesu
+add_end_unit	Dodawanie końca procesu
+demo	Tryb demonstracyjny
+uebung	Tryb ćwiczeń
+praxis	Tryb równoczesny
+test	Tryb testowy
+doc	Dokument Microsoft Word
+pdf	Dokument PDF
+html	Dokument HTML
+ppt	Dokument Powerpoint
+explanation_type	Ikona
+note	Uwaga
+info	Informacja
+tipp	Wskazówka
+warnung	Ostrzeżenie
+no_image	Bez ikony
+display_on	Wyświetlanie głównego dymku na
+nav_start	Rozpoczęcie nawigacji
+app_focus	Fokus aplikacji
+screen_focus	Fokus ekranu
+never	Bez wyświetlania
+list_type	Typ listy dla ekranu
+list_type.h	Ten parametr określa typ listy obiektów na ekranie, w przypadku gdy aktywna jest opcja 'Wyświetlanie wszystkich informacji o obiektach'.
+unordered_list	Symbole wyliczania
+ordered_list	Numerowanie
+convert_sn	Generowanie asystenta pulpitu
+Application	Aplikacja
+obj_context	Obiekt
+expl_context	Objaśnienie
+record_cntrl_type	Typ
+disable_standby	Dezaktywacja statusu gotowości (@{NAVIGATOR})
+disable_standby.h	Definiuje, że ustawienie statusu gotowości dla funkcjonalności @{NAVIGATOR} jest niemożliwe. Jeśli ta opcja jest dezaktywowana, możliwe jest ustawienie statusu gotowości za pomocą skrótu klawiszy 'CTRL + F11' lub kliknięcia ikony statusu.
+disable_exit	Ukrywanie wpisu EXIT (@{NAVIGATOR})
+disable_exit.h	Definiuje, że wpis 'EXIT' w menu kontekstowym ikony statusu funkcjonalności @{NAVIGATOR} jest ukryty.
+bcontent_style	Styl dymku
+bcontent_style.h	To ustawienie definiuje, jaki styl dymku ma być używany do wyświetlania dymku.
+cache_properties	Cache
+cache_folder	Lokalizacja folderu
+cache_folder.h	Określa lokalizację folderu cache 'NavigatorCache'. Domyślna lokalizacja to '%localappdata%'. Użytkownik może wprowadzić niestandardową lokalizację. \nUwaga: Nie można zmienić nazwy folderu cache.
+use_caching	Stosowanie zarządzania cache
+use_caching.h	Aktywuje użycie cache funkcjonalności @{NAVIGATOR}.
+function_keys	Klawisze funkcyjne
+minimize_da	Minimalizacja
+minimize_da.h	Definiuje klawisz funkcyjny do minimalizacji okna głównego.
+next_tab	Wybór nowej zakładki
+next_tab.h	Definiuje klawisz funkcyjny do wyboru nowej zakładki w oknie głównym.
+next_screen	Przejście do następnego ekranu
+next_screen.h	Określa klawisz funkcyjny dla nawigacji do następnego ekranu dla wybranego projektu.
+back	Powrót
+back.h	Określa klawisz funkcyjny do przechodzenia do poprzedniego ekranu.
+toggle_standby	Przełączanie na tryb gotowości
+toggle_standby.h	Definiuje klawisz funkcyjny dla przełączania na tryb gotowości.
+abort	Przerwanie
+abort.h	Definiuje klawisz funkcyjny do przerwania działania asystenta pulpitu.
+restart	Ponowne uruchomienie
+restart.h	Definiuje klawisz funkcyjny do ponownego uruchamiania asystenta pulpitu.
+start_pa	Rozpoczęcie projektu asystenta pulpitu
+start_pa.h	Definiuje klawisz funkcyjny do rozpoczynania wybranego projektu.
+start_demo	Uruchamianie trybu demonstracyjnego
+start_demo.h	Definiuje klawisz funkcyjny do uruchamiania wybranego trybu demonstracyjnego.
+start_prac	Rozpoczęcie trybu ćwiczeń
+start_prac.h	Definiuje klawisz funkcyjny dla rozpoczynania wybranego trybu ćwiczeń.
+start_test	Rozpoczęcie trybu testowego
+start_test.h	Definiuje klawisz funkcyjny dla rozpoczynania wybranego trybu testowego.
+start_concur	Uruchamianie trybu równoczesnego
+start_concur.h	Definiuje klawisz funkcyjny do uruchamiania wybranego trybu równoczesnego.
+start_book	Rozpoczęcie księgi
+start_book.h	Definiuje klawisz funkcyjny do rozpoczęcia wybranej księgi.
+start_group	Otwieranie w bibliotece
+start_group.h	Określa klawisz funkcyjny dla otwierania grupy w bibliotece.
+toggle_ctx_rec	Przełączanie na rozpoznawanie kontekstu
+toggle_ctx_rec.h	Definiuje klawisz funkcyjny dla przełączania na rozpoznawanie kontekstu asystenta pulpitu.
+select_next	Wybór następnej zawartości
+select_next.h	Określa klawisz funkcyjny dla wyboru następnego wpisu w bieżącym widoku.
+select_prev	Wybór poprzedniego wpisu
+select_prev.h	Określa klawisz funkcyjny dla wyboru poprzedniego wpisu w bieżącym widoku.
+toggle_warning	Wyświetlanie okna dialogowego ostrzeżenia
+toggle_warning.h	Definiuje klawisz funkcyjny dla wyśw. okna dialogowego ostrz. asystenta pulpitu
+execute_step	Wykonanie kroku
+execute_step.h	Definiuje klawisz funkcyjny do wykonania kroku podczas odtwarzania przewodnika.
+copy_link	Kopiowanie odsyłacza
+copy_link.h	Określa klawisz funkcyjny dla kopiowania łącza wybranej encji.
+maximize_trainer	Zmaksymalizuj okno z zawartością
+maximize_trainer.h	Definiuje klawisz funkcyjny do maksymalizacji okna z zawartością.
+share_email	Udostępnianie przez wiadomość e-mail
+share_email.h	Określa klawisz funkcyjny dla udostępniania zawartości wybranej encji przez wiadomość e-mail.
+start_default	Uruchamianie domyślnej zawartości
+start_default.h	Określa klawisz funkcyjny dla uruchamiania domyślnego trybu lub wybranego dokumentu.
+show_da_help	Wyświetlanie pomocy asystenta pulpitu
+show_da_help.h	Określa klawisz funkcyjny dla otwierania pomocy asystenta pulpitu.
+request_content	Żądanie zawartości
+request_content.h	Określa klawisz funkcjonalny dla żądania zawartości dla strony aplikacji.
+search_content	Wyszukiwanie zawartości
+search_content.h	Określa klawisz funkcyjny dla wyszukiwania zawartości na podstawie wybranego rodzaju wyszukiwania.
+show_hidden_elems	Wyświetlanie ukrytych elementów pomocy
+show_hidden_elems.h	Określa klawisz funkcyjny dla wyświetlania ukrytych elementów pomocy.
+toggle_side_bar	Wyświetlanie/ukrywanie paska bocznego
+toggle_side_bar.h	Określa klawisz funkcyjny dla wyświetlania i ukrywania paska bocznego.
+content_library	Asystent pulpitu — zawartość i zachowanie
+content_library_window	Asystent pulpitu — styl i okna
+content_library_sidebar	Asystent pulpitu — pasek boczny
+style	Styl
+style.h	Definiuje wygląd składników asystenta pulpitu (główne okno, okno zawartości, ikona statusu). Należy wybrać zasób stylu z listy.
+show_only_bar	Wyświetlanie tylko paska bocznego po uruchomieniu
+show_only_bar.h	Definiuje, czy po uruchomieniu asystenta pulpitu będzie wyświetlany tylko pasek boczny czy także główne okno.
+clear_on_mismatch	Czyszczenie listy zawartości w przypadku niezgodności kontekstu
+clear_on_mismatch.h	Definiuje, że lista zawartości jest czyszczona, jeśli nie znaleziono kontekstu. W przypadku dezaktywacji tego ustawienia wyświetlana jest zawartość ostatnio rozpoznanego obiektu.
+da_positioning	Wyrównanie głównego okna
+da_positioning.h	Definiuje wyrównanie głównego okna na ekranie. Opcja 'Dowolne' umożliwia określenie pozycji w parametrze 'Pozycja głównego okna'.
+bar_positioning	Wyrównanie paska bocznego
+bar_positioning.h	Definiuje wyrównanie paska bocznego na ekranie.
+left_top	Lewy górny róg
+left_center	Lewo — środek
+left_bottom	Lewy dolny róg
+right_top	Prawy górny róg
+right_center	Prawo — środek
+top_center	Środek u góry
+right_bottom	Prawy dolny róg
+center	Środek
+free	Dowolne
+list_order	Sortowanie zawartości
+list_order.h	Definiuje sortowanie dostępnej zawartości na liście.
+by_default	Struktura eksploratora
+by_name	Alfabetycznie
+by_type	Alfabetycznie dla typu
+library_position	Pozycja głównego okna (dowolna)
+library_position.h	Definiuje pozycję głównego okna (lewo, góra) dla wyrównania 'Dowolne' na ekranie. Wartości podano w pikselach.
+search_url	Wyszukiwanie grupy
+search_url.h	Umożliwia użytkownikowi definiowanie grupy obszaru roboczego dla wyszukiwania zawartości w funkcjonalności @{LIBRARY}.
+enable_recording	Pozycja: Obiekt sterowania ‘Zapis’
+enable_recording.h	Umożliwia wyświetlanie obiektu sterowania dla procesów zapisu. Użytkownik może określić pozycję obiektu sterowania na pasku bocznym.\nZapis umożliwia użytkownikowi zapisywanie procesów w postaci dokumentów Microsoft Word lub jako plików wideo. Zapisane pliki są wyświetlane w głównym oknie w zakładce Obszar użytkownika.
+enable_exit_da	Pozycja: Obiekt sterowania ‘Wyjście’
+enable_exit_da.h	Umożliwia wyświetlanie obiektu sterowania do potwierdzania @{NAVIGATOR}. Użytkownik może określić pozycję obiektu sterowania na pasku bocznym.
+enable_info	Wyświetlanie zakładki 'Informacje'
+enable_info.h	Aktywuje zakładkę 'Informacje' dla okna głównego asystenta pulpitu. Wstawianie tekstu informacyjnego w krótkim opisie w grupie asystenta pulpitu.
+request_content_type	Rodzaj żądania zawartości
+request_content_type.h	Określa funkcjonalność dla żądania zawartości. Należy wybrać rodzaj z listy rozwijalnej. \nE-mail: Umożliwia wprowadzenie adresu e-mail dla żądań. \nURL: Umożliwia wprowadzenie URL do otwierania strony WWW. \nObiekt sterowania 'Żądanie zawartości' jest wyświetlany na pasku bocznym. Jeśli nie zostanie znaleziona żadna zawartość, w oknie głównym wyświetlane zostanie łącze ‘Żądanie zawartości’.
+email	E-mail
+url	URL
+enable_request_content	Pozycja: Obiekt sterowania 'Żądanie zawartości'
+enable_request_content.h	Określa pozycję obiektu sterowania ‘Żądanie zawartości’ na pasku bocznym.
+enable_external_search_ctx	Określanie informacji kontekstowych
+enable_external_search_ctx.h	Podczas wyszukiwania określa dodatkowe informacje kontekstowe o użytkowniku wraz z URL wyszukiwania. Informacje kontekstowe zostaną użyte do wyszukiwania. Jeśli zdefiniowane wyszukiwanie może korzystać z informacji kontekstowych, należy aktywować to ustawienie. \nPodane informacje kontekstowe są określane w parametrze ‘Informacje kontekstowe’.
+external_search_ctx	Informacje kontekstowa
+external_search_ctx.h	Określa informacje kontekstowe, jeśli aktywowano ustawienie ‘Określanie informacji kontekstowych’. Można podać następujące informacje kontekstowe: EXE aktualnej aplikacji (&executable=$#{EXE}), klucz aktualnej strony aplikacji (&pagekey=$#{PAGEKEY})\nUwaga: Nie należy zmieniać struktury ciągu znaków z informacjami kontekstowymi.
+enable_external_search	Pozycja: Obiekt sterowania ‘Wyszukiwanie zewnętrzne’
+enable_external_search.h	Umożliwia aktywację strony wyszukiwania zewnętrznego do wyszukiwania zawartości lub dodatkowych informacji. Gdy to ustawienie jest aktywne, obiekt sterowania ‘Wyszukiwanie zewnętrzne’ jest wyświetlany na pasku bocznym. Użytkownik może określić pozycję obiektu sterowania na pasku bocznym. \nPrzycisk powoduje otwarcie pola wyszukiwania do wprowadzania szukanego ciągu znaków. Wyniki wyszukiwania są wyświetlane na stronie wyszukiwania zewnętrznego. Aby wykonać wyszukiwanie zewnętrzne, należy określić URL wyszukiwania w parametrze ‘URL wyszukiwania zewnętrznego’.
+external_search_url	URL
+external_search_url.h	Umożliwia określenie URL dla wyszukiwania zewnętrznego. URL należy wprowadzić z następującą strukturą:\nhttps://www.google.com/#q=$#{SEARCHTERM}\nhttps://www.bing.com/search?q=$#{SEARCHTERM}\nhttps://search.yahoo.com/search?p=$#{SEARCHTERM}\nhttps://www.wolframalpha.com/input/?i=$#{SEARCHTERM}\n\nUwaga: Nie należy usuwać ani zmieniać '=$#{SEARCHTERM}' parametru URL.
+enable_share_content	Wyświetlanie obiektu sterowania 'Udostępnianie zawartości'
+enable_share_content.h	Wyświetla przycisk 'Udostępnianie zawartości' w stopce głównego okna. Przycisk otwiera okno dialogowe z odsyłaczem do wybranej zawartości.
+author_email	E-mail
+author_email.h	Umożliwia określenie adresu e-mail dla żądania zawartości. Adres e-mail jest używany dla funkcji 'Żądanie zawartości'.
+author_url	URL
+author_url.h	Umożliwia określenie URL dla żądania zawartości. URL jest używany dla funkcji 'Żądanie zawartości'.
+author_url_params	Parametry URL
+author_url_params.h	Umożliwia określanie parametrów dla adresu URL autora. \nMożna określić nazwę aplikacji oraz jednostkę wykonywalną. Zastąp wartość 'aplikacja' lub 'jednostka wykonywalna' wymaganą nazwą.
+enable_fuzzy_match	Włączanie dopasowywania rozmytego
+enable_fuzzy_match.h	Definiuje, czy do dopasowywania kontekstu zawartości ze stroną aplikacji jest używane dopasowywanie rozmyte.
+enable_ident_filter	Aktywacja zaawansowanej identyfikacji aplikacji
+enable_ident_filter.h	Określa, że do odtwarzania funkcjonalności @{NAVIGATOR} wykorzystywane są tylko istotne informacje dotyczące aplikacji. Umożliwia to optymalizację funkcjonalności @{NAVIGATOR}.\nUwaga: Ta opcja może spowodować nieprawidłowe rozpoznawanie obiektów. Przed publikacją zawartości zaleca się przetestowanie odtwarzania.
+library_size	Rozmiar głównego okna
+library_size.h	Definiuje rozmiar (szerokość, wysokość) głównego okna w pikselach.
+book_win_position	Pozycja okna z zawartością (dowolna)
+book_win_position.h	Definiuje pozycję okna z zawartością (lewo, góra) dla wyrównania 'Dowolne' na ekranie. Wartości podano w pikselach.
+book_win_size	Rozmiar okna z zawartością
+book_win_size.h	Definiuje w pikselach rozmiar (szerokość, wysokość) okna z zawartością.
+book_win_positioning	Wyrównanie okna z zawartością
+book_win_positioning.h	Definiuje wyrównanie okna z zawartością na ekranie. Opcja 'Dowolne' umożliwia określenie pozycji w parametrze 'Pozycja okna z zawartością'.
+errNoApplicationContext	Bieżące makro nie jest kontekstem aplikacji.
+errNoTargetDefinition	Nie jest ono zgodne z definicją docelową.
+errExtractPagekey	Nie można wykonać ekstrakcji klucza strony z profilem:
+errScreenshot	Nie można wykonać zrzutu ekranu. Proszę spróbować ponownie.
+errLoadTemplate	Nie można wczytać profilu:
+errRecordProcessStep	Nie można zapisać kroków przewodnika dla projektów 'pomocy kontekstowej'.
+errLanguageSelection	Nie wybrano języka.
+errNoWriteToken	Brak uprawnień do zapisu dla wybranego obiektu.
+errMacroSelection	Nie wybrano makra.
+errObjectInformation	Brak informacji o obiekcie dla danej pozycji.
+errSpecializedInformation	Brak wyspecjalizowanej informacji dla danej pozycji.
+errPosition	Pozycja poza obszarem okna.
+errActionMacroSelection	Nie wybrano makra czynności.
+errUpdateObject	Nie można zaktualizować wybranego typu obiektu.
+errInsertExplanation	Dla wybranego makra nie można wprowadzić dowolnego objaśnienia.
+action.h	Tylko przewodnik\nTa opcja definiuje czynność, jaką użytkownik powinien wykonać na obiekcie.
+all_values.h	W niektórych przypadkach obiekt aplikacji zatrzymuje wybory dla wartości, których nie może pokryć standardowy obiekt sterowania HTML. Używany jest wówczas obiekt sterowania, który znajduje się najbliżej obiektu w aplikacji. Dodatkowo to pole zatrzymuje wszystkie wartości, które obiekt zatrzymuje jako wybory.
+anim_steps.h	Wartość definiuje, w ilu krokach animowany jest wybrany efekt podświetlenia. Niskie wartości przyspieszają animację, lecz sprzyjają tworzeniu wrażenia wzburzenia. Wysokie wartości czynią animację gładszą, ale jednocześnie spowalniają ogólną prędkość animacji.
+auto_execute.h	To ustawienie definiuje, że czynność zostanie wykonana automatycznie podczas odtwarzania nawigacji.
+b_height.h	Definiuje wysokość dymku obiektu w pikselach. Jeśli rozmiar tekstu przekracza powierzchnię dostępną w dymku, zostanie on automatycznie wyskalowany w pionie do wymaganej powierzchni.
+b_hide_option.h	Tylko pomoc kontekstowa\nAktywacja tej opcji spowoduje pojawienie się w obiekcie lub w dymku objaśnienia ustawienia, w którym użytkownik końcowy może dezaktywować informacje o obiekcie (dymek i podświetlenie). Umożliwia to użytkownikom ukrywanie informacji, które nie są im już potrzebne.
+b_minimizable.h	Ta opcja definiuje, czy można zminimalizować dymek podczas odtwarzania. Jeśli ta opcja jest aktywna, w nagłówku dymku wyświetlany jest przycisk 'Minimalizacja'.
+b_closable.h	Tylko pomoc kontekstowa\nTa opcja definiuje, czy można zamknąć dymek podczas odtwarzania. Jeśli ta opcja jest aktywna, w nagłówku dymku wyświetlany jest przycisk 'Zamykanie'.
+b_minimized.h	Tylko pomoc kontekstowa\nTa opcja definiuje, czy dymek obiektu jest wyświetlany w postaci zminimalizowanej podczas wczytywania strony.
+bmain_size.h	Definiuje rozmiar (szerokość, wysokość) głównego okna w pikselach.
+bmain_minimizable.h	Ta opcja definiuje, czy główne okno jest możliwe do minimalizacji.
+bmain_position.h	Wprowadzone tutaj wartości definiują pozycję głównego okna na ekranie. Liczby określają odległość od górnego lewego rogu ekranu w pikselach.
+bmain_win_style.h	Definiuje wygląd głównego okna. Proszę wybrać zasób stylu z listy.
+bmain_alignment.h	Definiuje wyrównanie głównego okna na ekranie. Opcja 'Dowolne' umożliwia określenie pozycji w parametrze 'Pozycja okna'.
+bubble_offset.h	Ta opcja definiuje w pikselach przesunięcie, z jakim dymek obiektu jest wyświetlany w stosunku do obiektu.
+bubblestyle_d.h	Definiuje zasób dla stylu dymku do wyświetlania dymków obiektu dla projektu.
+bubblestyle_d.h	Definiuje zasób dla stylu dymku do wyświetlania dymków obiektu dla projektu.
+choose_bool.h	To pole zawiera wartość, która określa, czy przycisk wyboru lub pole wyboru są włączone lub wyłączone. Wartość dla przycisku wyboru to zawsze '1' (włączone). Wartość dla pola wyboru może wynosić '0' (wyłączone) lub '1' (włączone).
+choose_text.h	Ten parametr zawiera ciąg znaków, który został znaleziony dla wybranego wpisu w menu wyskakującego okienka lub w polu listy podczas automatycznego procesu zapisu. Ten ciąg znaków jest wstawiany do objaśniających tekstów dymków w różnych trybach zamiast wypełniacza '${choose_text}' (proszę zobaczyć tryb tekstowy w edytorze HTML). Jest on używany jako moduł tekstowy dla automatycznie generowanego tekstu dymku w czasie automatycznego generowania zawartości dymku z modułami tekstowymi podczas zapisu.
+click_pos.h	Opisuje pozycję w oknie aplikacji, która została kliknięta przez autora podczas zapisywania obiektu. Pozycja ta jest określana w pikselach i odnosi się do górnego lewego rogu zawartości okna aplikacji.
+click_pos_rel.h	Opisuje pozycję w oknie aplikacji. Wartość w procentach (%) określa pozycję w stosunku do ogólnej szerokości i wysokości okna aplikacji z lewą i górną krawędzią jako punktem referencyjnym.
+config_file.h	Zawiera nazwę profilu aplikacji używanego do tworzenia klucza oraz interpretującego później ten klucz.
+display_name.h	Definiuje nazwę aplikacji, która będzie wyświetlana w oknie wyjątku w przewodniku.
+dump_page.h	Zawiera zapisany ekran. \nObraz można zmienić za pomocą funkcji ‘Zastąpienie obrazu’.
+element_type.h	Określa klasę obiektu, który został rozpoznany przez mechanizm rozpoznawania.
+enabled.h	Tylko pomoc kontekstowa\nTa opcja definiuje, czy makro jest włączane do analizy strony czy nie. W przypadku dezaktywacji tej opcji obiekt pomocy nie będzie wyświetlany, nawet jeśli na stronie istnieje obiekt powiązany.
+optional.h	Tylko przewodnik\nTa opcja definiuje, czy krok przewodnika jest opcjonalny dla użytkownika w trakcie procesu. \nPodczas odtwarzania na liście kroków wyświetlana będzie inna ikona. Jeśli obiekt sterowania nie jest widoczny na stronie lub jeśli strona jest nieprawidłowa, krok zostanie pominięty.
+executable.h	Zawiera nazwę jednostki wykonywalnej aplikacji używanej przez system operacyjny.
+explanation_d.h	Zawiera informacje dot. odpowiedniego kontekstu (tekst, odsyłacze, obrazy itd.). Proszę sprawdzić, czy informacje w głównym dymku są wyświetlane w optymalny sposób.
+explanation_d_modified.h	Jeśli aktywowano tę opcję, informacje kontekstowe nie są już automatycznie generowane w zdarzeniu automatycznego tłumaczenia, lecz muszą być edytowane ręcznie. Pomaga to zachować zmiany ręczne w zawartości dymku.
+fieldname.h	Zawiera nazwę zapisanego obiektu sterowania wstawianą do tekstów dymków. \nNazwę obiektu można zmienić w polu tekstowym. Nazwa obiektu zawiera wypełniacz '$#{fieldname}'.
+fieldicon.h	Zawiera obraz zapisanego przycisku lub zapisanej ikony, który jest wstawiany do tekstów dymków. \nObraz obiektu można zmienić za pomocą funkcji 'Zastąpienie obrazu'. Obraz obiektu zawiera wypełniacz '$I{fieldicon}'.
+g_highlight_bgr.h	Ta opcja definiuje standardowy kolor obramowań podświetleń w nawigacji. Kolor można wprowadzić bezpośrednio jako wartość RGB w formacie heksadecymalnym lub wybrać w oknie dialogowym narzędzia wyboru kolorów.
+g_highlight_border.h	Ten parametr definiuje ogólną grubość ramki podświetlenia obiektu w pikselach. Dostępne szerokości pikseli mieszczą się w zakresie od '1' do '10'.
+g_highlight_effect.h	Ta opcja ustala rodzaj efektu podświetlania używany dla obiektów w nawigacji.
+hide_on_focuslost.h	Ta opcja definiuje, czy dymek będzie ukrywany, gdy fokus na ekranie opuszcza dany obiekt.
+highlight_offset.h	Ten parametr definiuje dodane przesunięcie pikseli dla prostokąta podświetlenia otaczającego zaznaczony element.
+key.h	Zawiera wszystkie kryteria do identyfikacji okna aplikacji oraz niektórych stron aplikacji. Klucz ten pasuje tylko w przypadku, gdy strona aplikacji docelowej spełnia wszystkie kryteria zdefiniowane w kluczu. W celu złagodzenia definicji kryteriów pojedynczego klucza dozwolone jest użycie wyrażeń regularnych.
+key_name.h	Ten parametr określa klawisz lub używany skrót. Nazwy klawiszy należy oddzielić przy użyciu spacji, np.: 'ctrl + k'.
+key_desc.h	Ten parametr określa klawisz lub używany skrót. Nazwy klawiszy należy oddzielić przy użyciu spacji, np.: 'ctrl + k'.
+force_display.h	Tylko pomoc kontekstowa\nOkreśla, czy zawartość makra jest zawsze wyświetlana w postaci natychmiastowej pomocy, nawet jeśli natychmiastowa pomoc jest wyłączona podczas odtwarzania asystenta pulpitu.
+link_to_sim.h	Ta opcja będzie uwzględniać odsyłacz symulacji w głównym dymku. Jest ona powiązana z nawigacją, którą utworzono na podstawie projektu symulacji (w wyniku konwersji).
+macro_comment.h	Komentarz ogólny. Jest wyświetlany we wglądzie miniatury.
+match_value.h	Ta opcja określa, czy wskazaną wartość należy porównywać z wartością rzeczywistą obiektu w aplikacji typu live.
+mini_on_focuslost.h	Ta opcja definiuje, czy dymek jest minimalizowany, gdy fokus na ekranie opuszcza dany obiekt.
+nav_check_freq.h	Definiuje jak często @{NAVIGATOR} sprawdza, czy jest dostępna zaktualizowana zawartość. Jeśli zaktualizowana zawartość jest dostępna, @{NAVIGATOR} automatycznie uruchamia zawartość. Jest to szczególnie przydatne do zmiany procesów zarządzania.
+enable_tincan.h	Aktywuje śledzenie zawartości @{NAVIGATOR}. Zawartość należy uruchomić w obszarze roboczym @{MANAGER}.
+no_spike.h	Ta opcja definiuje, czy dymek obiektu jest wyświetlany z ostrym końcem, czy bez niego.
+objname.h	Każdy obiekt w nawigacji wymaga unikalnej nazwy w celu identyfikacji podczas używania zachowań i przypisań zachowań.
+orientation.h	Ten parametr definiuje orientację dymku obiektu w stosunku do obiektu z referencją. Strzałka dymku wskazuje pozycję z referencją na stronie, podczas gdy sam dymek jest wyświetlany z przesunięciem w wybranym kierunku, zgodnie z instrukcjami. Jeśli wybrano orientację 'Środek', dymek jest wyświetlany bez strzałki na środku zdefiniowanej pozycji.
+path.h	Ścieżka obiektu opisuje właściwości obiektu w oparciu o używaną aplikację. Ścieżka obiektu jest używana do identyfikacji obiektu w aplikacji typu live. Zwykle nie ma potrzeby ręcznej edycji tego pola.
+position.h	Wprowadzone tutaj wartości definiują pozycję głównego dymku na ekranie. Liczby określają odległość od górnego lewego rogu ekranu w pikselach.
+reference.h	Jeśli wykonano konwersję nawigacji z symulacji, źródło odpowiedniego kroku należy określić tutaj.
+resize.h	Ta opcja definiuje, czy okno aplikacji docelowej ma być automatycznie zmieniane do rozmiaru używanego podczas tworzenia nawigacji. Może to być użyteczne w przypadku aktywnych obszarów, które będą wyświetlane w oparciu o pozycje.
+revision.h	Wyświetla wersję profilu aplikacji używaną do tworzenia klucza podczas zapisu ekranu aplikacji.
+sc_config_header.h	Informacja z profilu aplikacji jest zapamiętywana w tym polu. Nawigacja używa tej informacji w celu prawidłowego rozpoznania aplikacji i jej obiektów podczas odtwarzania.
+screenshot_rect.h	Wyświetla, który obszar oryginalnego ekranu był używany dla zrzutu ekranu obiektu. Zwykle nie ma potrzeby ręcznej edycji tej wartości.
+show_bubble.h	Ta opcja definiuje, czy dymek jest wyświetlany zaraz po kompletnym wczytaniu strony.
+start_from_arbitrary.h	Ta opcja definiuje, że przewodnik można uruchomić od dowolnego kroku, a nie od początku procesu.
+show_hilight.h	Definiuje, czy dla obiektu jest wyświetlane podświetlenie.
+show_highlight.h	Definiuje, czy dla obiektów są wyświetlane podświetlenia.
+show_on_focus.h	Ta opcja definiuje, czy dymek jest wyświetlany, gdy fokus na ekranie zmienia się na dany obiekt.
+source.h	Jeśli dokonano konwersji nawigacji z symulacji, parametr określa oryginalną lekcję.
+subkey.h	W niektórych przypadkach może być przydatne, gdy pewne części oryginalnej części klucza są pomijane, np. ponieważ warianty danej strony są nieistotne i powinny być obsługiwane przy użyciu tego samego klucza i kroku w nawigacji. Ta opcja zmusza mechanizm rozpoznawania do rozważenia klucza jako dopasowania, nawet jeśli strona miała więcej kryteriów klucza zgłoszonych przez rozpoznawanie niż zdefiniowano w kluczu. Dlatego klucz strony może zostać skrócony w celu pokrycia więcej niż jednej strony przy użyciu jednego klucza.
+target_name.h	Zawiera nazwę okna aplikacji.
+text_d.h	Ten parametr zawiera ciąg znaków do wprowadzenia w polu z referencją. Zawiera wartość wprowadzoną podczas automatycznego procesu zapisu. Ten ciąg znaków jest wstawiany do objaśniających tekstów dymków w różnych trybach zamiast wypełniacza '${text_d}' (proszę zobaczyć tryb tekstowy w edytorze HTML) w czasie automatycznego generowania zawartości dymku z modułami tekstowymi podczas zapisu.
+text_d_specializer.h	Ten parametr zawiera ciąg znaków do wprowadzenia w polu z referencją. Zawiera wartość wprowadzoną podczas automatycznego procesu zapisu. Ten ciąg znaków jest wstawiany do objaśniających tekstów dymków w różnych trybach zamiast wypełniacza '${text_d}' (proszę zobaczyć tryb tekstowy w edytorze HTML) w czasie automatycznego generowania zawartości dymku z modułami tekstowymi podczas zapisu.
+tolerance.h	Ta wartość definiuje tolerancję dla stopnia dopasowania podczas łączenia makr 'Ekran'. To ustawienie jest powiązane z funkcją 'Łączenie makr Ekran', którą można wywołać z menu 'Narzędzia -> Zmiany zbiorcze'. Zwiększenie wartości zwiększa próg tolerancji. Proszę zwrócić uwagę, że możliwe jest również łączenie zrzutów ekranów, na których wyświetlane są różne obiekty. Wartość jest określana w procentach.
+uid.h	Zawiera unikalny identyfikator makra, pod którym obiekt ten jest zarządzany w projekcie.
+win_rect.h	Definiuje rozmiar okna podczas tworzenia projektu.
+explanation_type.h	Ta opcja określa typ noty. W zależności od typu ustawienia piktogram jest wyświetlany razem z tekstem, tak aby wyróżnić tekst pomocniczy.
+app_info.h	To ustawienie definiuje, czy aplikacja jest wyświetlana w pomocy kontekstowej. Jeśli aplikacja nie ma być wyświetlana, należy dezaktywować to ustawienie.
+app_link_to_sim.h	Tego parametru można używać do wyświetlania oprócz typu kontekstu odsyłacza do symulacji określonej w parametrze 'Źródło'. W procesie można wybierać różne tryby.
+screen_info.h	To ustawienie definiuje, czy strona jest wyświetlana w pomocy kontekstowej. Jeśli ekran nie ma być wyświetlany, należy dezaktywować to ustawienie.
+screen_link_to_sim.h	Tego parametru można używać do wyświetlania oprócz typu kontekstu odsyłacza do symulacji określonej w parametrze 'Źródło'. W procesie można wybierać różne tryby.
+object_info.h	Tylko pomoc kontekstowa\nUstawienie definiuje wariant do wyświetlenia dla obiektu.
+open_expanded.h	W przypadku aktywacji tej opcji główny dymek jest wyświetlany z otwartą listą stron i obiektów.
+display_on.h	Ten parametr definiuje, w jakiej sytuacji ma być wyświetlany główny dymek nawigacji. Podczas uruchamiania nawigacji, wyświetlania aplikacji czy też wyświetlania odpowiedniej strony aplikacji.
+area.h	Ten parametr definiuje pozycję i rozmiar obiektu sterowania. Pierwsze dwie liczby wskazują pozycję obiektu od lewej strony górnej krawędzi ekranu. Ostatnie dwie liczby definiują szerokość i wysokość obiektu. Przycisk obok pola wprowadzania otwiera okno dialogowe edycji, umożliwiając konfigurację pozycji i rozmiaru obiektu.
+form_on.h	Definiuje, że krok jest formularzem. Wszystkie czynności kroku są wyświetlane w jednym dymku podczas odtwarzania.
+transition	Następny krok przewodnika
+transition_info	Następny krok przewodnika
+action_pa	Czynność
+trans_action	Czynność
+step_name1	Następny krok
+step_name2	Krok alternatywny 1
+step_name3	Krok alternatywny 2
+step_name4	Krok alternatywny 3
+LClick	Kliknięcie lewym przyciskiem
+RClick	Kliknięcie prawym przyciskiem
+LDblClick	Dwukrotne kliknięcie lewym przyciskiem
+RDblClick	Dwukrotne kliknięcie prawym przyciskiem
+Focus	Fokus
+FocusLost	Utracono fokus
+step	Krok przewodnika
+name	Nazwa
+end_message	Tekst
+show_end_window	Okno zakończenia
+show_end_window.h	Określa, że okno ma być wyświetlane na końcu prezentacji. To okno umożliwia użytkownikowi zamknięcie przewodnika ręcznie. Jeśli ta opcja jest nieaktywna, okno nie będzie wyświetlane, a przewodnik zamknie się automatycznie.
+trans_action.h	Tylko przewodnik\nOkreśla czynność, która wywołuje przejście do kolejnego kroku przewodnika.
+action_pa.h	To ustawienie określa, przy której czynności użytkownika zostanie wykonany skok do następnego kroku przewodnika.
+step_name1.h	Tylko przewodnik\nDefiniuje następny krok w przebiegu procesu.
+step_name2.h	Tylko przewodnik\nDefiniuje alternatywny krok przewodnika, jeśli nie można wyświetlić zdefiniowanego kroku przewodnika.
+step_name3.h	Tylko przewodnik\nDefiniuje alternatywny krok przewodnika, jeśli nie można wyświetlić alternatywnego kroku 1 przewodnika.
+step_name4.h	Tylko przewodnik\nDefiniuje alternatywny krok przewodnika, jeśli nie można wyświetlić alternatywnego kroku 2 przewodnika.
+step_on_same_page.h	Tylko przewodnik\nTo ustawienie należy aktywować, jeśli następny krok przewodnika jest na tej samej stronie aplikacji. Pozwoli to uniknąć rozpoznawania strony.
+name.h	Definiuje nazwę kroku przewodnika. Nazwa do wyboru jest wyświetlana w ustawieniach 'Następny krok przewodnika' dla makro 'Obiekt'.
+set_value	Automatyczne ustawianie wartości
+set_value.h	Ustawienie definiuje, czy wartość makra będzie ustawiana automatycznie podczas odtwarzania nawigacji.
+end_message	Tekst
+end_message.h	Użytkownik może wprowadzić tekst w tym polu tekstowym wyświetlanym w dymku na koniec procesu. Pole tekstowe ma wstępnie przypisany tekst domyślny.
+restart_option	Ponowne uruchomienie przycisku
+restart_option.h	Jeśli ta opcja jest aktywna, w dymku pojawia się przycisk, którego użytkownik może użyć w celu powtórzenia procesu. Umożliwia to ponowne wykonanie procesu z innymi wpisami.
+record_end_display	Edycja dymku
+end_bubble	Dymek — koniec procesu
+bend_position	Pozycja
+bend_position.h	Wprowadzone tutaj wartości wskazują pozycję dymku na ekranie. Wartości są określane w pikselach i odnoszą się do górnego lewego rogu ekranu.
+bend_style	Styl
+bend_style.h	To ustawienie definiuje, jaki styl dymku ma być używany do wyświetlania dymku. Style dymków są definiowane przy użyciu edytora stylów dymków, który można otworzyć z menu 'Narzędzia -> Edycja stylów dymków'. Style dymków są zawsze dostępne dla całego obszaru roboczego.
+bend_width	Szerokość
+bend_width.h	Wartość ta definiuje szerokość wyświetlanego dymku w pikselach.
+bend_height	Wysokość
+bend_height.h	Wartość ta definiuje wysokość wyświetlanego dymku w pikselach.
+process_start_unit	Styl przewodnika
+record_pa_control	Zapis kroku przewodnika
+prev_step	Poprzedni krok
+next_step	Następny krok
+disqualifier	Wykluczenie ekranu
+disqualifier.h	Przy użyciu opcji 'ID strony' można rozróżniać podobne strony aplikacji według określonego obiektu. Ta opcja określa, czy rozpoznana strona aplikacji ma być wyświetlana, czy też powinna zostać wykluczona, jeśli dostępny jest 'ID strony'. \nWidok miniaturowy wyświetla status opcji: znak plusa (nieuwzględnianie) lub minusa (uwzględnianie).
+exception_bubble	Dymek — obsługa wyjątków
+bexp_position	Pozycja
+bexp_position.h	Wprowadzone tutaj wartości definiują pozycję dymku na ekranie. Są one podawane w pikselach. Dymek jest wyświetlany w lewym górnym rogu ekranu.
+bexp_style	Styl
+bexp_style.h	Tutaj można wybrać typ dymku, który ma być używany. Style dymków można definiować w edytorze stylów dymków, który można otworzyć z menu:  Narzędzia -> Edycja stylu dymku.  Różne style dymków są zawsze dostępne dla całego obszaru roboczego.
+content_demo	Tryb demonstracyjny
+content_demo.h	Przy użyciu tej opcji tryby demonstracyjne grupy będą wyświetlane w asystencie pulpitu.
+content_practice	Tryb ćwiczeń
+content_practice.h	Przy użyciu tej opcji tryby ćwiczeń grupy będą wyświetlane w asystencie pulpitu.
+content_test	Tryb testowy
+content_test.h	Przy użyciu tej opcji tryby testowe grupy będą wyświetlane w asystencie pulpitu.
+content_concurrent	Tryb równoczesny
+content_concurrent.h	Przy użyciu tej opcji tryby równoczesne grupy będą wyświetlane w asystencie pulpitu.
+content_navi	Nawigacja
+content_navi.h	Przy użyciu tej opcji nawigacje grupy będą wyświetlane w asystencie pulpitu.
+content_documentation	Dokumentacja
+content_documentation.h	Przy użyciu tej opcji dokumentacje grupy będą wyświetlane w asystencie pulpitu.
+content_externals	Pliki zewnętrzne
+content_externals.h	Przy użyciu tej opcji pliki zewnętrzne grupy będą wyświetlane w asystencie pulpitu.
+navi_style	Styl
+navi_style.h	Definiuje wygląd okna nawigacji. Proszę wybrać zasób stylu z listy.
+menu_path:/record	Zapis
+F1HELPNAME	pomoc
+alignment	Wyrównanie dymku
+alignment.h	Określa wyrównanie okna dymku na ekranie. Opcja 'Dowolne' umożliwia określenie pozycji w parametrze 'Pozycja dymku'.
+bform_alignment	Wyrównanie
+bform_alignment.h	Definiuje wyrównanie okna dymku formularza na ekranie. Opcja 'Dowolne' umożliwia określenie pozycji w parametrze 'Pozycja dymku formularza'.
+gloss_bubble	Dymek słownika
+gloss_bubble_style	Styl
+gloss_bubble_style.h	Definiuje wygląd dymku słownika. Proszę wybrać zasób stylu z listy.
+ellipse	Koło
+gloss_bubble_size	Rozmiar
+gloss_bubble_size.h	Definiuje rozmiar (szerokość, wysokość) dymku słownika w pikselach.
+Navi	Asystent pulpitu
+exclude_from_da	Wykluczanie z asystenta pulpitu
+exclude_from_da.h	Definiuje, że klucz strony nie będzie uwzględniany do rozpoznawnia kontekstu asystenta pulpitu.
+all_as_descr	Użycie tekstu z
+all_as_descr.h	Definiuje typ tekstu dla @{NAVIGATOR}. Ustawienie domyślne to 'Krótki opis'.
+consider_roles	Uwzględnianie ról
+consider_roles.h	Aktywuje stosowanie ról dla wyświetlania zawartości podczas odtwarzania.
+consider_categories	Uwzględnianie kategorii zawartości
+consider_categories.h	Aktywuje stosowanie kategorii zawartości dla sortowania zawartości w głównym oknie funkcjonalności @{NAVIGATOR}.
+disable_ca_in_pa	Ukrywanie natychmiastowej pomocy w przewodniku
+disable_ca_in_pa.h	Określa, czy informacje natychmiastowej pomocy są ukryte podczas odtwarzania przewodnika. Po zakończeniu przewodnika ponownie zostanie wyświetlona natychmiastowa pomoc.
+full_desc	Opis
+shrt_desc	Krótki opis
+wrong_position	Błąd pozycji
+help	Pomoc
+warning	Ostrzeżenie
+maintenance	Obsługa
+update	Aktualizacja
+new	Nowe
+training	Szkolenie
+attachment	Załącznik
+link	Odsyłacz
+tip	Wskazówka
+note	Uwaga
+compliance	Zgodność
+mini_bubble_style	Styl mini ikon
+mini_bubble_style.h	Definiuje zasób stylu dla mini ikon używanych dla projektu. Mini ikony są rodzajem zasobu dla dostosowywalnych zasobów. \nIkonę można ustawić w makrze każdej czynności i każdego objaśnienia przy użyciu parametru 'Rodzaj mini ikony' w sekcji 'Zaawansowane'.
+mini_bubble	Typ mini ikony
+mini_bubble.h	Tylko asystent kontekstu\nDefiniuje rodzaj mini ikony obiektu. Ikona bazuje na zdefiniowanym 'Stylu mini ikon' w makrze 'Styl'
+NavRecMouseWheel	Proszę użyć pokr. myszy, aby kontynuować. Proszę nac. klawisz ESC, aby zakończyć przew. myszą.
+search_type	Rodzaj wyszukiwania
+none	Brak
+search_in_lib	W @{LIBRARY}
+search_in_da	Grupa asystenta pulpitu
+search_type.h	Definiuje funkcjonalność wyszukiwania zawartości. Należy wybrać rodzaj z listy rozwijalnej. Brak: Dezaktywuje funkcjonalność wyszukiwania. \nW @{LIBRARY}: Otwiera funkcjonalność @{LIBRARY} w celu wyszukiwania w zawartości funkcjonalności @{LIBRARY}. \nW grupie asystenta pulpitu: Wyświetla zakładkę 'Wyszukiwanie' w głównym oknie dla szukania w zawartości asystenta pulpitu.
+errObjectUpdate	Nie można zaktualizować obiektu. Proszę zaktualizować obiekt o tym samym typie.
+config_headers_differ1	Informacje o profilu są nieaktualne. Proszę kliknąć opcję 'Kontynuacja', aby zaktualizować projekt.
+config_headers_differ2	Zalecane jest utworzenie archiwum przed aktualizacją.
+default_start_mode	Domyślna zawartość startowa
+default_start_mode.h	Określa tryb lub format dokumentu uruchamianego domyślnie z listy zawartości.
+default_start_doc	Domyślny dokument startowy
+default_start_doc.h	Określa rodzaj dokumentu, jeśli dokument jest ustawiony w ustawieniu Domyślna zawartość startowa.
+show_next_btn	Przycisk Dalej
+show_next_btn.h	Tylko przewodnik\nOkreśla, że przycisk 'Skok do następnego kroku' jest wyświetlany w dymku obiektu.
+condition	Warunek
+condition.h	Podczas odtwarzania wartość wprowadzona przez użytkownika musi być zgodna z warunkiem, aby można było przejść do kolejnego kroku lub wykonać skok do określonego kroku. \nProszę wybrać opcję 'Edycja warunku', aby utworzyć lub edytować warunek.
+errDuplicateContext	Ta aplikacja została już zapisana.
+add_sticky_notes	Pozycja: Obiekt sterowania 'Dodawanie notatki podręcznej'
+add_sticky_notes.h	Umożliwia wyświetlanie obiektu sterowania do dodawania notatki podręcznej na stronie. Użytkownik może określić pozycję obiektu sterowania na pasku bocznym.
+show_instant_help_btn	Pozycja: Obiekt sterowania 'Natychmiastowa pomoc'
+show_instant_help_btn.h	Umożliwia wyświetlanie obiektu sterowania do aktywacji pomocy natychmiastowej. Użytkownik może określić pozycję obiektu sterowania na pasku bocznym.
+show_carousel	Wyświetlanie karuzeli
+show_carousel.h	Ta opcja pokazuje asystenta pulpitu w trybie karuzeli.
+condition_pattern	Wzorzec warunku
+condition_pattern.h	Określa wzorzec stosowany dla warunku.
+condition_value	Wartość warunku
+condition_value.h	Zawiera wartość stosowaną dla warunku. Należy wprowadzić tekst lub liczbę na podstawie wybranego wzorca.
+condition_jump_target	Cel skoku
+condition_jump_target.h	Tylko przewodnik\nOkreśla cel skoku dla warunku. Proszę wybrać krok z rozwijalnej listy. Jeśli warunek jest zgodny, nawigacja przeskakuje do określonego kroku.
+condition_text	Tekst warunku
+condition_text.h	Zawiera tekst do wyświetlenia jeśli warunek nie jest spełniony.
+condition_case_sensitive	Uwzględnianie pisowni wielkimi/małymi literami
+condition_case_sensitive.h	Określa, że wielkość liter warunku ma znaczenie.
+condition_ignore_on_load	Ignorowanie przy ładowaniu strony
+condition_ignore_on_load.h	Tylko pomoc kontekstowa\nDefiniuje, że warunek nie jest sprawdzany podczas wczytywania strony. Warunek jest sprawdzany podczas używania odpowiedniego obiektu sterowania. To pozwala uniknąć bezpośredniego wyświetlania dymku z warunkiem.
+c_equals	Jest równe
+c_not_equals	Nie jest równe
+c_greater	Jest większe niż
+c_greater_equals	Jest nie mniejsze niż
+c_less	Jest mniejsze niż
+c_less_equals	Jest nie większe niż
+c_min_char	Minimalna liczba znaków
+c_max_char	Maksymalna liczba znaków
+c_num_char	Liczba znaków równa
+c_reg_exp	Wyrażenie regularne
+vertical	Pionowo
+horizontal	Poziomo
+AutoBarReady	Pusty
+AutoBarExplanation	Wstawianie objaśnienia
+AutoBarChooseApp	Wybór aplikacji
+AutoBarRecord	Zapis
+AutoBarBusy	Zajęte
+AutoBarPause	Przerwa
+AutoBarReRecManualHotspot	Edycja elementu sterującego: Należy nacisnąć klawisze Ctrl + Enter, aby kontynuować ze zmianami. Należy nacisnąć klawisz Esc, aby odrzucić zmiany.
+wizAddExplanation	Dodawanie objaśnienia
+AutoBarNoRecognition	Nie rozpoznano żadnych elementów sterujących
+AutoBarDiagnosis	Diagnoza
+condition_bubblestyle	Styl dymku
+condition_bubblestyle.h	Określa, który zasób stylu dymku będzie używany do wyświetlania tekstu warunku.
+condition_highlight_bgr	Kolor podświetlenia
+condition_highlight_bgr.h	Określa kolor podświetlenia elementu sterującego.
+IDS_MPI_TOURSTOP_LABEL	Nazwa
+IDS_MPI_TOURSTOP_LABEL_MODIFIED	Tłumaczenie ręczne
+IDS_MPI_TOURSTOP_NAME	UID
+IDS_MPI_TOURSTOP_SHOW	Wyświetlanie w wyświetlaczu postępu
+IDS_MPI_TOURSTOP_JUMP	Cel skoku
+IDS_MPI_TOURSTOP_CALLABLE	Jest podprogramem
+basic_info	Właściwości podstawowe
+IDS_NO_IMAGE_SELECT	Nie wybrano obrazu
+IDS_NO_IMAGE	Nie znaleziono obrazu
+ID_INSERT_TAKE	Dodawanie kroku
+ID_PRJ_LAYOUT_HORZ	Układ poziomy
+ID_PRJ_LAYOUT_VERT	Układ pionowy
+ID_PRJ_LAYOUT_DIV	Podzielony układ - 1
+ID_PRJ_LAYOUT_4	Podzielony układ - 2
+ID_PRJ_LAYOUT_5	Podzielony układ - 3
+IDS_UNTITLED	(bez tytułu)
+docTableHeaderStep	Krok
+layout_advanced	Zaawansowany układ
+showEditorHelp	Wyświetlanie pomocy edytora WWW
+slide:insert_tb	Wstawianie
+slide:action_tb	Czynność
+slide:structure_tb	Struktura
+slide:view_tb	Wgląd
+existing_scrs_in_prj	Bieżący ekran został użyty więcej niż raz w projekcie użytkownika. \nProszę wybrać ekran, do którego mają zostać dodane zapisane obiekty.
+start_topic	Rozpoczęcie
+guided_tour	Przewodnik
+context_help	Pomoc kontekstowa
+off	Wyłączone
+main_bar_1	Pasek główny 1
+main_bar_2	Pasek główny 2
+main_bar_3	Pasek główny 3
+main_bar_4	Pasek główny 4
+main_bar_5	Pasek główny 5
+main_bar_6	Pasek główny 6
+main_bar_7	Pasek główny 7
+main_bar_8	Pasek główny 8
+sub_menu_1	Menu podrzędne 1
+sub_menu_2	Menu podrzędne 2
+sub_menu_3	Menu podrzędne 3
+sub_menu_4	Menu podrzędne 4
+sub_menu_5	Menu podrzędne 5
+sub_menu_6	Menu podrzędne 6
+content_btn	Pozycja: Obiekt sterowania 'Zawartość'
+content_btn.h	Określa pozycję obiektu sterowania ‘Zawartość’ na pasku bocznym.
+search_btn	Pozycja: Obiekt sterowania ‘Wyszukiwanie’
+search_btn.h	Określa pozycję obiektu sterowania ‘Wyszukiwanie’ na pasku bocznym.
+orCenter	Środek
+orNorth	Północ
+orWest	Zachód
+orNortWest	Północny zachód
+orEast	Wschód
+orNortEast	Północny wschód
+orSouth	Południe
+orSouthWest	Południowy zachód
+orSoutEast	Południowy wschód
+screen_tolerence	Tolerowana różnica ekranu (%)
+screen_tolerence.h	Ten parametr definiuje konieczne dopasowanie grafiki pomiędzy wyświetlaną stroną ekranu a zapisanym zrzutem ekranu w procentach dla powiązanej informacji o kontekście do wyświetlenia. Jeśli różnice graficzne leżą powyżej zdefiniowanej wartości, aplikacja @{NAVIGATOR} porównuje zapisany klucz strony ze stroną ekranu i wyświetla odpowiednie zawartości dla różnych stron aplikacji.
+video_folder	Folder zapisów wideo
+video_folder.h	Określa folder do przechowywania zapisów wideo. \nUwaga: Zapisy wideo nie są przechowywane w folderze cache funkcjonalności @{NAVIGATOR} z uwagi na rozmiary plików.
+allow_video_rec	Zezwalanie na zapis wideo
+allow_video_rec.h	Zezwala użytkownikom na zapis zawartości wideo.
+hide_da_on_web_assistant	Ukrywanie @{NAVIGATOR}, gdy @{XRAY} działa
+hide_da_on_web_assistant.h	Określa, że okna @{NAVIGATOR} są ukryte, gdy @{XRAY} działa na pierwszym planie.
+show_web_assistant_msg	Wyświetlanie komunikatu @{XRAY}
+show_web_assistant_msg.h	Określa, że komunikat jest wyświetlany, gdy @{XRAY} działa na pierwszym planie lub wychodzi z trybu pierwszego planu.
+auto_hide	Ukrywanie po animacji
+auto_hide.h	Jeśli ta opcja jest aktywna, podświetlenie jest ukrywane automatycznie zaraz po zakończeniu animacji.
+bmain_height	Wysokość
+bmain_height.h	Definiuje wysokość głównego dymku w pikselach. Jeśli rozmiar tekstu przekracza powierzchnię dostępną w dymku, zostanie on automatycznie wyskalowany w pionie do wymaganej powierzchni.
+bmain_style	Styl
+bmain_style.h	To ustawienie definiuje, jaki typ dymku ma być używany do wyświetlania głównego dymku. Typy dymków są definiowane przy użyciu opcji 'Edytor typów dymków', którą można wywołać z menu 'Narzędzia' -> 'Edycja typów dymków'. Typy dymków są zawsze dostępne dla całego obszaru roboczego.
+bmain_width	Szerokość
+bmain_width.h	Definiuje szerokość głównego dymku w pikselach.
+bottom_dock	Dół — zadokowane
+cache_stale_interval	Przedział przedawnienia (min)
+cache_stale_interval.h	Aktywuje użycie cache funkcjonalności @{NAVIGATOR} i definiuje okres dla aktualizacji zawartości w folderze cache. Wartość jest definiowana w minutach. \nAby dezaktywować cache, proszę zmienić wartość na '0'.
+centered	Wyśrodkowane
+close_details	Zamykanie okna zawartości
+close_details.h	Definiuje klawisz funkcyjny do zamykania okna zawartości dla wybranego projektu.
+confirmation_hotkey	Klawisz skrótu potwierdzenia kroku
+confirmation_hotkey.h	Definiuje klawisz skrótu dla potwierdzenia kroków podczas odtwarzania asystenta procesu.
+detail_positioning	Wyrównanie okna z zawartością
+detail_positioning.h	Definiuje wyrównanie okna zawartości na ekranie. Z wyjątkiem opcji wyrównania 'Wyśrodkowane' okno zawartości zostanie zadokowane w głównym oknie.
+detail_size	Rozmiar okna z zawartością
+detail_size.h	Definiuje rozmiar (szerokość, wysokość) okna z zawartością w pikselach.
+enable_search	Włączanie zakładki wyszukiwania
+enable_search.h	Włącza funkcjonalność wyszukiwania w zawartości asystenta pulpitu
+h_dock	Zadokowane poziomo
+icon_position	Pozycja ikony
+icon_position.h	Wprowadzone tutaj wartości definiują pozycję ikony na ekranie. Są one podawane w pikselach. Ikona jest wyświetlana w lewym górnym rogu ekranu.
+leaves_page	Zamknięcie ekranu
+leaves_page.h	Ta opcja wskazuje nawigację, która czynność wymaganą dla tego obiektu kieruje do wczytania nowej strony. Wykonanie analizy nowej strony następuje po wykonaniu czynności dotyczącej obiektu i zakończeniu wczytywania strony.
+left_dock	Lewo — zadokowane
+library_height	Wysokość dymku
+library_height.h	Wartość ta definiuje wysokość dymku w pikselach.
+library_width	Szerokość dymku
+library_width.h	Wartość ta definiuje szerokość dymku w pikselach.
+maximize_details	Maksymalizacja okna zawartości
+maximize_details.h	Definiuje klawisz funkcyjny do maksymalizacji okna zawartości.
+next_doc	Wybór nowego dokumentu
+next_doc.h	Definiuje klawisz funkcyjny do wyboru nowego dokumentu w oknie zawartości.
+next_project	Wybór nowego projektu
+next_project.h	Definiuje klawisz funkcyjny do wyboru nowego projektu w oknie głównym.
+open_content	Otwieranie zawartości
+open_content.h	Określa klawisz funkcyjny dla otwierania wybranego obietku zawartości.
+open_details	Otwieranie okna zawartości
+open_details.h	Definiuje klawisz funkcyjny do otwierania okna zawartości dla wybranego projektu.
+prev_doc	Wybór poprzedniego dokumentu
+prev_doc.h	Definiuje klawisz funkcyjny do wyboru poprzedniego dokumentu w oknie zawartości.
+prev_project	Wybór poprzedniego projektu
+prev_project.h	Definiuje klawisz funkcyjny do wyboru poprzedniego projektu w głównym oknie.
+right_dock	Prawo — zadokowane
+show_execute	Wyświetlanie przycisku wykonania
+show_execute.h	Definiuje, czy podczas odtwarzania w dymku obiektu wyświetlany jest przycisk wykonania. Przycisk ten umożliwia użytkownikowi wykonanie czynności w aplikacji, a następnie wyświetlany jest kolejny krok.
+show_icon_on_start	Wyświetlanie ikony statusu przy uruchamianiu
+show_icon_on_start.h	Definiuje, czy przy uruchamianiu asystenta pulpitu ma być wyświetlana ikona statusu zamiast głównego okna.
+start_doc	Otwieranie dokumentu
+start_doc.h	Definiuje klawisz funkcyjny do otwierania wybranego dokumentu z okna zawartości.
+step_on_same_page	Krok na tej samej stronie
+top_dock	Góra — zadokowane
+v_dock	Zadokowane pionowo

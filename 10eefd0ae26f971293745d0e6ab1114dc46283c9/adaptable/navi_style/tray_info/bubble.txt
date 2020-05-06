@@ -1,0 +1,73 @@
+﻿{
+version: 3,
+
+sprite_w: 140,
+sprite_h: 220,
+edge_w: 10,
+edge_n_h: 14,
+edge_s_h: 10,
+allowed_orientations: "C",
+edge_per_orientation: false,
+
+content_padding_top: 10,
+content_padding_left: 10,
+content_padding_bottom: 10,
+content_padding_right: 10,
+
+content_padding_movable_top: 10,
+content_padding_with_caption_top: 34,
+
+title_font_family: "Arial, sans-serif",
+title_font_color: '#FFFFFF',
+title_font_size: '16px',
+title_bold: false,
+title_italic: false,
+title_underline: false,
+title_off_top: 8,
+
+content_font_family: "Arial, sans-serif",
+content_font_color: '#FFFFFF',
+content_font_size: '14px',
+content_bold: false,
+content_italic: false,
+
+body_w: 100,
+body_h: 200,
+body_x: 10,
+body_y: 10,
+
+corner_tl_x: 0,
+corner_tl_y: 0,
+corner_tl_movable_x: 0,
+corner_tl_movable_y: 0,
+corner_tr_movable_x: 110,
+corner_tr_movable_y: 0,
+
+corner_br_x: 110,
+corner_br_y: 210,
+
+close_w: 15,
+close_h: 12,
+close_x: 125,
+close_y: 58,
+close_active_y: 70,
+close_pressed_y: 82,
+close_off_x: -3,
+close_off_y: 3,
+
+min_w: 15,
+min_h: 12,
+min_x: 125,
+min_y: 104,
+min_active_y: 116,
+min_pressed_y: 128,
+min_off_x: -11,
+min_off_y: 0,
+
+min_bubble_w: 16,
+min_bubble_h: 16,
+min_bubble_x: 124,
+min_bubble_y: 0,
+min_bubble_active_y: 16,
+min_bubble_pressed_y: 32
+}

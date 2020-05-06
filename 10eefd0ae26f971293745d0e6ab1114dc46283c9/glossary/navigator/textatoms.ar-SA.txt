@@ -1,0 +1,313 @@
+﻿#	عناصر نص انجليزي
+BULLET	&#149;
+NEWLINE	\r\n
+TOK_COMPANY	SAP
+TOK_LIB	البرنامج التدريبي
+TOK_TOUR	الدرس
+TOK_TRAINER	Desktop Assistant
+TOK_AUTOMATION	epo
+NAVIGATOR	Desktop Assistant
+NAV_LIBRARY	library
+BTN_ABORT	إنهاء
+BTN_CLOSE	إنهاء
+BTN_OK	موافق
+BTN_CLOSE_DLG	إغلاق
+BTN_CONTINUE	متابعة
+BTN_PREVIEW	معاينة
+BTN_PROCEED	استمرار
+BTN_RESTART	إعادة تشغيل
+BTN_SKIP	تخطي الخطوة
+BTN_START	البداية
+BTN_STOP	إيقاف
+BTN_EXECUTE	تنفيذ
+CA_SWITCH	مساعدة السياق
+CONTENT_CAP	المحتوى
+MAIL_SUBJECT	طلب محتوى مساعد سطح المكتب
+MAIL_HEADER	عزيزي المؤلف،\n\nأود طلب محتوى:
+MAIL_FOOTER	- العملية/المعاملة: الرجاء وصف عملية التطبيق قيد الاستخدام حاليًا. \n\n- الوصف: الرجاء وصف المعلومات التي تحتاجها. \n\n، مع أطيب تحيات،
+MAIL_DATA	- اسم التطبيق:
+MAIL_TOOLTIP	طلب محتوى
+SHARE_TOOLTIP	مشاركة المحتوى
+REQUEST_TEXT	انقر فوق %s لطلب محتوى
+REQUEST_LINK	هنا
+SEARCH_CAP	بحث
+INFO_CAP	معلومات
+SETTINGS_CAP	الإعدادات
+BACK_TOOLTIP	الخلف
+SHARE_CONTENT_TOOLTIP	مشاركة المحتوى
+CB_HIDE_OPTION	عدم الإظهار مرة أخرى
+MY_ROLES	الأدوار الخاصة بي
+EDIT_ROLES	تغيير الأدوار
+NO_ROLES	إظهار محتوى دون أدوار
+SELECT_ALL_CAPTION	تحديد الكل
+USER_CAPTION	منطقة المستخدم
+READ_MORE	قراءة المزيد...
+NO_CATEGORY_CAPTION	محتوى آخر
+DELETE_FAILED	فشل حذف العملية.
+RENAME_FAILED	فشل عملية إعادة التسمية.
+FILE_EXISTS	يوجد ملف بالاسم نفسه بالفعل. أدخِل اسمًا مختفًا.
+LBL_YES	نعم
+LBL_DELETE	حذف
+LBL_NO	لا
+LBL_OK	موافق
+DELETE_DLG_TEXT	هل تريد بالتأكيد حذف المستندات المحددة (%N)؟
+LBL_CONCURRENT	بدء النمط المتزامن
+LBL_DA	مساعد سطح المكتب
+LBL_SIM	بدء المحاكاة
+LBL_CDOC	مفتوح
+LBL_DEMO	بدء نمط العرض التوضيحي
+LBL_NAVI	بدء جولة إرشادية
+LBL_BOOK	تشغيل الكتاب
+LBL_GROUP	فتح في المكتبة
+LBL_NAVIGATION	مساعد سطح المكتب
+LBL_PA	جولة إرشادية
+LBL_PRACTICE	بدء نمط الممارسة
+LBL_SIMULATION	محاكاة
+LBL_BOOKPAGE	إظهار صفحة الكتاب
+LBL_TEST	بدء نمط الاختبار
+LBL_RECORD_DOCUMENT	مستند السجل
+MSG_AUTOMATION_FINISHED	انتهت الأتمتة
+MSG_AUTOMATION_FINISHED_2	انقر فوق "إعادة تشغيل" لبدء العملية المؤتمتة مرة أخرى.
+MSG_AUTOMATION_START	قم بتحرير قيم الإدخال
+MSG_AUTOMATION_START_2	قم بفحص القيم التالية أو تحريرها، والتي سيتم إدخالها تلقائيًا أثناء العملية.
+MSG_EPO_DIALOG	محسِّن عملية إلكترونية
+MSG_NAVI_LIBRARY_NO_APP	لا توجد معلومات متوفرة.
+LBL_NAVI_NO_MATCH	لا توجد نتائج تطابق البحث.
+NO_RECORDS	لا تتوفر أي مستندات.
+MSG_NAVI_LIBRARY_SUBTITLE	المحتويات المتوفرة:
+MSG_NAVI_LIBRARY_TITLE	مساعد سطح المكتب
+MSG_NOT_APPLICABLE	غير قابلة للتحرير
+MSG_PA_CONTROL_STEP	الإجراء المطلوب لهذه الخطوة:
+MSG_PA_EXPLANATION_STEP	انتقل إلى الشاشة المعروضة أدناه.
+MSG_PA_FORM_STEP	الحقول المطلوب ملؤها في النموذج:
+MSG_PA_DIALOG	جولة إرشادية
+MSG_PA_START_SCREEN	قم بفتح شاشة البدء.
+MSG_PA_STEP_NOT_FOUND	انتقل إلى الشاشة المطلوبة
+MSG_PA_STEP_NOT_FOUND1	Make sure that the target application (@{TARGETAPPNAME}) is open.
+MSG_PA_STEP_NOT_FOUND2	انتقل إلى الشاشة بالتحكم المميَّز المعروضة أدناه.
+MSG_STEP_LIGHT	معاينة الخطوة
+MSG_STEP_NOT_FOUND	لم يتم العثور على خطوة الجولة الإرشادية.
+MSG_STEP_NOT_FOUND_2	انقر في شريط عناوين التطبيق المستهدف أو انتقل إلى الشاشة الصحيحة.<br><br>انقر فوق 'معاينة' لرؤية الشاشة المطلوبة.
+PA_FINISHED	انتهت الجولة الإرشادية.
+PROJECT_TITLE	عنوان المشروع
+TRAY_INFO_BUBBLE_HEADING	جولة إرشادية
+TRAY_INFO_BUBBLE_TEXT	لا يمكن عرض الخطوة التالية. انقر هنا لمزيد من المعلومات.
+RESTRICTED_BUBBLE_HEADING	تم إيقاف الإجراء
+RESTRICTED_BUBBLE_TEXT	لا يمكنك تنفيذ أي إجراءات حتى يتم تأكيد الخطوة الحالية.
+HELP_TITLE	مساعدة
+HELP_INTRO	تمنحك المساعدة نظرة عامة على الأجزاء والوظائف الرئيسية لـ @{NAVIGATOR}.</br></br><b>ملاحظة:</b> تعتمد الوظائف المتوفرة على تكوين @{NAVIGATOR}.</br>
+HELP_TITLE_DA	الشريط الجانبي والنوافذ
+HELP_SIDEBAR_T	شريط جانبي
+HELP_SIDEBAR_H	يسمح لك الشريط الجانبي ببدء الوظائف الرئيسية لـ @{NAVIGATOR}. يتم عرض زر لكل وظيفة. يمكن تحريك الشريط الجانبي باستخدام السحب والإسقاط ويمكن تصغيره وتكبيره بالنقر على حد الشريط الجانبي.
+HELP_CONTENT_CONTROL_T	المحتوى
+HELP_CONTENT_CONTROL_H	يشير إذا ما كان المحتوى متوفرًا أم لا. يفتح النافذة الرئيسية بالمحتوى.
+HELP_SEARCH_CONTROL_T	بحث
+HELP_SEARCH_CONTROL_H	يفتح البحث المخصص للبحث عن محتوى.
+HELP_EXTSEARCH_CONTROL_T	البحث الخارجي
+HELP_EXTSEARCH_CONTROL_H	فتح البحث الخارجي للبحث عن محتوى.
+HELP_STICKY_CONTROL_T	إضافة ملاحظة ملصقة
+HELP_STICKY_CONTROL_H	يدرج ملاحظة ملصقة لنافذة التطبيق الحالي. يمكنك إدخال نص لملاحظتك الملصقة.
+HELP_RECORDING_CONTROL_T	بدء التسجيل
+HELP_RECORDING_CONTROL_H	بدء تسجيل عملية. سيتم حفظ العملية المسجلة كمستند في 'منطقة المستخدم'.
+HELP_MAIN_WINDOW_T	النافذة الرئيسية
+HELP_MAIN_WINDOW_H	تعرض النافذة الرئيسية المحتويات المتوفرة لسياق صفحة محدد.</br>وأثناء تشغيل جولة إرشادية، تعرض النافذة قائمة الخطوات.
+HELP_HEADER_T	المقدمة
+HELP_HEADER_H	توضح أيقونة الحالة في المقدمة إذا ما كان يتوفر محتوى للسياق الحالي.
+HELP_CONTENT_TAB_T	علامة تبويب المحتوى
+HELP_CONTENT_TAB_H	تعرض علامة التبويب المحتوى المتوفر للتطبيق الحالي.
+HELP_CONTENT_VIEW_T	عرض المحتوى
+HELP_CONTENT_VIEW_H	يعرض عرض المحتوى المعلومات والأنماط والوثائق المتوفرة للمحتوى المحدد .</br>يمكنك استخدام عنصر التحكم 'الخلف' للعودة إلى قائمة المحتويات.
+HELP_SEARCH_TAB_T	علامة تبويب البحث
+HELP_SEARCH_TAB_H	من علامة التبويب، يمكنك البحث عن محتوى معين للسياق الحالي.
+HELP_INFO_TAB_T	علامة تبويب المعلومات
+HELP_INFO_TAB_H	تعرض علامة التبويب معلومات عامة حول @{NAVIGATOR}
+HELP_USERAREA_TAB_T	علامة تبويب منطقة المستخدم
+HELP_USERAREA_TAB_H	تحتوي علامة التبويب على مستندات العمليات المسجلة. فيمكنك فتح مستند أو مشاركته أو حذفه. ويمكنك أيضًا تسجيل عمليات أخرى.
+HELP_INSTANT_T	مساعدة سريعة
+HELP_INSTANT_H	بتنشيط الإعداد، يتم عرض معلومات السياق الإضافية على الجانب الأيسر من شاشة التطبيق الحالي. يتم تمكين الإعداد افتراضيًا.
+HELP_REQCONTENT_T	طلب محتوى
+HELP_REQCONTENT_H	يفتح نافذة بريد إلكتروني لطلب محتوى مفقود من المؤلف.
+HELP_SETTINGS_T	الإعدادات
+HELP_SETTINGS_H	يحتوي العرض على إعدادات لعرض محتوى @{NAVIGATOR}.
+HELP_MYROLES_T	الأدوار الخاصة بي
+HELP_MYROLES_H	يعرض هذا الإعداد محتوى للدور الذي تم تعيينه.
+HELP_WITHOUTROLES_T	إظهار محتوى دون أدوار
+HELP_WITHOUTROLES_H	يعرض هذا الإعداد محتوى دون أدوار معيَّنة.
+HELP_EDITROLES_T	الأدوار
+HELP_EDITROLES_H	يتم إدراج جميع الأدوار المستخدمة للمحتوى ويمكن التنشيط أو إلغاء التنشيط لعرض المحتوى.
+HELP_SHARECONTENT_T	مشاركة المحتوى
+HELP_SHARECONTENT_H	يفتح مربع حوار بارتباط للمحتوى. يمكن مشاركة الارتباط مع مستخدمين آخرين.
+HELP_REQUESTCONTENT_T	طلب محتوى
+HELP_REQUESTCONTENT_H	يفتح بريد إلكتروني محدد مسبقًا لطلب محتوى لحالة خاصة.
+HELP_PLAYBACK_CONTENT_T	تشغيل محتوى
+HELP_PLAYBACK_CONTENT_H	يمكن بدء المحتوى المتوفر أو فتحه باستخدام الأزرار في نافذة المحتوى.
+HELP_MINIMIZED_STATUS_T	حالة مصغرة
+HELP_MINIMIZED_STATUS_H	في حالة إغلاق النافذة الرئيسية، ستظل أيقونة الحالة العائمة تشير إذا ما كان يتوفر محتوى للسياق الحالي. انقر فوق الأيقونة لاستعادة الصفحة الرئيسية.
+HELP_MINIMIZED_MENU_T	قائمة السياق
+HELP_MINIMIZED_MENU_H	تتضمن قائمة السياق (انقر بزر الماوس الأيمن فوق الأيقونة) وظائف لعرض النافذة الرئيسية ومساعدة السياق.
+HELP_BOOK_WINDOW_T	نافذة الكتاب
+HELP_BOOK_WINDOW_H	يتم فتح نافذة الكتاب عند تشغيل كتاب. يتم إخفاء النافذة الرئيسية ونافذة المحتوى.
+HELP_GOTOTOP	انتقال إلى أعلى
+HELP_CAPTION	مساعدة @{NAVIGATOR}
+NAVHELP_TITLE	أيقونة الحالة وقائمة السياق
+NAVHELP_INTRO	</br>تمنحك المساعدة نظرة عامة على أيقونة الحالة وإدخالات قائمة السياق.
+NAVHELP_STATUS_ICON_T	أيقونة الحالة (شريط المهام)
+NAVHELP_STATUS_ICON_H	يتم وضع أيقونة الحالة في شريط المهام وتعرض أنشطة @{NAVIGATOR} الحالية. توجد الحالات التالية:
+NAVHELP_STATUS_FOUND_T	المحتوى متوفر (أيقونة خضراء)
+NAVHELP_STATUS_FOUND_H	المحتوى متوفر للسياق الحالي ومعروض.
+NAVHELP_STATUS_CHECK_T	تحميل المحتوى (أيقونة صفراء)
+NAVHELP_STATUS_CHECK_H	يفحص @{NAVIGATOR} السياق الحالي للمحتوى المتوفر ويقوم بتحميل المحتوى.
+NAVHELP_STATUS_NOFOUND_T	لا يتوفر أي محتوى (أيقونة حمراء)
+NAVHELP_STATUS_NOFOUND_H	لا يتوفر أي محتوى للسياق الحالي.
+NAVHELP_STANDBY_T	معطل
+NAVHELP_STANDBY_H	تم تعطيل @{NAVIGATOR}. بالنقر فوق أيقونة الحالة (<i>CTRL + F11</i>) يتم تعطيل أو تمكين @{NAVIGATOR}.
+NAVHELP_STATUS_MIN_T	مصغّر
+NAVHELP_STATUS_MIN_H	تم تصغير النوافذ والشريط الجانبي.
+NAVHELP_STATUS_MENU_T	قائمة السياق
+NAVHELP_STATUS_MENU_H	تتضمن قائمة السياق (انقر بزر الماوس الأيمن فوق الأيقونة) الوظائف العامة لـ @{NAVIGATOR}.
+NAVHELP_VERSION_T	إظهار الإصدار
+NAVHELP_VERSION_H	إظهار رقم إصدار @{NAVIGATOR} المثبت. يعد هذا الإعداد لازمًا لأي عملية اتصال مع توفير الدعم في حالة حدوث المشاكل.
+NAVHELP_JSCONSOLE_T	وحدة تحكم JavaScript
+NAVHELP_JSCONSOLE_H	عرض وحدة تحكم JavaScript لتوفير رسائل خطأ تفصيلية. يعد هذا الإعداد لازمًا لأي عملية اتصال مع توفير الدعم في حالة حدوث المشاكل.
+NAVHELP_NAV_CACHE_T	حذف ذاكرة التخزين المؤقت المحلية
+NAVHELP_NAV_CACHE_H	حذف ذاكرة التخزين المؤقت المحلية لمحتوى @{NAVIGATOR}.
+NAVHELP_RESET_HIDDEN_T	إظهار جميع عناصر المساعدة المخفية مرة أخرى
+NAVHELP_RESET_HIDDEN_H	يعيد تعيين عناصر المساعدة التي تم تعيينها إلى 'مخفي' أثناء التشغيل.
+NAVHELP_EXIT_T	خروج
+NAVHELP_EXIT_H	يقوم بإيقاف التشغيل وإغلاق @{NAVIGATOR}.
+IDS_NAVP_ABOUT	إظهار الإصدار...
+IDS_NAVP_CONSOLE	وحدة تحكم JavaScript...
+IDS_NAVP_DELETE_CACHE	حذف ذاكرة التخزين المؤقت المحلية
+IDS_NAVP_HOOKER	Hooker
+IDS_SEARCH_INPUT	بحث في محتوى المساعدة
+IDS_CLEAR_SEARCH	مسح البحث
+IDS_NAVP_CLOSE	خروج
+IDS_RESET_CURRENT	إعادة إظهار عنصر المساعدة المخفية
+IDS_RESET_ALL	إظهار جميع عناصر المساعدة المخفية مرة أخرى
+IDS_RESET_ALL_TIP	إظهار جميع التلميحات المخفية مرة أخرى عند الدخول إلى شاشة لأول مرة.
+IDS_OPEN_RECORD_LBL	مفتوح
+IDS_EDIT_RECORD_LBL	إعادة تسمية
+IDS_DELETE_RECORD_LBL	حذف
+IDS_SHARE_RECORD_LBL	مشاركة
+IDS_EXTERNAL_SEARCH_BTN	البحث الخارجي
+IDS_EXTERNAL_SEARCH_SUB_MENU	البحث الخارجي
+IDS_SHOW_SCREEN_ICON	إظهار مساعد سطح المكتب
+IDS_SHOW_DA	إظهار النافذة الرئيسية
+IDS_SHOW_CONTENT	إظهار المحتوى
+IDS_HIDE_CONTENT	إخفاء المحتوى
+IDS_SEARCH_BTN	بحث
+IDS_REQUEST_CONTENT_BTN	طلب محتوى
+IDS_RECORDING_BTN	بدء التسجيل
+IDS_SHOW_CA_SWITCH	إظهار مساعدة السياق
+IDS_HIDE_CA_SWITCH	إخفاء مساعدة السياق
+IDS_CA_SWITCH_INACTIVE_BTN	لا تتوفر مساعدة سياق
+IDS_DO_CTX_RECOGNITION	إظهار مساعدة السياق
+IDS_NAV_STANDBY	تم تعطيل @{NAVIGATOR}.
+IDS_NAV_NO_STANDBY	تم تمكين @{NAVIGATOR}.
+IDS_SHOW_DA_PANELS	@{NAVIGATOR} متوفر الآن من جديد. فإذا كنت بحاجة إلى أي مساعدة، يمكنك استخدام @{NAVIGATOR}.
+IDS_HIDE_DA_PANELS	@{NAVIGATOR} اختفى تلقائيًا لأن المساعدة المناسبة متوفرة في التطبيق الذي قمت بفتحه حاليًا. فإذا كنت بحاجة إلى مزيد من المساعدة، فما عليك سوى أن تفتح المساعدة في التطبيق.
+IDS_ADD_STICKY_NOTES_BTN	إضافة ملاحظة ملصقة
+IDS_ADD_STICKY_NOTES_INACTIVE_BTN	يمكنك إضافة ملاحظة ملصقة واحدة فقط لهذا التطبيق.
+IDS_EXIT_DA	خروج
+IDS_EXIT_DA_BTN	خروج
+IDS_EXIT_DA_SUB_MENU	خروج
+IDS_SHOW_MORE	إظهار المزيد
+IDS_HIDE_MORE	إخفاء المزيد
+IDS_REQUEST_CONTENT_SUB_MENU	طلب محتوى
+IDS_SHOW_CA_SUB_MENU	إظهار مساعدة السياق
+IDS_HIDE_CA_SUB_MENU	إخفاء مساعدة السياق
+IDS_ADD_STICKY_NOTE_SUB_MENU	إضافة ملاحظة ملصقة
+IDS_RECORDING_SUB_MENU	بدء التسجيل
+IDS_CA_SWITCH_SUB_MENU	مساعدة السياق
+IDS_SHARE_DLG_CAPTION	مشاركة المستند
+IDS_DELETE_FRAMES	حذف الإطارات
+OPEN_FOLDER	فتح المجلد
+SHARE_DOC	مشاركة عبر البريد الإلكتروني
+IDS_SHARE_DLG_TEXT	ماذا تريد أن تفعل؟
+IDS_SEARCH_BTN_SUB_MENU	بحث عن محتوى
+IDS_LIBRARY_SEARCH_BTN_SUB_MENU	بحث عن محتوى في المكتبة
+GRACEFUL_DEGRADATION	هذه الميزة غير متوفرة حاليًا بسبب مشكلات في الشبكة. \n\nحاول مرة أخرى لاحقًا.
+SHARE_BTN	مشاركة عبر البريد الإلكتروني
+COPY_BTN	نسخ الارتباط
+SHARE_MAIL_SUBJECT	المحتوى الموصى به
+SHARE_MAIL_HEADER	عزيزي المستخدم، \n\nقد يكون هذا المحتوى ممتعًا لك. \n\n
+SHARE_MAIL_FOOTER	تفضلوا بقبول فائق الاحترام،
+SHARE_MAIL_LINK	الارتباط:\t
+SHARE_MAIL_CAPTION	التسمية التوضيحية:\t
+SHARE_TITLE	مشاركة المحتوى
+SELECT_ASSET	حدد أصلاً للبدء.
+ENTER_NAME	أدخل اسمًا
+DELETE_RECORD_WRN	مهم: لا يمكن التراجع عن هذا الإجراء.
+MSG_PA_NEXT_LBL	التالي
+MSG_PA_STEP_LBL	قائمة الخطوات
+TOGGLE_STEPLIST_TOOLTIP	إظهار/إخفاء قائمة الخطوات
+PREVIEW_STEP_TOOLTIP	معاينة الخطوة
+NEXT_STEP_TOOLTIP	انتقال إلى الخطوة التالية
+PREV_STEP_TOOLTIP	انتقال إلى الخطوة السابقة
+ROLES_TITLE	أدوار مساعد سطح المكتب
+ROLES_LBL	تصفية على محتوى المساعدة حسب الدور
+OK_CAPTION	موافق
+CANCEL_CAPTION	إلغاء
+BTN_YES	نعم
+BTN_NO	لا
+DELETE_CONFIRM	هل تريد بالتأكيد حذف هذه الملاحظة الملصقة؟
+EXIT_CONFIRM	هل ترد بالفعل الخروج من @{NAVIGATOR}؟
+sticky_notes	ملاحظات ملصقة
+exit_da	خروج من @{NAVIGATOR}
+STICKY_NOTE_DEFAULT_TEXT	أضف النص الخاص بك هنا.
+SEARCH_BTN_TOOLTIP	بحث
+NEXT_BTN_TOOLTIP	التالي
+PREV_BTN_TOOLTIP	السابق
+HIDE_BTN_TOOLTIP	إخفاء شريط التمرير
+IDS_PRJ_NAME	إدخال الاسم:
+IDS_APPLICATIONS	اختيار النافذة:
+IDS_PRJ_LANGUAGE	اختيار اللغة:
+IDS_FULL_SCREEN	ملء الشاشة
+IDS_CHOOSE_APP_CAPTION	اختيار التطبيق
+IDS_RECORD_BTN	تسجيل
+IDS_ANALYZE_ACTIONS	جارٍ تحليل الإجراءات...
+IDS_PARSE_PROJECT	تحليل المشروع...
+IDS_REGION	المنطقة
+IDS_AREA_HELP	يمكنك تغيير حجم المنطقة من خلال تحديد قالب أدناه. حدد حجم المستطيل الأحمر لتحديد منطقة أو حدد ملء الشاشة.
+IDS_CHOOSE_SIZE	اختيار الحجم:
+IDS_DEFINE_REC_AREA	منطقة التسجيل
+IDS_DEFINE_NAME_LANG	إنشاء محتوى
+PLEASE_SELECT	الرجاء تحديد
+quick_recorder.help_caption	تلميح
+quick_recorder.help	استخدم المفتاح 'إيقاف مؤقت' للإيقاف مؤقتًا أو للمتابعة. \nاستخدم المفتاح 'إنهاء' للإنهاء. \n\n حدد 'موافق' لبدء التسجيل.
+quick_recorder.audio_help	استخدم المفتاح 'إيقاف مؤقت' للإيقاف مؤقتًا أو للمتابعة. \nاستخدم المفتاح 'إنهاء' للإنهاء. \n\nالصوت:\nلا يتم تسجيل الصوت لديك عند النقر. انطق النص الخاص بك قبل تحديد عنصر تحكم. \n\nحدد 'موافق' لبدء التسجيل.
+FILE_EXISTS	يوجد ملف بالاسم نفسه بالفعل. أدخِل اسمًا مختفًا.
+HELP_EXIT_CONTROL_H	يقوم بإيقاف التشغيل وإغلاق @{NAVIGATOR}.
+HELP_EXIT_CONTROL_T	خروج
+BTN_CLOSE_DLG	إغلاق
+DELETE_RECORD_WRN	مهم: لا يمكن التراجع عن هذا الإجراء.
+ENTER_NAME	أدخل اسمًا
+IDS_CLEAR_SEARCH	مسح البحث
+IDS_RESET_ALL_TIP	إظهار جميع التلميحات المخفية مرة أخرى عند الدخول إلى شاشة لأول مرة.
+IDS_SEARCH_INPUT	بحث في محتوى المساعدة
+LBL_DELETE	حذف
+LBL_NAVI_NO_MATCH	لا توجد نتائج تطابق البحث.
+LBL_TU	مفتوح
+MSG_PA_NEXT_LBL	التالي
+MSG_PA_STEP_LBL	قائمة الخطوات
+RENAME_FAILED	فشل عملية إعادة التسمية.
+ROLES_LBL	تصفية على محتوى المساعدة حسب الدور
+SELECT_ASSET	حدد أصلاً للبدء.
+LBL_CDOC	مفتوح
+LBL_RECORD_DOCUMENT	مستند السجل
+QR_CAPTION	تحديد مخرجات التسجيل
+QR_WELCOME	ما الذي تريد إنشاءه؟
+QR_DOC_CAP	المستند
+QR_DOC_TXT	ينشئ مستند Microsoft Word يظهر لقطة شاشة ونصًا إرشاديًا لكل إجراء تسجله.
+QR_VIDEO_CAP	الفيديو
+QR_VIDEO_TXT	ينشئ مقطع فيديو بجودة عالية لما تقوم بتسجيله.
+QR_DOC_VIDEO_CAP	المستند والفيديو
+QR_DOC_VIDEO_TXT	ينشئ مستندًا ومقطع فيديو.
+SHARE_ERR_CAP	لا يمكن مشاركة التسجيل
+SHARE_ERR_TXT	هذا التسجيل كبير جدًا ولا يمكن مشاركته عبر البريد الإلكتروني.\nهل تريد فتح موقع ملف بدلاً من ذلك؟
+HELP_CONTENT_WINDOW_H	تعرض نافذة المحتوى المعلومات والأنماط والوثائق المتوفرة للمحتوى المحدد بالنافذة الرئيسية.</br>يمكن إرساء نافذة المحتوى في النافذة الرئيسية، مما يتيح لك إمكانية تحريك النافذتين معًا على الشاشة.
+HELP_CONTENT_WINDOW_T	نافذة المحتوى
+IDS_CONTENT_BTN	المحتوى
+MSG_PA_STEP_NOT_FOUND_NUMERAL_1	1.
+MSG_PA_STEP_NOT_FOUND_NUMERAL_2	2.
+SHARE_URL	رابط الصفحة الحالية:

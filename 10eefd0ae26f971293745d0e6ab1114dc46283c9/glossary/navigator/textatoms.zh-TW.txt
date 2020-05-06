@@ -1,0 +1,313 @@
+﻿#	英文文字解說
+BULLET	&#149;
+NEWLINE	\r\n
+TOK_COMPANY	SAP
+TOK_LIB	課程
+TOK_TOUR	課程單元
+TOK_TRAINER	Desktop Assistant
+TOK_AUTOMATION	epo
+NAVIGATOR	Desktop Assistant
+NAV_LIBRARY	library
+BTN_ABORT	結束
+BTN_CLOSE	結束
+BTN_OK	確定
+BTN_CLOSE_DLG	關閉
+BTN_CONTINUE	繼續
+BTN_PREVIEW	預覽
+BTN_PROCEED	繼續
+BTN_RESTART	重新啟動
+BTN_SKIP	跳過
+BTN_START	開始
+BTN_STOP	停止
+BTN_EXECUTE	執行
+CA_SWITCH	內容輔助說明
+CONTENT_CAP	內容
+MAIL_SUBJECT	桌面助理的內容請求
+MAIL_HEADER	親愛的作者：\n\n我想請求下列項目的內容：
+MAIL_FOOTER	- 程序 / 交易：請說明目前正在使用的應用程式程序。\n\n- 說明：請說明您的資訊。\n\n此致
+MAIL_DATA	- 應用程式名稱：
+MAIL_TOOLTIP	請求內容
+SHARE_TOOLTIP	共享內容
+REQUEST_TEXT	按一下 %s 請求內容
+REQUEST_LINK	此處
+SEARCH_CAP	搜尋
+INFO_CAP	資訊
+SETTINGS_CAP	設定
+BACK_TOOLTIP	退回
+SHARE_CONTENT_TOOLTIP	共享內容
+CB_HIDE_OPTION	不再顯示
+MY_ROLES	我的角色
+EDIT_ROLES	更改角色
+NO_ROLES	顯示不含角色的內容
+SELECT_ALL_CAPTION	全選
+USER_CAPTION	使用者區域
+READ_MORE	閱讀更多...
+NO_CATEGORY_CAPTION	其他內容
+DELETE_FAILED	刪除作業失敗。
+RENAME_FAILED	重新命名作業失敗。
+FILE_EXISTS	相同名稱的檔案已存在。請輸入不同名稱。
+LBL_YES	是
+LBL_DELETE	刪除
+LBL_NO	否
+LBL_OK	確定
+DELETE_DLG_TEXT	您確定要刪除所選的文件 (%N) 嗎？
+LBL_CONCURRENT	啟動並行模式
+LBL_DA	桌面助理
+LBL_SIM	開始模擬
+LBL_CDOC	開啟
+LBL_DEMO	啟動示範模式
+LBL_NAVI	開始導覽
+LBL_BOOK	播放電子書
+LBL_GROUP	於 library 中開啟
+LBL_NAVIGATION	桌面助理
+LBL_PA	導覽
+LBL_PRACTICE	啟動練習模式
+LBL_SIMULATION	模擬
+LBL_BOOKPAGE	顯示電子書頁面
+LBL_TEST	啟動測試模式
+LBL_RECORD_DOCUMENT	記錄文件
+MSG_AUTOMATION_FINISHED	自動操作已結束
+MSG_AUTOMATION_FINISHED_2	按一下「重新啟動」，再次開始自動操作程序。
+MSG_AUTOMATION_START	編輯輸入值
+MSG_AUTOMATION_START_2	檢查或者編輯下列值。這些值會在程序中自動輸入。
+MSG_EPO_DIALOG	電子程序最佳化工具
+MSG_NAVI_LIBRARY_NO_APP	沒有可用資訊。
+LBL_NAVI_NO_MATCH	您的搜尋沒有結果。
+NO_RECORDS	沒有可以使用的文件。
+MSG_NAVI_LIBRARY_SUBTITLE	可用內容：
+MSG_NAVI_LIBRARY_TITLE	桌面助理
+MSG_NOT_APPLICABLE	不可編輯
+MSG_PA_CONTROL_STEP	步驟所需動作：
+MSG_PA_EXPLANATION_STEP	瀏覽至下方顯示的畫面
+MSG_PA_FORM_STEP	待填入表單中的必填欄位：
+MSG_PA_DIALOG	導覽
+MSG_PA_START_SCREEN	開啟開始畫面
+MSG_PA_STEP_NOT_FOUND	切換至所需畫面
+MSG_PA_STEP_NOT_FOUND1	確定目標應用程式 (@{TARGETAPPNAME}) 開啟。
+MSG_PA_STEP_NOT_FOUND2	瀏覽至下方顯示的畫面 (含反白的控制項)
+MSG_STEP_LIGHT	步驟預覽
+MSG_STEP_NOT_FOUND	找不到導覽步驟。
+MSG_STEP_NOT_FOUND_2	請按一下目標應用程式標題列或瀏覽至正確畫面。<br><br>按一下 [預覽] 以查看所需畫面。
+PA_FINISHED	導覽結束。
+PROJECT_TITLE	專案標題
+TRAY_INFO_BUBBLE_HEADING	導覽
+TRAY_INFO_BUBBLE_TEXT	無法顯示目前的程序步驟。請在此按一下以取得進一步資訊。
+RESTRICTED_BUBBLE_HEADING	動作已封鎖
+RESTRICTED_BUBBLE_TEXT	在確認目前的步驟之前，您無法執行任何動作。
+HELP_TITLE	輔助說明
+HELP_INTRO	此輔助說明提供您有關 @{NAVIGATOR} 的主要部份和功能的概觀。</br></br><b>註記：</b>可用的功能視 @{NAVIGATOR} 的組態而定。</br>
+HELP_TITLE_DA	側邊列和視窗
+HELP_SIDEBAR_T	側邊列
+HELP_SIDEBAR_H	側邊列允許您啟動 @{NAVIGATOR} 的主要功能。按鈕會針對各功能顯示。您可使用拖放移動側邊列，也可按一下側邊列框線以最小化和最大化側邊列。
+HELP_CONTENT_CONTROL_T	內容
+HELP_CONTENT_CONTROL_H	指示是否有內容。並開啟包含內容的主視窗。
+HELP_SEARCH_CONTROL_T	搜尋
+HELP_SEARCH_CONTROL_H	開啟用於搜尋內容的搜尋功能。
+HELP_EXTSEARCH_CONTROL_T	外部搜尋
+HELP_EXTSEARCH_CONTROL_H	開啟用於搜尋內容的外部搜尋。
+HELP_STICKY_CONTROL_T	新增便利貼
+HELP_STICKY_CONTROL_H	插入目前應用程式視窗的便利貼。您可針對便利貼輸入內文。
+HELP_RECORDING_CONTROL_T	開始錄製
+HELP_RECORDING_CONTROL_H	開始錄製程序。已錄製的程序會在使用者區域中儲存為文件
+HELP_MAIN_WINDOW_T	主視窗
+HELP_MAIN_WINDOW_H	主視窗會顯示特定頁面內容的可用內容。</br>導覽錄放期間，視窗會顯示步驟清單。
+HELP_HEADER_T	表頭
+HELP_HEADER_H	表頭中的狀態圖示表示目前內容中是否有可用內容
+HELP_CONTENT_TAB_T	內容標籤
+HELP_CONTENT_TAB_H	此標籤會顯示目前應用程式的可用內容。
+HELP_CONTENT_VIEW_T	內容檢視
+HELP_CONTENT_VIEW_H	內容檢視顯示所選內容的可用資訊、模式和紀錄文件。</br>您可使用 [退回] 控制項退回內容清單。
+HELP_SEARCH_TAB_T	搜尋標籤
+HELP_SEARCH_TAB_H	您可在此標籤上搜尋目前內容的特定內容。
+HELP_INFO_TAB_T	資訊標籤
+HELP_INFO_TAB_H	該標籤顯示有關 @{NAVIGATOR} 的一般資訊。
+HELP_USERAREA_TAB_T	使用者區域標籤
+HELP_USERAREA_TAB_H	此標籤包含已錄製的程序文件，您可以開啟、分享，或刪除文件，也可以錄製進階的程序。
+HELP_INSTANT_T	立即輔助說明
+HELP_INSTANT_H	若啟用設定，附加內容資訊會顯示於目前應用程式畫面右側。依預設會啟用設定。
+HELP_REQCONTENT_T	請求內容
+HELP_REQCONTENT_H	開啟用於向作者請求缺少內容的電子郵件視窗。
+HELP_SETTINGS_T	設定
+HELP_SETTINGS_H	該檢視包含 @{NAVIGATOR} 內容顯示的設定。
+HELP_MYROLES_T	我的角色
+HELP_MYROLES_H	此設定顯示已指派角色的顯示內容。
+HELP_WITHOUTROLES_T	顯示不含角色的內容
+HELP_WITHOUTROLES_H	此設定顯示不含已指派角色的內容
+HELP_EDITROLES_T	角色
+HELP_EDITROLES_H	內容所用的所有角色會列出且可啟用或停用以顯示內容。
+HELP_SHARECONTENT_T	共享內容
+HELP_SHARECONTENT_H	開啟包含內容連結的對話方塊。您可和其他使用者共享連結。
+HELP_REQUESTCONTENT_T	請求內容
+HELP_REQUESTCONTENT_H	開啟預先定義的電子郵件以請求特定案例的內容。
+HELP_PLAYBACK_CONTENT_T	錄放內容
+HELP_PLAYBACK_CONTENT_H	您可使用內容視窗中的按鈕啟動或開啟可用內容。
+HELP_MINIMIZED_STATUS_T	最小化狀態
+HELP_MINIMIZED_STATUS_H	若您關閉主視窗，浮動狀態圖示仍會表示目前內容是否有可用內容。按一下圖示還原主視窗。
+HELP_MINIMIZED_MENU_T	內容功能表
+HELP_MINIMIZED_MENU_H	內容功能表 (以滑鼠右鍵按一下圖示) 包含顯示主視窗和內容輔助說明的功能。
+HELP_BOOK_WINDOW_T	電子書視窗
+HELP_BOOK_WINDOW_H	電子書視窗會於錄放電子書時開啟。主視窗和內容視窗則會隱藏。
+HELP_GOTOTOP	移至頂端
+HELP_CAPTION	@{NAVIGATOR} 輔助說明
+NAVHELP_TITLE	狀態圖示和內容功能表
+NAVHELP_INTRO	</br>輔助說明提供您有關內容功能表輸入項和狀態圖示的概觀。
+NAVHELP_STATUS_ICON_T	狀態圖示 (工作列)
+NAVHELP_STATUS_ICON_H	狀態圖示位於工作列，並顯示 @{NAVIGATOR} 的目前作業。圖示有以下狀態：
+NAVHELP_STATUS_FOUND_T	有內容 (綠色圖示)
+NAVHELP_STATUS_FOUND_H	目前內容有內容且會顯示
+NAVHELP_STATUS_CHECK_T	正在載入內容 (黃色圖示)
+NAVHELP_STATUS_CHECK_H	@{NAVIGATOR} 會針對可用內容檢查並載入目前內容。
+NAVHELP_STATUS_NOFOUND_T	沒有內容 (紅色圖示)
+NAVHELP_STATUS_NOFOUND_H	目前內容沒有內容
+NAVHELP_STANDBY_T	已停用
+NAVHELP_STANDBY_H	已停用 @{NAVIGATOR}。按一下狀態圖示 (<i>CTRL + F11</i>) 停用或啟用 @{NAVIGATOR}。
+NAVHELP_STATUS_MIN_T	已最小化
+NAVHELP_STATUS_MIN_H	已最小化視窗和側邊列。
+NAVHELP_STATUS_MENU_T	內容功能表
+NAVHELP_STATUS_MENU_H	內容功能表(以滑鼠右鍵按一下圖示) 包含 @{NAVIGATOR} 的一般功能。
+NAVHELP_VERSION_T	顯示版本
+NAVHELP_VERSION_H	顯示安裝的 @{NAVIGATOR} 版本號碼。此為發生問題時聯絡支援小組的必要項目。
+NAVHELP_JSCONSOLE_T	JavaScript 主控台
+NAVHELP_JSCONSOLE_H	顯示 JavaScript 主控台以提供明細錯誤訊息。此為發生問題時聯絡支援小組的必要項目。
+NAVHELP_NAV_CACHE_T	刪除本機快取
+NAVHELP_NAV_CACHE_H	刪除 @{NAVIGATOR} 內容的本機快取。
+NAVHELP_RESET_HIDDEN_T	再次顯示所有隱藏的輔助說明
+NAVHELP_RESET_HIDDEN_H	重設錄放期間已設為 '隱藏' 的輔助說明元素
+NAVHELP_EXIT_T	跳出
+NAVHELP_EXIT_H	停止錄放並關閉 @{NAVIGATOR}。
+IDS_NAVP_ABOUT	顯示版本...
+IDS_NAVP_CONSOLE	JavaScript 主控台...
+IDS_NAVP_DELETE_CACHE	刪除本機快取
+IDS_NAVP_HOOKER	Hooker
+IDS_SEARCH_INPUT	搜尋輔助說明內容
+IDS_CLEAR_SEARCH	清除搜尋
+IDS_NAVP_CLOSE	跳出
+IDS_RESET_CURRENT	再次顯示隱藏的輔助說明元素
+IDS_RESET_ALL	再次顯示所有隱藏的輔助說明
+IDS_RESET_ALL_TIP	首次輸入畫面時再次顯示所有停用的提示
+IDS_OPEN_RECORD_LBL	開啟
+IDS_EDIT_RECORD_LBL	重新命名
+IDS_DELETE_RECORD_LBL	刪除
+IDS_SHARE_RECORD_LBL	共享
+IDS_EXTERNAL_SEARCH_BTN	外部搜尋
+IDS_EXTERNAL_SEARCH_SUB_MENU	外部搜尋
+IDS_SHOW_SCREEN_ICON	顯示桌面助理
+IDS_SHOW_DA	顯示主視窗
+IDS_SHOW_CONTENT	顯示內容
+IDS_HIDE_CONTENT	隱藏內容
+IDS_SEARCH_BTN	搜尋
+IDS_REQUEST_CONTENT_BTN	請求內容
+IDS_RECORDING_BTN	開始錄製
+IDS_SHOW_CA_SWITCH	顯示內容輔助說明
+IDS_HIDE_CA_SWITCH	隱藏內容輔助說明
+IDS_CA_SWITCH_INACTIVE_BTN	沒有內容輔助說明
+IDS_DO_CTX_RECOGNITION	顯示內容輔助說明
+IDS_NAV_STANDBY	已停用 @{NAVIGATOR}。
+IDS_NAV_NO_STANDBY	已啟用 @{NAVIGATOR}。
+IDS_SHOW_DA_PANELS	@{NAVIGATOR} 已再次可供使用。如需協助，您可使用 @{NAVIGATOR}。
+IDS_HIDE_DA_PANELS	@{NAVIGATOR} 已自動消失，因為目前開啟的應用程式中有適當的輔助說明。如需進一步協助，請開啟輔助說明。
+IDS_ADD_STICKY_NOTES_BTN	新增便利貼
+IDS_ADD_STICKY_NOTES_INACTIVE_BTN	您僅可針對此應用程式新增單一便利貼
+IDS_EXIT_DA	跳出
+IDS_EXIT_DA_BTN	跳出
+IDS_EXIT_DA_SUB_MENU	跳出
+IDS_SHOW_MORE	顯示更多
+IDS_HIDE_MORE	隱藏更多
+IDS_REQUEST_CONTENT_SUB_MENU	請求內容
+IDS_SHOW_CA_SUB_MENU	顯示內容輔助說明
+IDS_HIDE_CA_SUB_MENU	隱藏內容輔助說明
+IDS_ADD_STICKY_NOTE_SUB_MENU	新增便利貼
+IDS_RECORDING_SUB_MENU	開始錄製
+IDS_CA_SWITCH_SUB_MENU	內容輔助說明
+IDS_SHARE_DLG_CAPTION	共享文件
+IDS_DELETE_FRAMES	刪除框架
+OPEN_FOLDER	開啟資料夾
+SHARE_DOC	透過電子郵件共享
+IDS_SHARE_DLG_TEXT	您要執行什麼動作？
+IDS_SEARCH_BTN_SUB_MENU	搜尋內容
+IDS_LIBRARY_SEARCH_BTN_SUB_MENU	搜尋 library 中的內容
+GRACEFUL_DEGRADATION	由於網路問題，此功能暫時無法使用。\n\n請稍後再試。
+SHARE_BTN	透過電子郵件共享
+COPY_BTN	複製連結
+SHARE_MAIL_SUBJECT	建議內容
+SHARE_MAIL_HEADER	親愛的使用者：\n\n您或許會對此內容有興趣。\n\n
+SHARE_MAIL_FOOTER	此致，
+SHARE_MAIL_LINK	連結：\t
+SHARE_MAIL_CAPTION	標題：\t
+SHARE_TITLE	共享內容
+SELECT_ASSET	選擇資產以開始。
+ENTER_NAME	輸入名稱
+DELETE_RECORD_WRN	重要：此動作無法復原。
+MSG_PA_NEXT_LBL	下一步
+MSG_PA_STEP_LBL	步驟清單
+TOGGLE_STEPLIST_TOOLTIP	顯示/隱藏步驟清單
+PREVIEW_STEP_TOOLTIP	預覽步驟
+NEXT_STEP_TOOLTIP	移至下一步
+PREV_STEP_TOOLTIP	移至上一步
+ROLES_TITLE	桌面助理角色
+ROLES_LBL	依角色篩選輔助說明內容
+OK_CAPTION	確定
+CANCEL_CAPTION	取消
+BTN_YES	是
+BTN_NO	否
+DELETE_CONFIRM	您確定要刪除此自黏註記？
+EXIT_CONFIRM	您確定要跳出 @{NAVIGATOR} 嗎？
+sticky_notes	便利貼
+exit_da	跳出 @{NAVIGATOR}
+STICKY_NOTE_DEFAULT_TEXT	在此處新增您的內文
+SEARCH_BTN_TOOLTIP	搜尋
+NEXT_BTN_TOOLTIP	下一步
+PREV_BTN_TOOLTIP	上一步
+HIDE_BTN_TOOLTIP	隱藏自動轉盤
+IDS_PRJ_NAME	輸入名稱：
+IDS_APPLICATIONS	選擇視窗：
+IDS_PRJ_LANGUAGE	選擇語言：
+IDS_FULL_SCREEN	全畫面
+IDS_CHOOSE_APP_CAPTION	選擇應用程式
+IDS_RECORD_BTN	錄製
+IDS_ANALYZE_ACTIONS	正在分析動作…
+IDS_PARSE_PROJECT	正在剖析專案...
+IDS_REGION	區域
+IDS_AREA_HELP	透過選擇下方的範本更改區域大小。調整紅色矩形以選擇區域或選擇全畫面。
+IDS_CHOOSE_SIZE	選擇大小：
+IDS_DEFINE_REC_AREA	錄製區域
+IDS_DEFINE_NAME_LANG	產生文件
+PLEASE_SELECT	請選擇
+quick_recorder.help_caption	秘訣
+quick_recorder.help	使用 "暫停" 鍵暫停或繼續。\n使用 "結束" 鍵完成。\n\n選擇 "確定" 開始錄製。
+quick_recorder.audio_help	使用 [暫停] 鍵暫停或繼續。\n使用 [結束] 鍵完成。\n\n音訊：\n按一下時未錄製您的音訊。請先誦讀您的內文再選擇控制項。\n\n選擇 [確定] 開始錄製。
+FILE_EXISTS	相同名稱的檔案已存在。請輸入不同名稱。
+HELP_EXIT_CONTROL_H	停止錄放並關閉 @{NAVIGATOR}。
+HELP_EXIT_CONTROL_T	跳出
+BTN_CLOSE_DLG	關閉
+DELETE_RECORD_WRN	重要：此動作無法復原。
+ENTER_NAME	輸入名稱
+IDS_CLEAR_SEARCH	清除搜尋
+IDS_RESET_ALL_TIP	首次輸入畫面時再次顯示所有停用的提示
+IDS_SEARCH_INPUT	搜尋輔助說明內容
+LBL_DELETE	刪除
+LBL_NAVI_NO_MATCH	您的搜尋沒有結果。
+LBL_TU	開啟
+MSG_PA_NEXT_LBL	下一步
+MSG_PA_STEP_LBL	步驟清單
+RENAME_FAILED	重新命名作業失敗。
+ROLES_LBL	依角色篩選輔助說明內容
+SELECT_ASSET	選擇資產以開始。
+LBL_CDOC	開啟
+LBL_RECORD_DOCUMENT	記錄文件
+QR_CAPTION	選擇錄製輸出
+QR_WELCOME	您要建立什麼項目呢？
+QR_DOC_CAP	文件
+QR_DOC_TXT	建立 Microsoft Word 文件，針對每個錄製動作顯示擷取畫面及指示內文。
+QR_VIDEO_CAP	視訊
+QR_VIDEO_TXT	建立高品質錄製視訊。
+QR_DOC_VIDEO_CAP	文件和視訊
+QR_DOC_VIDEO_TXT	建立文件和視訊。
+SHARE_ERR_CAP	無法共享錄製
+SHARE_ERR_TXT	此錄製過大，無法透過電子郵件共享。\n您要改為開啟檔案位置嗎？
+HELP_CONTENT_WINDOW_H	內容視窗會顯示主視窗所選內容的可用資訊、模式和紀錄文件。</br>內容視窗可停駐於主視窗，允許您在畫面上同時移動兩個視窗。
+HELP_CONTENT_WINDOW_T	內容視窗
+IDS_CONTENT_BTN	內容
+MSG_PA_STEP_NOT_FOUND_NUMERAL_1	1.
+MSG_PA_STEP_NOT_FOUND_NUMERAL_2	2.
+SHARE_URL	目前頁面的 URL：

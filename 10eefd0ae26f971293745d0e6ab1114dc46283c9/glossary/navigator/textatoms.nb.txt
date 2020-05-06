@@ -1,0 +1,313 @@
+﻿#	Engelske tekstatomer
+BULLET	&#149;
+NEWLINE	\r\n
+TOK_COMPANY	SAP
+TOK_LIB	Kurs
+TOK_TOUR	Læringsenhet
+TOK_TRAINER	Desktop Assistant
+TOK_AUTOMATION	epo
+NAVIGATOR	Desktop Assistant
+NAV_LIBRARY	library
+BTN_ABORT	Avslutt
+BTN_CLOSE	Avslutt
+BTN_OK	OK
+BTN_CLOSE_DLG	Lukk
+BTN_CONTINUE	Fortsett
+BTN_PREVIEW	Forhåndsvisning
+BTN_PROCEED	Fortsett
+BTN_RESTART	Start på nytt
+BTN_SKIP	Hopp over trinn
+BTN_START	Start
+BTN_STOP	Stopp
+BTN_EXECUTE	Utfør
+CA_SWITCH	Konteksthjelp
+CONTENT_CAP	Innhold
+MAIL_SUBJECT	Innholdsforespørsel for skrivebordsveiviser
+MAIL_HEADER	Hei,\n\nJeg vil gjerne rekvirere innhold for:
+MAIL_FOOTER	- Prosess/transaksjon: Beskriv applikasjonsprosessen som er i bruk for øyeblikket. \n\n- Beskrivelse: Beskriv informasjonen du trenger. \n\nVennlig hilsen,
+MAIL_DATA	- Applikasjonsnavn:
+MAIL_TOOLTIP	Rekvirer innhold
+SHARE_TOOLTIP	Del innhold
+REQUEST_TEXT	Klikk på %s for å rekvirere innhold
+REQUEST_LINK	her
+SEARCH_CAP	Søk
+INFO_CAP	Info
+SETTINGS_CAP	Innstillinger
+BACK_TOOLTIP	Tilbake
+SHARE_CONTENT_TOOLTIP	Del innhold
+CB_HIDE_OPTION	Ikke vis flere ganger
+MY_ROLES	Mine roller
+EDIT_ROLES	Endre roller
+NO_ROLES	Vis innhold uten roller
+SELECT_ALL_CAPTION	Velg alt
+USER_CAPTION	Brukerområde
+READ_MORE	Les mer ...
+NO_CATEGORY_CAPTION	Annet innhold
+DELETE_FAILED	Sletting mislyktes.
+RENAME_FAILED	Endring av navn mislyktes.
+FILE_EXISTS	Det finnes allerede en fil med samme navn. Oppgi et annet navn.
+LBL_YES	Ja
+LBL_DELETE	Slett
+LBL_NO	Nei
+LBL_OK	OK
+DELETE_DLG_TEXT	Vil du virkelig slette de valgte dokumentene (%N)?
+LBL_CONCURRENT	Start parallell modus
+LBL_DA	Skrivebordsveiviser
+LBL_SIM	Start simulering
+LBL_CDOC	Åpne
+LBL_DEMO	Start demomodus
+LBL_NAVI	Start omvisning
+LBL_BOOK	Spill av bok
+LBL_GROUP	Åpne i library
+LBL_NAVIGATION	Skrivebordsveiviser
+LBL_PA	Omvisning
+LBL_PRACTICE	Start øvingsmodus
+LBL_SIMULATION	Simulering
+LBL_BOOKPAGE	Vis bokside
+LBL_TEST	Start testmodus
+LBL_RECORD_DOCUMENT	Saksmappedokument
+MSG_AUTOMATION_FINISHED	Automatisering avsluttet
+MSG_AUTOMATION_FINISHED_2	Klikk på "Start på nytt" hvis du vil starte den automatiske prosessen på nytt
+MSG_AUTOMATION_START	Rediger inndataverdier
+MSG_AUTOMATION_START_2	Kontroller eller rediger følgende verdier. Disse blir automatisk registrert under prosessen.
+MSG_EPO_DIALOG	Elektronisk prosessoptimering
+MSG_NAVI_LIBRARY_NO_APP	Ingen informasjon er tilgjengelig.
+LBL_NAVI_NO_MATCH	Finner ingen resultater for søket.
+NO_RECORDS	Det finnes ingen tilgjengelige dokumenter.
+MSG_NAVI_LIBRARY_SUBTITLE	Tilgjengelig innhold:
+MSG_NAVI_LIBRARY_TITLE	Skrivebordsveiviser
+MSG_NOT_APPLICABLE	Ikke redigerbar
+MSG_PA_CONTROL_STEP	Nødvendig aktivitet for trinnet:
+MSG_PA_EXPLANATION_STEP	Naviger til skjermbildet som vises nedenfor
+MSG_PA_FORM_STEP	Obligatoriske felt som skal fylles ut i formularet:
+MSG_PA_DIALOG	Omvisning
+MSG_PA_START_SCREEN	Åpne startbilde
+MSG_PA_STEP_NOT_FOUND	Bytt til nødvendig skjermbilde
+MSG_PA_STEP_NOT_FOUND1	Pass på at målapplikasjonen (@{TARGETAPPNAME}) er åpen.
+MSG_PA_STEP_NOT_FOUND2	Naviger til skjermbildet med uthevet kontroll som vist nedenfor
+MSG_STEP_LIGHT	Forhåndsvisning av trinn
+MSG_STEP_NOT_FOUND	Finner ikke omvisningstrinn
+MSG_STEP_NOT_FOUND_2	Klikk på tittellinjen i målapplikasjonen eller naviger til riktig skjermbilde.<br><br>Klikk på 'Forhåndsvisning' for å vise nødvendig skjermbilde.
+PA_FINISHED	Omvisningen er fullført.
+PROJECT_TITLE	Prosjekttittel
+TRAY_INFO_BUBBLE_HEADING	Omvisning
+TRAY_INFO_BUBBLE_TEXT	Det aktuelle prosesstrinnet kan ikke vises. Klikk her for mer informasjon.
+RESTRICTED_BUBBLE_HEADING	Aktiviteten er sperret
+RESTRICTED_BUBBLE_TEXT	Du kan ikke utføre noen aktiviteter før det aktuelle trinnet er bekreftet.
+HELP_TITLE	Hjelp
+HELP_INTRO	Hjelpen gir deg oversikt over hovedkomponentene og funksjonene til @{NAVIGATOR}.</br></br><b>Merk:</b> Hvilke funksjoner som er tilgjengelige, er avhengig av konfigurasjonen til @{NAVIGATOR}.</br>
+HELP_TITLE_DA	Sidepanel og vinduer
+HELP_SIDEBAR_T	Sidepanel
+HELP_SIDEBAR_H	Med sidepanelet kan du starte hovedfunksjonene i @{NAVIGATOR}. For hver funksjon vises en knapp. Sidepanelet kan flyttes ved å bruke dra og slipp, og det kan minimeres og maksimeres ved å klikke på sidepanelets ramme.
+HELP_CONTENT_CONTROL_T	Innhold
+HELP_CONTENT_CONTROL_H	Viser om innhold er tilgjengelig. Åpner hovedvindu med innhold.
+HELP_SEARCH_CONTROL_T	Søk
+HELP_SEARCH_CONTROL_H	Åpner søket for å søke etter innhold
+HELP_EXTSEARCH_CONTROL_T	Eksternt søk
+HELP_EXTSEARCH_CONTROL_H	Åpner det eksterne søket for å søke etter innhold.
+HELP_STICKY_CONTROL_T	Tilføy klistrelapp
+HELP_STICKY_CONTROL_H	Setter inn en klistrelapp for aktuelt applikasjonsvindu. Du kan oppgi en tekst for klistrelappen.
+HELP_RECORDING_CONTROL_T	Start opptak
+HELP_RECORDING_CONTROL_H	Starter opptaket av en prosess. Prosessen blir da lagret som et dokument i brukerområdet.
+HELP_MAIN_WINDOW_T	Hovedvindu
+HELP_MAIN_WINDOW_H	Hovedvinduet viser tilgjengelig innhold for en bestemt sidekontekst.</br>Under avspilling av en omvisning, viser vinduet den trinnvise listen.
+HELP_HEADER_T	Tittellinje
+HELP_HEADER_H	Statussymbolet på tittellinjen viser hvis innholdet er tilgjengelig for aktuell kontekst
+HELP_CONTENT_TAB_T	Fanearket Innhold
+HELP_CONTENT_TAB_H	Fanearket viser det tilgjengelige innholdet for den aktuelle applikasjonen.
+HELP_CONTENT_VIEW_T	Innholdsvisning
+HELP_CONTENT_VIEW_H	Innholdsvisningen viser tilgjengelig informasjon, modi og dokumentasjon for valgt innhold.</br>Du kan bruke kontrollen 'Tilbake' til å gå tilbake til innholdslisten.
+HELP_SEARCH_TAB_T	Faneark "Søk"
+HELP_SEARCH_TAB_H	På fanearket kan du søke etter bestemt innhold for den aktuelle konteksten
+HELP_INFO_TAB_T	Faneark "Informasjon"
+HELP_INFO_TAB_H	Fanearket viser generell informasjon om @{NAVIGATOR}.
+HELP_USERAREA_TAB_T	Fanearket Brukerområde
+HELP_USERAREA_TAB_H	Fanearket inneholder prosessdokumentene fra opptaket. Du kan åpne, dele eller slette et dokument. Du kan ta opp flere prosesser.
+HELP_INSTANT_T	Rask hjelp
+HELP_INSTANT_H	Hvis dette alternativet er aktivert, vises ytterligere kontekstinformasjon på det aktuelle applikasjonsskjermbildet. Innstillingen er aktivert som standard.
+HELP_REQCONTENT_T	Rekvirer innhold
+HELP_REQCONTENT_H	Åpner et e-postvindu der du kan rekvirere innhold som mangler fra forfatteren
+HELP_SETTINGS_T	Innstillinger
+HELP_SETTINGS_H	Visningen inneholder innstillinger for visning av innholdet i @{NAVIGATOR}
+HELP_MYROLES_T	Mine roller
+HELP_MYROLES_H	Denne innstillingen viser innhold for den tilordnede rollen
+HELP_WITHOUTROLES_T	Vis innhold uten roller
+HELP_WITHOUTROLES_H	Denne innstillingen viser innhold uten tilordnede roller
+HELP_EDITROLES_T	Roller
+HELP_EDITROLES_H	Alle roller, som er brukt for innholdet, er listet og kan aktiveres eller deaktiveres for å vise innholdet
+HELP_SHARECONTENT_T	Del innhold
+HELP_SHARECONTENT_H	Åpner en dialogboks med lenke til innholdet. Lenken kan deles med andre brukere.
+HELP_REQUESTCONTENT_T	Rekvirer innhold
+HELP_REQUESTCONTENT_H	Åpner en forhåndsdefinert e-post for å rekvirere innhold i et spesifikt tilfelle.
+HELP_PLAYBACK_CONTENT_T	Spill av innhold
+HELP_PLAYBACK_CONTENT_H	Det tilgjengelig innholdet kan startes eller åpnes med knappene i innholdsvinduet
+HELP_MINIMIZED_STATUS_T	Minimert status
+HELP_MINIMIZED_STATUS_H	Hvis du lukker hovedvinduet, indikerer likevel et flytende statussymbol om innhold er tilgjengelig for den aktuelle konteksten. Klikk på symbolet for å gjenopprette hovedvinduet.
+HELP_MINIMIZED_MENU_T	Kontekstmeny
+HELP_MINIMIZED_MENU_H	Kontekstmenyen (høyreklikk på ikonet) inkluderer funksjoner for visning av hovedvinduet og konteksthjelpen.
+HELP_BOOK_WINDOW_T	Bokvindu
+HELP_BOOK_WINDOW_H	Bokvinduet åpnes når en bok spilles av. Hovedvinduet og innholdsvinduet skjules.
+HELP_GOTOTOP	Til toppen
+HELP_CAPTION	@{NAVIGATOR} Hjelp
+NAVHELP_TITLE	Statusikon og kontekstmeny
+NAVHELP_INTRO	</br>Hjelp gir deg en oversikt over statusikonet og registreringer i kontekstmenyen.
+NAVHELP_STATUS_ICON_T	Statussymbol (oppgavelinje)
+NAVHELP_STATUS_ICON_H	Statussymbolet er plassert på oppgavelinjen og viser de aktuelle aktivitetene i @{NAVIGATOR}. Følgende statuser finnes:
+NAVHELP_STATUS_FOUND_T	Innhold tilgjengelig (grønt symbol)
+NAVHELP_STATUS_FOUND_H	Innhold er tilgjengelig for aktuell kontekst og blir vist
+NAVHELP_STATUS_CHECK_T	Laster innhold (gult symbol)
+NAVHELP_STATUS_CHECK_H	@{NAVIGATOR} kontrollerer aktuell kontekst for tilgjengelig innhold og laster innholdet.
+NAVHELP_STATUS_NOFOUND_T	Ikke noe innhold tilgjengelig (rødt symbol)
+NAVHELP_STATUS_NOFOUND_H	Innhold er ikke tilgjengelig for aktuell kontekst
+NAVHELP_STANDBY_T	Deaktivert
+NAVHELP_STANDBY_H	@{NAVIGATOR} er deaktivert. Et klikk på statussymbolet (<i>CTRL + F11</i>) deaktiverer eller aktiverer @{NAVIGATOR}.
+NAVHELP_STATUS_MIN_T	Minimert
+NAVHELP_STATUS_MIN_H	Vinduer og sidepanel minimeres.
+NAVHELP_STATUS_MENU_T	Kontekstmeny
+NAVHELP_STATUS_MENU_H	Kontekstmenyen (høyreklikk på ikonet) inkluderer generelle funksjoner i @{NAVIGATOR}.
+NAVHELP_VERSION_T	Vis versjon
+NAVHELP_VERSION_H	Viser versjonsnummeret for den installerte @{NAVIGATOR}. De er nødvendige for eventuell kontakt med SAP-support i tilfelle problemer.
+NAVHELP_JSCONSOLE_T	JavaScript-konsoll
+NAVHELP_JSCONSOLE_H	Viser detaljerte feilmeldinger via JavaScript-konsoll. De er nødvendige for eventuell kontakt med SAP-support i tilfelle problemer.
+NAVHELP_NAV_CACHE_T	Slett lokal cache
+NAVHELP_NAV_CACHE_H	Sletter lokal cache for innhold i @{NAVIGATOR}.
+NAVHELP_RESET_HIDDEN_T	Vis all skjult hjelp igjen
+NAVHELP_RESET_HIDDEN_H	Tilbakestiller hjelpeelementer som ble satt til 'Skjult' under avspilling
+NAVHELP_EXIT_T	Avslutt
+NAVHELP_EXIT_H	Stopper avspillingen og lukker @{NAVIGATOR}.
+IDS_NAVP_ABOUT	Vis versjon...
+IDS_NAVP_CONSOLE	JavaScript-konsoll...
+IDS_NAVP_DELETE_CACHE	Slett lokal cache
+IDS_NAVP_HOOKER	Hooker
+IDS_SEARCH_INPUT	Søk etter hjelpeinnhold
+IDS_CLEAR_SEARCH	Tilbakestill søk
+IDS_NAVP_CLOSE	Avslutt
+IDS_RESET_CURRENT	Vis skjult hjelpeelement på nytt
+IDS_RESET_ALL	Vis all skjult hjelp igjen
+IDS_RESET_ALL_TIP	Vis alle skjulte tips igjen når et skjermbilde åpnes første gang.
+IDS_OPEN_RECORD_LBL	Åpne
+IDS_EDIT_RECORD_LBL	Endre navn
+IDS_DELETE_RECORD_LBL	Slett
+IDS_SHARE_RECORD_LBL	Del
+IDS_EXTERNAL_SEARCH_BTN	Eksternt søk
+IDS_EXTERNAL_SEARCH_SUB_MENU	Eksternt søk
+IDS_SHOW_SCREEN_ICON	Vis skrivebordsveiviser
+IDS_SHOW_DA	Vis hovedvindu
+IDS_SHOW_CONTENT	Vis innhold
+IDS_HIDE_CONTENT	Skjul innhold
+IDS_SEARCH_BTN	Søk
+IDS_REQUEST_CONTENT_BTN	Rekvirer innhold
+IDS_RECORDING_BTN	Start opptak
+IDS_SHOW_CA_SWITCH	Vis konteksthjelp
+IDS_HIDE_CA_SWITCH	Skjul konteksthjelp
+IDS_CA_SWITCH_INACTIVE_BTN	Ingen konteksthjelp er tilgjengelig
+IDS_DO_CTX_RECOGNITION	Vis konteksthjelp
+IDS_NAV_STANDBY	@{NAVIGATOR} er deaktivert.
+IDS_NAV_NO_STANDBY	@{NAVIGATOR} er aktivert.
+IDS_SHOW_DA_PANELS	@{NAVIGATOR} er nå tilgjengelig igjen. Du kan bruke @{NAVIGATOR} hvis du trenger hjelp.
+IDS_HIDE_DA_PANELS	@{NAVIGATOR} forsvant automatisk fordi det finnes tilgjengelig hjelp i applikasjonen som du har åpnet nå. Det er bare å åpne hjelpen i applikasjonen hvis du trenger mer assistanse.
+IDS_ADD_STICKY_NOTES_BTN	Tilføy klistrelapp
+IDS_ADD_STICKY_NOTES_INACTIVE_BTN	Du kan bare tilføye én klistrelapp for denne applikasjonen
+IDS_EXIT_DA	Avslutt
+IDS_EXIT_DA_BTN	Avslutt
+IDS_EXIT_DA_SUB_MENU	Avslutt
+IDS_SHOW_MORE	Vis mer
+IDS_HIDE_MORE	Skjul mer
+IDS_REQUEST_CONTENT_SUB_MENU	Rekvirer innhold
+IDS_SHOW_CA_SUB_MENU	Vis konteksthjelp
+IDS_HIDE_CA_SUB_MENU	Skjul konteksthjelp
+IDS_ADD_STICKY_NOTE_SUB_MENU	Tilføy klistrelapp
+IDS_RECORDING_SUB_MENU	Start opptak
+IDS_CA_SWITCH_SUB_MENU	Konteksthjelp
+IDS_SHARE_DLG_CAPTION	Del dokument
+IDS_DELETE_FRAMES	Sletter rammer
+OPEN_FOLDER	Åpne mappe
+SHARE_DOC	Del via e-post
+IDS_SHARE_DLG_TEXT	Hva vil du gjøre?
+IDS_SEARCH_BTN_SUB_MENU	Søk etter innhold
+IDS_LIBRARY_SEARCH_BTN_SUB_MENU	Søk etter innhold i library
+GRACEFUL_DEGRADATION	Denne funksjonen er midlertidig utilgjengelig på grunn av nettverksproblemer. \n\nPrøv igjen senere.
+SHARE_BTN	Del via e-post
+COPY_BTN	Kopier lenke
+SHARE_MAIL_SUBJECT	Anbefalt innhold
+SHARE_MAIL_HEADER	Hei,\n\nDette innholdet kan kanskje være av interesse. \n\n
+SHARE_MAIL_FOOTER	Vennlig hilsen
+SHARE_MAIL_LINK	Lenke:\t
+SHARE_MAIL_CAPTION	Bildetekst:\t
+SHARE_TITLE	Del innhold
+SELECT_ASSET	Velg et anleggsmiddel for å starte.
+ENTER_NAME	Oppgi et navn
+DELETE_RECORD_WRN	Viktig: Denne aktiviteten kan ikke angres.
+MSG_PA_NEXT_LBL	Neste
+MSG_PA_STEP_LBL	Trinnvis liste
+TOGGLE_STEPLIST_TOOLTIP	Vis/skjul trinnliste
+PREVIEW_STEP_TOOLTIP	Forhåndsvis trinn
+NEXT_STEP_TOOLTIP	Gå til neste trinn
+PREV_STEP_TOOLTIP	Gå til forrige trinn
+ROLES_TITLE	Roller for skrivebordsveiviser
+ROLES_LBL	Filtrer hjelpeinnhold etter rolle
+OK_CAPTION	OK
+CANCEL_CAPTION	Avbryt
+BTN_YES	Ja
+BTN_NO	Nei
+DELETE_CONFIRM	Er du sikker på at du vil slette klistrelappen?
+EXIT_CONFIRM	Er du sikker på at du vil avslutte @{NAVIGATOR}?
+sticky_notes	Klistrelapper
+exit_da	Avslutt @{NAVIGATOR}
+STICKY_NOTE_DEFAULT_TEXT	Legg til din tekst her
+SEARCH_BTN_TOOLTIP	Søk
+NEXT_BTN_TOOLTIP	Neste
+PREV_BTN_TOOLTIP	Forrige
+HIDE_BTN_TOOLTIP	Skjul karusell
+IDS_PRJ_NAME	Oppgi navn:
+IDS_APPLICATIONS	Velg vindu:
+IDS_PRJ_LANGUAGE	Velg språk:
+IDS_FULL_SCREEN	Fullskjerm
+IDS_CHOOSE_APP_CAPTION	Velg applikasjon
+IDS_RECORD_BTN	Ta opp
+IDS_ANALYZE_ACTIONS	Analyserer aktiviteter...
+IDS_PARSE_PROJECT	Analyseprosjekt...
+IDS_REGION	Region
+IDS_AREA_HELP	Endre regionstørrelsen ved å velge en mal nedenfor. Skaler det røde rektangelet for å velge en region, eller velg fullskjerm.
+IDS_CHOOSE_SIZE	Velg størrelse:
+IDS_DEFINE_REC_AREA	Opptaksområde
+IDS_DEFINE_NAME_LANG	Generer innhold
+PLEASE_SELECT	Velg
+quick_recorder.help_caption	Tips
+quick_recorder.help	Bruk "PAUSE"-tasten til å sette på pause eller fortsette. \nBruk "END"-tasten til å fullføre. \n\nVelg "OK" for å starte innspilling.
+quick_recorder.audio_help	Bruk "PAUSE"-tasten til å sette på pause eller fortsette. \nBruk "END"-tasten til å fullføre. \n\nLyd:\nLyden blir ikke spilt inn under et klikk. Uttal teksten før du velger en kontroll. \n\nVelg "OK" for å starte innspilling.
+FILE_EXISTS	Det finnes allerede en fil med samme navn. Oppgi et annet navn.
+HELP_EXIT_CONTROL_H	Stopper avspillingen og lukker @{NAVIGATOR}.
+HELP_EXIT_CONTROL_T	Avslutt
+BTN_CLOSE_DLG	Lukk
+DELETE_RECORD_WRN	Viktig: Denne aktiviteten kan ikke angres.
+ENTER_NAME	Oppgi et navn
+IDS_CLEAR_SEARCH	Tilbakestill søk
+IDS_RESET_ALL_TIP	Vis alle skjulte tips igjen når et skjermbilde åpnes første gang.
+IDS_SEARCH_INPUT	Søk etter hjelpeinnhold
+LBL_DELETE	Slett
+LBL_NAVI_NO_MATCH	Finner ingen resultater for søket.
+LBL_TU	Åpne
+MSG_PA_NEXT_LBL	Neste
+MSG_PA_STEP_LBL	Trinnvis liste
+RENAME_FAILED	Endring av navn mislyktes.
+ROLES_LBL	Filtrer hjelpeinnhold etter rolle
+SELECT_ASSET	Velg et anleggsmiddel for å starte.
+LBL_CDOC	Åpne
+LBL_RECORD_DOCUMENT	Saksmappedokument
+QR_CAPTION	Velg opptaksutdata
+QR_WELCOME	Hva vil du lage?
+QR_DOC_CAP	Dokument
+QR_DOC_TXT	Oppretter et Microsoft Word-dokument som viser et øyeblikksbilde og en instruksjonstekst for hver aktivitet du spiller inn.
+QR_VIDEO_CAP	Video
+QR_VIDEO_TXT	Lager en video av høy kvalitet av din innspilling.
+QR_DOC_VIDEO_CAP	Dokument og video
+QR_DOC_VIDEO_TXT	Oppretter et dokument og lager en video.
+SHARE_ERR_CAP	Kan ikke dele opptak
+SHARE_ERR_TXT	Dette opptaket er for stort til å deles via e-post.\nVil du åpne en filplassering i stedet?
+HELP_CONTENT_WINDOW_H	Innholdsvinduet viser tilgjengelig informasjon, modi og dokumentasjon for valgt innhold i hovedvinduet.</br>Innholdsvinduet kan forankres til hovedvinduet, slik at du kan flytte begge vinduene på skjermen.
+HELP_CONTENT_WINDOW_T	Innholdsvindu
+IDS_CONTENT_BTN	Innhold
+MSG_PA_STEP_NOT_FOUND_NUMERAL_1	1.
+MSG_PA_STEP_NOT_FOUND_NUMERAL_2	2.
+SHARE_URL	URL for aktuell side:

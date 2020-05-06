@@ -1,0 +1,765 @@
+﻿NAVIGATOR	Desktop Assistant
+XRAY	Web Assistant
+LIBRARY	library
+MANAGER	Manager
+form_bubble	Gelembung Bentuk
+bform_height	Ketinggian
+bform_height.h	Takrifkan ketinggian gelembung bentuk  yang akan dipaparkan dalam piksel.
+bform_width	Lebar
+bform_width.h	Takrifkan kelebaran bentuk gelembung yang akan dipaparkan dalam piksel.
+bform_position	Kedudukan
+bform_position.h	Takrifkan kedudukan gelembung bentuk (kiri, atas) untuk penjajaran 'Bebas' pada skrin. Nilai diberi dalam piksel.
+paramAutoMergeComplete	Menggabungkan Skrin telah selesai.
+form	Borang
+application_contexts	Aplikasi
+﻿Application	Aplikasi
+highlight_offset	Ofset
+AutoBarChooseApp	Pilih Aplikasi
+AutoBarReRecManual	Klik objek.
+BubbleOnActivate	Tunjukkan Gelembung secara langsung
+ClickOnAAPosition	Klik ke dalam Aplikasi untuk mentakrifkan Segi empat tepat.
+ClickOnPosition	Klik pada kedudukan dalam aplikasi.
+EnabledOnPgLoad	Aktifkan
+HighlightOnActivate	Tunjukkan Serlahan secara langsung
+start_from_arbitrary	Mula dari Langkah Arbitrari
+focus_step	Lapisan Fokus
+focus_step.h	Lawatan berpandu sahaja\nPapar lapisan kelabu untuk serlahkan kawalan yang diperlukan dalam langkah semasa.
+yes	Ya
+no	Tidak
+light_mode	Mod Interaktif
+light_mode.h	Tentukan bahawa pengguna perlu navigasi dalam helembung objek untuk langkah seterusnya. Tiada pengenalan halaman yang dilakukan semasa main semula.
+restricted_mode	Mod Terbatas
+restricted_mode.h	Tentukan hanya tindakan semasa boleh dilaksanakan. Kawalan lain bagi halaman aplikasi adalah disekat. \nTetapan boleh digunakan jika 'Lapisan Fokus' telah diaktifkan.
+show_highlight	Serlahan
+action	Tindakan
+active_area	Kawasan Aktif
+add_application_expl	Masukkan Penerangan
+adv	Lanjutan
+display_behavior	Papar Tingkah Laku
+all_values	Semua Nilai
+anim_steps	Langkah Animasi
+application_context	Aplikasi
+area	Kawasan
+auto_merge	Gabung Makro Skrin
+b_height	Ketinggian
+form_on	Mod Borang
+b_percent	Gelembung Boleh Dilihat (%)
+b_hide_option	Sembunyikan Pilihan
+b_minimizable	Boleh diminimum
+b_closable	Boleh ditutup
+b_minimized	Diminimum
+b_width	Lebar
+b_width.h	Takrifkan lebar gelembung objek dalam piksel.
+bmain_minimizable	Boleh diminimum
+bmain_position	Kedudukan
+bmain_win_style	Gaya
+bmain_size	Saiz
+bmain_alignment	Penjajaran
+bubble	Gelembung Objek
+bubble_offset	Ofset
+bubblestyle_d	Gaya
+bubblestyle_init	Gaya Gelembung
+choose_appl_template	Pilih Profil Aplikasi
+choose_bool	Nilai Dipilih
+choose_nr	Indeks Terpilih
+choose_text	Nilai Dipilih
+target_static_text	dirakam sebagai 'Penentu Halaman'.
+target_spec_warning	Amaran: Tiada maklumat rakaman semula tersedia untuk kawalan ini.
+prev_step	Langkah Sebelumnya
+next_step	Langkah Seterusnya
+click	Tindakan Tetikus
+click_pos	Klik Kedudukan
+click_pos_rel	Kedudukan Gelembung
+config_file	Profil Aplikasi
+define_target	Skrin
+display	Edit Gelembung Utama
+display_name	Nama Paparan
+drag	Seret
+drop	Letak
+dump_page	Syot layar
+elem_bubble	Gelembung Objek
+element_type	Jenis Objek
+enabled	Didayakan
+optional	Pilihan
+enter	Tetikus Masuk
+executable	Aplikasi
+explanation_d	Teks
+explanation_d_modified	Terjemah Secara Manual
+explanation_long	Penerangan
+fh_mouseover	Bantuan pada Tetikus di Atas
+fh_onelem	Ikon
+fh_tooltip	Petua alat
+fh_bubble	Gelembung
+step_list	Senarai Langkah
+fieldicon	Imej Objek
+fieldname	Nama Objek
+find	Cari
+AutoBarChooseScn	Klik pada Skrin masing-masing
+frame	Bingkai
+g_highlight_bgr	Warna
+g_highlight_border	Sempadan
+g_highlight_effect	Kesan
+global	Global
+hide_on_focuslost	Sembunyi pada Fokus Hilang
+hilight	Serlahan
+input_radio	Radio / Kotak semak
+input_text	Teks Input
+init	Pengawalan
+key	Kekunci
+key_desc	Kekunci Pantas
+key_name	Kod Kekunci
+key_press	Tekan Kekunci
+lclick	Klik Kiri
+ldblclick	Dwiklik Kiri
+force_display	Paparan Paksa
+auto_execute	Auto Laksana
+show_confirmation	Tunjukkan Butang Pengesahan
+show_confirmation.h	Takrifkan sama ada butang pengesahan ditunjukkan dalam gelembung objek semasa main semula. Butang tersebut membolehkan pengguna untuk mengesahkan tindakan yang dilaksanakan dan selepas itu langkah seterusnya ditunjukkan.
+link_to_sim	Masukkan Pautan Simulasi
+macro_comment	Komen
+main_bubble	Tetingkap
+match_value	Padankan Nilai
+mini_on_focuslost	Minimumkan pada Fokus Hilang
+enable_tincan	Penjejakan @{NAVIGATOR}
+nav_check_freq	Kekerapan Kemas Kini (min)
+navigation	Pembantu Desktop
+new_screen_context	Skrin Baru
+no_spike	Tiada Spike
+pa_caption	Guided Tour
+none	Tiada
+objname	Nama Objek
+orientation	Orientasi
+path	Laluan Objek
+position	Kedudukan
+rclick	Klik Tetikus Kanan
+rdblclick	Dwiklik Kanan
+record_activearea	Rakam Kawasan Aktif
+record_application_context	Aplikasi Rakaman
+no_control	Tiada objek tersedia pada kedudukan diklik.
+record_control	Rakam Objek
+record_control_pa	Rakam Langkah Jelajah Berpandu
+record_define_target	Skrin Rakaman
+record_display	Edit Gelembung Utama
+record_end_display	Edit Gelembung
+record_explanation	Tambah Penerangan
+record_object_context	Rakam Objek
+record_screen_context	Skrin Rakaman
+record_target_specializer	Rakam Penentu Halaman
+record_compatible_application	Rakam Aplikasi Serasi
+reference	Sumber
+regexp	Ungkapan Biasa
+replace	Ganti
+replace_continue	Ganti dan Teruskan ...
+replace_pgkey_attr	Gantikan Atribut Kod Halaman
+error_regexp	Ungkapan Biasa Tidak Sah. Betulkan input anda.
+resize	Saizkan semula Tetingkap
+revision	Semakan
+sc_config_header	Maklumat Profil
+screen	Skrin
+screenhelp	Bantuan Skrin
+screenshot_rect	Kedudukan Syot Layar
+select_single	Pilih Satu
+selected_merge	Gabung Makro Skrin terpilih
+show_bubble	Tunjukkan secara langsung
+show_hilight	Tunjukkan Serlahan
+show_on_focus	Tunjukkan pada Fokus
+source	Sumber
+start_unit	Gaya Bantuan Konteks
+subkey	Dibenarkan sebagai Subkekunci
+script	Skrip
+target_name	Tajuk
+target_specializer	Penentu Halaman
+text_d	Teks Input
+text_d_specializer	Teks Input
+tolerance	Gabung Toleransi Makro Skrin
+translate	Terjemahan Automatik
+autoTranslate	Terjemah Projek
+paramReRecordLanguage	Bahasa
+merge_critical_macros	Gabung Makro Secara Automatik
+merge_critical_macros.h	Jika anda menukar simulasi ke navigasi, anda boleh menggabungkan skrin secara automatik yang dicipta begitu. Ini digabungkan menggunakan nilai toleransi yang ditentukan dalam parameter 'Gabung Toleransi Makro Skrin'.
+uid	UID
+underline	Garis bawah
+update_control	Kemas kini Objek
+update_target	Kemas kini Skrin
+variant	Varian
+win_rect	Saiz Tetingkap
+wizCancel	Batal
+wizFinish	Selesai
+wizNext	Seterusnya
+wizOk	OK
+wizExplanation	Penerangan
+wizContinue	Teruskan
+app_info	Tunjukkan Aplikasi
+app_link_to_sim	Masukkan Pautan Simulasi untuk Aplikasi
+screen_info	Tunjukkan Skrin
+screen_link_to_sim	Masukkan Pautan Simulasi untuk Skrin
+object_info	Varian Paparan
+object_link_to_sim	Masukkan Pautan Simulasi
+disabled	Dinyahdayakan
+record_context_assistant_include	Termasuk Projek @{NAVIGATOR} 
+project_id	Tajuk Projek
+project_id.h	Parameter mengandungi projek yang dimasukkan. Butang 'Edit pautan' membolehkan anda untuk memilih projek dalam bahagian kerja.
+project	Projek
+context_assistant_include	Projek Pembantu Desktop
+open_expanded	Paparkan gelembung utama lanjutan
+restart_option	Butang Mula Semula
+next_project_id	Projek Seterusnya
+next_project_id.h	Pilihan ini mentakrifkan projek yang akan dimulakan selepas selesai proses semasa. Proses baru bermula secara langsung dan tiada gelembung akhir dipaparkan.
+end_unit	Jelajah Tamat
+add_end_unit	Tambah Akhir Proses
+demo	Mod Demo
+uebung	Mod Latihan
+praxis	Mod Serentak
+test	Mod Ujian
+doc	Dokumen Word
+pdf	Dokumen PDF
+html	Dokumen HTML
+ppt	Dokumen PowerPoint
+explanation_type	Ikon
+note	Nota
+info	Maklumat
+tipp	Petua
+warnung	Amaran
+no_image	Tiada ikon
+display_on	Paparkan gelembung utama pada
+nav_start	Navigasi bermula
+app_focus	Fokus aplikasi
+screen_focus	Fokus skrin
+never	Jangan tunjukkan
+list_type	Jenis Senarai  untuk Skrin
+list_type.h	Parameter ini menentukan jenis untuk penyenaraian objek dalam skrin, jika pilihan 'Paparkan semua Maklumat' didayakan untuk ini.
+unordered_list	Bulet
+ordered_list	Penomboran
+convert_sn	Janakan Pembantu Desktop
+Application	Aplikasi
+obj_context	Objek
+expl_context	Penerangan
+record_cntrl_type	Jenis
+disable_standby	Nyahdayakan Status Tunggu Sedia (@{NAVIGATOR})
+disable_standby.h	Tentukan bahawa status tunggu sedia @{NAVIGATOR} tidak dapat ditetapkan. Jika pilihan ini dinyahaktifkan, anda boleh menetapkan status tunggu sedia dengan pintasan 'CTRL + F11' atau dengan mengklik pada ikon status.
+disable_exit	Sembunyikan Entri Keluar (@{NAVIGATOR})
+disable_exit.h	Tentukan bahawa entri 'Keluar' dalam menu konteks ikon status @{NAVIGATOR} disembunyikan.
+bcontent_style	Gaya Gelembung
+bcontent_style.h	Tetapan ini mentakrifkan gaya gelembung yang akan digunakan untuk memaparkan gelembung.
+cache_properties	Cache
+cache_folder	Lokasi Folder
+cache_folder.h	Tentukan lokasi folder cache 'NavigatorCache'. Lokasi lalai ialah '%localappdata%'. Anda boleh memasukkan lokasi tersuai. \nNota: Nama folder cache tidak boleh diubah.
+use_caching	Guna Cache
+use_caching.h	Aktifkan penggunaan cache @{NAVIGATOR}.
+function_keys	Kekunci Fungsi
+minimize_da	Minimumkan
+minimize_da.h	Takrifkan kekunci fungsi untuk meminimumkan tetingkap utama.
+next_tab	Pilih Tab Seterusnya
+next_tab.h	Takrifkan kekunci fungsi untuk memilih tab seterusnya dalam tetingkap utama.
+next_screen	Pergi ke Skrin Seterusnya
+next_screen.h	Takrifkan kekunci fungsi untuk menavigasi ke skrin seterusnya untuk projek dipilih.
+back	Kembali
+back.h	Takrifkan kekunci fungsi untuk ke skrin sebelumnya.
+toggle_standby	Togol Mod Tunggu Sedia
+toggle_standby.h	Takrifkan kekunci fungsi untuk togol mod tunggu sedia.
+abort	Batalkan
+abort.h	Takrifkan kekunci fungsi untuk membatalkan pembantu desktop.
+restart	Mula semula
+restart.h	Takrifkan kekunci fungsi untuk memulakan semula pembantu desktop.
+start_pa	Mulakan Projek Pembantu Desktop
+start_pa.h	Takrifkan kekunci fungsi untuk memulakan projek dipilih.
+start_demo	Mula Mod Demo
+start_demo.h	Takrifkan kekunci fungsi untuk memulakan mod demo dipilih.
+start_prac	Mula Mod Latihan
+start_prac.h	Takrifkan kekunci fungsi untuk memulakan mod latihan dipilih.
+start_test	Mulakan Mod Ujian
+start_test.h	Takrifkan kekunci fungsi untuk memulakan mod ujian dipilih.
+start_concur	Mulakan Mod Serentak
+start_concur.h	Takrifkan kekunci fungsi untuk memulakan mod serentak dipilih.
+start_book	Mula Buku
+start_book.h	Takrifkan kekunci fungsi untuk memulakan buku dipilih.
+start_group	Buka dalam library
+start_group.h	Takrifkan kekunci fungsi untuk membuka kumpulan dalam library.
+toggle_ctx_rec	Pengecaman Konteks Togol
+toggle_ctx_rec.h	Takrifkan kekunci fungsi untuk menogol pengecaman konteks pembantu desktop.
+select_next	Pilih Entri Seterusnya
+select_next.h	Takrifkan kekunci fungsi untuk memilih entri seterusnya dalam tetingkap semasa.
+select_prev	Pilih Entri Sebelumnya
+select_prev.h	Takrifkan kekunci fungsi untuk memilih entri sebelumnya dalam tetingkap semasa.
+toggle_warning	Tunjukkan Dialog Amaran
+toggle_warning.h	Takrifkan kekunci fungsi untuk menunjukkan dialog amaran pembantu desktop.
+execute_step	Laksanakan Langkah
+execute_step.h	Takrifkan kekunci fungsi untuk melaksanakan langkah semasa main semula jelajah berpandu.
+copy_link	Salin Pautan
+copy_link.h	Takrifkan kekunci fungsi untuk menyalin pautan entiti terpilih.
+maximize_trainer	Memaksimumkan Tetingkap Kandungan
+maximize_trainer.h	Takrifkan kekunci fungsi untuk memaksimumkan tetingkap kandungan.
+share_email	Kongsi Melalui E-Mel
+share_email.h	Takrifkan kekunci fungsi untuk berkongsi kandungan entiti terpilih melalui e-mel.
+start_default	Kandungan Lalai Mula
+start_default.h	Takrifkan kekunci fungsi untuk memulakan mod lalai atau dokumen dipilih.
+show_da_help	Tunjukkan Bantuan Pembantu Desktop
+show_da_help.h	Takrifkan kekunci fungsi untuk membuka bantuan pembantu desktop.
+request_content	Minta Kandungan
+request_content.h	Takrifkan kekunci fungsi untuk meminta kandungan halaman aplikasi.
+search_content	Kandungan Carian
+search_content.h	Takrifkan kekunci fungsi untuk mencari kandungan bergantung kepada jenis carian dipilih.
+show_hidden_elems	Tunjukkan Elemen Bantuan Tersembunyi
+show_hidden_elems.h	Takrifkan kekunci fungsi untuk menunjukkan elemen bantuan tersembunyi.
+toggle_side_bar	Tunjukkan / Sembunyikan Bar Sisi
+toggle_side_bar.h	Takrifkan kekunci fungsi untuk menunjukkan dan menyembunyikan bar sisi.
+content_library	Pembantu Desktop - Kandungan dan Tingkah Laku
+content_library_window	Pembantu Desktop - Gaya dan Tetingkap
+content_library_sidebar	Pembantu Desktop - Bar Sisi
+style	Gaya
+style.h	Takrifkan penampilan komponen pembantu desktop (tetingkap utama, tetingkap kandungan, ikon status). Pilih sumber gaya daripada senarai.
+show_only_bar	Tunjukkan Hanya Bar Sisi pada Permulaan
+show_only_bar.h	Takrifkan sama ada hanya bar sisi akan dipaparkan pada permulaan pembantu desktop atau tetingkap utama juga.
+clear_on_mismatch	Kosongkan Senarai Kandungan pada Tidak Sepadan Konteks
+clear_on_mismatch.h	Takrifkan, bahawa senarai kandungan dikosongkan jika konteks tidak ditemui. Dengan tetapan dinyahaktifkan kandungan objek akhir dikenali ditunjukkan.
+da_positioning	Penjajaran Tetingkap Utama
+da_positioning.h	Takrifkan penjajaran tetingkap utama pada skrin. Pilihan 'Bebas' membenarkan untuk mentakrifkan kedudukan dalam parameter 'Kedudukan Tetingkap Utama'.
+bar_positioning	Penjajaran Bar Sisi
+bar_positioning.h	Takrifkan penjajaran bar sisi pada skrin.
+left_top	Sudut Atas Kiri
+left_center	Tengah Kiri
+left_bottom	Sudut Bawah Kiri
+right_top	Sudut Atas Kanan
+right_center	Tengah Kanan
+top_center	Atas Tengah:
+right_bottom	Sudut Bawah Kanan
+center	Tengah
+free	Bebas
+list_order	Pengisihan Kandungan
+list_order.h	Takrifkan pengisihan kandungan tersedia pada senarai.
+by_default	Struktur Penjelajah
+by_name	Pengabjadan
+by_type	Pengabjadan setiap Jenis
+library_position	Kedudukan Tetingkap Utama (Bebas)
+library_position.h	Takrifkan kedudukan tetingkap utama (kiri, atas) untuk penjajaran 'Bebas' pada skrin. Nilai diberi dalam piksel.
+search_url	Cari Kumpulan
+search_url.h	Membenarkan anda menentukan kumpulan bahagian kerja untuk mencari kandungan dalam @{LIBRARY}.
+enable_recording	Kedudukan: Kawalan 'Rakaman'
+enable_recording.h	Membenarkan anda menunjukkan kawalan untuk proses rakaman. Anda boleh tentukan kedudukan kawalan dalam bar sisi.\nRakaman ini membenarkan pengguna untuk merakam proses sebagai dokumen Microsoft Word atau video. Fail yang direkod dipaparkan dalam tetingkap utama pada tab Bahagian Pengguna.
+enable_exit_da	Kedudukan: Kawalan 'Exit'
+enable_exit_da.h	Membenarkan anda menunjukkan kawalan untuk menghentikan @{NAVIGATOR}. Anda boleh tentukan kedudukan kawalan dalam bar sisi.
+enable_info	Tunjukkan Tab 'Maklumat' 
+enable_info.h	mendayakan tab 'Maklumat' untuk tetingkap utama pembantu desktop. Masukkan maklumat teks dalam perihalan  pendek kumpulan pembantu desktop.
+request_content_type	Minta Jenis Kandungan
+request_content_type.h	Tentukan kefungsian untuk meminta kandungan. Pilih jenis daripada senarai juntai bawah. \nE-Mel: Membenarkan anda memasukkan alamat e-mel untuk permintaan. \nURL: Membenarkan anda memasukkan URL untuk membuka halaman web. \nKawalan 'Kandungan Permintaan’ dipaparkan dalam bar sisi. Jika tiada kandungan ditemui, pautan ‘Kandungan Permintaan’ dipaparkan dalam tetingkap utama.
+email	E-Mel
+url	URL
+enable_request_content	Kedudukan: Kawalan 'Minta Kandungan'
+enable_request_content.h	Tentukan kedudukan kawalan 'Minta Kandungan’ dalam bar sisi.
+enable_external_search_ctx	Sediakan Maklumat Konteks
+enable_external_search_ctx.h	Menyediakan maklumat konteks tambahan bagi pengguna dengan URL carian semasa carian. Maklumat konteks akan digunakan untuk carian. Aktifkan tetapan, jika carian ditentukan anda boleh digunakan pada maklumat konteks. \nMaklumat konteks yang disediakan ditentukan dalam parameter 'Maklumat Konteks'.
+external_search_ctx	Maklumat Konteks
+external_search_ctx.h	Tentukan maklumat konteks, jika tetapan 'Sediakan Maklumat konteks’ telah diaktifkan. Maklumat konteks berikut voleh disediakan: EXE bagi aplikasi semasa (&executable=$#{EXE}), kunci halaman bagi halaman aplikasi semasa (&pagekey=$#{PAGEKEY})\nPerhatian: Jangan ubah struktur rentetan maklumat konteks.
+enable_external_search	Kedudukan: Kawalan 'Carian Luaran'
+enable_external_search.h	Membenarkan anda mengaktifkan halaman carian luaran untuk mencari kandungan atau maklumat lanjut. Dengan tetapan yang diaktifkan, kawalan 'Carian Luaran’ dipaparkan dalam bar sisi. Anda boleh tentukan kedudukan kawalan dalam bar sisi. \nButang membuka medan carian untuk input terma carian. Hasil carian ditunjukkan pada halaman carian luaran. Untuk carian luaran, anda perlu tentukan URL carian dalam parameter 'URL Carian Luaran' 
+external_search_url	URL
+external_search_url.h	Membenarkan anda menentukan URL untuk carian luaran. Masukkan URL dalam struktur berikut:\nhttps://www.google.com/#q=$#{SEARCHTERM}\nhttps://www.bing.com/search?q=$#{SEARCHTERM}\nhttps://search.yahoo.com/search?p=$#{SEARCHTERM}\nhttps://www.wolframalpha.com/input/?i=$#{SEARCHTERM}\n\nPerhatian: Jangan padam atau ubah '=$#{SEARCHTERM}' parameter URL.
+enable_share_content	Tunjukkan Kawalan 'Minta Kandungan'
+enable_share_content.h	Tunjuk butang 'Kongsi Kandungan' dalam pengaki tetingkap utama. Butang membuka kotak dialog dengan pautan ke kandungan terpilih.
+author_email	E-Mel
+author_email.h	Membenarkan anda menentukan alamat e-mel untuk meminta kandungan. Alamat e-mel digunakan untuk fungsi 'Minta Kandungan'.
+author_url	URL
+author_url.h	Membenarkan anda menentukan URL untuk meminta kandungan. URL digunakan untuk fungsi 'Minta Kandungan'.
+author_url_params	Parameter URL
+author_url_params.h	Membenarkan anda untuk menyatakan parameter untuk URL pengarang. \nAnda boleh menentukan nama aplikasi dan yang boleh dilaksana. Gantikan nilai 'aplikasi' atau 'boleh dilaksana' dengan nama yang diperlukan.
+enable_fuzzy_match	Dayakan Padanan Kabur
+enable_fuzzy_match.h	Menakrifkan sama ada padanan kabur digunakan untuk memadankan konteks kandungan dengan halaman aplikasi.
+enable_ident_filter	Dayakan Pengenalan Aplikasi Lanjutan
+enable_ident_filter.h	Menentukan yang hanya maklumat aplikasi berkaitan digunakan untuk main semula @{NAVIGATOR}. Ia membolehkan anda mengoptimumkan prestasi @{NAVIGATOR}. \nNota: Pilihan boleh membawa kepada pengecaman objek palsu. Anda disyorkan untuk menguji main semula sebelum menerbitkan kandungan.
+library_size	Saiz Tetingkap Utama
+library_size.h	Takrifkan saiz (lebar, ketinggian) tetingkap utama dalam piksel.
+book_win_position	Kedudukan Tetingkap Kandungan (Bebas)
+book_win_position.h	Takrifkan kedudukan tetingkap kandungan (kiri, atas) untuk penjajaran 'Bebas' pada skrin. Nilai diberi dalam piksel.
+book_win_size	Saiz Tetingkap Kandungan
+book_win_size.h	Takrifkan saiz (lebar, ketinggian) tetingkap kandungan dalam piksel.
+book_win_positioning	Penjajaran Tetingkap Kandungan
+book_win_positioning.h	Takrifkan penjajaran tetingkap kandungan pada skrin. Pilihan 'Bebas' membenarkan untuk mentakrifkan kedudukan dalam parameter 'Kedudukan Tetingkap Kandungan'.
+errNoApplicationContext	Makro semasa bukan merupakan konteks aplikasi.
+errNoTargetDefinition	Makro tidak sepadan dengan takrifan sasaran.
+errExtractPagekey	Tidak dapat mengekstrak kekunci halaman dengan profil:
+errScreenshot	Tidak dapat untuk syot layar. Cuba lagi.
+errLoadTemplate	Tidak dapat memuatkan profil:
+errRecordProcessStep	Langkah jelajah berpandu tidak boleh dirakam untuk projek 'bantuan konteks'.
+errLanguageSelection	Tiada bahasa dipilih.
+errNoWriteToken	Anda tidak mempunyai kebenaran menulis untuk objek yang dipilih.
+errMacroSelection	Tiada makro dipilih.
+errObjectInformation	Tiada Maklumat objek pada kedudukan yang diberi.
+errSpecializedInformation	Tiada maklumat khusus pada kedudukan yang diberi.
+errPosition	Kedudukan bukan di kawasan tetingkap.
+errActionMacroSelection	Tiada makro tindakan dipilih.
+errUpdateObject	Jenis objek dipilih tidak dapat dikemas kini.
+errInsertExplanation	Penerangan bebas tidak boleh dimasukkan untuk makro dipilih.
+action.h	Jelajah berpandu sahaja\nPilihan ini mentakrifkan tindakan yang pengguna sepatutnya laksanakan pada objek.
+all_values.h	Dalam beberapa kes objek bagi aplikasi menahan pilihan untuk nilai yang tidak boleh dirangkumi oleh kawalan HTML piawai. Kemudian kawalan digunakan yang paling dekat dengan objek dalam aplikasi itu. Medan ini sebagai tambahan menahan semua nilai yang objek tahan sebagai pilihan.
+anim_steps.h	Nilai tersebut menentukan berapa banyak langkah-langkah kesan serlahan yang dipilih dianimasi. Nilai rendah mempercepatkan animasi tetapi membuat kesan yang tidak menentu. Nilai yang tinggi menjadikan animasi lebih lancar tetapi juga melambatkan kelajuan animasi secara keseluruhannya.
+auto_execute.h	Tetapan mentakrfikan tindakan yang akan dilaksanakan secara automatik semasa main semula navigasi.
+b_height.h	Takrifkan ketinggian gelembung objek dalam piksel. Jika jumlah teks melebihi ruang yang tersedia dalam gelembung ia akan menskalakan berdasarkan ketinggian secara automatik ke ruang yang diperlukan.
+b_hide_option.h	Bantuan konteks sahaja\nDengan mengaktifkan pilihan ini, tetapan akan dipaparkan dalam gelembung objek atau penerangan yang mana maklumat objek (gelembung dan serlahan) boleh dinyahaktifkan oleh pengguna akhir. Ini membolehkan pengguna untuk menyembunyikan sebarang maklumat yang tidak lagi diperlukan.
+b_minimizable.h	Pilihan ini mentakrifkan jika gelembung boleh diminimumkan semasa main semula. Untuk pilihan diaktifkan butang 'Minimum' dipaparkan dalam pengepala gelembung.
+b_closable.h	Bantuan konteks sahaja\nPilihan ini mentakrifkan jika gelembung boleh ditutup semasa main semula. Untuk pilihan diaktifkan butang 'Tutup' dipaparkan dalam pengepala gelembung.
+b_minimized.h	Bantuan konteks sahaja\nPilihan ini mentakrifkan jika gelembung objek yang dipaparkan diminimumkan apabila halaman dimuatkan.
+bmain_size.h	Takrifkan saiz (kelebaran, ketinggian) tetingkap utama dalam piksel.
+bmain_minimizable.h	Pilihan ini mentakrifkan jika tetingkap utama boleh diminimumkan atau tidak.
+bmain_position.h	Nilai yang dimasukkan di sini mentakrifkan kedudukan tetingkap utama pada skrin. Nombor menerangkan jarak dari sudut kiri atas skrin dalam piksel.
+bmain_win_style.h	Takrifkan penampilan tetingkap utama. Pilih sumber gaya daripada senarai.
+bmain_alignment.h	Takrifkan penjajaran tetingkap utama pada skrin. Pilihan 'Bebas' membenarkan untuk mentakrifkan kedudukan dalam parameter 'Kedudukan Tetingkap'.
+bubble_offset.h	Pilihan ini mentakrifkan ofset dalam piksel di mana gelembung objek dipaparkan kepada objek.
+bubblestyle_d.h	Tentukan sumber gaya gelembung untuk memaparkan gelembung objek.projek.
+bubblestyle_d.h	Tentukan sumber gaya gelembung untuk memaparkan gelembung objek.projek.
+choose_bool.h	Medan ini mengandungi nilai yang menentukan sama ada butang radio atau kotak semak dihidupkan atau dimatikan. Nilai untuk butang radio sentiasa '1' (dihidupkan). Nilai untuk kotak semak boleh jadi '0' (dimatikan) atau '1' (dihidupkan).
+choose_text.h	Parameter ini mengandungi rentetan aksara yang ditemui untuk entri yang dipilih dalam menu timbul atau medan senarai semasa proses rakaman automatik. Rentetan ini dimasukkan ke dalam teks gelembung penjelasan dalam pelbagai mod dan bukan di ruang letak '${choose_text}' (lihat mod teks dalam Editor HTML). Ia digunakan sebagai modul teks untuk teks gelembung yang dijana secara automatik apabila menjana kandungan gelembung secara automatik dengan modul teks semasa rakaman.
+click_pos.h	Menerangkan kedudukan dalam tetingkap aplikasi yang telah diklik oleh pengarang semasa objek dirakamkan. Kedudukan yang ditentukan dalam piksel dan merujuk kepada sudut kiri atas kandungan tetingkap aplikasi.
+click_pos_rel.h	Menerangkan kedudukan dalam tetingkap aplikasi. Nilai dalam peratus (%) memberikan kedudukan relatif kepada keseluruhan lebar dan ketinggian tetingkap aplikasi dengan sisi kiri dan atas sebagai titik rujukan.
+config_file.h	Mengandungi nama Profil Aplikasi yang digunakan untuk mencipta kekunci dan juga mentafsirkan kekunci kemudian nanti.
+display_name.h	Tentukan nama aplikasi. Nama akan dipaparkan dalam tetingkap pengecualian lawatan berpandu.
+dump_page.h	Mengandungi skrin dirakam \nAnda boleh mengubah imej dengan menggunakan fungsi 'Gantikan Imej.
+element_type.h	Menerangkan kelas objek yang telah dikenal pasti oleh mekanisme pengecaman.
+enabled.h	Bantuan konteks sahaja\nPilihan ini mentakrifkan jika makro dimasukkan ke dalam analisis halaman atau tidak. Jika pilihan ini dinyahaktifkan, objek bantuan tidak akan dipaparkan walaupun jika objek yang berkaitan wujud pada halaman.
+optional.h	Lawatan berpandu sahaja\nPilihan mentakrifkan sama ada langkah lawatan berpandu adalah pilihan untuk pengguna dalam proses. \nSemasa main semula ikon yang berbeza akan ditunjukkan dalan senarai langkah. Jika kawalan tidak boleh dilihat pada halaman atau jika halaman adalah salah maka langkah akan dilangkau.
+executable.h	Mengandungi nama aplikasi boleh dilaksanakan seperti yang digunakan oleh sistem pengendalian.
+explanation_d.h	Mengandungi maklumat kepada konteks masing-masing (teks, pautan, imej dll.). Sila pastikan paparan optimum maklumat dalam gelembung utama.
+explanation_d_modified.h	Jika pilihan ini diaktifkan, maklumat konteks tidak lagi dijana secara automatik sekiranya berlaku terjemahan automatik tetapi sebaliknya ia perlu diedit secara manual. Ini membantu untuk mengekalkan perubahan manual pada kandungan gelembung.
+fieldname.h	Mengandungi nama kawalan rakaman, yang dimasukkan ke dalam teks gelembung. \nAnda boleh mengubah nama objek dalam medan teks. Nama objek mempunyai ruang letak '${fieldname}'.
+fieldicon.h	Mengandungi imej butang atau ikon yang dirakam, yang dimasukkan dalam teks gelembung. \nAnda boleh mengubah imej objek dengan menggunakan fungsi 'Ganti Imej'.Imej objek mempunyai ruang letak '${fieldicon}'.
+g_highlight_bgr.h	Ini mentakrifkan warna piawai serlahan sempadan dalam navigasi. Warna boleh dimasukkan secara langsung sebagai nilai RBG dalam format HEX atau dipilih daripada luar kotak dialog Pemilih Warna.
+g_highlight_border.h	Parameter ini mentakrifkan ketebalan umum bingkai serlahan objek dalam piksel. Lebar piksel tersedia daripada '1' hingga '10'.
+g_highlight_effect.h	Pilihan ini menentukan jenis kesan serlahan yang digunakan untuk objek dalam navigasi.
+hide_on_focuslost.h	Pilihan ini mentakrifkan jika gelembung akan disembunyikan semasa fokus pada skrin meninggalkan objek berkaitan.
+highlight_offset.h	Parameter ini mentakrifkan ofset piksel tambahan bagi segi empat tepat serlahan di sekitar elemen ditanda.
+key.h	Mengandungi semua kriteria untuk mengenalpasti tetingkap aplikasi dan halaman tertentu dalam aplikasi. Kekunci hanya sepadan jika halaman dalam aplikasi sasaran memenuhi semua kriteria yang ditakrifkan dalam kekunci. Dalam usaha untuk melembutkan definisi kriteria kekunci tunggal, penggunaan ungkapan biasa dibenarkan.
+key_name.h	Parameter ini menentukan kekunci atau pintasan digunakan. Ini melibatkan memisahkan nama kekunci mengikut ruang, contohnya: 'ctrl + k'.
+key_desc.h	Parameter ini menentukan kekunci atau pintasan digunakan. Ini melibatkan memisahkan nama kekunci mengikut ruang, contohnya: 'ctrl + k'.
+force_display.h	Bantuan konteks sahaja\nTentukan bahawa kandungan makro sentiasa dipaparkan sebagai bantuan segera, walaupun jika bantuan segera dinyahdayakan semasa main semula pembantu desktop.
+link_to_sim.h	Pilihan ini akan termasuk pautan simulasi ke dalam gelembung utama. Pilihan ini adalah berkaitan dengan navigasi yang telah dicipta berdasarkan projek simulasi (mengikut penukaran).
+macro_comment.h	Komen umum. Ia dipaparkan dalam paparan kecil.
+match_value.h	Pilihan ini menentukan sama ada nilai yang ditunjukkan boleh dibandingkan dengan nilai sebenar objek dalam aplikasi secara langsung.
+mini_on_focuslost.h	Pilihan ini mentakrifkan jika gelembung akan diminimumkan semasa fokus pada skrin meninggalkan objek berkenaan.
+nav_check_freq.h	Takrifkan seberapa kerap @{NAVIGATOR} menyemak untuk kandungan dikemas kini. Jika kandungan dikemas kini tersedia,  @{NAVIGATOR} akan memulakan kandungan secara automatik Hal ini amat berguna untuk proses pengurusan perubahan.
+enable_tincan.h	Dayakan penjejakan untuk kandungan @{NAVIGATOR}. Kandungan perlu bermula daripada kawasan kerja @{MANAGER}.
+no_spike.h	Pilihan ini mentakrifkan jika gelembung objek dipaparkan dengan atau tanpa spike.
+objname.h	Setiap objek dalam navigasi memerlukan nama yang unik bagi tujuan pengenalan apabila menggunakan tingkah laku dan umpukan tingkah laku.
+orientation.h	Parameter ini mentakrifkan orientasi gelembung objek secara relatif kepada objek yang dirujuk. Anak panah gelembung menunjukkan ke kedudukan yang dirujuk pada halaman, manakala gelembung itu sendiri ditunjukkan ofset ke arah yang dipilih, seperti yang diarahkan. Jika 'Pusat' orientasi dipilih, gelembung dipaparkan tanpa anak panah berpusat pada kedudukan yang ditakrifkan.
+path.h	Laluan objek menerangkan sifat objek berdasarkan profil aplikasi yang digunakan. Laluan objek digunakan untuk mengenal pasti objek dalam aplikasi secara langsung. Sebagai peraturan, anda tidak perlu untuk mengedit medan ini secara manual.
+position.h	Nilai yang dimasukkan di sini mentakrifkan kedudukan gelembung utama pada skrin. Nombor menerangkan jarak dari sudut kiri atas skrin dalam piksel.
+reference.h	Jika navigasi telah ditukar dari simulasi, sumber langkah masing-masing akan dinyatakan di sini.
+resize.h	Pilihan ini mentakrifkan jika saiz tetingkap aplikasi sasaran akan ditukar secara automatik kepada saiz yang telah digunakan semasa navigasi telah dicipta. Ini mungkin berguna untuk kawasan aktif kerana ia akan dipaparkan berdasarkan kedudukan.
+revision.h	Tunjukkan versi Profil Aplikasi yang digunakan untuk mencipta kekunci semasa merakam skrin aplikasi.
+sc_config_header.h	Maklumat dari profil aplikasi disimpan dalam medan ini. Navigasi menggunakan maklumat ini untuk membolehkan mengenali aplikasi dan objeknya dengan betul semasa main semula.
+screenshot_rect.h	Tunjukkan kawasan mana skrin asal digunakan untuk syot layar objek. Sebagai peraturan, anda tidak perlu untuk mengedit nilai ini secara manual.
+show_bubble.h	Pilihan ini mentakrifkan jika gelembung ditunjukkan sejurus selepas halaman dimuatkan sepenuhnya.
+start_from_arbitrary.h	Pilihan ini mentakrifkan bahawa jelajah berpandu boleh dimulakan daripada langkah arbitrari dan bukan daripada permulaan proses.
+show_hilight.h	Tentukan sama ada serlahan akan dipaparkan untuk objek.
+show_highlight.h	Tentukan sama ada serlahan akan dipaparkan untuk objek.
+show_on_focus.h	Pilihan ini mentakrifkan jika gelembung dipaparkan semasa fokus pada skrin berubah kepada objek berkenaan.
+source.h	Jika navigasi telah ditukar dari simulasi, parameter menentukan pelajaran yang asal.
+subkey.h	Dalam beberapa kes, adalah berguna jika bahagian tertentu bahagian kekunci asal diabaikan, cth. disebabkan varian beberapa halaman tertentu adalah tidak berkaitan dan hendaklah dikendalikan oleh Kekunci dan Langkah sama dalam navigasi. Pilihan ini memaksa mekanisme pengecaman untuk mempertimbangkan kekunci sebagai padanan, walaupun jika halaman mempunyai lebih kriteria kekunci yang dilaporkan oleh pengecaman daripada yang ditakrifkan dalam kekunci. Oleh itu, kekunci halaman boleh dipendekkan untuk merangkumi lebih daripada satu halaman dengan satu kekunci.
+target_name.h	Mengandungi nama tetingkap aplikasi.
+text_d.h	Parameter ini mengandungi rentetan aksara yang akan dimasukkan ke dalam medan entri yang dirujuk. Ia mengandungi nilai yang dimasukkan semasa proses rakaman automatik. Rentetan ini dimasukkan ke dalam teks gelembung penerangan dalam pelbagai mod dan bukan di ruang letak '${text_d}' (lihat mod teks dalam Editor HTML) apabila menjana kandungan gelembung secara automatik dengan modul teks semasa rakaman.
+text_d_specializer.h	Parameter ini mengandungi rentetan aksara yang akan dimasukkan ke dalam medan entri yang dirujuk. Ia mengandungi nilai yang dimasukkan semasa proses rakaman automatik. Rentetan ini dimasukkan ke dalam teks gelembung penerangan dalam pelbagai mod dan bukan di ruang letak '${text_d}' (lihat mod teks dalam Editor HTML) apabila menjana kandungan gelembung secara automatik dengan modul teks semasa rakaman.
+tolerance.h	Nilai mentakrifkan toleransi untuk tahap padanan apabila menggabungkan makro 'Skrin'. tetapan ini berkaitan dengan fungsi 'Gabung Makro Skrin' yang boleh dilancarkan dari menu 'Alat -> Perubahan Pukal'. Meningkatkan nilai meningkatkan ambang toleransi. Sila ambil perhatian dalam kes ini, syot layar juga boleh digabungkan di mana objek yang berbeza dipaparkan. Nilai ditentukan dalam peratus.
+uid.h	Mengandungi pengenal pasti unik bagi makro yang diuruskan dalam projek
+win_rect.h	Takrifkan saiz tetingkap apabila mencipta projek.
+explanation_type.h	Pilihan ini menentukan jenis nota. Bergantung pada jenis tetapan, piktogram dipaparkan bersama-sama dengan teks supaya dapat menyerlahkan teks penasihat.
+app_info.h	Tetapan ini mentakrifkan sama ada aplikasi dipaparkan dalam pembantu konteks. Jika aplikasi bukan untuk dipaparkan, tetapan akan dinyahaktifkan.
+app_link_to_sim.h	Parameter ini boleh digunakan untuk memaparkan pautan kepada simulasi yang ditentukan dalam parameter 'Sumber' selain daripada jenis konteks. Mod yang berlainan boleh dipilih dalam proses.
+screen_info.h	Tetapan mentakrifkan sama ada halaman dipaparkan dalam bantuan konteks. Jika skrin bukan untuk dipaparkan, tetapan akan dinyahaktifkan.
+screen_link_to_sim.h	Parameter ini boleh digunakan untuk memaparkan pautan kepada simulasi yang ditentukan dalam parameter 'Sumber' selain daripada jenis konteks. Mod yang berlainan boleh dipilih dalam proses.
+object_info.h	Bantuan konteks sahaja\nTetapan mentakrifkan varian yang akan dipaparkan untuk objek.
+open_expanded.h	Jika pilihan ini diaktifkan, gelembung utama dipaparkan dengan halaman dan senarai objek dibuka.
+display_on.h	Parameter ini mentakrifkan keadaan yang gelembung navigasi utama akan dipaparkan. Apabila memulakan navigasi, melihat aplikasi atau melihat halaman aplikasi yang sepadan.
+area.h	Parameter ini mentakrifkan kedudukan dan saiz kawalan. Dua nombor pertama menunjukkan kedudukan objek dari sisi sebelah kiri dan atas skrin. Dua nombor terakhir mentakrifkan lebar dan ketinggian objek. Butang sebelah medan input membuka kotak dialog pengeditan yang membolehkan kedudukan dan saiz objek disesuaikan.
+form_on.h	Takrifkan, bahawa langkah merupakan borang. Semua tindakan langkah dipaparkan dalam satu gelembung semasa main semula.
+transition	Langkah Jelajah Berpandu Seterusnya
+transition_info	Langkah Jelajah Berpandu Seterusnya
+action_pa	Tindakan
+trans_action	Tindakan
+step_name1	Langkah Seterusnya
+step_name2	Langkah Alternatif 1
+step_name3	Langkah Alternatif 2
+step_name4	Langkah Alternatif 3
+LClick	Klik Kiri
+RClick	Klik Kanan
+LDblClick	Dwiklik Kiri
+RDblClick	Dwiklik Kanan
+Focus	Fokus
+FocusLost	Hilang fokus
+step	Langkah Jelajah Berpandu
+name	Nama
+end_message	Teks
+show_end_window	Tetingkap Akhir
+show_end_window.h	Tentukan bahawa tetingkap adalah ditunjukkan di penghujung jelajah berpandu. Tetingkap membenarkan pengguna untuk menutup jelajah berpandu secara manual. Jika pilihan ini diaktifkan, tetingkap tidak akan ditunjukkan dan jelajah berpandu tertutup secara automatik.
+trans_action.h	Lawatan berpandu sahaja\nMenentukan tindakan yang mencetuskan lompatan ke langkah lawatan berpandu seterusnya.
+action_pa.h	Tetapan ini mentakrifkan pencetus tindakan pengguna yang melompat ke langkah jelajah berpandu seterusnya.
+step_name1.h	Lawatan berpandu sahaja\nTakrifkan langkah seterusnya dalam aliran proses.
+step_name2.h	Lawatan berpandu sahaja\nTakrifkan langkah lawatan berpandu alternatif, jika langkah lawatan berpandu yang ditakrifkan tidak boleh dipaparkan.
+step_name3.h	Lawatan berpandu sahaja\nTakrifkan langkah lawatan berpandu alternatif, jika langkah 1 lawatan berpandu alternatif yang ditakrifkan tidak boleh dipaparkan.
+step_name4.h	Lawatan berpandu sahaja\nTakrifkan langkah lawatan berpandu alternatif, jika langkah 2 lawatan berpandu alternatif yang ditakrifkan tidak boleh dipaparkan.
+step_on_same_page.h	Lawatan berpandu sahaja\nTetapan ini harus diaktifkan jika langkah lawatan berpandu seterusnya adalah sama pada halaman aplikasi. Ini akan mengelakkan pengenalan halaman.
+name.h	Takrifkan nama langkah jelajah berpandu. Nama dipaparkan dalam tetapan 'Langkah Jelajah Berpandu Seterusnya' makro 'Objek' untuk pemilihan.
+set_value	Tetapkan Nilai Secara Automatik
+set_value.h	Tetapan ini mentakrifkan sama ada nilai makro akan ditetapkan secara automatik semasa main semula navigasi.
+end_message	Teks
+end_message.h	Anda boleh memasukkan teks dalam kotak teks ini yang dipaparkan dalam gelembung pada akhir proses. Kotak teks dipraset dengan teks lalai.
+restart_option	Butang Mula Semula
+restart_option.h	Apabila pilihan ini diaktifkan, satu butang dipaparkan dalam gelembung yang pengguna boleh digunakan untuk mengulangi proses. Ini membolehkan untuk menjalankan proses itu lagi dengan entri yang berbeza.
+record_end_display	Edit Gelembung
+end_bubble	Proses Gelembung Tamat
+bend_position	Kedudukan
+bend_position.h	Nilai yang dimasukkan di sini menunjukkan kedudukan gelembung pada skrin. Nilai yang dinyatakan dalam piksel dan berkaitan dengan sudut atas sebelah kiri skrin.
+bend_style	Gaya
+bend_style.h	Tetapan ini mentakrifkan gaya gelembung yang akan digunakan untuk memaparkan gelembung. Gaya gelembung ditakrifkan menggunakan Editor Gaya Gelembung yang boleh dibuka daripada menu 'Alat' -> 'Edit Gaya Gelembung'. Gaya gelembung sentiasa tersedia untuk keseluruhan bahagian kerja.
+bend_width	Lebar
+bend_width.h	Ini mentakrifkan lebar gelembung yang akan dipaparkan dalam piksel.
+bend_height	Ketinggian
+bend_height.h	Ini mentakrifkan ketinggian gelembung yang akan dipaparkan dalam piksel.
+process_start_unit	Gaya Jelajah Berpandu
+record_pa_control	Rakam Langkah Jelajah Berpandu
+prev_step	Langkah Sebelumnya
+next_step	Langkah Seterusnya
+disqualifier	Kecualikan Skrin
+disqualifier.h	Dengan 'Penentu Halaman' anda boleh membezakan antara halaman aplikasi dengan menggunakan objek tertentu. Pilihan ini menentukan sama ada halaman aplikasi yang dikenali perlu dipaparkan atau dikecualikan jika 'Penentu Halaman' tersedia. \nPaparan imej kecil memaparkan status pilihan: simbol tambah (tidak dikecualikan) atau tolak (dikecualikan).
+exception_bubble	Pengendalian Pengecualian Gelembung
+bexp_position	Kedudukan
+bexp_position.h	Nilai yang dimasukkan di sini akan mentakrifkan kedudukan gelembung pada skrin. Nilai diberi dalam piksel. Gelembung akan dipaparkan di sudut sebelah kiri atas skrin.
+bexp_style	Gaya
+bexp_style.h	Di sini anda boleh memilih jenis gelembung anda ingin gunakan. Gaya gelembung boleh ditakrifkan dalam editor gaya gelembung yang boleh dibuka daripada menu:  Alat -> Edit Gaya Gelembung.  Gaya gelembung berbeza sentiasa tersedia untuk keseluruhan bahagian kerja.
+content_demo	Mod Demo
+content_demo.h	Dengan pilihan ini, mod demo kumpulan akan ditunjukkan dalam pembantu desktop.
+content_practice	Mod Latihan
+content_practice.h	Dengan pilihan, ini mod latihan kumpulan akan ditunjukkan dalam pembantu desktop.
+content_test	Mod Ujian
+content_test.h	Dengan pilihan ini, mod ujian kumpulan akan ditunjukkan dalam pembantu desktop.
+content_concurrent	Mod Serentak
+content_concurrent.h	Dengan pilihan ini, mod serentak kumpulan akan ditunjukkan dalam pembantu desktop.
+content_navi	Navigasi
+content_navi.h	Dengan pilihan ini, navigasi kumpulan akan ditunjukkan dalam pembantu desktop.
+content_documentation	Dokumentasi
+content_documentation.h	Dengan pilihan ini, dokumentasi kumpulan akan ditunjukkan dalam pembantu desktop.
+content_externals	Fail Luaran
+content_externals.h	Dengan pilihan ini, fail luar kumpulan akan ditunjukkan dalam pembantu desktop.
+navi_style	Gaya
+navi_style.h	Takrifkan penampilan tetingkap navigasi. Pilih sumber gaya daripada senarai.
+menu_path:/record	Rakaman
+F1HELPNAME	bantuan
+alignment	Penjajaran Gelembung
+alignment.h	Tentukan penjajaran tetingkap gelembung pada skrin. Pilihan 'Bebas' membenarkan anda untuk mentakrif kedudukan dalam parameter 'Kedudukan Tetingkap'.
+bform_alignment	Penjajaran
+bform_alignment.h	Takrifkan penjajaran tetingkap gelembung bentuk pada skrin. Pilihan 'Bebas' membenarkan untuk mentakrifkan kedudukan dalam parameter 'Kedudukan Gelembung Bentuk'.
+gloss_bubble	Gelembung Glosari
+gloss_bubble_style	Gaya
+gloss_bubble_style.h	Takrifkan penampilan gelombang glosari. Pilih sumber gaya daripada senarai.
+ellipse	Bulatan
+gloss_bubble_size	Saiz
+gloss_bubble_size.h	Takrifkan saiz (kelebaran, ketinggian) gelombang glosari dalam piksel.
+Navi	Pembantu Desktop
+exclude_from_da	Kecualikan Pembantu Desktop
+exclude_from_da.h	Menentukan bahawa halaman utama tidak akan dipertimbangkan untuk takrifan konteks pembantu desktop.
+all_as_descr	Gunakan Teks daripada
+all_as_descr.h	Takrifkan jenis teks untuk @{NAVIGATOR}. Lalai ialah 'Perihalan Pendek'.
+consider_roles	Pertimbangkan Peranan
+consider_roles.h	Aktifkan kegunaan peranan untuk memaparkan kandungan semasa main semula.
+consider_categories	Pertimbangkan Kategori Kandungan
+consider_categories.h	Aktifkan pengunaan kategori kandungan untuk isih kandungan dalam tetingkap utama @{NAVIGATOR}.
+disable_ca_in_pa	Sembunyikan Bantuan Segera dalam Jelajah Berpandu
+disable_ca_in_pa.h	Takrifkan jika semua maklumat bantuan segera disembunyikan semasa main semula jelajah berpandu. Setelah jelajah berpandu selesai, bantuan segera akan ditunjukkan lagi.
+full_desc	Perihalan
+shrt_desc	Perihalan Pendek
+wrong_position	Ralat Kedudukan
+help	Bantuan
+warning	Amaran
+maintenance	Penyelenggaraan
+update	Kemas kini
+new	Baru
+training	Latihan
+attachment	Lampiran
+link	Pautan
+tip	Petua
+note	Nota
+compliance	Pematuhan
+mini_bubble_style	Gaya Ikon Mini
+mini_bubble_style.h	Takrifkan sumber gaya untuk ikon mini yang digunakan untuk projek. Ikon mini adalah jenis sumber daripada sumber boleh suai. \nIkon boleh ditetapkan dalam setiap makro tindakan dan penerangan dengan menggunakan parameter 'Jenis Ikon Mini' dalam bahagian 'Lanjutan'.
+mini_bubble	Jenis Ikon Mini
+mini_bubble.h	Bantuan konteks sahaja\nTakrifkan jenis untuk ikon mini objek. Ikon ialah berdasarkan pada 'Gaya Ikon Mini' bagi makro 'Gaya' yang ditakrif.
+NavRecMouseWheel	Guna roda tetikus untuk meneruskan. Tekan ESC untuk selesaikan skrol tetikus.
+search_type	Jenis Carian
+none	Tiada
+search_in_lib	Dalam @{LIBRARY}
+search_in_da	Kumpulan Pembantu Desktop
+search_type.h	Menentukan kefungsian untuk mencari kandungan. Pilih jenis daripada senarai juntai bawah. \nTiada: Nyahaktif kefungsian carian. \nDalam @{LIBRARY}: Buka @{LIBRARY} untuk mencari dalam kandungan @{LIBRARY}. \nDalam Kumpulan Pembantu Desktop: Tunjukkan tab 'Carian’ dalam tetingkap utama untuk mencari kandungan pembantu desktop.
+errObjectUpdate	Objek tidak boleh dikemas kini. Kemas kini objek dengan jenis sama.
+config_headers_differ1	Maklumat profil lapuk. Klik 'Teruskan' untuk mengemas kini projek.
+config_headers_differ2	Disyorkan untuk mencipta arkib sebelum mengemas kini.
+default_start_mode	Kandungan Mula Lalai
+default_start_mode.h	Aktifkan format dokumen atau mod untuk dimulakan secara lalai daripada senarai kandungan.
+default_start_doc	Dokumen Mula Lalai
+default_start_doc.h	Aktifkan jenis dokumen, jika dokumen ditetapkan dalam tetapan 'Kandungan Mula Lalai'.
+show_next_btn	Butang Seterusnya
+show_next_btn.h	Lawatan berpandu sahaja\nTentukan, jika butang 'Pergi ke Langkah Seterusnya' ditunjukkan dalam gelembung objek.
+condition	Keadaan
+condition.h	Semasa main semula, nilai yang dimasukkan oleh pengguna mestilah sepadan dengan keadaan, untuk pergi ke langkah seterusnya atau lompat ke langkah tertentu. \nPilih 'Edit Keadaan' untuk mencipta atau mengedit keadaan.
+errDuplicateContext	Aplikasi ini sudah dirakam.
+add_sticky_notes	Kedudukan: Kawalan 'Tambah Nota Lekit'
+add_sticky_notes.h	Membenarkan anda menunjukkan kawalan untuk menambah nota lekit pada halaman. Anda boleh tentukan kedudukan kawalan dalam bar sisi.
+show_instant_help_btn	Kedudukan: Kawalan 'Bantuan Segera'
+show_instant_help_btn.h	Membenarkan anda menunjukkan kawalan untuk mengaktifkan bantuan segera. Anda boleh tentukan kedudukan kawalan dalam bar sisi.
+show_carousel	Tunjukkan Karusel
+show_carousel.h	Pilihan ini menunjukkan Pembantu Desktop dalam mod karusel.
+condition_pattern	Corak Keadaan
+condition_pattern.h	Tentukan corak digunakan untuk keadaan.
+condition_value	Nilai Keadaan
+condition_value.h	Mengandungi nilai digunakan untuk keadaan. Masukkan teks atau nombor berdasarkan corak terpilih.
+condition_jump_target	Sasaran Lompat
+condition_jump_target.h	Jelajah berpandu sahaja\nTentukan sasaran lompat untuk keadaan. Pilih langkah daripada senarai juntai bawah. Navigasi melompat ke langkah ditentukan, jika keadaan sepadan.
+condition_text	Teks Keadaan
+condition_text.h	Mengandungi teks untuk ditunjukkan, jika keadaan tidak dipenuhi.
+condition_case_sensitive	Sensitif Huruf Besar atau Huruf Kecil
+condition_case_sensitive.h	Tentukan, bahawa keadaan merupakan sensitif huruf besar atau huruf kecil.
+condition_ignore_on_load	Abaikan pada Muatan Halaman
+condition_ignore_on_load.h	Bantuan konteks sahaja\nTentukan bahawa keadaan tidak disemak pada muatan halaman. The condition is checked when using a corresponding control. Ini mengelakkan ia untuk memaparkan gelembung keadaan secara langsung.
+c_equals	Sama dengan
+c_not_equals	Tidak sama dengan
+c_greater	Adalah lebih besar daripada
+c_greater_equals	Adalah lebih besar daripada atau sama dengan
+c_less	Adalah kurang daripada
+c_less_equals	Adalah kurang daripada atau sama dengan
+c_min_char	Bilangan aksara minimum
+c_max_char	Bilangan aksara maksimum
+c_num_char	Bilangan aksara sama dengan
+c_reg_exp	Ungkapan biasa
+vertical	Menegak
+horizontal	Mendatar
+AutoBarReady	Melahu
+AutoBarExplanation	Masukkan Penerangan
+AutoBarChooseApp	Pilih Aplikasi
+AutoBarRecord	Rakam
+AutoBarBusy	Sibuk
+AutoBarPause	Jeda
+AutoBarReRecManualHotspot	Edit kawalan: Tekan Ctrl+ Enter untuk meneruskan dengan perubahan. Tekan Esc untuk membuang perubahan.
+wizAddExplanation	Tambah Penerangan
+AutoBarNoRecognition	Tiada bar dicam
+AutoBarDiagnosis	Diagnosis...
+condition_bubblestyle	Gaya Gelembung
+condition_bubblestyle.h	Takrifkan sumber gaya gelembung yang akan digunakan untuk memaparkan teks keadaan.
+condition_highlight_bgr	Warna Serlahan
+condition_highlight_bgr.h	Takrifkan warna serlahan untuk kawalan.
+IDS_MPI_TOURSTOP_LABEL	Nama
+IDS_MPI_TOURSTOP_LABEL_MODIFIED	Terjemah Secara Manual
+IDS_MPI_TOURSTOP_NAME	UID
+IDS_MPI_TOURSTOP_SHOW	Tunjukkan dalam Paparan Kemajuan
+IDS_MPI_TOURSTOP_JUMP	Sasaran Lompat
+IDS_MPI_TOURSTOP_CALLABLE	Adalah Subrutin
+basic_info	Asas
+IDS_NO_IMAGE_SELECT	Tiada imej dipilih
+IDS_NO_IMAGE	Imej tidak ditemui
+ID_INSERT_TAKE	Tambah Langkah
+ID_PRJ_LAYOUT_HORZ	Tataletak Mendatar
+ID_PRJ_LAYOUT_VERT	Tataletak Menegak
+ID_PRJ_LAYOUT_DIV	Tataletak Terbahagi - 1
+ID_PRJ_LAYOUT_4	Tataletak Terbahagi - 2
+ID_PRJ_LAYOUT_5	Tataletak Terbahagi - 3
+IDS_UNTITLED	(tidak bertajuk)
+docTableHeaderStep	Langkah
+layout_advanced	Tataletak Lanjutan
+showEditorHelp	Tunjukkan Bantuan Editor Web
+slide:insert_tb	Masuk
+slide:action_tb	Tindakan
+slide:structure_tb	Struktur
+slide:view_tb	Pandangan
+existing_scrs_in_prj	Skrin semasa sudah digunakan lebih dari sekali dalam projek anda. \nPilih skrin yang anda ingin tambahkan pada objek yang dirakam.
+start_topic	Mula
+guided_tour	Jelajah Berpandu
+context_help	Bantuan Konteks
+off	Mati
+main_bar_1	Bar Utama 1
+main_bar_2	Bar Utama 2
+main_bar_3	Bar Utama 3
+main_bar_4	Bar Utama 4
+main_bar_5	Bar Utama 5
+main_bar_6	Bar Utama 6
+main_bar_7	Bar Utama 7
+main_bar_8	Bar Utama 8
+sub_menu_1	Submenu 1
+sub_menu_2	Submenu 2
+sub_menu_3	Submenu 3
+sub_menu_4	Submenu 4
+sub_menu_5	Submenu 5
+sub_menu_6	Submenu 6
+content_btn	Kedudukan: Kawalan 'Kandungan'
+content_btn.h	Tentukan kedudukan kawalan 'Kandungan’ dalam bar sisi.
+search_btn	Kedudukan: Kawalan 'Carian'
+search_btn.h	Tentukan kedudukan kawalan 'Carian’ dalam bar sisi.
+orCenter	Tengah
+orNorth	Utara
+orWest	Barat
+orNortWest	Barat Laut
+orEast	Timur
+orNortEast	Timur Laut
+orSouth	Selatan
+orSouthWest	Barat Daya
+orSoutEast	Tenggara
+screen_tolerence	Perbezaan Skrin diterima (%)
+screen_tolerence.h	Parameter ini mentakrifkan padanan grafik yang diperlukan antara halaman skrin dipaparkan dan syot layar yang direkodkan dalam peratus untuk maklumat konteks yang berkaitan dipaparkan. Jika percanggahan grafik berada di atas paras nilai ditakrifkan, @{NAVIGATOR} akan membandingkan rakaman kekunci halaman dengan halaman skrin dan memaparkan kandungan yang sesuai untuk aplikasi halaman yang berbeza.
+video_folder	Folder Rakaman Video
+video_folder.h	Tentukan folder untuk menyimpan rakaman video. \nNota: Rakaman video tidak disimpan dalam folder cache bagi @{NAVIGATOR} kerana saiz failnya.
+allow_video_rec	Rakaman Video Dibenarkan
+allow_video_rec.h	Membenarkan pengguna untuk merekod kandungan video.
+hide_da_on_web_assistant	Sembunyikan @{NAVIGATOR} pada Jalanan @{XRAY}
+hide_da_on_web_assistant.h	Menentukan windows @{NAVIGATOR} tersembunyi apabila @{XRAY} dijalankan dalam latar depan.
+show_web_assistant_msg	Tunjukkan Mesej @{XRAY}
+show_web_assistant_msg.h	Menentukan mesej yang dipaparkan apabila @{XRAY} dijalankan dalam latar depan atau dibiarkan dalam mod latar depan.
+auto_hide	Sembunyi selepas Animasi
+auto_hide.h	Jika pilihan ini didayakan, serlahan disembunyikan secara automatik lagi sejurus selepas animasi selesai.
+bmain_height	Ketinggian
+bmain_height.h	Takrifkan tinggi gelembung utama dalam piksel. Jika jumlah teks melebihi ruang yang tersedia dalam gelembung ia akan menskalakan berdasarkan ketinggian secara automatik ke ruang yang diperlukan.
+bmain_style	Gaya
+bmain_style.h	Seting ini mentakrifkan jenis gelembung mana akan digunakan untuk memaparkan gelembung utama. Jenis gelembung ditakrifkan menggunakan 'Pengedit Jenis Gelembung' yang boleh dilancarkan dari menu 'Alat' -> 'Edit jenis gelembung'. Jenis gelembung sentiasa tersedia untuk keseluruhan kawasan kerja.
+bmain_width	Lebar
+bmain_width.h	Takrifkan lebar gelembung utama dalam piksel.
+bottom_dock	Didok Bawah
+cache_stale_interval	Sela Lapuk (min)
+cache_stale_interval.h	Mengaktifkan penggunaan @{NAVIGATOR} cache dan takrifan tempoh masa untuk kemaskini kandungan dalam folder cache. Nilai ditakrifkan dalam saat. \nUntuk nyahaktif cache tukar nilai pada '0'.
+centered	Di tengah
+close_details	Tutup Tetingkap Kandungan
+close_details.h	Takrifkan kekunci fungsi untuk menutupkan tetingkap kandungan untuk projek dipilih.
+confirmation_hotkey	Hotkey Pengesahan Langkah
+confirmation_hotkey.h	Mentakrifkan hotkey untuk pengesahan langkah semasa main balik pembantu proses.
+detail_positioning	Penjajaran Tetingkap Kandungan
+detail_positioning.h	Takrifkan penjajaran tetingkap kandungan pada skrin. Kecuali penjajaran 'Di tengah', tetingkap kandungan akan didok ke tetingkap utama.
+detail_size	Saiz Tetingkap Kandungan
+detail_size.h	Takrifkan saiz (lebar, ketinggian) tetingkap kandungan dalam piksel.
+enable_search	Dayakan Tab Carian
+enable_search.h	Dayakan kefungsian carian dalam kandungan Pembantu Atas Meja
+h_dock	Didok Secara Mendatar
+icon_position	Kedudukan Ikon
+icon_position.h	Nilai yang dimasukkan di sini akan menentukan kedudukan ikon pada skrin. Nilai diberi dalam piksel. Ikon akan muncul di sudut sebelah kiri atas skrin.
+leaves_page	Tinggalkan Skrin
+leaves_page.h	Opsyen ini menunjukkan kepada navigasi, bahawa tindakan yang diperlukan untuk objek ini membawa kepada pemuatan halaman baru. Analisis halaman baru dijalankan sebaik sahaja tindakan itu dilakukan pada objek dan halaman telah selesai dimuatkan.
+left_dock	Didok Kiri
+library_height	Tinggi Gelembung
+library_height.h	Ini menentukan tinggi gelembung dalam piksel.
+library_width	Lebar Gelembung
+library_width.h	Ini menentukan lebar gelembung dalam piksel.
+maximize_details	Maksimumkan Tetingkap Kandungan
+maximize_details.h	Takrifkan kekunci fungsi untuk memaksimumkan tetingkap kandungan.
+next_doc	Pilih Dokumen Seterusnya
+next_doc.h	Takrifkan kekunci fungsi untuk memilih dokumen seterusnya dalam tetingkap kandungan.
+next_project	Pilih Projek Seterusnya
+next_project.h	Takrifkan kekunci fungsi untuk memilih projek eterusnya dalam tetingkap utama.
+open_content	Buka Kandungan
+open_content.h	Takrifkan kekunci fungsi untuk membuka objek kandungan dipilih.
+open_details	Buka Tetingkap Kandungan
+open_details.h	Takrifkan kekunci fungsi untuk membuka tetingkap kandungan untuk projek dipilih.
+prev_doc	Pilih Dokumen Sebelumnya
+prev_doc.h	Takrifkan kekunci fungsi untuk memilih dokumen sebelumnya dalam tetingkap kandungan.
+prev_project	Pilih Dokumen Sebelumnya
+prev_project.h	Takrifkan kekunci fungsi untuk memilih projek sebelumnya dalam tetingkap utama.
+right_dock	Didok Kanan
+show_execute	Tunjukkan Butang Laksana
+show_execute.h	Takriffkan, sama ada butang laksanakan ditunjukkan dalam gelembung objek semasa main balik. Butang tersebut membolehkanhkan pengguna untuk melaksanakan tindakan dalam aplikasi dan selepas itu langkah seterusnya ditunjukkan.
+show_icon_on_start	Tunjukkan Ikon Status pada Permulaan
+show_icon_on_start.h	Takrifkan permulaan pembantu atas meja, jika ikon status akan dipaparkan bukan tetingkap utama. 
+start_doc	Buka Dokumen
+start_doc.h	Takrifkan kekunci fungsi untuk membuka dokumen dipilih dari tetingkap kandungan.
+step_on_same_page	Langkah pada Halaman Sama
+top_dock	Didok Atas
+v_dock	Didok Secara Menegak

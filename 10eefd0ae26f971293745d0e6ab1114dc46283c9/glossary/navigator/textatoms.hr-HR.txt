@@ -1,0 +1,313 @@
+﻿#	Atomi teksta na engleskom
+BULLET	&#149;
+NEWLINE	\r\n
+TOK_COMPANY	SAP
+TOK_LIB	Tečaj
+TOK_TOUR	Lekcija
+TOK_TRAINER	Desktop Assistant
+TOK_AUTOMATION	epo
+NAVIGATOR	Desktop Assistant
+NAV_LIBRARY	library
+BTN_ABORT	Izađi
+BTN_CLOSE	Izađi
+BTN_OK	OK
+BTN_CLOSE_DLG	Zatvori
+BTN_CONTINUE	Nastavi
+BTN_PREVIEW	Pregled
+BTN_PROCEED	Nastavi
+BTN_RESTART	Ponovno pokreni
+BTN_SKIP	Preskoči korak
+BTN_START	Početak
+BTN_STOP	Zaustavljanje
+BTN_EXECUTE	Izvrši
+CA_SWITCH	Pomoć konteksta
+CONTENT_CAP	Sadržaj
+MAIL_SUBJECT	Zahtjev za sadržaj za pomoćnik desktopa
+MAIL_HEADER	Poštovani autore,\n\n želio bih zatražiti sadržaj za:
+MAIL_FOOTER	- Proces/transakcija: opišite aplikacijski proces koji se trenutno upotrebljava. \n\n- Opis: opišite potrebne informacije. \n\nSrdačan pozdrav,
+MAIL_DATA	- Naziv aplikacije:
+MAIL_TOOLTIP	Zahtijevaj sadržaj
+SHARE_TOOLTIP	Podijeli sadržaj
+REQUEST_TEXT	Pritisnite %s da biste zatražili sadržaj
+REQUEST_LINK	ovdje
+SEARCH_CAP	Traženje
+INFO_CAP	Info
+SETTINGS_CAP	Postave
+BACK_TOOLTIP	Natrag
+SHARE_CONTENT_TOOLTIP	Podijeli sadržaj
+CB_HIDE_OPTION	Više ne pokazivati
+MY_ROLES	Moje uloge
+EDIT_ROLES	Promijeni uloge
+NO_ROLES	Pokaži sadržaj bez uloga
+SELECT_ALL_CAPTION	Odaberi sve
+USER_CAPTION	Područje korisnika
+READ_MORE	Dodatno čitanje...
+NO_CATEGORY_CAPTION	Drugi sadržaj
+DELETE_FAILED	Operacija brisanja nije uspjela.
+RENAME_FAILED	Operacija preimenovanja nije uspjela.
+FILE_EXISTS	Datoteka s istim nazivom već postoji. Unesite drugačiji naziv.
+LBL_YES	Da
+LBL_DELETE	Izbriši
+LBL_NO	Ne
+LBL_OK	OK
+DELETE_DLG_TEXT	Želite li zaista izbrisati odabrane dokumente (%N)?
+LBL_CONCURRENT	Pokreni istovremeni mod
+LBL_DA	Pomoćnik desktopa
+LBL_SIM	Pokreni simulaciju
+LBL_CDOC	Otvori
+LBL_DEMO	Pokreni demo mod
+LBL_NAVI	Pokreni vođeno upoznavanje
+LBL_BOOK	Izvedi knjigu
+LBL_GROUP	Otvori u @{NAV_LIBRARY}
+LBL_NAVIGATION	Pomoćnik desktopa
+LBL_PA	Vođeno upoznavanje
+LBL_PRACTICE	Pokreni mod vježbe
+LBL_SIMULATION	Simulacija
+LBL_BOOKPAGE	Pokaži stranicu knjige
+LBL_TEST	Pokreni probni mod
+LBL_RECORD_DOCUMENT	Zabilježi dokument
+MSG_AUTOMATION_FINISHED	Automatizacija završena
+MSG_AUTOMATION_FINISHED_2	Pritisnite 'Ponovno pokreni' za ponovno pokretanje automatiziranog procesa.
+MSG_AUTOMATION_START	Uredi vrijednosti unosa
+MSG_AUTOMATION_START_2	Provjerite ili uredite sljedeće vrijednosti. One će se unijeti automatski tijekom procesa.
+MSG_EPO_DIALOG	Optimizator elektroničkog procesa
+MSG_NAVI_LIBRARY_NO_APP	Nema raspoloživih informacija.
+LBL_NAVI_NO_MATCH	Nema rezultata za vašu pretragu.
+NO_RECORDS	Nema dostupnih dokumenata.
+MSG_NAVI_LIBRARY_SUBTITLE	Raspoloživi sadržaji:
+MSG_NAVI_LIBRARY_TITLE	Pomoćnik desktopa
+MSG_NOT_APPLICABLE	ne može se urediti
+MSG_PA_CONTROL_STEP	Obavezna radnja za korak:
+MSG_PA_EXPLANATION_STEP	Usmjerite na niže prikazani ekran.
+MSG_PA_FORM_STEP	Obavezna polja za popunjavanje u obrascu:
+MSG_PA_DIALOG	Vođeno upoznavanje
+MSG_PA_START_SCREEN	Otvorite početi ekran.
+MSG_PA_STEP_NOT_FOUND	Prebacite na obavezni ekran
+MSG_PA_STEP_NOT_FOUND1	Provjerite je li ciljna aplikacija (@{TARGETAPPNAME}) otvorena.
+MSG_PA_STEP_NOT_FOUND2	Usmjerite na niže prikazani ekran s istaknutom kontrolom.
+MSG_STEP_LIGHT	Pregled koraka
+MSG_STEP_NOT_FOUND	Korak vođenog upoznavanja nije nađen.
+MSG_STEP_NOT_FOUND_2	Pritisnite u traci naslova ciljne aplikacije ili usmjerite prema desnom ekranu.<br><br>Pritisnite 'Pregled' za prikaz potrebnog ekrana.
+PA_FINISHED	Vođeno upoznavanje završeno.
+PROJECT_TITLE	Naslov projekta
+TRAY_INFO_BUBBLE_HEADING	Vođeno upoznavanje
+TRAY_INFO_BUBBLE_TEXT	Sljedeći korak nije moguće prikazati. Pritisnite ovdje za više informacija.
+RESTRICTED_BUBBLE_HEADING	Radnja blokirana
+RESTRICTED_BUBBLE_TEXT	Ne možete izvršiti radnje dok ne potvrdite trenutni korak.
+HELP_TITLE	Pomoć
+HELP_INTRO	Pomoć vam daje pregled glavnih dijelova i funkcija @{NAVIGATOR}.</br></br><b>Napomena:</b> dostupne funkcije ovise o konfiguraciji @{NAVIGATOR}.</br>
+HELP_TITLE_DA	Bočna traka i prozori
+HELP_SIDEBAR_T	Bočna traka
+HELP_SIDEBAR_H	Bočna traka omogućuje vam pokretanje glavnih funkcija @{NAVIGATOR}. Za svaku funkciju prikazuje se gumb. Bočna traka može se pomaknuti pomoću funkcije povlačenja i ispuštanja i može se minimizirati i maksimizirati pritiskom na obrub bočne trake.
+HELP_CONTENT_CONTROL_T	Sadržaj
+HELP_CONTENT_CONTROL_H	Pokazuje je li sadržaj raspoloživ. Otvara glavni prozor sa sadržajem.
+HELP_SEARCH_CONTROL_T	Traženje
+HELP_SEARCH_CONTROL_H	Otvara pretraživanje za traženje sadržaja.
+HELP_EXTSEARCH_CONTROL_T	Vanjsko pretraživanje
+HELP_EXTSEARCH_CONTROL_H	Otvara vanjsko pretraživanje za pretraživanje sadržaja.
+HELP_STICKY_CONTROL_T	Dodaj naljepnicu
+HELP_STICKY_CONTROL_H	Umeće naljepnicu za trenutni prozor aplikacije. Možete unijeti tekst za naljepnicu.
+HELP_RECORDING_CONTROL_T	Pokreni bilježenje
+HELP_RECORDING_CONTROL_H	Pokreće bilježenje procesa. Zabilježeni proces spremit će se kao dokument u području korisnika.
+HELP_MAIN_WINDOW_T	Glavni prozor
+HELP_MAIN_WINDOW_H	Glavni prozor pokazuje sadržaje raspoložive za specifični kontekst stranice.</br>Tijekom izvođenja vođenog upoznavanja prozor pokazuje listu koraka.
+HELP_HEADER_T	Zaglavlje
+HELP_HEADER_H	Ikona statua u zaglavlju pokazuje je li sadržaj raspoloživ za trenutni kontekst.
+HELP_CONTENT_TAB_T	Kartica sadržaja
+HELP_CONTENT_TAB_H	Kartica pokazuje sadržaj dostupan za trenutnu aplikaciju.
+HELP_CONTENT_VIEW_T	Pogled sadržaja
+HELP_CONTENT_VIEW_H	Pogled sadržaja pokazuje dostupne informacije, modove i dokumentaciju za odabrani sadržaj.</br>Možete koristiti kontrolu 'Natrag' za povratak na listu sadržaja.
+HELP_SEARCH_TAB_T	Kartica Traženje
+HELP_SEARCH_TAB_H	Na kartici možete tražiti specifični sadržaj za svoj trenutni kontekst.
+HELP_INFO_TAB_T	Kartica informacija
+HELP_INFO_TAB_H	Kartica pokazuje opće informacije o @{NAVIGATOR}.
+HELP_USERAREA_TAB_T	Kartica Područje korisnika
+HELP_USERAREA_TAB_H	Kartica sadrži dokumente zabilježenog procesa. Dokument možete otvoriti, dijeliti ili brisati. Možete bilježiti daljnje procese.
+HELP_INSTANT_T	Brza pomoć
+HELP_INSTANT_H	S aktiviranom postavom dodatne informacije konteksta pokazuju se upravo na trenutnom ekranu aplikacije. Postava je aktivirana preddefinirano.
+HELP_REQCONTENT_T	Zahtijevaj sadržaj
+HELP_REQCONTENT_H	Otvara prozor e-pošte za zahtijevanje sadržaja koji nedostaje od autora.
+HELP_SETTINGS_T	Postave
+HELP_SETTINGS_H	Pogled sadrži postave za prikaz sadržaja @{NAVIGATOR}.
+HELP_MYROLES_T	Moje uloge
+HELP_MYROLES_H	Ova postava prikazuje sadržaj za dodijeljenu ulogu.
+HELP_WITHOUTROLES_T	Pokaži sadržaj bez uloga
+HELP_WITHOUTROLES_H	Ova postava prikazuje sadržaj bez dodijeljenih uloga.
+HELP_EDITROLES_T	Uloge
+HELP_EDITROLES_H	Sve korištene uloge za sadržaj navedene su i mogu se aktivirati ili deaktivirati za prikaz sadržaja.
+HELP_SHARECONTENT_T	Podijeli sadržaj
+HELP_SHARECONTENT_H	Otvara okvir za dijalog s vezom do sadržaja. Veza se može dijeliti s drugim korisnicima.
+HELP_REQUESTCONTENT_T	Zahtijevaj sadržaj
+HELP_REQUESTCONTENT_H	Otvara preddefiniranu e-poštu kako bi zatražio sadržaj za specifični slučaj.
+HELP_PLAYBACK_CONTENT_T	Izvedi sadržaj
+HELP_PLAYBACK_CONTENT_H	Raspoloživi sadržaj može se pokrenuti ili otvoriti pomoću gumba u prozoru sadržaja.
+HELP_MINIMIZED_STATUS_T	Minimizirani status
+HELP_MINIMIZED_STATUS_H	U slučaju da zatvorite glavni prozor pomična ikona statusa i dalje će pokazivati je li sadržaj raspoloživ za trenutni kontekst. Pritisnite ikonu za obnovu glavnog prozora.
+HELP_MINIMIZED_MENU_T	Izbornik konteksta
+HELP_MINIMIZED_MENU_H	Izbornik konteksta (desnim gumbom miša na ikonu) uključuje funkcije za prikaz glavnog prostora i pomoć konteksta.
+HELP_BOOK_WINDOW_T	Prozor knjige
+HELP_BOOK_WINDOW_H	Prozor knjige otvoren je pri reprodukciji knjige. Glavni prozor i prozor sadržaja skriveni su.
+HELP_GOTOTOP	Idi na vrh
+HELP_CAPTION	Pomoć za @{NAVIGATOR}
+NAVHELP_TITLE	Ikona statusa i izbornik konteksta
+NAVHELP_INTRO	</br>Pomoć daje vam pregled o ikoni statusa i unosima izbornika konteksta.
+NAVHELP_STATUS_ICON_T	Ikona statusa (traka sa zadacima)
+NAVHELP_STATUS_ICON_H	Ikona statusa nalazi se u traci sa zadacima i pokazuje trenutne aktivnosti @{NAVIGATOR}. Postoje sljedeći statusi:
+NAVHELP_STATUS_FOUND_T	Sadržaj raspoloživ (zelena ikona)
+NAVHELP_STATUS_FOUND_H	Sadržaj je raspoloživ i prikazan za trenutni kontekst.
+NAVHELP_STATUS_CHECK_T	Učitavanje sadržaja (žuta ikona)
+NAVHELP_STATUS_CHECK_H	@{NAVIGATOR} provjerava trenutni kontekst za raspoloživi sadržaj i učitava sadržaj.
+NAVHELP_STATUS_NOFOUND_T	Sadržaj nije raspoloživ (crvena ikona)
+NAVHELP_STATUS_NOFOUND_H	Sadržaj nije raspoloživ za trenutni kontekst.
+NAVHELP_STANDBY_T	Deaktivirano
+NAVHELP_STANDBY_H	@{NAVIGATOR} deaktiviran. Pritisak na ikonu statusa (<i>CTRL + F11</i>) deaktivira ili aktivira @{NAVIGATOR}.
+NAVHELP_STATUS_MIN_T	Minimizirano
+NAVHELP_STATUS_MIN_H	Prozori i bočna traka minimizirani.
+NAVHELP_STATUS_MENU_T	Izbornik konteksta
+NAVHELP_STATUS_MENU_H	Izbornik sadržaja (desnim gumbom miša na ikonu) uključuje opće funkcije @{NAVIGATOR}.
+NAVHELP_VERSION_T	Pokaži verziju
+NAVHELP_VERSION_H	Pokazuje broj verzije instaliranog @{NAVIGATOR}. To je potrebno za svaki kontakt s podrškom u slučaju problema.
+NAVHELP_JSCONSOLE_T	JavaScript konzola
+NAVHELP_JSCONSOLE_H	Pokazuje JavaScript konzolu za pružanje detaljnih poruka o grešci. To je potrebno za svaki kontakt s podrškom u slučaju problema.
+NAVHELP_NAV_CACHE_T	Izbriši lokalni cache
+NAVHELP_NAV_CACHE_H	Briše lokalni cache sadržaja @{NAVIGATOR}.
+NAVHELP_RESET_HIDDEN_T	Pokaži ponovno svu sažetu pomoć
+NAVHELP_RESET_HIDDEN_H	Ponovno postavlja elemente pomoći koji su bili postavljeni na 'Skriveno' tijekom reprodukcije.
+NAVHELP_EXIT_T	Izlaz
+NAVHELP_EXIT_H	Zaustavlja izvođenje i zatvara @{NAVIGATOR}.
+IDS_NAVP_ABOUT	Pokaži verziju...
+IDS_NAVP_CONSOLE	JavaScript konzola...
+IDS_NAVP_DELETE_CACHE	Izbriši lokalni cache
+IDS_NAVP_HOOKER	Hooker
+IDS_SEARCH_INPUT	Sadržaj pomoći traženja
+IDS_CLEAR_SEARCH	Poništi traženje
+IDS_NAVP_CLOSE	Izlaz
+IDS_RESET_CURRENT	Ponovno pokaži skriveni element pomoći
+IDS_RESET_ALL	Ponovno pokaži svu sažetu pomoć
+IDS_RESET_ALL_TIP	Ponovno pokaži sve deaktivirane savjete pri prvom ulasku na ekran.
+IDS_OPEN_RECORD_LBL	Otvori
+IDS_EDIT_RECORD_LBL	Preimenuj
+IDS_DELETE_RECORD_LBL	Izbriši
+IDS_SHARE_RECORD_LBL	Dijeli
+IDS_EXTERNAL_SEARCH_BTN	Vanjsko pretraživanje
+IDS_EXTERNAL_SEARCH_SUB_MENU	Vanjsko pretraživanje
+IDS_SHOW_SCREEN_ICON	Pokaži pomoćnik desktopa
+IDS_SHOW_DA	Pokaži glavni prozor
+IDS_SHOW_CONTENT	Pokaži sadržaj
+IDS_HIDE_CONTENT	Sakrij sadržaj
+IDS_SEARCH_BTN	Traženje
+IDS_REQUEST_CONTENT_BTN	Zahtijevaj sadržaj
+IDS_RECORDING_BTN	Pokreni bilježenje
+IDS_SHOW_CA_SWITCH	Pokaži pomoć konteksta
+IDS_HIDE_CA_SWITCH	Sakrij pomoć konteksta
+IDS_CA_SWITCH_INACTIVE_BTN	Pomoć konteksta nije dostupna
+IDS_DO_CTX_RECOGNITION	Pokaži pomoć konteksta
+IDS_NAV_STANDBY	@{NAVIGATOR} deaktiviran.
+IDS_NAV_NO_STANDBY	@{NAVIGATOR} aktiviran.
+IDS_SHOW_DA_PANELS	@{NAVIGATOR} je sada ponovno raspoloživ. Ako trebate pomoć, možete upotrijebiti @{NAVIGATOR}.
+IDS_HIDE_DA_PANELS	@{NAVIGATOR} automatski je nestao jer je raspoloživa odgovarajuća pomoć u aplikaciji koju ste trenutno otvorili. Ako trebate daljnju pomoć, samo otvorite pomoć u aplikaciji.
+IDS_ADD_STICKY_NOTES_BTN	Dodaj naljepnicu
+IDS_ADD_STICKY_NOTES_INACTIVE_BTN	Možete dodati samo jednu naljepnicu za ovu aplikaciju.
+IDS_EXIT_DA	Izlaz
+IDS_EXIT_DA_BTN	Izlaz
+IDS_EXIT_DA_SUB_MENU	Izlaz
+IDS_SHOW_MORE	Pokaži više
+IDS_HIDE_MORE	Sakrij više
+IDS_REQUEST_CONTENT_SUB_MENU	Zahtijevaj sadržaj
+IDS_SHOW_CA_SUB_MENU	Pokaži pomoć konteksta
+IDS_HIDE_CA_SUB_MENU	Sakrij pomoć konteksta
+IDS_ADD_STICKY_NOTE_SUB_MENU	Dodaj naljepnicu
+IDS_RECORDING_SUB_MENU	Pokreni bilježenje
+IDS_CA_SWITCH_SUB_MENU	Pomoć konteksta
+IDS_SHARE_DLG_CAPTION	Dijeli dokument
+IDS_DELETE_FRAMES	Brisanje okvira
+OPEN_FOLDER	Otvori mapu
+SHARE_DOC	Podijeli e-poštom
+IDS_SHARE_DLG_TEXT	Što želite učiniti?
+IDS_SEARCH_BTN_SUB_MENU	Pretraži sadržaj
+IDS_LIBRARY_SEARCH_BTN_SUB_MENU	Pretraži sadržaj u knjižnici
+GRACEFUL_DEGRADATION	Ova je funkcionalnost privremeno nedostupna zbog problema s mrežom. \n\nPokušajte ponovno kasnije.
+SHARE_BTN	Podijeli e-poštom
+COPY_BTN	Kopiraj vezu
+SHARE_MAIL_SUBJECT	Preporučeni sadržaj
+SHARE_MAIL_HEADER	Poštovani korisniče,\n\nmožda će te zanimati ovaj sadržaj. \n\n
+SHARE_MAIL_FOOTER	Srdačan pozdrav,
+SHARE_MAIL_LINK	Veza:\t
+SHARE_MAIL_CAPTION	Legenda:\t
+SHARE_TITLE	Podijeli sadržaj
+SELECT_ASSET	Odaberite imovinu za pokretanje.
+ENTER_NAME	Unesite naziv
+DELETE_RECORD_WRN	Važno: ovu radnju nije moguće poništiti.
+MSG_PA_NEXT_LBL	Sljedeće
+MSG_PA_STEP_LBL	Lista koraka
+TOGGLE_STEPLIST_TOOLTIP	Pokaži / sakrij listu koraka
+PREVIEW_STEP_TOOLTIP	Prethodni korak
+NEXT_STEP_TOOLTIP	Idi na sljedeći korak
+PREV_STEP_TOOLTIP	Idi na prethodni korak
+ROLES_TITLE	Uloge pomoćnika desktopa
+ROLES_LBL	Sadržaj pomoći filtera prema ulozi
+OK_CAPTION	OK
+CANCEL_CAPTION	Otkaži
+BTN_YES	Da
+BTN_NO	Ne
+DELETE_CONFIRM	Jeste li sigurni da želite izbrisati ovu naljepnicu?
+EXIT_CONFIRM	Želite li zaista izaći iz @{NAVIGATOR}?
+sticky_notes	Naljepnice
+exit_da	Izlaz iz @{NAVIGATOR}
+STICKY_NOTE_DEFAULT_TEXT	Ovdje dodajte svoj tekst.
+SEARCH_BTN_TOOLTIP	Traženje
+NEXT_BTN_TOOLTIP	Sljedeći
+PREV_BTN_TOOLTIP	Prethodni
+HIDE_BTN_TOOLTIP	Sakrij karusel
+IDS_PRJ_NAME	Unesi naziv:
+IDS_APPLICATIONS	Izaberi prozor:
+IDS_PRJ_LANGUAGE	Izaberi jezik:
+IDS_FULL_SCREEN	Puni ekran
+IDS_CHOOSE_APP_CAPTION	Izaberi aplikaciju
+IDS_RECORD_BTN	Zabilježi
+IDS_ANALYZE_ACTIONS	Analiza radnji...
+IDS_PARSE_PROJECT	Parsiranje projekta...
+IDS_REGION	Regija
+IDS_AREA_HELP	Promijenite veličinu regije odabirom predloška u nastavku. Prilagodite crveni trokut za odabir regije ili odaberite puni ekran.
+IDS_CHOOSE_SIZE	Izaberi veličinu:
+IDS_DEFINE_REC_AREA	Područje bilježenja
+IDS_DEFINE_NAME_LANG	Generiraj sadržaj
+PLEASE_SELECT	Odaberite
+quick_recorder.help_caption	Savjet
+quick_recorder.help	Upotrijebite tipku "PAUSE" za zaustavljanje ili za nastavak. \nUpotrijebite tipku "END" za završetak. \n\nOdaberite "OK" za pokretanje bilježenja.
+quick_recorder.audio_help	Upotrijebite tipku "PAUSE" za zaustavljanje ili za nastavak. \nUpotrijebite tipku "END" za završetak. \n\nAudio:\nvaš audio nije zabilježen tijekom pritiska. Izgovorite tekst prije odabira kontrole. \n\nOdaberite "OK" za pokretanje bilježenja.
+FILE_EXISTS	Datoteka s istim nazivom već postoji. Unesite drugačiji naziv.
+HELP_EXIT_CONTROL_H	Zaustavlja izvođenje i zatvara @{NAVIGATOR}.
+HELP_EXIT_CONTROL_T	Izlaz
+BTN_CLOSE_DLG	Zatvori
+DELETE_RECORD_WRN	Važno: ovu radnju nije moguće poništiti.
+ENTER_NAME	Unesite naziv
+IDS_CLEAR_SEARCH	Poništi traženje
+IDS_RESET_ALL_TIP	Ponovno pokaži sve deaktivirane savjete pri prvom ulasku na ekran.
+IDS_SEARCH_INPUT	Sadržaj pomoći traženja
+LBL_DELETE	Izbriši
+LBL_NAVI_NO_MATCH	Nema rezultata za vašu pretragu.
+LBL_TU	Otvori
+MSG_PA_NEXT_LBL	Sljedeće
+MSG_PA_STEP_LBL	Lista koraka
+RENAME_FAILED	Operacija preimenovanja nije uspjela.
+ROLES_LBL	Sadržaj pomoći filtera prema ulozi
+SELECT_ASSET	Odaberite imovinu za pokretanje.
+LBL_CDOC	Otvori
+LBL_RECORD_DOCUMENT	Zabilježi dokument
+QR_CAPTION	Odaberi izlaz bilježenja
+QR_WELCOME	Što želite kreirati?
+QR_DOC_CAP	Dokument
+QR_DOC_TXT	Kreira dokument u Microsoft Wordu koji prikazuje sliku ekrana i tekst upute za svaku radnju koju bilježite.
+QR_VIDEO_CAP	Video
+QR_VIDEO_TXT	Kreira video visoke kvalitete vašeg bilježenja.
+QR_DOC_VIDEO_CAP	Dokument i video
+QR_DOC_VIDEO_TXT	Kreira dokument i video.
+SHARE_ERR_CAP	Bilježenje nije moguće dijeliti
+SHARE_ERR_TXT	Ovo je bilježenje preveliko za dijeljenje e-poštom.\nŽelite li umjesto toga otvoriti lokaciju datoteke?
+HELP_CONTENT_WINDOW_H	Prozor sadržaja pokazuje raspoložive informacije, modove i dokumentaciju za odabrani sadržaj glavnog prozora.</br>Prozor sadržaja može se priključiti glavnom prozoru koji vam dopušta premještanje oba prozora zajedno na ekranu.
+HELP_CONTENT_WINDOW_T	Prozor sadržaja
+IDS_CONTENT_BTN	Sadržaj
+MSG_PA_STEP_NOT_FOUND_NUMERAL_1	1.
+MSG_PA_STEP_NOT_FOUND_NUMERAL_2	2.
+SHARE_URL	URL trenutne stranice:

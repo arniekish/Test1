@@ -1,0 +1,313 @@
+﻿#	Angol szövegatomok
+BULLET	&#149;
+NEWLINE	\r\n
+TOK_COMPANY	SAP
+TOK_LIB	tanfolyam
+TOK_TOUR	Lecke
+TOK_TRAINER	Desktop Assistant
+TOK_AUTOMATION	epo
+NAVIGATOR	Desktop Assistant
+NAV_LIBRARY	library
+BTN_ABORT	Kilépés
+BTN_CLOSE	Kilépés
+BTN_OK	OK
+BTN_CLOSE_DLG	Bezárás
+BTN_CONTINUE	Folytatás
+BTN_PREVIEW	Nézet
+BTN_PROCEED	Folytatás
+BTN_RESTART	Újraindítás
+BTN_SKIP	Átugrás
+BTN_START	Indítás
+BTN_STOP	Leállítás
+BTN_EXECUTE	Végrehajtás
+CA_SWITCH	Környezetfüggő súgó
+CONTENT_CAP	Tartalom
+MAIL_SUBJECT	Tartalomkérés asztali varázslóhoz
+MAIL_HEADER	Tisztelt Szerző!\n\nTartalmat szeretnék kérni a következő témakörben:
+MAIL_FOOTER	- Folyamat/tranzakció: Ismertesse a jelenleg használt alkalmazási folyamatot. \n\n- Ismertetés: Írja le a szükséges információkat. \n\nÜdvözlettel:
+MAIL_DATA	- Alkalmazásnév:
+MAIL_TOOLTIP	Tartalomkérés
+SHARE_TOOLTIP	Tartalom megosztása
+REQUEST_TEXT	Tartalom kéréséhez kattintson a(z) %s elemre
+REQUEST_LINK	ide
+SEARCH_CAP	Keresés
+INFO_CAP	Infó
+SETTINGS_CAP	Beállítások
+BACK_TOOLTIP	Vissza
+SHARE_CONTENT_TOOLTIP	Tartalom megosztása
+CB_HIDE_OPTION	Ne jelenjen meg újra
+MY_ROLES	Saját szerepek
+EDIT_ROLES	Szerepek módosítása
+NO_ROLES	Tartalom megjelenítése szerepek nélkül
+SELECT_ALL_CAPTION	Összes kiválasztása
+USER_CAPTION	Felhasználói terület
+READ_MORE	Továbbiak...
+NO_CATEGORY_CAPTION	Egyéb tartalom
+DELETE_FAILED	Nem sikerült a törlési művelet.
+RENAME_FAILED	Az átnevezés sikertelen.
+FILE_EXISTS	Már van ilyen nevű fájl. Adjon meg más nevet.
+LBL_YES	Igen
+LBL_DELETE	Törlés
+LBL_NO	Nem
+LBL_OK	OK
+DELETE_DLG_TEXT	Törli a kijelölt %N dokumentumot?
+LBL_CONCURRENT	Egyidejű mód indítása
+LBL_DA	Asztali varázsló
+LBL_SIM	Szimuláció indítása
+LBL_CDOC	Megnyitás
+LBL_DEMO	Demó mód indítása
+LBL_NAVI	Lépésenkénti útmutató indítása
+LBL_BOOK	Könyv lejátszása
+LBL_GROUP	Megnyitás a könyvtárban
+LBL_NAVIGATION	Asztali varázsló
+LBL_PA	Lépésenkénti útmutató
+LBL_PRACTICE	Gyakorlás mód indítása
+LBL_SIMULATION	Szimuláció
+LBL_BOOKPAGE	Könyvoldal megjelenítése
+LBL_TEST	Teszt mód indítása
+LBL_RECORD_DOCUMENT	Felvételdokumentum
+MSG_AUTOMATION_FINISHED	Automatizálás befejeződött
+MSG_AUTOMATION_FINISHED_2	Az automatikus folyamat újraindításához kattintson az Újraindítás elemre.
+MSG_AUTOMATION_START	Bevitt értékek szerkesztése
+MSG_AUTOMATION_START_2	Ellenőrizze vagy módosítsa a következő értékeket. A folyamat során ezek az értékek automatikusan bevitelre kerülnek.
+MSG_EPO_DIALOG	Elektronikus folyamatoptimalizáló
+MSG_NAVI_LIBRARY_NO_APP	Nem érhető el információ.
+LBL_NAVI_NO_MATCH	Nincs találat a keresésre.
+NO_RECORDS	Nincs elérhető dokumentum.
+MSG_NAVI_LIBRARY_SUBTITLE	Elérhető tartalmak:
+MSG_NAVI_LIBRARY_TITLE	Asztali varázsló
+MSG_NOT_APPLICABLE	Nem szerkeszthető
+MSG_PA_CONTROL_STEP	A lépéshez szükséges művelet:
+MSG_PA_EXPLANATION_STEP	Navigáljon az alábbi képernyőre.
+MSG_PA_FORM_STEP	Az űrlap kötelezően kitöltendő mezői:
+MSG_PA_DIALOG	Lépésenkénti útmutató
+MSG_PA_START_SCREEN	Nyissa meg a kezdő képernyőt.
+MSG_PA_STEP_NOT_FOUND	Váltson a szükséges képernyőre
+MSG_PA_STEP_NOT_FOUND1	Ha a célalkalmazás (@{TARGETAPPNAME}) még nem fut, nyissa meg.
+MSG_PA_STEP_NOT_FOUND2	Navigáljon a lentebb látható kiemelt vezérlőt tartalmazó képernyőre.
+MSG_STEP_LIGHT	Lépés előnézete
+MSG_STEP_NOT_FOUND	A lépésenkénti útmutató lépése nem található.
+MSG_STEP_NOT_FOUND_2	Kattintson a célalkalmazás címsorára vagy navigáljon a megfelelő képernyőre.<br><br>A képernyő megtekintéséhez kattintson az Előnézet gombra.
+PA_FINISHED	Véget ért a lépésenkénti útmutató.
+PROJECT_TITLE	Projekt címe
+TRAY_INFO_BUBBLE_HEADING	Lépésenkénti útmutató
+TRAY_INFO_BUBBLE_TEXT	Nem jeleníthető meg a jelenlegi lépés. Kattintson ide a részletekért.
+RESTRICTED_BUBBLE_HEADING	Tiltott művelet
+RESTRICTED_BUBBLE_TEXT	A jelenlegi lépés megerősítéséig nem hajthat végre más műveletet.
+HELP_TITLE	Súgó
+HELP_INTRO	A súgó áttekintést nyújt a(z) @{NAVIGATOR} főbb részeiről és funkcióiról.</br></br><b>Megjegyzés:</b> Az elérhető funkciók köre a(z) @{NAVIGATOR} konfigurációjától függ.</br>
+HELP_TITLE_DA	Oldalsáv és ablakok
+HELP_SIDEBAR_T	Oldalsáv
+HELP_SIDEBAR_H	Az oldalsávról indíthatja el az @{NAVIGATOR} fő funkcióit. Mindegyik funkcióhoz egy gomb tartozik. Az oldalsáv húzással áthelyezhető, és a szegélyére kattintva a mérete is módosítható.
+HELP_CONTENT_CONTROL_T	Tartalom
+HELP_CONTENT_CONTROL_H	Azt jelzi, hogy elérhető-e tartalom. Megnyitja a tartalmat a főablakban.
+HELP_SEARCH_CONTROL_T	Keresés
+HELP_SEARCH_CONTROL_H	Megnyitja a keresést tartalom keresése céljából.
+HELP_EXTSEARCH_CONTROL_T	Külső keresés
+HELP_EXTSEARCH_CONTROL_H	A tartalombeli keresésre szolgáló külső kereső megnyitása.
+HELP_STICKY_CONTROL_T	Öntapadó jegyzet hozzáadása
+HELP_STICKY_CONTROL_H	Öntapadó jegyzetet szúr be az aktuális alkalmazásablakhoz. Beírhatja az öntapadó jegyzet szövegét.
+HELP_RECORDING_CONTROL_T	Felvétel indítása
+HELP_RECORDING_CONTROL_H	Folyamat rögzítésének indítása. A rögzített folyamat dokumentumként fog megjelenni a felhasználói területen.
+HELP_MAIN_WINDOW_T	Főablak
+HELP_MAIN_WINDOW_H	A fő ablakban az adott oldalkontextushoz kapcsolódó tartalom jelenik meg.</br>A lépésenkénti útmutató lejátszása közben az ablakban a folyamatlépések listája látható.
+HELP_HEADER_T	Fejléc
+HELP_HEADER_H	A fejlécen lévő státusikon jelzi, hogy van-e elérhető tartalom az aktuális kontextushoz.
+HELP_CONTENT_TAB_T	Tartalom lap
+HELP_CONTENT_TAB_H	A lapon a jelenlegi alkalmazásban elérhető tartalmak jelennek meg.
+HELP_CONTENT_VIEW_T	Tartalomnézet
+HELP_CONTENT_VIEW_H	A tartalomnézetben a kijelölt tartalomelemhez kapcsolódó adatok, módok és dokumentációk jelennek meg.</br>A Vissza lehetőségre kattintva visszatérhet a tartalomlistára.
+HELP_SEARCH_TAB_T	Keresés lap
+HELP_SEARCH_TAB_H	A lapon adott tartalmat kereshet az aktuális kontextushoz.
+HELP_INFO_TAB_T	Infólap
+HELP_INFO_TAB_H	A lapon a(z) @{NAVIGATOR} általános adatai láthatók.
+HELP_USERAREA_TAB_T	Felhasználói terület lap
+HELP_USERAREA_TAB_H	A lapon a rögzített folyamatok dokumentumai találhatók. Ezeket megnyithatja, megoszthatja és törölhet is. Más folyamatokat is rögzíthet.
+HELP_INSTANT_T	Azonnali súgó
+HELP_INSTANT_H	Aktivált beállítás esetén további kontextusinformáció jelenik meg az aktuális alkalmazásképernyő jobb oldalán. A beállítás alapértelmezés szerint aktív.
+HELP_REQCONTENT_T	Tartalomkérés
+HELP_REQCONTENT_H	E-mail ablakot nyit meg, amellyel hiányzó tartalom kérhető a szerzőtől.
+HELP_SETTINGS_T	Beállítások
+HELP_SETTINGS_H	A nézet az @{NAVIGATOR} tartalmának megjelenítési beállításait tartalmazza.
+HELP_MYROLES_T	Saját szerepek
+HELP_MYROLES_H	Ez a beállítás a hozzárendelt szerephez tartozó tartalmat jeleníti meg.
+HELP_WITHOUTROLES_T	Tartalom megjelenítése szerepek nélkül
+HELP_WITHOUTROLES_H	Ez a beállítás a hozzárendelt szerepek nélkül jeleníti meg a tartalmat.
+HELP_EDITROLES_T	Szerepek
+HELP_EDITROLES_H	Felsorolja a tartalomhoz tartozó szerepeket, amelyek aktiválhatók vagy deaktiválhatók a tartalom megjelenítéséhez.
+HELP_SHARECONTENT_T	Tartalom megosztása
+HELP_SHARECONTENT_H	A tartalomra mutató hivatkozást tartalmazó párbeszédpanelt nyit meg. A hivatkozás megosztható más felhasználókkal.
+HELP_REQUESTCONTENT_T	Tartalomkérés
+HELP_REQUESTCONTENT_H	Előre definiált e-mailt nyit meg tartalom kéréséhez egy adott esethez.
+HELP_PLAYBACK_CONTENT_T	Tartalom lejátszása
+HELP_PLAYBACK_CONTENT_H	Az elérhető tartalom a tartalomablak gombjaival indítható el, illetve nyitható meg.
+HELP_MINIMIZED_STATUS_T	Kis méretű státus
+HELP_MINIMIZED_STATUS_H	Ha bezárja a főablakot, egy lebegő státusikon továbbra is jelzi, hogy van-e elérhető tartalom az aktuális kontextushoz. Az ikonra kattintva visszaállíthatja a főablakot.
+HELP_MINIMIZED_MENU_T	Kontextusmenü
+HELP_MINIMIZED_MENU_H	A helyi menüben („jobb gombos” menüben) a fő ablak és a környezetfüggő súgó megjelenítési parancsai is megtalálhatók.
+HELP_BOOK_WINDOW_T	Könyvablak
+HELP_BOOK_WINDOW_H	A könyvablak egy könyv lejátszásakor nyílik meg. A főablak és a tartalomablak rejtett.
+HELP_GOTOTOP	Ugrás az elejére
+HELP_CAPTION	@{NAVIGATOR} súgója
+NAVHELP_TITLE	Státusikon és kontextusmenü
+NAVHELP_INTRO	</br>A súgó áttekintést nyújt a státusikonról és a kontextusmenü elemeiről.
+NAVHELP_STATUS_ICON_T	Státusikon (tálca)
+NAVHELP_STATUS_ICON_H	A státusikon a tálcán található, és a(z) @{NAVIGATOR} aktuális tevékenységeit jeleníti meg. Az alábbi státusok lehetségesek:
+NAVHELP_STATUS_FOUND_T	Van elérhető tartalom (zöld ikon)
+NAVHELP_STATUS_FOUND_H	Van elérhető tartalom az aktuális kontextushoz, és megjelenik.
+NAVHELP_STATUS_CHECK_T	Tartalom betöltése (sárga ikon)
+NAVHELP_STATUS_CHECK_H	A(z) @{NAVIGATOR} ellenőrzi, van-e elérhető tartalom az aktuális kontextusban, és betölti a tartalmat.
+NAVHELP_STATUS_NOFOUND_T	Nincs elérhető tartalom (piros ikon)
+NAVHELP_STATUS_NOFOUND_H	Nincs elérhető tartalom az aktuális kontextushoz.
+NAVHELP_STANDBY_T	Deaktiválva
+NAVHELP_STANDBY_H	A(z) @{NAVIGATOR} deaktiválva van. A státusikonra kattintva (<i>CTRL + F11</i>) aktiválhatja vagy deaktiválhatja.
+NAVHELP_STATUS_MIN_T	Kis méretű
+NAVHELP_STATUS_MIN_H	Az ablakok és az oldalsáv kis méretű.
+NAVHELP_STATUS_MENU_T	Kontextusmenü
+NAVHELP_STATUS_MENU_H	A környezetfüggő menüben (az ikonra a jobb gombbal kattintva jeleníthető meg) a @{NAVIGATOR} általános funkciói találhatók.
+NAVHELP_VERSION_T	Verzió megjelenítése
+NAVHELP_VERSION_H	A telepített @{NAVIGATOR} verziószámát jeleníti meg. Erre akkor van szükség, ha probléma esetén kapcsolatba lép a támogató szolgálattal.
+NAVHELP_JSCONSOLE_T	JavaScript-konzol
+NAVHELP_JSCONSOLE_H	Megjeleníti a JavaScript konzolt részletes hibaüzenetek megjelenítéséhez. Erre akkor van szükség, ha probléma esetén kapcsolatba lép a támogató szolgálattal.
+NAVHELP_NAV_CACHE_T	Helyi gyorsítótár törlése
+NAVHELP_NAV_CACHE_H	Az @{NAVIGATOR} tartalmait tároló helyi gyorsítótár törlése.
+NAVHELP_RESET_HIDDEN_T	Összes rejtett súgó újboli megjelenítése
+NAVHELP_RESET_HIDDEN_H	Visszaállítja a lejátszás közben Rejtett beállítással ellátott súgóelemeket.
+NAVHELP_EXIT_T	Befejezés
+NAVHELP_EXIT_H	A lejátszás leállítása és a(z) @{NAVIGATOR} bezárása.
+IDS_NAVP_ABOUT	Verzió megjelenítése...
+IDS_NAVP_CONSOLE	JavaScript konzol...
+IDS_NAVP_DELETE_CACHE	Helyi gyorsítótár törlése
+IDS_NAVP_HOOKER	Hooker
+IDS_SEARCH_INPUT	Keresés a Súgóban
+IDS_CLEAR_SEARCH	Keresés törlése
+IDS_NAVP_CLOSE	Befejezés
+IDS_RESET_CURRENT	Rejtett súgóelem újbóli megjelenítése
+IDS_RESET_ALL	Összes rejtett súgó megjelenítése ismét
+IDS_RESET_ALL_TIP	Összes deaktivált tanácsadó megjelenítése ismét, ha először lép be a képernyőre
+IDS_OPEN_RECORD_LBL	Megnyitás
+IDS_EDIT_RECORD_LBL	Átnevezés
+IDS_DELETE_RECORD_LBL	Törlés
+IDS_SHARE_RECORD_LBL	Megosztás
+IDS_EXTERNAL_SEARCH_BTN	Külső keresés
+IDS_EXTERNAL_SEARCH_SUB_MENU	Külső keresés
+IDS_SHOW_SCREEN_ICON	Asztali varázsló megjelenítése
+IDS_SHOW_DA	Főablak megjelenítése
+IDS_SHOW_CONTENT	Tartalom megjelenít.
+IDS_HIDE_CONTENT	Tartalom elrejtése
+IDS_SEARCH_BTN	Keresés
+IDS_REQUEST_CONTENT_BTN	Tartalomkérés
+IDS_RECORDING_BTN	Felvétel indítása
+IDS_SHOW_CA_SWITCH	Környezetfüggő súgó megjelenítése
+IDS_HIDE_CA_SWITCH	Környezetfüggő súgó elrejtése
+IDS_CA_SWITCH_INACTIVE_BTN	Nem érhető el környezetfüggő súgó
+IDS_DO_CTX_RECOGNITION	Környezetfüggő súgó megjelenítése
+IDS_NAV_STANDBY	@{NAVIGATOR} deaktiválva van.
+IDS_NAV_NO_STANDBY	@{NAVIGATOR} engedélyezve van.
+IDS_SHOW_DA_PANELS	@{NAVIGATOR} már újra elérhető. @{NAVIGATOR} használható, ha segítségre van szüksége.
+IDS_HIDE_DA_PANELS	@{NAVIGATOR} automatikusan eltűnt, mivel elérehtő a megfelelő súgó az alkalmazásban, amelyet épp megnyitott. Csak nyissa meg az alkalmazás súgóját, ha további segítségre van szüksége.
+IDS_ADD_STICKY_NOTES_BTN	Öntapadó jegyzet hozzáadása
+IDS_ADD_STICKY_NOTES_INACTIVE_BTN	Ehhez az alkalmazáshoz csak egy öntapadó jegyzetet adhat hozzá.
+IDS_EXIT_DA	Kilépés
+IDS_EXIT_DA_BTN	Kilépés
+IDS_EXIT_DA_SUB_MENU	Kilépés
+IDS_SHOW_MORE	Több megjelenítése
+IDS_HIDE_MORE	Továbbiak elrejtése
+IDS_REQUEST_CONTENT_SUB_MENU	Tartalomkérés
+IDS_SHOW_CA_SUB_MENU	Környezetfüggő súgó megjelenítése
+IDS_HIDE_CA_SUB_MENU	Környezetfüggő súgó elrejtése
+IDS_ADD_STICKY_NOTE_SUB_MENU	Öntapadó jegyzet hozzáadása
+IDS_RECORDING_SUB_MENU	Felvétel indítása
+IDS_CA_SWITCH_SUB_MENU	Környezetfüggő súgó
+IDS_SHARE_DLG_CAPTION	Dokumentum megosztása
+IDS_DELETE_FRAMES	Képkocka törlése
+OPEN_FOLDER	Mappa megnyitása
+SHARE_DOC	Megosztás e-mailben
+IDS_SHARE_DLG_TEXT	Mit szeretne tenni?
+IDS_SEARCH_BTN_SUB_MENU	Tartalom keresése
+IDS_LIBRARY_SEARCH_BTN_SUB_MENU	Tartalom keresése a könyvtárban
+GRACEFUL_DEGRADATION	Hálózati hiba miatt átmenetileg nem érhető el ez a funkció. \n\nPróbálkozzon később.
+SHARE_BTN	Megosztás e-mailben
+COPY_BTN	Hivatkozás másolása
+SHARE_MAIL_SUBJECT	Ajánlott tartalom
+SHARE_MAIL_HEADER	Tisztelt felhasználó!\n\nEz a tartalom érdekelheti Önt. \n\n
+SHARE_MAIL_FOOTER	Üdvözlettel,
+SHARE_MAIL_LINK	Hivatkozás:\t
+SHARE_MAIL_CAPTION	Képaláírás:\t
+SHARE_TITLE	Tartalom megosztása
+SELECT_ASSET	Eszköz kiválasztása a kezdéshez.
+ENTER_NAME	Adja meg a nevet
+DELETE_RECORD_WRN	Fontos: ez a művelet nem vonható vissza.
+MSG_PA_NEXT_LBL	Tovább
+MSG_PA_STEP_LBL	Lépéslista
+TOGGLE_STEPLIST_TOOLTIP	Lépéslista megjelenítése/elrejtése
+PREVIEW_STEP_TOOLTIP	Lépés előnézete
+NEXT_STEP_TOOLTIP	Ugrás a következő lépésre
+PREV_STEP_TOOLTIP	Vissza az előző lépésre
+ROLES_TITLE	Asztali varázsló szerepei
+ROLES_LBL	Súgó tartalmának szűrése Szerep alapján
+OK_CAPTION	OK
+CANCEL_CAPTION	Mégse
+BTN_YES	Igen
+BTN_NO	Nem
+DELETE_CONFIRM	Biztosan törli ezt az öntapadó jegyzetet?
+EXIT_CONFIRM	Biztosan kilép a következőből: @{NAVIGATOR}?
+sticky_notes	Öntapadó jegyzetek
+exit_da	@{NAVIGATOR} bezárása
+STICKY_NOTE_DEFAULT_TEXT	Írja ide a szöveget.
+SEARCH_BTN_TOOLTIP	Keresés
+NEXT_BTN_TOOLTIP	Következő
+PREV_BTN_TOOLTIP	Vissza
+HIDE_BTN_TOOLTIP	Választó elrejtése
+IDS_PRJ_NAME	Írja be a nevet:
+IDS_APPLICATIONS	Válasszon ablakot:
+IDS_PRJ_LANGUAGE	Válasszon nyelvet:
+IDS_FULL_SCREEN	Teljes képernyő
+IDS_CHOOSE_APP_CAPTION	Alkalmazás választása
+IDS_RECORD_BTN	Felvétel
+IDS_ANALYZE_ACTIONS	Műveletek elemzése...
+IDS_PARSE_PROJECT	Projekt feldolgozása...
+IDS_REGION	Régió
+IDS_AREA_HELP	A lenti sablonokból választva módosíthatja a terület méretét. A piros négyszög méretezésével jelölheti ki a szóban forgó területet – vagy akár a teljes képernyőt.
+IDS_CHOOSE_SIZE	Válasszon méretet:
+IDS_DEFINE_REC_AREA	Rögzítési terület
+IDS_DEFINE_NAME_LANG	Tartalom generálása
+PLEASE_SELECT	Válasszon
+quick_recorder.help_caption	Tipp
+quick_recorder.help	A szüneteltetéshez vagy a folytatáshoz nyomja meg a PAUSE billentyűt. \nA befejezéshez nyomja meg az END billentyűt. \n\nA felvétel indításához kattintson az OK gombra.
+quick_recorder.audio_help	A felvételt a PAUSE billentyűvel tudja szüneteltetni, majd folytatni. \nA felvétel befejezéséhez nyomja le az END billentyűt. \n\nHang:\nA rendszer a kattintások alatt nem rögzíti a beszédhangot, ezért előtte kell elmondani az információkat. \n\nA felvétel indításához kattintson az OK gombra.
+FILE_EXISTS	Már van ilyen nevű fájl. Adjon meg más nevet.
+HELP_EXIT_CONTROL_H	A lejátszás leállítása és a(z) @{NAVIGATOR} bezárása.
+HELP_EXIT_CONTROL_T	Kilépés
+BTN_CLOSE_DLG	Bezárás
+DELETE_RECORD_WRN	Fontos: ez a művelet nem vonható vissza.
+ENTER_NAME	Adja meg a nevet
+IDS_CLEAR_SEARCH	Keresés törlése
+IDS_RESET_ALL_TIP	Összes deaktivált tanácsadó megjelenítése ismét, ha először lép be a képernyőre
+IDS_SEARCH_INPUT	Keresés a Súgóban
+LBL_DELETE	Törlés
+LBL_NAVI_NO_MATCH	Nincs találat a keresésre.
+LBL_TU	Megnyitás
+MSG_PA_NEXT_LBL	Tovább
+MSG_PA_STEP_LBL	Lépéslista
+RENAME_FAILED	Az átnevezés sikertelen.
+ROLES_LBL	Súgó tartalmának szűrése Szerep alapján
+SELECT_ASSET	Eszköz kiválasztása a kezdéshez.
+LBL_CDOC	Megnyitás
+LBL_RECORD_DOCUMENT	Felvételdokumentum
+QR_CAPTION	Felvétel kimenetének kiválasztása
+QR_WELCOME	Mit szeretne létrehozni?
+QR_DOC_CAP	Dokumentum
+QR_DOC_TXT	Olyan Microsoft Word-dokumentumot hoz létre minden rögzített művelethez, amelyben látható a képernyőfelvétel és az utasításszöveg.
+QR_VIDEO_CAP	Videó
+QR_VIDEO_TXT	Nagy felbontású videót hoz létre a felvételből.
+QR_DOC_VIDEO_CAP	Dokumentum és videó
+QR_DOC_VIDEO_TXT	Dokumentumot és videót hoz létre.
+SHARE_ERR_CAP	A felvétel nem osztható meg
+SHARE_ERR_TXT	A felvétel túl nagy ahhoz, hogy e-mailben megoszthassa.\nSzeretne inkább megnyitni egy fájlhelyet?
+HELP_CONTENT_WINDOW_H	A tartalomablakban a főablakban kiválasztott tartalommal kapcsolatban elérhető információk, módok és dokumentáció jelenik meg.</br>A tartalomablak a főablakhoz rögzíthető, így a két ablak együtt mozgatható a képernyőn.
+HELP_CONTENT_WINDOW_T	Tartalomablak
+IDS_CONTENT_BTN	Tartalom
+MSG_PA_STEP_NOT_FOUND_NUMERAL_1	1.
+MSG_PA_STEP_NOT_FOUND_NUMERAL_2	2.
+SHARE_URL	Aktuális oldal URL-je:

@@ -1,0 +1,766 @@
+﻿NAVIGATOR	Desktop Assistant
+XRAY	Web Assistant
+LIBRARY	library
+MANAGER	Manager
+form_bubble	フォーム吹き出し
+bform_height	高さ
+bform_height.h	表示されるフォーム吹き出しの高さをピクセルで定義します。
+bform_width	幅
+bform_width.h	表示されるフォーム吹き出しの幅をピクセルで定義します。
+bform_position	ポジション
+bform_position.h	'フリー' 配置での画面上のフォーム吹き出しの位置 (左、上部) を定義します。値はピクセルで指定されます。
+paramAutoMergeComplete	画面のマージが終了しました。
+form	フォーム
+application_contexts	アプリケーション
+﻿Application	アプリケーション
+highlight_offset	オフセット
+AutoBarChooseApp	アプリケーション選択
+AutoBarReRecManual	オブジェクトをクリックしてください。
+BubbleOnActivate	吹き出しの直接表示
+ClickOnAAPosition	アプリケーションをクリックして長方形を定義してください。
+ClickOnPosition	アプリケーションで位置をクリックしてください。
+EnabledOnPgLoad	有効化
+HighlightOnActivate	ハイライトの直接表示
+start_from_arbitrary	任意のステップから開始
+focus_step	フォーカスレイヤ
+focus_step.h	ガイドツアーのみ\n現ステップで必要なコントロールをハイライトするため、灰色のレイヤを表示します。
+yes	はい
+no	いいえ
+light_mode	インタラクティブモード
+light_mode.h	ユーザがオブジェクト吹き出しで次のステップへナビゲートする必要があることを指定します。再生中にページ認識は行われません。
+restricted_mode	制限モード
+restricted_mode.h	現在のアクションのみを実行できるよう指定します。アプリケーションページの他のコントロールは、ブロックされます。\nこの設定は、'フォーカスレイヤ' が有効化されている場合に使用できます。
+show_highlight	ハイライト
+action	アクション
+active_area	アクティブエリア
+add_application_expl	説明の挿入
+adv	拡張
+display_behavior	表示動作
+all_values	すべての値
+anim_steps	アニメーションステップ
+application_context	アプリケーション
+area	エリア
+auto_merge	画面マクロのマージ
+b_height	高さ
+form_on	フォームモード
+b_percent	吹き出しの表示 (%)
+b_hide_option	非表示オプション
+b_minimizable	最小化可能
+b_closable	クローズ可能
+b_minimized	最小化終了
+b_width	幅
+b_width.h	オブジェクトの吹き出しの幅をピクセルで定義します。
+bmain_minimizable	最小化可能
+bmain_position	位置
+bmain_win_style	スタイル
+bmain_size	サイズ
+bmain_alignment	配置
+bubble	オブジェクトの吹き出し
+bubble_offset	オフセット
+bubblestyle_d	スタイル
+bubblestyle_init	吹き出しのスタイル
+choose_appl_template	アプリケーションプロファイルの選択
+choose_bool	選択値
+choose_nr	選択インデックス
+choose_text	選択値
+target_static_text	'ページ識別子' としてレコードされます。
+target_spec_warning	警告: このコントロールに対する再レコーディング情報は存在しません。
+prev_step	前のステップ
+next_step	次のステップ
+click	マウスアクション
+click_pos	クリック位置
+click_pos_rel	吹き出しの位置
+config_file	アプリケーションプロファイル
+define_target	画面
+display	メイン吹き出しの編集
+display_name	名称表示
+drag	ドラッグ
+drop	ドロップ
+dump_page	スクリーンショット
+elem_bubble	オブジェクトの吹き出し
+element_type	オブジェクトタイプ
+enabled	有効
+optional	オプション
+enter	マウス Enter
+executable	アプリケーション
+explanation_d	テキスト
+explanation_d_modified	マニュアル翻訳
+explanation_long	説明
+fh_mouseover	マウスオーバー時のヘルプ
+fh_onelem	アイコン
+fh_tooltip	ツールのヒント
+fh_bubble	吹き出し
+step_list	ステップ一覧
+fieldicon	オブジェクトイメージ
+fieldname	オブジェクト名
+find	検索
+AutoBarChooseScn	各画面をクリックしてください
+frame	フレーム
+g_highlight_bgr	色
+g_highlight_border	ボーダー
+g_highlight_effect	エフェクト
+global	グローバル
+hide_on_focuslost	フォーカスロスト時の非表示
+hilight	ハイライト
+input_radio	ラジオ/チェックボックス
+input_text	入力テキスト
+init	Init
+key	キー
+key_desc	ホットキー
+key_name	キーコード
+key_press	キー押下
+lclick	左クリック
+ldblclick	左ダブルクリック
+force_display	表示強制
+auto_execute	自動実行
+show_confirmation	確認ボタン表示
+show_confirmation.h	再生中にオブジェクト吹き出しに確認ボタンが表示されるかどうかを定義します。 このボタンを使用して、ユーザが実行されたアクションを確認することができ、その後で次のステップが表示されます。
+link_to_sim	シミュレーションリンク挿入
+macro_comment	コメント
+main_bubble	ウィンドウ
+match_value	適合値
+mini_on_focuslost	フォーカスロスト時の最小化
+enable_tincan	@{NAVIGATOR} トラッキング
+nav_check_freq	更新頻度 (分)
+navigation	デスクトップアシスタント
+new_screen_context	新規画面
+no_spike	スパイクなし
+pa_caption	ガイドツアー
+none	なし
+objname	オブジェクト名
+orientation	方向
+path	オブジェクトパス
+position	位置
+rclick	右マウスクリック
+rdblclick	右ダブルクリック
+record_activearea	アクティブエリアのレコード
+record_application_context	アプリケーションのレコード
+no_control	クリックした位置で利用できるオブジェクトはありません。
+record_control	オブジェクトのレコード
+record_control_pa	ガイドツアーステップレコード
+record_define_target	画面のレコード
+record_display	メイン吹き出しの編集
+record_end_display	吹き出し編集
+record_explanation	説明追加
+record_object_context	オブジェクトのレコード
+record_screen_context	画面のレコード
+record_target_specializer	ページ識別子のレコード
+record_compatible_application	互換アプリケーションのレコード
+reference	ソース
+regexp	正規表現
+replace	置換
+replace_continue	置換して続行...
+replace_pgkey_attr	ページキー属性置換
+error_regexp	無効な正規表現です。入力を修正してください。
+resize	ウィンドウのサイズ変更
+revision	改訂
+sc_config_header	プロファイル情報
+screen	画面
+screenhelp	画面ヘルプ
+screenshot_rect	スクリーンショット位置
+select_single	単一選択
+selected_merge	選択された画面マクロのマージ
+show_bubble	直接表示
+show_hilight	ハイライト表示
+show_on_focus	フォーカス時の表示
+source	ソース
+start_unit	コンテキストヘルプスタイル
+subkey	サブキーとして使用可能
+script	スクリプト
+target_name	タイトル
+target_specializer	ページ識別子
+text_d	入力テキスト
+text_d_specializer	入力テキスト
+tolerance	画面マクロのマージ許容範囲
+translate	自動翻訳
+autoTranslate	プロジェクト翻訳
+paramReRecordLanguage	言語
+merge_critical_macros	マクロの自動マージ
+merge_critical_macros.h	シミュレーションをナビゲーションに変換する際、自動的に画面をマージして登録することができます。 これらは、パラメータ '画面マクロのマージ許容範囲' で設定された許容値を使用して統合されます。
+uid	UID
+underline	下線
+update_control	オブジェクト更新
+update_target	画面更新
+variant	バリアント
+win_rect	ウィンドウサイズ
+wizCancel	中止
+wizFinish	終了
+wizNext	次
+wizOk	OK
+wizExplanation	説明
+wizContinue	続行
+app_info	アプリケーション表示
+app_link_to_sim	アプリケーションのシミュレーションリンク挿入
+screen_info	画面表示
+screen_link_to_sim	画面のシミュレーションリンク挿入
+object_info	照会バリアント
+object_link_to_sim	シミュレーションリンク挿入
+disabled	無効化済
+record_context_assistant_include	@{NAVIGATOR} プロジェクトを含む
+project_id	プロジェクトタイトル
+project_id.h	このパラメータには、挿入されたプロジェクトが含まれます。'リンク編集' ボタンを押すと、ワークエリアでプロジェクトを選択することができます。
+project	プロジェクト
+context_assistant_include	デスクトップアシスタントプロジェクト
+open_expanded	拡張メイン吹き出しの表示
+restart_option	再起動ボタン
+next_project_id	次プロジェクト
+next_project_id.h	このオプションでは、現在のプロセスの完了後に開始されるプロジェクトを定義します。 新しいプロセスはすぐに開始され、終了の吹き出しは表示されません。
+end_unit	ツアー終了
+add_end_unit	プロセス終了の追加
+demo	デモモード
+uebung	練習モード
+praxis	実践モード
+test	テストモード
+doc	Word ドキュメント
+pdf	PDF ドキュメント
+html	HTML ドキュメント
+ppt	PowerPoint ドキュメント
+explanation_type	アイコン
+note	ノート
+info	情報
+tipp	ヒント
+warnung	警告
+no_image	アイコンなし
+display_on	メイン吹き出しの表示
+nav_start	ナビゲーション開始
+app_focus	アプリケーションフォーカス
+screen_focus	画面フォーカス
+never	表示不可
+list_type	画面の一覧タイプ
+list_type.h	このパラメータでは、オプション '全オブジェクト情報の表示' が有効化されている場合の、画面におけるオブジェクトの一覧表示タイプを決定します。
+unordered_list	箇条書き
+ordered_list	採番
+convert_sn	デスクトップアシスタント生成
+Application	アプリケーション
+obj_context	オブジェクト
+expl_context	説明
+record_cntrl_type	タイプ
+disable_standby	スタンバイステータス (@{NAVIGATOR}) 無効化
+disable_standby.h	@{NAVIGATOR} のスタンバイステータスを設定できないよう指定します。 このオプションが無効化されている場合、ショートカット 'CTRL + F11' を使用するか、ステータスアイコンをクリックして、スタンバイステータスを設定することができます。
+disable_exit	終了エントリ (@{NAVIGATOR}) 非表示
+disable_exit.h	@{NAVIGATOR} のステータスのコンテキストアップメニューにおける '終了' エントリが非表示になるよう指定します。
+bcontent_style	吹き出しのスタイル
+bcontent_style.h	この設定では、吹き出しの表示に使用される吹き出しのスタイルを定義します。
+cache_properties	キャッシュ
+cache_folder	フォルダロケーション
+cache_folder.h	キャッシュフォルダ 'NavigatorCache' のロケーションを指定します。 デフォルトロケーションは '%localappdata%' です。 カスタムロケーションを入力できます。\n注記: キャッシュフォルダの名称は変更できません。
+use_caching	キャッシュ使用
+use_caching.h	@{NAVIGATOR} キャッシュの使用を有効化します。
+function_keys	機能キー
+minimize_da	最小化
+minimize_da.h	メインウィンドウを最小化する機能キーを定義します。
+next_tab	次のタブの選択
+next_tab.h	メインウィンドウで次のタブを選択する機能キーを定義します。
+next_screen	次画面にジャンプ
+next_screen.h	選択したプロジェクトの次画面にナビゲートするための機能キーを定義します。
+back	戻る
+back.h	前画面に戻る機能キーを定義します。
+toggle_standby	スタンバイモードの切替
+toggle_standby.h	スタンバイモードを切り替える機能キーを定義します。
+abort	中止
+abort.h	デスクトップアシスタントを中止する機能キーを定義します。
+restart	再起動
+restart.h	デスクトップアシスタントを再起動する機能キーを定義します。
+start_pa	デスクトップアシスタントプロジェクト開始
+start_pa.h	選択したプロジェクトを開始する機能キーを定義します。
+start_demo	デモモード開始
+start_demo.h	選択したデモモードを開始する機能キーを定義します。
+start_prac	練習モード開始
+start_prac.h	選択した練習モードを開始する機能キーを定義します。
+start_test	テストモード開始
+start_test.h	選択したテストモードを開始する機能キーを定義します。
+start_concur	実践モード開始
+start_concur.h	選択した実践モードを開始する機能キーを定義します。
+start_book	ブック開始
+start_book.h	選択したブックを開始する機能キーを定義します。
+start_group	library で開く
+start_group.h	library でグループを開くための機能キーを定義します。
+toggle_ctx_rec	コンテキスト認識の切替
+toggle_ctx_rec.h	デスクトップアシスタントのコンテキスト認識を切り替える機能キーを定義します。
+select_next	次エントリ選択
+select_next.h	現在のウィンドウで次のエントリを選択するための機能キーを定義します。
+select_prev	前エントリ選択
+select_prev.h	現在のウィンドウで前のエントリを選択するための機能キーを定義します。
+toggle_warning	警告ダイアログ表示
+toggle_warning.h	デスクトップアシスタントの警告ダイアログを表示する機能キーを定義します。
+execute_step	ステップ実行
+execute_step.h	ガイドツアーの再生中にステップを実行する機能キーを定義します。
+copy_link	リンクコピー
+copy_link.h	選択したエンティティのリンクをコピーする機能キーを定義します。
+maximize_trainer	コンテンツウィンドウの最大化
+maximize_trainer.h	コンテンツウィンドウを最大化する機能キーを定義します。
+share_email	電子メールでの共有
+share_email.h	選択したエンティティのコンテンツを電子メールで共有するための機能キーを定義します。
+start_default	開始デフォルトコンテンツ
+start_default.h	デフォルトモードまたは選択したドキュメントを開始するための機能キーを定義します。
+show_da_help	デスクトップアシスタントヘルプ表示
+show_da_help.h	デスクトップアシスタントヘルプを開くための機能キーを定義します。
+request_content	コンテンツ依頼
+request_content.h	アプリケーションページのコンテンツを依頼するための機能キーを定義します。
+search_content	コンテンツ検索
+search_content.h	選択した検索タイプに応じてコンテンツを検索するための機能キーを定義します。
+show_hidden_elems	非表示ヘルプエレメント表示
+show_hidden_elems.h	非表示ヘルプエレメントを表示するための機能キーを定義します。
+toggle_side_bar	サイドバー表示/非表示
+toggle_side_bar.h	サイドバーを表示および非表示化するための機能キーを定義します。
+content_library	デスクトップアシスタント - コンテンツおよび動作
+content_library_window	デスクトップアシスタント - スタイルおよびウィンドウ
+content_library_sidebar	デスクトップアシスタント - サイドバー
+style	スタイル
+style.h	デスクトップアシスタントコンポーネント (メインウィンドウ、コンテンツウィンドウ、ステータスアイコン) の表示を定義します。 一覧からスタイルリソースを選択してください。
+show_only_bar	開始時にサイドバーのみ表示
+show_only_bar.h	デスクトップアシスタントの開始時にサイドバーのみが表示されるのか、メインウィンドウも表示されるのかを定義します。
+clear_on_mismatch	コンテキスト不一致の場合はコンテンツ一覧をクリア
+clear_on_mismatch.h	コンテキストが見つからなかった場合にコンテンツ一覧がクリアされることを定義します。 設定を無効化すると、最後に認識されたオブジェクトのコンテンツが表示されます。
+da_positioning	メインウィンドウの配置
+da_positioning.h	画面におけるメインウィンドウの配置を定義します。 'フリー' オプションを使用すると、'メインウィンドウ位置' パラメータで位置を定義することができます。
+bar_positioning	サイドバーの配置
+bar_positioning.h	画面上におけるサイドバーの配置を定義します。
+left_top	左上角
+left_center	左中央
+left_bottom	左下角
+right_top	右上角
+right_center	右中央
+top_center	中央上
+right_bottom	右下角
+center	中央
+free	フリー
+list_order	コンテンツソート
+list_order.h	一覧での利用可能コンテンツのソートを定義します。
+by_default	エクスプローラ構造
+by_name	アルファベット順
+by_type	タイプごとのアルファベット順
+library_position	メインウィンドウの位置 (フリー)
+library_position.h	'フリー' 配置での画面上のメインウィンドウの位置 (左、上部) を定義します。値はピクセルで指定されます。
+search_url	グループ検索
+search_url.h	@{LIBRARY} でコンテンツを検索するためのワークエリアグループを指定できます。
+enable_recording	位置: 'レコーディング' コントロール
+enable_recording.h	レコーディングプロセスのコントロールを表示できます。コントロールの位置をサイドバーで指定することができます。\nレコーディングにより、ユーザがプロセスを Microsoft Word ドキュメントまたはビデオとしてレコードできます。レコードされたファイルは、ユーザエリアタブのメインウィンドウで表示されます。
+enable_exit_da	位置: '終了' コントロール
+enable_exit_da.h	@{NAVIGATOR} を終了するためのコントロールを表示できます。コントロールの位置をサイドバーで指定することができます。
+enable_info	'情報' タブ表示
+enable_info.h	デスクトップアシスタントのメインウィンドウで、'情報' タブを有効化します。 デスクトップアシスタントグループの説明 (短) に、情報テキストを挿入します。
+request_content_type	コンテンツ依頼タイプ
+request_content_type.h	コンテンツ依頼機能を指定します。ドロップダウンリストからタイプを選択します。\n電子メール: 依頼の電子メールアドレスを入力できます。\nURL: Web ページを開く URL を入力できます。\n'コンテンツ依頼' コントロールはサイドバーに表示されます。コンテンツが見つからない場合は、'コンテンツ依頼' リンクがメインウィンドウに表示されます。
+email	電子メール
+url	URL
+enable_request_content	位置: 'コンテンツ依頼' コントロール
+enable_request_content.h	'コンテンツ依頼' コントロールの位置をサイドバーで指定します。
+enable_external_search_ctx	コンテキスト情報の提供
+enable_external_search_ctx.h	検索中に検索 URL を使用するユーザの追加コンテキスト情報を提供します。コンテキスト情報は検索に使用されます。検索でコンテキスト情報が使用できることを指定した場合は、設定を有効化します。\n提供されたコンテキスト情報は、'コンテキスト情報' パラメータで指定されます。
+external_search_ctx	コンテキスト情報
+external_search_ctx.h	設定 'コンテキスト情報の提供' が有効化されている場合は、コンテキスト情報を指定します。コンテキスト情報 (現在のアプリケーションの EXE (&executable=$#{EXE})、現在のアプリケーションページのページキー (&pagekey=$#{PAGEKEY})) を提供できます。\n注記: コンテキスト情報文字列の構造は変更しないでください。
+enable_external_search	位置: '外部検索' コントロール
+enable_external_search.h	コンテンツまたは追加情報を検索するための外部検索ページを有効化できます。有効化された設定により、'外部検索' コントロールがサイドバーに表示されます。コントロールの位置をサイドバーで指定することができます。\nボタンにより、検索語句入力の検索項目が開きます。外部検索では、'外部検索 URL' パラメータで検索 URL を指定する必要があります。
+external_search_url	URL
+external_search_url.h	外部検索の URL を指定できます。次の構造で URL を入力します。\nhttps://www.google.com/#q=$#{SEARCHTERM}\nhttps://www.bing.com/search?q=$#{SEARCHTERM}\nhttps://search.yahoo.com/search?p=$#{SEARCHTERM}\nhttps://www.wolframalpha.com/input/?i=$#{SEARCHTERM}\n\n注記: URL パラメータの '=$#{SEARCHTERM}' を削除または変更しないでください。
+enable_share_content	'コンテンツ共有' コントロール表示
+enable_share_content.h	メインウィンドウのフッタに、'コンテンツ共有' ボタンが表示されます。 このボタンをクリックすると、選択したコンテンツへのリンクを含むダイアログボックスが開きます。
+author_email	電子メール
+author_email.h	コンテンツを依頼するための電子メールアドレスを指定できます。この電子メールアドレスは、'コンテンツ依頼' 機能で使用されます。
+author_url	URL
+author_url.h	コンテンツを依頼するための URL を指定できます。この URL は、'コンテンツ依頼' 機能で使用されます。
+author_url_params	URL パラメータ
+author_url_params.h	作成者 URL のパラメータを指定できます。 \nアプリケーション名および実行可能ファイルを指定できます。 値 'アプリケーション' または '実行可能ファイル' を、必要な値によって置換します。
+enable_fuzzy_match	ファジーマッチ有効化
+enable_fuzzy_match.h	コンテンツのコンテキストとアプリケーションページのマッチングにファジーマッチを使用するかどうかを定義します。
+enable_ident_filter	拡張アプリケーション ID の有効化
+enable_ident_filter.h	@{NAVIGATOR} プレイバックにて関連するアプリケーション情報のみ使用されるよう指定します。@{NAVIGATOR} のパフォーマンスを最適化することができます。\n 注記: オプションは誤ったオブジェクト認識になる可能性があります。コンテンツをパブリッシュする前に、再生をテストすることをお奨めします。
+library_size	メインウィンドウサイズ
+library_size.h	メインウィンドウのサイズ (幅、高さ) をピクセルで定義します。
+book_win_position	コンテンツウィンドウの位置 (フリー)
+book_win_position.h	'フリー' 配置での画面上のコンテンツウィンドウの位置 (左、上部) を定義します。値はピクセルで指定されます。
+book_win_size	コンテンツウィンドウサイズ
+book_win_size.h	コンテンツウィンドウのサイズ (幅、高さ) をピクセル単位で定義します。
+book_win_positioning	コンテンツウィンドウ配置
+book_win_positioning.h	画面におけるコンテンツウィンドウの配置を定義します。 'フリー' オプションを使用すると、'コンテンツウィンドウ位置' パラメータで位置を定義することができます。
+errNoApplicationContext	現在のマクロは、アプリケーションコンテキストではありません。
+errNoTargetDefinition	マクロがターゲット定義に対応しません。
+errExtractPagekey	プロファイルでのページキーの抽出不可:
+errScreenshot	スクリーンショットを取得できません。再試行してください。
+errLoadTemplate	プロファイルをロードできません。
+errRecordProcessStep	'コンテキストヘルプ' プロジェクトのガイドツアーステップをレコードできません。
+errLanguageSelection	言語が選択されていません。
+errNoWriteToken	選択したオブジェクトに対する書込権限がありません。
+errMacroSelection	マクロが選択されていません。
+errObjectInformation	指定された位置にオブジェクト情報なし。
+errSpecializedInformation	指定された位置に特化した情報はありません。
+errPosition	位置がウィンドウ領域内ではありません。
+errActionMacroSelection	アクションマクロが選択されていません。
+errUpdateObject	選択したオブジェクトタイプは更新できません。
+errInsertExplanation	選択したマクロのユーザ定義説明は挿入できません。
+action.h	ガイドツアーのみ\nこのオプションによって、ユーザがオブジェクトに対して実行するアクションが定義されます。
+all_values.h	一部のケースでは、アプリケーションのオブジェクトによって、標準 HTML コントールでサポートされない値の選択が行われます。 この場合、アプリケーションのオブジェクトに最も近いコントロールが使用されます。 また、この項目には、オブジェクトで選択として保持されるすべての値が格納されます。
+anim_steps.h	この値では、選択したハイライトエフェクトがアニメーション化されるステップの数を定義します。 値が小さいと、アニメーション化のスピードは速くなりますが、画質が低下して途切れがちになります。 値が大きいと、アニメーションはスムーズになりますが、アニメーション全体のスピードは遅くなります。
+auto_execute.h	この設定では、ナビゲーション再生時にアクションが自動的に実行されることを定義します。
+b_height.h	オブジェクトの吹き出しの高さをピクセルで定義します。 テキストの量が吹き出し内の使用可能な領域を超える場合は、必要な領域になるまで高さの方向に自動的に拡大されます。
+b_hide_option.h	コンテキストヘルプのみ\nこのオプションを有効化すると、オブジェクトまたは説明の吹き出しに、エンドユーザがオブジェクト情報 (吹き出しおよびハイライト) を無効化できる設定が表示されます。 これによって、ユーザは不要となった情報を非表示にすることができます。
+b_minimizable.h	このオプションでは、再生中に吹き出しを最小化することができるかどうかを定義します。 オプションを有効化すると、'最小化' ボタンが吹き出しのヘッダに表示されます。
+b_closable.h	コンテキストヘルプのみ\nこのオプションでは、再生中に吹き出しを閉じることができるかどうかを定義します。 オプションを有効化すると、'閉じる' ボタンが吹き出しのヘッダに表示されます。
+b_minimized.h	コンテキストヘルプのみ\nこのオプションでは、ページがロードされる際、オブジェクトの吹き出しが最小表示されるかどうかが定義されます。
+bmain_size.h	メインウィンドウのサイズ (幅、高さ) をピクセルで定義します。
+bmain_minimizable.h	このオプションでは、メインウィンドウを最小化できるかどうかを定義します。
+bmain_position.h	ここで入力された値によって、画面でのメインウィンドウの位置が定義されます。 この数は、画面左上角からの距離をピクセルで表したものです。
+bmain_win_style.h	メインウィンドウの見え方を定義します。スタイルリソースを一覧から選択してください。
+bmain_alignment.h	画面におけるメインウィンドウの配置を定義します。 'フリー' オプションを使用すると、'ウィンドウ位置' パラメータで位置を定義することができます。
+bubble_offset.h	このオプションによって、オブジェクトに対してオブジェクトの吹き出しが表示されるオフセットがピクセルで定義されます。
+bubblestyle_d.h	プロジェクトのオブジェクトの吹き出し表示に対する吹き出しのスタイルのリソースを指定します。
+bubblestyle_d.h	プロジェクトのオブジェクトの吹き出し表示に対する吹き出しのスタイルのリソースを指定します。
+choose_bool.h	この項目には、ラジオボタンまたはチェックボックスがオン/オフのどちらに設定されているかを決定する値が含まれます。 ラジオボタンの値は常に '1' (オン) です。 チェックボックスの値は '0' (オフ) または '1' (オン) のいずれかです。
+choose_text.h	このパラメータには、自動レコーディングプロセスにおいて、ポップアップメニューまたは一覧項目で選択されたエントリに対して見つかった文字列が含まれます。 この文字列は、プレースホルダ '${choose_text}' (HTML エディタのテキストモード参照) の代わりに、各種モードの説明吹き出しのテキストに挿入されます。 これは、レコーディング中にテキストモジュールによって吹き出しの内容が自動生成される際、生成された吹き出しのテキストのテキストモジュールとして使用されます。
+click_pos.h	オブジェクトがレコードされた際、作成者がクリックしたアプリケーションウィンドウにおける位置を表します。 この位置はピクセルで指定され、アプリケーションウィンドウの左上角を基点とします。
+click_pos_rel.h	アプリケーションウィンドウにおける位置を表します。パーセント (%) で入力される値によって、左上角を参照ポイントとするアプリケーションウィンドウ全体の幅と高さに対する位置が指定されます。
+config_file.h	キーの登録および後の段階でのキーの解釈に使用される、アプリケーションプロファイルの名称が含まれます。
+display_name.h	アプリケーション名を指定します。名称は、ガイドツアーの例外ウィンドウに表示されます。
+dump_page.h	レコードされた画面が含まれます。\n'イメージ置換' 機能を使用して、イメージを変更することができます。
+element_type.h	認識メカニズムによって認識されたオブジェクトクラスを表します。
+enabled.h	コンテキストヘルプのみ\nこのオプションでは、マクロがページの分析に組み込まれるかどうかを定義します。 このオプションが無効化されていると、関連するオブジェクトがページに存在する場合でもヘルプオブジェクトが表示されません。
+optional.h	ガイドツアーのみ\nこのオプションでは、プロセスにおいて、ガイドツアーステップがユーザに対してオプションであるかどうかを定義します。 \n再生中に、別のアイコンがステップ一覧に表示されます。 このコントロールがページに表示されない場合や、ページが不適切な場合、ステップはスキップされます。
+executable.h	オペレーティングシステムで使用されるアプリケーションの実行可能ファイル名が含まれます。
+explanation_d.h	各コンテキスト (テキスト、リンク、イメージなど) に対する情報が含まれます。 メイン吹き出し内の情報表示が最適化されていることを確認してください。
+explanation_d_modified.h	このオプションを有効化すると、自動翻訳の場合、コンテキスト情報は自動的には生成されなくなります。代わりに、マニュアルによる編集が必要になります。 このオプションによって、吹き出しの内容のマニュアル変更を保持することができます。
+fieldname.h	吹き出しテキストに挿入される、レコードされたコントロールの名称が含まれます。\nオブジェクト名はテキスト項目で変更することができます。オブジェクト名のプレースホルダは、'$#{fieldname}' です。
+fieldicon.h	吹き出しテキストに挿入される、レコードされたボタンまたはアイコンのイメージが含まれます。\nオブジェクトイメージは、'イメージ置換' を使用することで変更できます。オブジェクトイメージのプレースホルダは '$I{fieldicon}' です。
+g_highlight_bgr.h	これにより、ナビゲーションにおけるハイライトボーダーの標準色を定義します。 この色は、HEX フォーマットの RBG 値として直接入力するか、またはカラーピッカーダイアログボックスから選択することができます。
+g_highlight_border.h	このパラメータでは、オブジェクトのハイライトフレームの一般的な幅を定義します。 使用可能なピクセルの幅は、'1' から '10' までです。
+g_highlight_effect.h	このオプションによって、オブジェクトに使用されるハイライトエフェクトの種類が決定されます。
+hide_on_focuslost.h	このオプションでは、画面のフォーカスが外れた場合に、吹き出しが非表示になるかどうかが定義されます。
+highlight_offset.h	このパラメータによって、マークされたエレメントを取り囲むハイライト長方形に対して、追加されたピクセルオフセットが定義されます。
+key.h	アプリケーション内でアプリケーションウィンドウおよび特定のページを識別するための基準がすべて含まれます。このキーは、ターゲットアプリケーションのページがキーで定義されたすべての基準を満たす場合のみ一致します。単一キー基準の定義を緩和するために、正規表現の使用が許可されています。
+key_name.h	このパラメータでは、使用されるキーまたはショートカットを決定します。 キー名称はスペースで区切られます (例: 'ctrl + k')。
+key_desc.h	このパラメータでは、使用されるキーまたはショートカットを決定します。 キー名称はスペースで区切られます (例: 'ctrl + k')。
+force_display.h	コンテキストヘルプのみ\nインスタントヘルプがデスクトップアシスタントの再生中に無効化されている場合でも、マクロコンテンツが常にインスタントヘルプとして表示されることを指定します。
+link_to_sim.h	このオプションには、メイン吹き出しへのシミュレーションリンクが含まれます。 このオプションは、(変換による) シミュレーションプロジェクトに基づいて登録されたナビゲーションに関連します。
+macro_comment.h	一般コメントです。これは、縮小ビューで表示されます。
+match_value.h	このオプションでは、表示された値が、本稼動アプリケーションの実際のオブジェクトの値と比較されるかどうかを指定します。
+mini_on_focuslost.h	このオプションによって、画面のフォーカスが外れた場合に、吹き出しが最小化されるかどうかが定義されます。
+nav_check_freq.h	更新済コンテンツに対する @{NAVIGATOR} でのチェック頻度を定義します。 更新済コンテンツが利用可能である場合、@{NAVIGATOR} でコンテンツが自動的に開始されます。 これは特に、変更管理プロセスで有用です。
+enable_tincan.h	@{NAVIGATOR} コンテンツのトラッキングを有効化します。コンテンツは @{MANAGER} ワークエリアから開始される必要があります。
+no_spike.h	このオプションによって、オブジェクトの吹き出しがスパイクありで表示されるか、またはスパイクなしで表示されるかが定義されます。
+objname.h	ナビゲーションの各オブジェクトでは、動作および動作割当を使用する際の ID として一意の名称が必要です。
+orientation.h	このパラメータでは、参照オブジェクトに対するオブジェクトの吹き出しの位置を定義します。 吹き出しの矢印はページ上の参照位置を示しますが、吹き出し自体は、指定したとおりに、選択した方向に対してオフセット表示されます。 配置 '中央' を選択した場合、吹き出しは、定義した位置の中央に矢印なしで表示されます。
+path.h	オブジェクトパスは、使用されているアプリケーションプロファイルに基づくオブジェクトのプロパティを示します。 オブジェクトパスは、本稼動アプリケーションでオブジェクトを識別するために使用されます。 原則として、この項目をマニュアルで編集することはできません。
+position.h	ここで入力された値によって、画面でのメイン吹き出しの位置が定義されます。 この数は、画面左上角からの距離をピクセルで表したものです。
+reference.h	ナビゲーションがシミュレーションから変換された場合、各ステップのソースがここで指定されます。
+resize.h	このオプションでは、ターゲットアプリケーションウィンドウサイズが、ナビゲーション登録時に使用されているサイズに自動的に変更されるかどうかを定義します。 アクティブエリアは位置に基づいて表示されるため、このオプションはアクティブエリアに有用な場合があります。
+revision.h	アプリケーション画面のレコーディング時に、キーの登録に使用されるアプリケーションプロファイルのバージョンを表示します。
+sc_config_header.h	アプリケーションのプロファイルからの情報がこの項目に保存されます。 再生中にアプリケーションとそのオブジェクトを正しく認識できるように、この情報がナビゲーションで使用されます。
+screenshot_rect.h	オブジェクトのスクリーンショットに使用された元の画面の領域を表示します。 原則として、この値をマニュアルで編集することはできません。
+show_bubble.h	このオプションによって、ページが完全にロードされた直後に吹き出しが表示されるかどうかが定義されます。
+start_from_arbitrary.h	このオプションでは、プロセスの開始ステップではなく任意のステップからガイドツアーを開始できるよう定義します。
+show_hilight.h	オブジェクトに対してハイライトが表示されるかどうかを指定します。
+show_highlight.h	オブジェクトに対してハイライトが表示されるかどうかを指定します。
+show_on_focus.h	このオプションによって、画面のフォーカスの変更時に、吹き出しが表示されるかどうかが定義されます。
+source.h	ナビゲーションがシミュレーションから変換された場合、このパラメータによって元のレッスンが指定されます。
+subkey.h	キーの元の部分のうち特定の部分が無視される場合 (たとえば、特定のページのバリアントが関連せず、ナビゲーションにおいて同じキーおよびステップによってすべて処理される場合)、これが有用である可能性があります。 このオプションでは、キーで定義された認識よりも多くのキー基準がページでレポートされた場合でも、認識メカニズムでキーが一致していると見なされるようにすることができます。 この場合、1 つのキーで複数のページに対応するため、ページキーが短縮されることがあります。
+target_name.h	アプリケーションウィンドウの名称が含まれます。
+text_d.h	このパラメータには、参照エントリ項目に入力される文字列が含まれます。 これには、自動レコーディングプロセスで入力された値が含まれます。 この文字列は、レコーディング中にテキストモジュールで吹き出しの内容が自動生成される際、プレースホルダ '${text_d}' (HTML エディタのテキストモード参照) の代わりに、各種モードの説明吹き出しのテキストに挿入されます。
+text_d_specializer.h	このパラメータには、参照エントリ項目に入力される文字列が含まれます。 これには、自動レコーディングプロセスで入力された値が含まれます。 この文字列は、レコーディング中にテキストモジュールで吹き出しの内容が自動生成される際、プレースホルダ '${text_d}' (HTML エディタのテキストモード参照) の代わりに、各種モードの説明吹き出しのテキストに挿入されます。
+tolerance.h	この値では、'画面' マクロをマージする場合の一致度の許容範囲を定義します。 この設定は、'画面マクロのマージ' 機能に関連します。この機能は 'ツール -> バルク変更' メニューから起動することができます。 値を大きくすると、許容範囲しきい値が大きくなります。 この場合、さまざまなオブジェクトが表示されるスクリーンショットもマージされる可能性があることに注意してください。 値は、パーセントで指定されます。
+uid.h	プロジェクトで管理されるマクロの一意の ID が含まれます。
+win_rect.h	プロジェクト登録時に、ウィンドウサイズを定義します。
+explanation_type.h	このオプションでは注記タイプを決定します。 タイプ設定に応じて、アドバイザテキストがハイライトされるように、ピクトグラムがテキストと共に表示されます。
+app_info.h	この設定では、アプリケーションがコンテキストヘルプに表示されるかどうかを定義します。 アプリケーションが表示されない場合、この設定は無効化されます。
+app_link_to_sim.h	このパラメータは、コンテキストタイプの他に、'ソース' パラメータで指定されたシミュレーションへのリンクを表示する際に使用することができます。 このプロセスでは、さまざまなモードを選択することができます。
+screen_info.h	この設定では、ページがコンテキストヘルプに表示されるかどうかを定義します。 画面が表示されない場合、この設定は無効化されます。
+screen_link_to_sim.h	このパラメータは、コンテキストタイプの他に、'ソース' パラメータで指定されたシミュレーションへのリンクを表示する際に使用することができます。 このプロセスでは、さまざまなモードを選択することができます。
+object_info.h	コンテキストヘルプのみ\nこの設定によって、オブジェクトに対して表示されるバリアントが定義されます。
+open_expanded.h	このオプションが有効化されている場合、ページおよびオブジェクト一覧が開いた状態でメイン吹き出しが表示されます。
+display_on.h	このパラメータでは、ナビゲーションメイン吹き出しが表示される状況を定義します。 ナビゲーションを開始する場合、アプリケーションを照会する場合、または対応するアプリケーションページを照会する場合などです。
+area.h	このパラメータでは、コントロールの位置およびサイズを定義します。 最初の 2 つの数は、画面左上角からのオブジェクトの位置を示します。 最後の 2 つの数で、オブジェクトの幅と高さが定義されます。 入力項目に隣接するボタンを押すと、編集ダイアログボックスが表示されます。このダイアログボックスで、オブジェクトの位置とサイズをカスタマイズすることができます。
+form_on.h	ステップがフォームであることを定義します。再生中にステップの全アクションが 1 つの吹き出しに表示されます。
+transition	次ガイドツアーステップ
+transition_info	次ガイドツアーステップ
+action_pa	アクション
+trans_action	アクション
+step_name1	次のステップ
+step_name2	代替ステップ 1
+step_name3	代替ステップ 2
+step_name4	代替ステップ 3
+LClick	左クリック
+RClick	右クリック
+LDblClick	左ダブルクリック
+RDblClick	右ダブルクリック
+Focus	フォーカス
+FocusLost	フォーカスロスト
+step	ガイドツアーステップ
+name	名称
+end_message	テキスト
+show_end_window	終了ウィンドウ
+show_end_window.h	ガイドツアーの終了時にウィンドウが表示されるよう指定します。 このウィンドウで、ユーザがガイドツアーを閉じることができます。 このオプションが無効化されている場合、ウィンドウは表示されず、ガイドツアーは自動的に閉じられます。
+trans_action.h	ガイドツアーのみ\n次のガイドツアーステップへのジャンプをトリガするアクションを指定します。
+action_pa.h	この設定により次のガイドツアーステップへのジャンプをトリガするユーザアクションが定義されます。
+step_name1.h	ガイドツアーのみ\nプロセスフローにおける次のステップを定義します。
+step_name2.h	ガイドツアーのみ\n定義されたガイドツアーステップを表示できない場合の代替ガイドツアーステップを定義します。
+step_name3.h	ガイドツアーのみ\n定義された代替ガイドツアーステップ 1 を表示できない場合の代替ガイドツアーステップを定義します。
+step_name4.h	ガイドツアーのみ\n定義された代替ガイドツアーステップ 2 を表示できない場合の代替ガイドツアーステップを定義します。
+step_on_same_page.h	ガイドツアーのみ\n次のガイドツアーステップが同じアプリケーションページにある場合、この設定を有効化する必要があります。 これにより、ページ認識が回避されます。
+name.h	ガイドツアー名を定義します。 この名称は、選択対象の 'オブジェクト' マクロの '次ガイドツアーステップ' 設定に表示されます。
+set_value	値自動設定
+set_value.h	この設定によって、ナビゲーション再生時にマクロの値が自動的に設定されるかどうかが定義されます。
+end_message	テキスト
+end_message.h	プロセス終了時に吹き出しに表示されるこのテキストボックスに、テキストを入力することができます。 このテキストボックスは、デフォルトテキストであらかじめ設定されています。
+restart_option	再起動ボタン
+restart_option.h	このオプションを有効化すると、ユーザがプロセスを再実行する際に使用できるボタンが吹き出し内に表示されます。 これにより、さまざまなエントリでプロセスを再実行することができます。
+record_end_display	吹き出し編集
+end_bubble	吹き出しプロセス終了
+bend_position	位置
+bend_position.h	ここで入力された値によって、画面での吹き出しの位置が示されます。 この値はピクセルで指定され、画面左上角を基点とします。
+bend_style	スタイル
+bend_style.h	この設定では、吹き出しの表示に使用する吹き出しのスタイルを定義します。 吹き出しのスタイルは、メニューの 'ツール -> 吹き出しのスタイルの編集' から起動できる吹き出しのスタイルエディタを使用して定義します。 常に、さまざまな吹き出しのスタイルをワークエリア全体で使用することができます。
+bend_width	幅
+bend_width.h	これにより、表示される吹き出しの幅がピクセルで定義されます。
+bend_height	高さ
+bend_height.h	これにより、表示される吹き出しの高さがピクセルで定義されます。
+process_start_unit	ガイドツアースタイル
+record_pa_control	ガイドツアーステップレコード
+prev_step	前のステップ
+next_step	次のステップ
+disqualifier	画面除外
+disqualifier.h	'ページ識別子' により、特定のオブジェクトを使用して、類似するアプリケーションページを区別することができます。 このオプションでは、'ページ識別子' を使用できる場合に、認識されたアプリケーションページが表示されるか、または除外されるかを指定します。 \nサムネイルビューには、オプションのステータス (プラス (除外しない) またはマイナス (除外) のシンボル) が表示されます。
+exception_bubble	吹き出し例外処理
+bexp_position	位置
+bexp_position.h	ここで入力された値によって、画面での吹き出しの位置が定義されます。 値はピクセルで指定されます。 吹き出しは、画面左上角に表示されます。
+bexp_style	スタイル
+bexp_style.h	ここで、使用する吹き出しのタイプを選択することができます。 吹き出しのスタイルは、メニュー 'ツール -> 吹き出しのスタイルの編集' から起動できる吹き出しのスタイルエディタで定義することができます。  常に、さまざまな吹き出しのスタイルをワークエリア全体で使用することができます。
+content_demo	デモモード
+content_demo.h	このオプションを使用すると、グループのデモモードがデスクトップアシスタントに表示されます。
+content_practice	練習モード
+content_practice.h	このオプションを使用すると、グループの練習モードがデスクトップアシスタントに表示されます。
+content_test	テストモード
+content_test.h	このオプションを使用すると、グループのテストモードがデスクトップアシスタントに表示されます。
+content_concurrent	実践モード
+content_concurrent.h	このオプションを使用すると、グループの実践モードがデスクトップアシスタントに表示されます。
+content_navi	ナビゲーション
+content_navi.h	このオプションを使用すると、グループのナビゲーションがデスクトップアシスタントに表示されます。
+content_documentation	ドキュメンテーション
+content_documentation.h	このオプションを使用すると、グループのドキュメンテーションがデスクトップアシスタントに表示されます。
+content_externals	外部ファイル
+content_externals.h	このオプションを使用すると、グループの外部ファイルがデスクトップアシスタントに表示されます。
+navi_style	スタイル
+navi_style.h	ナビゲーションウィンドウの見え方を定義します。スタイルリソースを一覧から選択してください。
+menu_path:/record	レコーディング
+F1HELPNAME	ヘルプ
+alignment	吹き出しの配置
+alignment.h	画面における吹き出しウィンドウの配置を指定します。 'フリー' オプションを使用すると、'吹き出しの位置' パラメータで位置を定義することができます。
+bform_alignment	配置
+bform_alignment.h	画面におけるフォーム吹き出しウィンドウの配置を定義します。 'フリー' オプションを使用すると、’フォーム吹き出しの位置' パラメータで位置を定義することができます。
+gloss_bubble	用語集の吹き出し
+gloss_bubble_style	スタイル
+gloss_bubble_style.h	用語集の吹き出しの見え方を定義します。スタイルリソースを一覧から選択してください。
+ellipse	円
+gloss_bubble_size	サイズ
+gloss_bubble_size.h	用語集の吹き出しのサイズ (幅、高さ) をピクセルで定義します。
+Navi	デスクトップアシスタント
+exclude_from_da	デスクトップアシスタントからの除外
+exclude_from_da.h	デスクトップアシスタントのコンテキスト認識でページキーが考慮されないよう指定します。
+all_as_descr	テキスト使用元
+all_as_descr.h	@{NAVIGATOR} のテキストタイプを定義します。デフォルトは '説明 (短)' です。
+consider_roles	ロール考慮
+consider_roles.h	再生中のコンテンツ表示に対するロールの使用を有効化します。
+consider_categories	コンテンツカテゴリの考慮
+consider_categories.h	@{NAVIGATOR} のメインウィンドウでコンテンツをソートするためのコンテンツカテゴリの使用を有効化します。
+disable_ca_in_pa	ガイドツアーでのインスタントヘルプ非表示
+disable_ca_in_pa.h	ガイドツアーの再生中に、すべてのインスタントヘルプ情報が非表示にされるかどうかを指定します。 ガイドツアーが終了すると、インスタントヘルプは再び表示されます。
+full_desc	テキスト
+shrt_desc	説明 (短)
+wrong_position	位置エラー
+help	ヘルプ
+warning	警告
+maintenance	更新
+update	更新
+new	新規
+training	トレーニング
+attachment	添付文書
+link	リンク
+tip	ヒント
+note	ノート
+compliance	コンプライアンス
+mini_bubble_style	ミニアイコンスタイル
+mini_bubble_style.h	プロジェクトで使用されるミニアイコンのスタイルリソースを定義します。 ミニアイコンは、調整可能リソースのリソースタイプです。 \n'拡張' セクションの 'ミニアイコンタイプ' パラメータを使用して、各アクションおよび説明マクロでアイコンを設定することができます。
+mini_bubble	ミニアイコンタイプ
+mini_bubble.h	コンテキストヘルプのみ\nオブジェクトのミニアイコンのタイプを定義します。 このアイコンは、'スタイル' マクロの定義済 'ミニアイコンスタイル' に基づきます。
+NavRecMouseWheel	続行するにはマウスホイールを使用します。マウススクロールを終了するには ESC キーを押してください。
+search_type	タイプ検索
+none	なし
+search_in_lib	@{LIBRARY} 内
+search_in_da	デスクトップアシスタントグループ
+search_type.h	コンテンツの検索機能を指定します。ドロップダウンリストからタイプを選択します。\nなし: 検索機能を無効化します。\n@{LIBRARY} 内: @{LIBRARY} を @{LIBRARY} コンテンツで検索するために開きます。\nデスクトップアシスタントグループ内: デスクトップアシスタントコンテンツで検索するために、メインウィンドウで '検索' タブを表示します。
+errObjectUpdate	オブジェクトを更新できません。類似するタイプのオブジェクトを更新してください。
+config_headers_differ1	プロファイル情報が無効になりました。プロジェクトを更新するには '続行' をクリックしてください。
+config_headers_differ2	更新前にアーカイブを登録することをお奨めします。
+default_start_mode	デフォルト開始コンテンツ
+default_start_mode.h	デフォルトでコンテンツ一覧から開始されるモードまたはドキュメントフォーマットを定義します。
+default_start_doc	デフォルト開始ドキュメント
+default_start_doc.h	'デフォルト開始コンテンツ' 設定でドキュメントが設定されている場合のドキュメントタイプを定義します。
+show_next_btn	次ボタン
+show_next_btn.h	ガイドツアーのみ\nオブジェクト吹き出しに '次のステップへジャンプ' ボタンが表示されるかどうかを指定します。
+condition	条件
+condition.h	再生時に、次または特定のステップにジャンプするには、ユーザが入力した値が条件を満たしている必要があります。 \n '条件編集' を選択し、条件を登録または編集します。
+errDuplicateContext	このアプリケーションはすでにレコード済です。
+add_sticky_notes	位置: 'ふせん追加' コントロール
+add_sticky_notes.h	ページでふせんを追加するためのコントロールを表示できます。コントロールの位置をサイドバーで指定することができます。
+show_instant_help_btn	位置: 'インスタントヘルプ' コントロール
+show_instant_help_btn.h	インスタントヘルプを有効化するためのコントロールを表示できます。コントロールの位置をサイドバーで指定することができます。
+show_carousel	カルーセル表示
+show_carousel.h	このオプションではデスクトップアシスタントがカルーセルモードで表示されます。
+condition_pattern	条件パターン
+condition_pattern.h	条件に使用されるパターンを指定します。
+condition_value	条件値
+condition_value.h	条件に使用される値を含みます。選択したパターンに基づくテキストまたは数を入力してください。
+condition_jump_target	ジャンプターゲット
+condition_jump_target.h	ガイドツアーのみ\n条件のジャンプターゲットを指定します。 ドロップダウンリストからステップを選択します。 条件が一致する場合、ナビゲーションが指定したステップにジャンプします。
+condition_text	条件テキスト
+condition_text.h	条件が満たされていない場合に表示されるテキストを含みます。
+condition_case_sensitive	大文字/小文字区別
+condition_case_sensitive.h	条件の大文字/小文字が区別されるよう指定します。
+condition_ignore_on_load	ページロードでの無視
+condition_ignore_on_load.h	コンテキストヘルプのみ\nページロード時に条件がチェックされないよう指定します。 関連するコントロールの使用時に、条件がチェックされます。 これにより、条件吹き出しが直接表示されることがなくなります。
+c_equals	等しい
+c_not_equals	等しくない
+c_greater	より大きい
+c_greater_equals	以上
+c_less	より小さい
+c_less_equals	以下
+c_min_char	最小文字数
+c_max_char	最大文字数
+c_num_char	文字数
+c_reg_exp	正規表現
+vertical	垂直
+horizontal	水平
+AutoBarReady	アイドル
+AutoBarExplanation	説明の挿入
+AutoBarChooseApp	アプリケーション選択
+AutoBarRecord	レコード
+AutoBarBusy	ビジー
+AutoBarPause	一時停止
+AutoBarReRecManualHotspot	コントロール編集: 変更を続行するには Ctrl + Enter キーを押してください。変更を破棄するには Esc キーを押してください。
+wizAddExplanation	説明追加
+AutoBarNoRecognition	コントロール未認識
+AutoBarDiagnosis	診断
+condition_bubblestyle	吹き出しのスタイル
+condition_bubblestyle.h	条件テキストの表示に使用される吹き出しスタイルリソースを定義します。
+condition_highlight_bgr	ハイライト色
+condition_highlight_bgr.h	コントロールのハイライト色を定義します。
+IDS_MPI_TOURSTOP_LABEL	大学名
+IDS_MPI_TOURSTOP_LABEL_MODIFIED	マニュアル翻訳
+IDS_MPI_TOURSTOP_NAME	UID
+IDS_MPI_TOURSTOP_SHOW	進捗表示に表示
+IDS_MPI_TOURSTOP_JUMP	ジャンプターゲット
+IDS_MPI_TOURSTOP_CALLABLE	サブルーチンである
+basic_info	基本プロパティ
+IDS_NO_IMAGE_SELECT	イメージ未選択
+IDS_NO_IMAGE	イメージなし
+ID_INSERT_TAKE	ステップ追加
+ID_PRJ_LAYOUT_HORZ	水平レイアウト
+ID_PRJ_LAYOUT_VERT	垂直レイアウト
+ID_PRJ_LAYOUT_DIV	分割レイアウト - 1
+ID_PRJ_LAYOUT_4	分割レイアウト - 2
+ID_PRJ_LAYOUT_5	分割レイアウト - 3
+IDS_UNTITLED	(タイトルなし)
+docTableHeaderStep	ステップ
+layout_advanced	詳細レイアウト
+showEditorHelp	Web エディタヘルプの表示
+slide:insert_tb	挿入
+slide:action_tb	アクション
+slide:structure_tb	ストラクチャ
+slide:view_tb	ビュー
+existing_scrs_in_prj	現在の画面が、プロジェクトですでに複数回使用されています。 \nレコーディングされたオブジェクトを追加する画面を選択します。
+start_topic	開始
+guided_tour	ガイドツアー
+context_help	コンテキストヘルプ
+off	オフ
+main_bar_1	メインバー 1
+main_bar_2	メインバー 2
+main_bar_3	メインバー 3
+main_bar_4	メインバー 4
+main_bar_5	メインバー 5
+main_bar_6	メインバー 6
+main_bar_7	メインバー 7
+main_bar_8	メインバー 8
+sub_menu_1	サブメニュー 1
+sub_menu_2	サブメニュー 2
+sub_menu_3	サブメニュー 3
+sub_menu_4	サブメニュー 4
+sub_menu_5	サブメニュー 5
+sub_menu_6	サブメニュー 6
+content_btn	位置: 'コンテンツ' コントロール
+content_btn.h	'コンテンツ' コントロールの位置をサイドバーで指定します。
+search_btn	位置: '検索' コントロール
+search_btn.h	'検索' コントロールの位置をサイドバーで指定します。
+orCenter	中央
+orNorth	北
+orWest	西
+orNortWest	北西
+orEast	東
+orNortEast	北東
+orSouth	南
+orSouthWest	南西
+orSoutEast	南東
+screen_tolerence	許容されている画面の差異 (%)
+screen_tolerence.h	このパラメータでは、表示される関連コンテキスト情報について、表示される画面ページとレコードされたスクリーンショットの間で必要なグラフィックのマッチ率 (%) を定義します。 グラフィックの差異が定義された値を超えた場合、@{NAVIGATOR} により、レコードされたページと画面ページが比較され、異なるアプリケーションページに対して適切なコンテンツが表示されます。
+video_folder	ビデオレコーディングフォルダ
+video_folder.h	ビデオレコーディングを保存するためのフォルダを指定します。\n注記: ビデオレコーディングはファイルサイズが大きいため、@{NAVIGATOR} のキャッシュフォルダには保存されません。
+allow_video_rec	ビデオレコーディング許可
+allow_video_rec.h	ビデオコンテンツをレコードすることができます。
+hide_da_on_web_assistant	@{XRAY} 実行中の @{NAVIGATOR} の非表示
+hide_da_on_web_assistant.h	@{XRAY} が最前面で実行中の場合、@{NAVIGATOR} ウィンドウが非表示になるよう指定します。
+show_web_assistant_msg	@{XRAY} メッセージの表示
+show_web_assistant_msg.h	@{XRAY} が最前面で実行中または最前面モードを終了した場合、メッセージが表示されるよう指定します。
+auto_hide	アニメーション後に非表示
+auto_hide.h	このオプションが有効化されている場合、アニメーション終了直後に、ハイライトが自動的に再度非表示となります。
+bmain_height	高さ
+bmain_height.h	メイン吹き出しの高さをピクセルで定義します。 テキストの量が吹き出し内の使用可能な領域を超える場合は、必要な領域になるまで高さの方向に自動的に拡大されます。
+bmain_style	スタイル
+bmain_style.h	この設定では、メイン吹き出しの表示に使用する吹き出しのタイプを定義します。 吹き出しのタイプは、メニューの 'ツール' -> '吹き出しのタイプの編集' から起動できる '吹き出しのタイプエディタ' を使用して定義します。 常に、さまざまな吹き出しのタイプをワークエリア全体で使用することができます。
+bmain_width	幅
+bmain_width.h	メイン吹き出しの幅をピクセルで定義します。
+bottom_dock	下部結合
+cache_stale_interval	無効間隔 (分)
+cache_stale_interval.h	@{NAVIGATOR} キャッシュの使用を有効化し、キャッシュフォルダ内のコンテンツの更新時間枠を定義します。 値は、分単位で定義されます。 \nキャッシュを無効化するには、値を '0' に変更してください。
+centered	中央
+close_details	コンテンツウィンドウを閉じる
+close_details.h	選択したプロジェクトのコンテンツウィンドウを閉じるファンクションキーを定義します。
+confirmation_hotkey	ステップ確認ホットキー
+confirmation_hotkey.h	プロセスアシスタント再生時のステップの確認のホットキーを定義します。
+detail_positioning	コンテンツウィンドウの配置
+detail_positioning.h	画面におけるコンテンツウィンドウの配置を定義します。 配置 '中央' 以外の場合、コンテンツウィンドウはメインウィンドウに結合されます。
+detail_size	コンテンツウィンドウサイズ
+detail_size.h	コンテンツウィンドウのサイズ (幅、高さ) をピクセルで定義します。
+enable_search	検索タブ有効化
+enable_search.h	デスクトップアシスタントのコンテンツにおける検索機能を有効化します
+h_dock	水平に結合
+icon_position	アイコンの位置
+icon_position.h	ここで入力された値によって、画面でのアイコンの位置が定義されます。値はピクセルで指定されます。アイコンは、画面左上角に表示されます。
+leaves_page	画面を閉じる
+leaves_page.h	このオプションは、このオブジェクトに必要なアクションを実行すると新規ページがロードされるナビゲーションを示します。 オブジェクトでアクションが実行され、ページのロードが完了するとすぐに、新規ページ分析が実行されます。
+left_dock	左結合
+library_height	吹き出しの位置
+library_height.h	これにより、吹き出しの位置がピクセルで定義されます。
+library_width	吹き出しの幅
+library_width.h	これにより、吹き出しの幅がピクセルで定義されます。
+maximize_details	コンテンツウィンドウの最大化
+maximize_details.h	コンテンツウィンドウを最大化するファンクションキーを定義します。
+next_doc	次のドキュメントの選択
+next_doc.h	コンテンツウィンドウで次のドキュメントを選択するファンクションキーを定義します。
+next_project	次のプロジェクトの選択
+next_project.h	メインウィンドウで次のプロジェクトを選択するファンクションキーを定義します。
+open_content	コンテンツを開く
+open_content.h	選択したコンテンツオブジェクトを開くための機能キーを定義します。
+open_details	コンテンツウィンドウを開く
+open_details.h	選択したプロジェクトのコンテンツウィンドウを開くファンクションキーを定義します。
+prev_doc	前のドキュメントの選択
+prev_doc.h	コンテンツウィンドウで前のドキュメントを選択するファンクションキーを定義します。
+prev_project	前のプロジェクトの選択
+prev_project.h	メインウィンドウで前のプロジェクトを選択するファンクションキーを定義します。
+right_dock	右結合
+show_execute	実行ボタン表示
+show_execute.h	再生中にオブジェクト吹き出しに実行ボタンが表示されるかどうかを定義します。 このボタンを使用して、ユーザはアプリケーションでアクションを実行することができ、その後、次のステップが表示されます。
+show_icon_on_start	開始時のステータスアイコン表示
+show_icon_on_start.h	デスクトップアシスタントを開始する場合に、メインウィンドウの代わりにステータスアイコンが表示されるかどうかを定義します。
+start_doc	ドキュメントを開く
+start_doc.h	選択したドキュメントをコンテンツウィンドウから開くファンクションキーを定義します。
+step_on_same_page	同じページのステップ
+top_dock	上部結合
+v_dock	垂直に結合
+遷移	次プロセスステップ

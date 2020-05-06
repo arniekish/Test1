@@ -1,0 +1,770 @@
+﻿NAVIGATOR	Desktop Assistant
+XRAY	Web Assistant
+LIBRARY	library
+MANAGER	Manager
+form_bubble	Burbuja de formulario
+bform_height	Altura
+bform_height.h	Define la altura de la burbuja de formulario que se visualizará en píxeles
+bform_width	Ancho
+bform_width.h	Define el ancho de la burbuja de formulario que se visuazará en píxeles
+bform_position	Posición
+bform_position.h	Define la posición de la burbuja del formulario (izquierda, arriba) para su alineación libre en la pantalla. Estos valores se indican en píxeles
+paramAutoMergeComplete	Se ha completado la fusión de pantallas
+form	Formulario
+application_contexts	Aplicación
+﻿Application	Aplicación
+highlight_offset	Offset
+AutoBarChooseApp	Seleccionar aplicación
+AutoBarReRecManual	Haga clic sobre objeto
+BubbleOnActivate	Mostrar directamente la burbuja
+ClickOnAAPosition	Haga clic en la aplicación para definir el rectángulo
+ClickOnPosition	Haga clic en una posición de la aplicación
+EnabledOnPgLoad	Activar
+HighlightOnActivate	Mostrar directamente la marca
+start_from_arbitrary	Inicio a partir del paso arbitrario
+focus_step	Capa de foco
+focus_step.h	Solo visita guiada\nMuestra una capa gris para marcar el control requerido del paso actual.
+yes	Sí
+no	No
+light_mode	Modo Interactivo
+light_mode.h	Indica que el usuario debe navegar en la burbuja del objeto al paso siguiente. No se realiza reconocimiento de página durante la reproducción.
+restricted_mode	Modo restringido
+restricted_mode.h	Especifica que solo se podrá ejecutar la acción actual. Los demás controles de la página de aplicación se bloquean. \nLa parametrización se puede utilizar si se ha activado "Capa de foco".
+show_highlight	Marcaciones
+action	Acción
+active_area	Campo activo
+add_application_expl	Insertar explicación
+adv	Avanzado
+display_behavior	Comportamiento de visualización
+all_values	Todos los valores
+anim_steps	Pasos de animación
+application_context	Aplicación
+area	Campo
+auto_merge	Fusionar macros de pantalla
+b_height	Altura
+form_on	Modo de formulario
+b_percent	Burbuja visible (%)
+b_hide_option	Opción ocultar
+b_minimizable	Se puede minimizar
+b_closable	Cierre posible
+b_minimized	Minimizado
+b_width	Ancho
+b_width.h	Define el ancho de la burbuja de objeto en píxeles
+bmain_minimizable	Se puede minimizar
+bmain_position	Posición
+bmain_win_style	Estilo
+bmain_size	Tamaño
+bmain_alignment	Alineación
+bubble	Burbuja de objeto
+bubble_offset	Offset
+bubblestyle_d	Estilo
+bubblestyle_init	Estilo de la burbuja
+choose_appl_template	Seleccionar perfil de aplicación
+choose_bool	Valor seleccionado
+choose_nr	Índice seleccionado
+choose_text	Valor seleccionado
+target_static_text	se graba como "Identificador de página"
+target_spec_warning	Advertencia: No existe ninguna información de regrabación para este control
+prev_step	Paso anterior del proceso
+next_step	Siguiente paso del proceso
+click	Acción de ratón
+click_pos	Posición de clic
+click_pos_rel	Posición de burbuja
+config_file	Perfil
+define_target	Pantalla
+display	Tratar burbuja principal
+display_name	Nombre para mostrar
+drag	Arrastrar
+drop	Soltar
+dump_page	Captura de pantalla
+elem_bubble	Burbuja de objeto
+element_type	Cl.objeto
+enabled	Activados
+optional	Opcional
+enter	Entrada de ratón
+executable	Aplicación
+explanation_d	Texto
+explanation_d_modified	Traducir manualmente
+explanation_long	Explicación
+fh_mouseover	Ayuda con MouseOver
+fh_onelem	Símbolo
+fh_tooltip	Quick info
+fh_bubble	Burbuja
+step_list	Lista del paso
+fieldicon	Imagen de objeto
+fieldname	Nombre de objeto
+find	Búsqueda
+AutoBarChooseScn	Haga clic en la pantalla correspondiente
+frame	Marco
+g_highlight_bgr	Color
+g_highlight_border	Borde
+g_highlight_effect	Efecto
+global	General
+hide_on_focuslost	Suprimir en caso de pérdida de enfoque
+hilight	Marcar
+input_radio	Casilla de selección
+input_text	Texto de entrada
+init	Inic.
+key	Clave
+key_desc	Nombre de clave
+key_name	Código de tecla
+key_press	Pulsación de tecla
+lclick	Clic en el botón izquierdo del ratón
+ldblclick	Doble clic en el botón izquierdo del ratón
+force_display	Forzar visualización
+auto_execute	Ejecutar automáticamente
+show_confirmation	Mostrar el pulsador de confirmación
+show_confirmation.h	Define si se muestra un pulsador de confirmación en la burbuja del objeto durante la reproducción. El pulsador permite al usuario confirmar una acción ejecutada y, a continuación, se muestra el siguiente paso.
+link_to_sim	Insertar enlace de simulación
+macro_comment	Comentario
+main_bubble	Ventana
+match_value	Comparar valor
+mini_on_focuslost	Minimizar en caso de pérdida de enfoque
+enable_tincan	@{NAVIGATOR} seguimiento
+nav_check_freq	Frecuencia de actualización (min)
+navigation	Asistente de escritorio
+new_screen_context	Nueva pantalla
+no_spike	Sin punta
+pa_caption	Visita guiada
+none	Ninguno
+objname	Nombre de objeto
+orientation	Orientación
+path	Ruta de objeto
+position	Posición
+rclick	Clic en el botón derecho del ratón
+rdblclick	Doble clic en el botón derecho del ratón
+record_activearea	Grabar campo activo
+record_application_context	Grabar aplicación
+no_control	No existe ningún objeto disponible en la posición marcada
+record_control	Grabar objeto
+record_control_pa	Grabar paso de visita guiada
+record_define_target	Grabar pantalla
+record_display	Tratar burbuja principal
+record_end_display	Tratar burbuja
+record_explanation	Añadir explicación
+record_object_context	Grabar objeto
+record_screen_context	Grabar pantalla
+record_target_specializer	Grabar identificador de página
+record_compatible_application	Añadir aplicación compatible
+reference	Fuente
+regexp	Expresión regular
+replace	Sustituir
+replace_continue	Sustituir y siguiente...
+replace_pgkey_attr	Reemplazar atributos de clave de página
+error_regexp	No válido de expresiones regulares. Corrige a tu entrada.
+resize	Ajustar tamaño de la ventana
+revision	Revisión
+sc_config_header	Información de perfil
+screen	Pantalla
+screenhelp	Ayuda de pantalla
+screenshot_rect	Captura de pantalla, posición / tamaño
+select_single	Selección simple
+selected_merge	Fusionar macros de pantalla seleccionadas
+show_bubble	Mostrar directamente
+show_hilight	Mostrar marcación
+show_on_focus	Mostrar al establecer el foco
+source	Fuente
+start_unit	Estilo de ayuda de contexto
+subkey	Permitido como elemento de clave
+script	Script
+target_name	Título
+target_specializer	Identificador de página
+text_d	Texto de entrada
+text_d_specializer	Texto de entrada
+tolerance	Fusionar tolerancia de macros de pantalla
+translate	Traducción automática
+autoTranslate	Traducir proyecto
+paramReRecordLanguage	Idioma
+merge_critical_macros	Fusionar macros automáticamente
+merge_critical_macros.h	Si convierte simulaciones en navegaciones, puede combinar automáticamente las pantallas creadas de esta manera. Estas se agrupan mediante el valor de tolerancia determinado en el parámetro 'Tolerancia para agrupar macros de pantalla'.
+uid	UID
+underline	Subrayado
+update_control	Actualizar objeto
+update_target	Actualizar pantalla
+variant	Variante
+win_rect	Tamaño de ventana
+wizCancel	Cancelar
+wizFinish	Salir
+wizNext	Siguiente
+wizOk	OK
+wizExplanation	Explicación
+wizContinue	Continuar
+app_info	Mostrar aplicación
+app_link_to_sim	Insertar vínculo de simulación para la aplicación
+screen_info	Visualizar pantalla
+screen_link_to_sim	Insertar vínculo de simulación para pantalla
+object_info	Visualizar variante
+object_link_to_sim	Insertar enlace de simulación
+disabled	Desactivados
+record_context_assistant_include	Incluir @{NAVIGATOR} proyecto
+project_id	Título proyecto
+project_id.h	El parámetro contiene el proyecto insertado. El botón Tratar enlace le permite seleccionar el proyecto en el área de trabajo
+project	Proyecto
+context_assistant_include	Proyecto de asistente de escritorio
+open_expanded	Mostrar la burbuja principal ampliada
+restart_option	Pulsador de repetición
+next_project_id	Siguiente proyecto
+next_project_id.h	Esta opción define un proyecto que se iniciará una vez concluido el proceso actual. El nuevo proceso se iniciará directamente y no se mostrará ninguna burbuja final.
+end_unit	Fin de la visita
+add_end_unit	Añadir fin de proceso
+demo	Modo demo
+uebung	Modo de ejercicio
+praxis	Modo práctico
+test	Modo de prueba
+doc	Documento Word
+pdf	Documento PDF
+html	Documento HTML
+ppt	Documento de PowerPoint
+explanation_type	Símbolo
+note	Nota
+info	Información
+tipp	Consejo
+warnung	Advertencia
+no_image	Ningún símbolo
+display_on	Activar burbuja principal en
+nav_start	Iniciar la navegación
+app_focus	Enfoque de aplicación
+screen_focus	Enfoque de pantalla
+never	No mostrar
+list_type	Tipo de lista para pantalla
+list_type.h	Este parámetro determina el tipo de listado para los objetos en la pantalla, si la opción 'Visualizar toda la información de objeto' está habilitada para ello.
+unordered_list	Signo de enumeración
+ordered_list	Numeración
+convert_sn	Generar asistente de escritorio
+Application	Aplicación
+obj_context	Objeto
+expl_context	Explicación
+record_cntrl_type	Tipo
+disable_standby	Activar estado Modo de espera (@{NAVIGATOR})
+disable_standby.h	Define que el estado de modo de espera del @{NAVIGATOR} no se puede fijar. Si está opción está desactivada, se puede fijar el estado de modo de espera con el acceso rápido 'CTRL + F11' o haciendo clic en el símbolo de estado.
+disable_exit	Ocultar entrada Finalizar (@{NAVIGATOR})
+disable_exit.h	Especifica que la entrada 'Finalizar' se oculta en el menú contextual del icono de status del @{NAVIGATOR}.
+bcontent_style	Estilo de la burbuja
+bcontent_style.h	Con este ajuste se define el tipo de burbuja que se debe utilizar para la visualización de la burbuja
+cache_properties	Caché
+cache_folder	Ubicación de la carpeta
+cache_folder.h	Define la ubicación de la carpeta de caché "NavigatorCache". La ubicación por defecto es "%localappdata%". Puede indicar una ubicación personalizada. \nNota: el nombre de la carpeta caché no se puede modificar.
+use_caching	Utilizar gestión de caché
+use_caching.h	Activa la utilización del caché @{NAVIGATOR}.
+function_keys	Claves de función
+minimize_da	Minimizar
+minimize_da.h	Define una clave de función para minimizar la ventana principal
+next_tab	Seleccionar siguiente etiqueta
+next_tab.h	Define una clave de función para seleccionar la siguiente etiqueta en la ventana principal
+next_screen	Ir a Pantalla siguiente
+next_screen.h	Define una clave de función para navegar a la imagen siguiente para un proyecto seleccionado
+back	Retroceda
+back.h	Define una clave de función para ir a la imagen anterior
+toggle_standby	Cambiar modo en espera
+toggle_standby.h	Define una clave de función para cambiar el modo en espera
+abort	Cancelar
+abort.h	Define una clave de función para cancelar el asistente de escritorio
+restart	Reiniciar
+restart.h	Define una clave de función para reiniciar el asistente de escritorio
+start_pa	Iniciar proyecto de asistente de escritorio
+start_pa.h	Define una clave de función para iniciar el proyecto seleccionado
+start_demo	Iniciar modo de demostración
+start_demo.h	Define una clave de función para iniciar el modo de demostración seleccionado
+start_prac	Iniciar modo de práctica
+start_prac.h	Define una clave de función para iniciar el modo de práctica seleccionado
+start_test	Iniciar modo de test
+start_test.h	Define una clave de función para iniciar el modo de test seleccionado
+start_concur	Iniciar modo simultáneo
+start_concur.h	Define una clave de función para iniciar el modo simultáneo seleccionado
+start_book	Iniciar libro
+start_book.h	Define una clave de función para iniciar un libro seleccionado
+start_group	Abrir en library
+start_group.h	Define una clave de función para abrir un grupo en la library
+toggle_ctx_rec	Cambiar reconocimiento de contexto
+toggle_ctx_rec.h	Define una clave de función para cambiar el reconocimiento de contexto del asistente de escritorio
+select_next	Seleccionar entrada siguiente
+select_next.h	Define una clave de función para seleccionar la entrada siguiente en la ventana actual
+select_prev	Seleccionar entrada previa
+select_prev.h	Define una clave de función para seleccionar la entrada anterior en la ventana actual
+toggle_warning	Mostrar cuadro de diálogo de advertencia
+toggle_warning.h	Define una clave de función para mostrar el cuadro de diálogo de advertencia del asistente de escritorio
+execute_step	Ejecutar paso
+execute_step.h	Define una clave de función para ejecutar un paso durante la reproducción de la visita guiada
+copy_link	Copiar enlace
+copy_link.h	Define una clave de función para copiar el enlace de la entidad seleccionada
+maximize_trainer	Maximizar ventana de contenido
+maximize_trainer.h	Define una clave de función para maximizar la ventana de contenido.
+share_email	Compartir vía e-mail
+share_email.h	Define una clave de función para compartir el contenido de la entidad seleccionada vía e-mail
+start_default	Iniciar contenido por defecto
+start_default.h	Define una clave de función para iniciar el modo por defecto o el documento seleccionado
+show_da_help	Mostrar ayuda de asistente de escritorio
+show_da_help.h	Define una clave de función para abrir la ayuda de asistente de escritorio
+request_content	Solicitar contenido
+request_content.h	Define una clave de función para solicitar contenido para una página de aplicación
+search_content	Buscar contenido
+search_content.h	Define una clave de función para buscar contenido dependiendo del tipo de búsqueda seleccionado
+show_hidden_elems	Mostrar elementos de ayuda ocultos
+show_hidden_elems.h	Define una clave de función para mostrar elementos auxiliares suprimidos
+toggle_side_bar	Visualizar/suprimir barra lateral
+toggle_side_bar.h	Define una clave de función para visualizar y suprimir la barra lateral
+content_library	Asistente de escritorio - Controles y comportamiento
+content_library_window	Asistente de escritorio - Estilo y ventanas
+content_library_sidebar	Asistente de escritorio - Barra lateral
+style	Estilo
+style.h	Define la apariencia de los componentes del asistente de escritorio (ventana principal, ventana de contenido, icono de estado). Seleccione un recurso de estilo de la lista.
+show_only_bar	Mostrar solo barra lateral en inicio
+show_only_bar.h	Define si solo se mostrará la barra lateral en el inicio del asistente de escritorio o también la ventana principal
+clear_on_mismatch	Anular lista de contenido en inconsistencia de contexto
+clear_on_mismatch.h	Define que la lista de contenido se anula si no existe contexto. Si se desactiva la parametrización se mostrará el contenido del último objeto reconocido.
+da_positioning	Alineación de la ventana principal
+da_positioning.h	Define la alineación de la ventana principal en la pantalla. La opción 'Libre' permite definir una posición en el parámetro 'Posición de ventana principal'.
+bar_positioning	Alineación de barra lateral
+bar_positioning.h	Define la alineación de la barra lateral en la pantalla
+left_top	Esquina superior izquierda
+left_center	Centro izquierda
+left_bottom	Esquina inferior izquierda
+right_top	Esquina superior derecha
+right_center	Centro derecha
+top_center	Centro superior
+right_bottom	Esquina inferior derecha
+center	Centro
+free	Libre
+list_order	Clasificación de contenidos
+list_order.h	Define la clasificación del contenido disponible en la lista
+by_default	Estructura del explorador
+by_name	Alfabéticos
+by_type	Alfabéticos por tipo
+library_position	Posición de la ventana principal (libre)
+library_position.h	Define la posición de la ventana principal (izquierda, arriba) para la alineación libre en la pantalla. Los valores se indican en píxeles
+search_url	Buscar grupo
+search_url.h	Le permite especificar un grupo de áreas de trabajo para buscar el contenido en @{LIBRARY}.
+enable_recording	Posición: Control “Grabación”
+enable_recording.h	Permite mostrar un control para procesos de grabación. Puede indicar la posición del control en la barra lateral. \nLa grabación permite al usuario grabar procesos como documentos de Microsoft Word.o como vídeos. Los archivos grabados se muestran en la pantalla principal en la etiqueta “Área de usuario”.
+enable_exit_da	Posición: Control “Salir”
+enable_exit_da.h	Permite visualizar un control para salir de @{NAVIGATOR}. Puede especificar la posición del control en la barra lateral.
+enable_info	Mostrar etiqueta Info
+enable_info.h	Activa la etiqueta 'Info' para la ventana principal del asistente de escritorio. Insertar un texto info en la descripción breve del grupo de asistentes de escritorio.
+request_content_type	Solicitar tipo de contenido
+request_content_type.h	Especifica la funcionalidad para solicitar contenido. Seleccione un tipo de la lista desplegable. \nCorreo electrónico: le permite indicar una dirección de correo electrónico para las solicitudes. \nURL: le permite indicar un URL para abrir una página web. \nSe muestra el control “Solicitar contenido” en la barra lateral. Si no existe contenido, el enlace "Solicitar contenido" se mostrará en la ventana principal.
+email	Correo electrónico
+url	URL
+enable_request_content	Posición: Control “Solicitar contenido”
+enable_request_content.h	Indica la posición del control “Solicitar contenido” en la barra lateral.
+enable_external_search_ctx	Proporcionar información de contexto
+enable_external_search_ctx.h	Proporciona información de contexto adicional del usuario con el URL de búsqueda durante la búsqueda. La información de contexto se utilizará para la búsqueda. Active las parametrizaciones si su búsqueda indicada puede utilizar la información de contexto. \nLa información de contexto proporcionada se especifica en el parámetro “Información de contexto”.
+external_search_ctx	Información de contexto
+external_search_ctx.h	Indica la información de contexto si se ha activado la parametrización “Proporcionar información de contexto”. Puede proporcionarse la siguiente información de contexto: EXE de la aplicación actual (&executable=$#{EXE}), clave de página de la aplicación actual (&pagekey=$#{PAGEKEY})\nNota: no modifique la estructura del string de información de contexto.
+enable_external_search	Posición: Control “Búsqueda externa”
+enable_external_search.h	Permite activar una página de búsqueda externa para buscar contenido o más información. Con la parametrización activada, el control “Búsqueda externa” se mostrará en la barra lateral. Podrá indicar la posición del control en la barra lateral. \nEl pulsador abre un campo de búsqueda para la entrada de un concepto de búsqueda. Los resultados de la búsqueda se muestran en la página de búsqueda externa. Deberá indicar un URL de búsqueda en el parámetro “URL de búsqueda externo” para la búsqueda externa.
+external_search_url	URL
+external_search_url.h	Permite indicar un URL para la búsqueda externa. Indique el URL en la siguiente estructura:\nhttps://www.google.com/#q=$#{SEARCHTERM}\nhttps://www.bing.com/search?q=$#{SEARCHTERM}\nhttps://search.yahoo.com/search?p=$#{SEARCHTERM}\nhttps://www.wolframalpha.com/input/?i=$#{SEARCHTERM}\n\nNota: no borre o modifique '=$#{SEARCHTERM}' del parámetro de URL.
+enable_share_content	Mostrar control Compartir contenido
+enable_share_content.h	Muestra un pulsador 'Compartir contenido' en la línea a pie de página en la ventana principal. El pulsador abre una ventana de diálogo con el enlace al contenido seleccionado.
+author_email	Correo electrónico
+author_email.h	Permite indicar una dirección de correo electrónico para el contenido que se solicita. La dirección de correo electrónico se utiliza para la función “Solicitar contenido”.
+author_url	URL
+author_url.h	Permite indicar un URL para el contenido que se solicita. El URL se utiliza para la función “Solicitar contenido”.
+author_url_params	Parámetros URL
+author_url_params.h	Le permite especificar los parámetros para el URL.de autor. \nPodrá especificar el nombre de aplicación y el ejecutable. Sustituye el valor 'aplicación' o 'ejecutable' por el nombre requerido.
+enable_fuzzy_match	Activar coincidencia inexacta
+enable_fuzzy_match.h	Define si la coincidencia inexacta se utiliza para ajustar el contexto del contenido a una página de aplicación
+enable_ident_filter	Habilitar Identificación de aplicación avanzada
+enable_ident_filter.h	Especifica que solo se utiliza la información de aplicación relevante para la reproducción del @{NAVIGATOR}. Esto le permite optimizar el rendimiento de @{NAVIGATOR}.\nNota: la opción puede llevar a un reconocimiento de objeto erróneo. Se recomienda realizar un test de la reproducción antes de publicar el contenido.
+library_size	Tamaño de la ventana principal
+library_size.h	Define el tamaño (ancho, alto) de la ventana principal en píxeles
+book_win_position	Posición de la ventana principal (libre)
+book_win_position.h	Define la posición de la ventana principal (izquierda, arriba) para la alineación "libre" en la pantalla. Los valores se indican en píxeles.
+book_win_size	Tamaño de ventana de contenido
+book_win_size.h	Define el tamaño (ancho, alto) de la ventana de contenido en píxeles.
+book_win_positioning	Alineación de ventana de contenido
+book_win_positioning.h	Define la alineación de la ventana de contenido en la pantalla. La opción "libre" permite definir una posición en el parámetro "Posición de ventana de contenido".
+errNoApplicationContext	La macro actual no es ningún contexto de aplicación
+errNoTargetDefinition	La macro no se corresponde con la definición del destino.
+errExtractPagekey	No es posible extraer la clave de página con el perfil:
+errScreenshot	No se ha podido crear ningún Screenshot. Inténtelo de nuevo.
+errLoadTemplate	No es posible cargar el perfil:
+errRecordProcessStep	Los pasos de la visita guiada no se pueden grabar para los proyectos Ayuda de contexto
+errLanguageSelection	No se ha seleccionado ningún idioma.
+errNoWriteToken	No dispone de permiso de escritura para el objeto seleccionado.
+errMacroSelection	No se ha seleccionado ninguna macro.
+errObjectInformation	No se encuentra disponible en ninguna información de objeto en la posición.
+errSpecializedInformation	No se encuentra disponible en ninguna información en la posición.
+errPosition	La posición no se encuentra en el área de la ventana.
+errActionMacroSelection	No se ha seleccionado ninguna macro de acción
+errUpdateObject	No se puede actualizar el tipo de objeto seleccionado
+errInsertExplanation	No se puede insertar una explicación libre en la macro seleccionada
+action.h	Solo visita guiada\nEsta opción define la acción que el usuario debe realizar en el objeto.
+all_values.h	En algunos casos, el objeto de una aplicación guarda opciones para valores que no pueden cubrirse mediante un control HTML estándar. Entonces, se utiliza el control más cercano al objeto de la aplicación. Además, este campo contiene todos los valores que el objeto guarda como opciones.
+anim_steps.h	El valor define en cuántos pasos se animará el efecto de marcación seleccionado. Los valores bajos aceleran la representación y proporcionan un efecto cortado de la animación. Los valores altos proporcionan un efecto fluido, aunque producen una representación del efecto de la animación mucho más lento.
+auto_execute.h	Esta configuración define la acción que se ejecutará automáticamente durante la reproducción de la navegación
+b_height.h	Define la altura de las burbujas que se van a representar en píxeles. Si la cantidad de texto excede el espacio disponible en la burbuja, se ajustará la altura de forma automática al espacio necesario.
+b_hide_option.h	Solo asistente contextual\nActivando esta opción, la burbuja de objeto o de explicación mostrará una parametrización con la que el usuario final podrá desactivar la información de objeto (burbuja y marcación). De este modo, el usuario puede suprimir la información que ya no necesite.
+b_minimizable.h	La opción define si la burbuja se puede minimizar durante la reproducción. Si se activa la opción se mostrará el pulsador 'Minimizar' en el encabezado de la burbuja.
+b_closable.h	Solo ayuda contextual\nEsta opción define si la burbuja se puede cerrar durante la reproducción. Si se activa la opción se mostrará el pulsador 'Cerrar' en el encabezado de la burbuja.
+b_minimized.h	Solo ayuda contextual\nEsta opción define si la burbuja del objeto se visualiza minimizada al cargar la página.
+bmain_size.h	Define el tamaño (ancho, alto) de la ventana principal en píxeles
+bmain_minimizable.h	Esta opción define si la ventana principal se puede minimizar o no
+bmain_position.h	Los valores que se indican aquí definen la posición de la ventana principal en la pantalla. Los números describen la distancia desde la esquina superior izquierda de la pantalla en píxeles.
+bmain_win_style.h	Define el aspecto de la ventana principal. Seleccione un recurso de estilo de la lista
+bmain_alignment.h	Define la alineación de la ventana principal en la pantalla. La opción 'Libre' permite definir una posición en el parámetro 'Posición de ventana'.
+bubble_offset.h	Esta opción define el offset de la burbuja en píxeles, en el que se mostrará para el objeto.
+bubblestyle_d.h	Indica el recurso de estilo de burbuja para visualizar las burbujas del objeto del proyecto.
+bubblestyle_d.h	Indica el recurso de estilo de burbuja para visualizar las burbujas del objeto del proyecto.
+choose_bool.h	Este campo contiene el valor que determina si el botón o la casilla de selección está activado o desactivado. El valor para un botón de selección siempre es '1' (activado). El valor para una casilla de selección puede ser '0' (desactivado) o '1' (activado).
+choose_text.h	Este parámetro contiene la cadena de caracteres que se ha encontrado para la entrada seleccionada en un menú emergente o campo de lista durante el proceso de grabación automática. Este string  se introduce en los textos de burbuja explicativa en varios modos en lugar de la reserva-espacio '${choose_text}' (véase modo de texto en el editor HTML).  Se utiliza como un módulo de texto para el texto de burbuja generado automáticamente al generar el contenido de la burbuja automáticamente con los módulos de texto durante la grabación.
+click_pos.h	Describe la posición en la ventana de la aplicación en la que el autor ha hecho clic mientras se grababa el objeto. Los datos se refieren a la esquina superior izquierda de la ventana de aplicación en píxeles.
+click_pos_rel.h	Describe la posición en la ventana de aplicación. El valor en porcentaje (%) indica la posición relativa al ancho y altura totales de la ventana de aplicación, con el borde izquierdo y el borde superior como punto de referencia.
+config_file.h	Contiene el nombre del perfil con el que se creó la llave y que se valorará durante la reproducción.
+display_name.h	Indica el nombre de la aplicación. El nombre se visualizará en la ventana de excepción de una visita guiada.
+dump_page.h	Contiene la pantalla grabada. \nPuede modificar la imagen con la función “Reemplazar imagen”.
+element_type.h	Describe la clase de objeto que se ha identificado con un mecanismo de reconocimiento.
+enabled.h	Solo ayuda contextual\nEsta opción define si la macro está incorporada o no en el análisis de la página. Si esta opción está desactivada, el objeto de ayuda no se mostrará aunque el objeto asociado exista en la página.
+optional.h	Solo visita guiada\nLa opción define si el paso de visita guiada es opcional para el usuario en un proceso. \nDurante la reproducción se mostrará un icono diferente en la lista de pasos. Si el control no es visible en la página o si la página es errónea, se omitirá el paso.
+executable.h	Contiene el nombre del ejecutable de la aplicación que utiliza el sistema operativo
+explanation_d.h	Contiene la información del contexto correspondiente (texto, enlaces, imágenes, etc.). Tenga en cuenta el formato del texto para describir de manera óptima los contenidos en la burbuja principal para el usuario.
+explanation_d_modified.h	Si esta opción está activada, la información de contexto ya no se generarán automáticamente en caso de una traducción automáticamente, pero deben tratarse manualmente. Esto ayuda a mantener las modificaciones realizadas de forma manual en el contenido de la burbuja.
+fieldname.h	Contiene el nombre del control grabado que se ha insertado en los textos burbuja. \nPuede modificar el nombre del objeto en el campo de texto. El nombre del objeto tiene la reserva-espacio “${fieldname}'”.
+fieldicon.h	Contiene la imagen de un pulsador o símbolo grabado que se insertado en los textos burbuja. \nPuede modificar la imagen del objeto con la función “Reemplazar imagen”. La imagen del objeto tiene la reserva-espacio “${fieldicon}”.
+g_highlight_bgr.h	Aquí se establecerá el color de los bordes del marcado mostrado. El color puede introducirse directamente como valor RGB en formato Hex o tomarse de la selección de colores que se puede activar.
+g_highlight_border.h	Este parámetro establece en píxeles el grosor del borde del marco de los objetos. Podrá escoger entre los anchos del '1' al '10'.
+g_highlight_effect.h	Esta opción establece qué efecto se utilizará para la representación del destaque de objetos durante la navegación.
+hide_on_focuslost.h	Esta opción define si se suprimirá la burbuja cuando el foco de la pantalla deje el objeto en cuestión
+highlight_offset.h	Este parámetor define el offset de píxeles añadidos para el rectángulo marcado que rodea el elemento marcado
+key.h	Contiene todos los criterios para identificar la ventana de la aplicación y una página determinada en la aplicación. La clave solo coincide si la página en la aplicación de destino coincide con todos los criterios definidos en la clave. Para suavizar la definición de criterios clave individuales se permite la utilización de expresiones regulares.
+key_name.h	Este parámetro determina la tecla o accesos rápidos utilizados. Los nombres de tecla se deben separar mediante espacios en blanco, por ejemplo: 'ctrl + k'.
+key_desc.h	Este parámetro determina la tecla o accesos rápidos utilizados. Los nombres de tecla se deben separar mediante espacios en blanco, por ejemplo: 'ctrl + k'.
+force_display.h	Solo ayuda contextual\nIndica que el contenido de la macro siempre se visualiza como ayuda instantánea, incluso si la ayuda instantánea está desactivada durante la reproducción en el asistente de escritorio.
+link_to_sim.h	Esta opción incluirá el enlace a la simulación en la burbuja principal. Esta opción está relacionada con una navegación que se ha creado a partir de un proyecto de simulación (por conversión).
+macro_comment.h	Los comentarios generales se mostrarán en la vista en miniatura.
+match_value.h	Esta opción determina si el valor especificado debe compararse con el valor real del objeto en la aplicación en vivo.
+mini_on_focuslost.h	Esta opción define si se minimiza la búrbuja cuando el foco de la pantalla deje el objeto en cuestión correspondiente
+nav_check_freq.h	Define con qué frecuencia el @{NAVIGATOR} verifica el contenido actualizado. Si está disponible el contenido actualizado, el @{NAVIGATOR} iniciará el contenido automáticamente. Esto resulta especialmente útil para procesos de gestión de modificaciones.
+enable_tincan.h	Activa el seguimiento para @{NAVIGATOR} contenido. El contenido debe iniciarse desde un @{MANAGER} área de trabajo.
+no_spike.h	Esta opción define si la burbuja deberá o no representarse con una flecha.
+objname.h	En una navegación, cada objeto necesita un nombre unívoco a través del cual poder ser identificado.
+orientation.h	Este parámetro determina la orientación de la burbuja en relación con el objeto de referencia. La flecha de la burbuja señala a la posición referenciada en la página, mientras que la propia burbuja se muestra inclinada hacia la dirección seleccionada como se ha ordenado. Si se selecciona la orientación 'Centrada', la burbuja se mostrará sin una flecha en el centro de la posición definida.
+path.h	La vía de acceso a objeto describe las propiedades del objeto según el perfil de aplicación que se utilice. La vía de acceso a objeto se utiliza para identificar el objeto en la aplicación en productivo. Por regla general, no es necesario tratar este campo manualmente.
+position.h	Los valores que se indican aquí definen la posición de la burbuja principal en la pantalla. Los números describen la distancia desde la esquina superior izquierda de la pantalla en píxeles.
+reference.h	Si la navegación se ha convertido a partir de una simulación, aquí se debe especificar la fuente del paso correspondiente
+resize.h	Esta opción define si el tamaño de la ventana de aplicación de destino se debe cambiar automáticamente al tamaño que se ha utilizado al crear la navegación. Esto puede resultar útil para áreas activas que se visualizan según la posición.
+revision.h	Establece la versión del perfil de reconocimiento con la que se creará la clave durante la grabación de la pantalla.
+sc_config_header.h	La información del perfil de aplicación se graba en este campo. La navegación utiliza esta información para permitir un reconocimiento correcto de la aplicación y sus objetos durante la reproducción.
+screenshot_rect.h	Muestra el área de la pantalla original que se ha utilizado para la captura de pantalla del objeto. Por regla general, no será necesario tratar estos valores de forma manual.
+show_bubble.h	Esta opción define si la burbuja se muestra inmediatamente después de que se haya cargado totalmente la página
+start_from_arbitrary.h	Esta opción define que la visita guiada se puede iniciar desde un paso arbitrario y no desde el principio del proceso.
+show_hilight.h	Especifica si se muestra una marcación para el objeto.
+show_highlight.h	Especifica si se muestran las marcaciones para los objetos.
+show_on_focus.h	Esta opción define si se visualiza la burbuja cuando el foco de la pantalla se modifica respecto al objeto en cuestión
+source.h	Si la navegación se ha convertido a partir de una simulación, el parámetro indicará la unidad original.
+subkey.h	En algunos casos resulta útil si determinadas partes de la pieza original de una clave se ignoran, por ejemplo, porque las variantes de una página determinada no son relevantes y todas deben ser tratadas por la misma clave y paso en la navegación. Esta opción fuerza al mecanismo de reconocimiento a considerar una clave como coincidencia, aunque el reconocimiento haya notificado más criterios de clave en la página que lo definido en la clave. Por consiguiente, la clave de página se puede reducir para cubrir más de una página con una clave.
+target_name.h	Contiene el nombre asignado de la ventana de aplicación.
+text_d.h	Este parámetro contiene la cadena de caracteres que debe introducirse en el campo de entrada de referencia. Contiene el valor introducido durante el proceso automático de grabación. Esta cadena se inserta en los textos explicativos de la burbuja en los distintos modos en lugar del carácter reserva-espacio '${text_d}' (ver Modo texto en el Editor HTML) al generar automáticamente contenido de burbuja con módulos de texto durante la grabación.
+text_d_specializer.h	Este parámetro contiene la cadena de caracteres que debe introducirse en el campo de entrada de referencia. Contiene el valor introducido durante el proceso automático de grabación. Esta cadena se inserta en los textos explicativos de la burbuja en los distintos modos en lugar del carácter reserva-espacio '${text_d}' (ver Modo texto en el Editor HTML) al generar automáticamente contenido de burbuja con módulos de texto durante la grabación.
+tolerance.h	El valor define la tolerancia para el grado de coincidencia al fusionar macros de 'Pantalla'. Este ajuste está relacionado con la función 'Agrupar macros de pantalla' que se puede lanzar desde el menú 'Herramientas -> Modificaciones en masa'. Aumentando el valor se aumenta el umbral de tolerancia. En este caso, tenga en cuenta que también se pueden fusionar capturas de pantalla en las que se muestran distintos objetos. El valor se especifica en porcentaje.
+uid.h	Contiene un identificador unívoco de la macro con el que se gestiona en el proyecto.
+win_rect.h	Determina el tamaño de la ventana a crear el proyecto.
+explanation_type.h	Esta opción determina el tipo de nota. Según el tipo seleccionado podrá colocar junto con el texto un pictograma concreto para resaltar correspondientemente el texto indicativo.
+app_info.h	La parametrización define si la aplicación se muestra en la ayuda contextual. Si no se debe mostrar la aplicación, se deberá desactivar este ajuste.
+app_link_to_sim.h	Este parámetro se puede utilizar para mostrar un enlace a la simulación especificada en el parámetro 'Fuente' además del tipo de contexto. Para ello, se puede elegir entre diferentes modo.
+screen_info.h	La parametrización define si la página se muestra en la ayuda contextual. Si no se debe mostrar la página, se deberá desactivar este ajuste.
+screen_link_to_sim.h	Este parámetro se puede utilizar para mostrar un enlace a la simulación especificada en el parámetro 'Fuente' además del tipo de contexto. Para ello, se puede elegir entre diferentes modo.
+object_info.h	Solo ayuda contextual\nLa parametrización define la variante a visualizar para el objeto.
+open_expanded.h	Si la opción está activada, la burbuja principal se mostrará con listas abiertas de páginas y de objetos.
+display_on.h	Este parámetro establece en qué situación debe mostrarse la burbuja de navegación. Al comenzar la navegación, con la vista de la aplicación o con la de la página de aplicación correspondiente.
+area.h	El parámetro define la posición y el tamaño del control. Los dos primeros números indican la posición de un objeto de la izquierda y del ángulo superior de la pantalla. Los dos últimos números definen el ancho y alto del objeto. El pulsador junto al campo de entrada abre una ventana de diálogo de edición permitiendo la posición del objeto y el tamaño al que debe personalizarse.
+form_on.h	Define que el paso es un formulario. Todas las acciones del paso se visualizan en una burbuja durante la reproducción
+transition	Siguiente paso de la visita guiada
+transition_info	Siguiente paso de la visita guiada
+action_pa	Acción
+trans_action	Acción
+step_name1	Siguiente paso del proceso
+step_name2	Paso alternativo 1
+step_name3	Paso alternativo 2
+step_name4	Paso alternativo 3
+LClick	Clic en el botón izquierdo del ratón
+RClick	Clic en el botón derecho del ratón
+LDblClick	Doble clic en el botón izquierdo del ratón
+RDblClick	Doble clic en el botón derecho del ratón
+Focus	Foco
+FocusLost	Foco perdido
+step	Paso de visita guiada
+name	Nombre
+end_message	Texto
+show_end_window	Ventana de fin
+show_end_window.h	Indica que una ventana se muestra al final de la visita guiada. La ventana permite al usuario cerrar la visita guiada manualmente. Si esta opción está desactivada, la ventana no se mostrará y la visita guiada se cerrará automáticamente.
+trans_action.h	Solo visita guiada\nIndica la acción que lanza el salto al siguiente paso de visita guiada.
+action_pa.h	Esta parametrización especifica qué acción del usuario lanza el salto al siguiente paso de visita guiada
+step_name1.h	Solo visita guiada\nDefine el paso siguiente en el flujo del proceso.
+step_name2.h	Solo visita guiada\nDefine un paso de visita guiada alternativo si el paso de visita guiada definido no se puede visualizar.
+step_name3.h	Solo visita guiada\nDefine un paso de visita guiada alternativo si el paso de visita guiada definido alternativo 1 no se puede visualizar.
+step_name4.h	Solo visita guiada\nDefine un paso de visita guiada alternativo si el paso de visita guiada definido alternativo 2 no se puede visualizar.
+step_on_same_page.h	Solo visita guiada\nEsta parametrización debería activarse si el siguiente paso de visita guiada se encuentra en la misma página de aplicación. De esta manera no es necesario realizar nuevamente un reconocimiento de página.
+name.h	Defina el nombre del paso de la visita guiada. El nombre se muestra en las parametrizaciones 'Siguiente paso de visita guiada' de una macro de 'Objeto' para la selección.
+set_value	Fijar valor automáticamente
+set_value.h	La configuración define si el valor de la macro se fijará automáticamente durante la reproducción de la navegación
+end_message	Texto
+end_message.h	En el campo de texto se puede introducir un texto que aparecerá en la burbuja al final de un proceso. El campo de texto tiene asignado un texto estándar.
+restart_option	Pulsador de repetición
+restart_option.h	Si se activa esta opción, aparecerá un pulsador en la burbuja que el usuario puede utilizar para repetir un proceso. De esta forma se puede ejecutar nuevamente un proceso con datos diferentes.
+record_end_display	Tratar burbuja
+end_bubble	Burbuja fin de proceso
+bend_position	Posición
+bend_position.h	Los valores introducidos aquí indican la posición de la burbuja en la pantalla. Los valores se indican en píxeles y se refieren a la esquina superior izquierda de la pantalla.
+bend_style	Estilo
+bend_style.h	Con este ajuste se define el estilo de burbuja que se debe utilizar para la visualización de la burbuja. Los estilos de burbuja se definen mediante el editor de estilo de burbuja, que se puede abrir desde el menú 'Herramientas -> Tratar estilos de burbuja'. Los estilos de burbuja están siempre disponibles para toda el área de trabajo.
+bend_width	Ancho
+bend_width.h	Define el ancho en píxeles de la burbuja a representar.
+bend_height	Altura
+bend_height.h	Define la altura en píxeles de la burbuja a representar.
+process_start_unit	Estilo de visita guiada
+record_pa_control	Grabar paso de visita guiada
+prev_step	Paso anterior del proceso
+next_step	Siguiente paso del proceso
+disqualifier	Excluir página
+disqualifier.h	Con el 'Identificador de página' puede diferenciar entre páginas de aplicación similares mediante un objeto específico. Esta opción indica si la página de aplicación reconocida se debe mostrar o excluir si está disponible el 'Identificador de página'. \nLa vista en miniatura muestra el estado de la opción: un símbolo más (no excluir) o menos (excluir).
+exception_bubble	Burbuja, tratamiento excepcional
+bexp_position	Posición
+bexp_position.h	Los valores que se indican aquí definen la posición de la burbuja en la pantalla. Los valores se indican en píxeles. La burbuja aparecerá en la esquina superior izquierda de la pantalla.
+bexp_style	Estilo
+bexp_style.h	Aquí puede seleccionar el tipo de burbuja que desee utilizar. Los estilos de burbuja se pueden definir en el editor de estilo de burbuja, al que se accede desde el menú:  Herramientas -> Tratar estilos de burbuja.  Los distintos estilos de burbuja están siempre disponibles para toda el área de trabajo.
+content_demo	Modo demo
+content_demo.h	Con esta opción se muestran en el asistente de escritorio los modos de demostración contenidos en un grupo.
+content_practice	Modo de ejercicio
+content_practice.h	Con esta opción se muestran en el asistente de escritorio los modos de ejercicio contenidos en un grupo.
+content_test	Modo de prueba
+content_test.h	Con esta opción se muestran en el asistente de escritorio los modos de test contenidos en un grupo.
+content_concurrent	Modo práctico
+content_concurrent.h	Con esta opción se muestran en el asistente de escritorio los modos de práctica contenidos en un grupo.
+content_navi	Navegación
+content_navi.h	Con esta opción se muestran en el asistente de escritorio las navegaciones contenidas en un grupo.
+content_documentation	Documentación
+content_documentation.h	Con esta opción se muestran en el asistente de escritorio las documentaciones contenidas en un grupo.
+content_externals	Archivos externos
+content_externals.h	Con esta opción se muestran en el asistente de escritorio los archivos externos contenidos en un grupo.
+navi_style	Estilo
+navi_style.h	Define el aspecto de la burbuja de navegación. Seleccione un recurso de estilo de la lista
+menu_path:/record	Grabación
+F1HELPNAME	Ayuda
+alignment	Alineación de burbujas
+alignment.h	Especifica la alineación de la ventana de burbuja en la pantalla. La opción 'Libre' le permite definir una posición en el parámetro 'Posición de burbuja'.
+bform_alignment	Alineación
+bform_alignment.h	Define la alineación de la ventana de burbuja en la pantalla. La opción 'Libre' le permite definir una posición en el parámetro 'Posición de burbuja de formulario'.
+gloss_bubble	Burbuja glosario
+gloss_bubble_style	Estilo
+gloss_bubble_style.h	Define el aspecto de la burbuja glosario. Seleccione un recurso de estilo de la lista
+ellipse	Círculo
+gloss_bubble_size	Tamaño
+gloss_bubble_size.h	Define el tamaño (ancho, altura) de la burbuja glosario en píxeles
+Navi	Asistente de escritorio
+exclude_from_da	Excluir de asistente de escritorio
+exclude_from_da.h	Especifica que la clave de página no se considerará para el reconocimiento de contexto del asistente de escritorio
+all_as_descr	Utilizar Texto de
+all_as_descr.h	Define el tipo de texto para el @{NAVIGATOR}. El valor por defecto es Descripción breve.
+consider_roles	Considerar roles
+consider_roles.h	Activa la utilización de roles para la visualización de contenido durante la reproducción.
+consider_categories	Considerar categorías de contenido
+consider_categories.h	Activa la utilización de categorías de contenido para clasificar el contenido en la ventana principal del @{NAVIGATOR}.
+disable_ca_in_pa	Suprimir ayuda instantánea en visita guiada
+disable_ca_in_pa.h	Especifica si toda la información de la ayuda instantánea está oculta durante la reproducción de la visita guiada. Una vez que la visita guiada haya finalizado, la ayuda instantánea se muestra de nuevo.
+full_desc	Descripción
+shrt_desc	Descripción breve
+wrong_position	Error de posición
+help	Ayuda
+warning	Advertencia
+maintenance	Mantenimiento
+update	Actualización
+new	Nuevos
+training	Formación
+attachment	Anexo
+link	Enlace
+tip	Consejo
+note	Nota
+compliance	Cumplimiento
+mini_bubble_style	Estilo de mini símbolos
+mini_bubble_style.h	Define un recurso de estilo para los mini símbolos utilizados para el proyecto. Los mini símbolos son un tipo de recurso de los recursos adaptables. \nUn símbolo puede fijarse en cada acción y macro de explicación utilizando el parámetro 'Tipo de mini símbolo' en la sección 'Avanzado'.
+mini_bubble	Tipo de mini símbolo
+mini_bubble.h	Solo ayuda contextual\nDefine un tipo para el símbolo mini del objeto. El símbolo se basa en el 'Estilo de los mini símbolos' de la macro 'Estilo'.
+NavRecMouseWheel	Utilice la rueda del ratón para continuar. Pulse ESC para finalizar el desplazamiento del ratón
+search_type	Buscar tipo
+none	Ninguno
+search_in_lib	En @{LIBRARY}
+search_in_da	Grupo de asistentes de escritorio
+search_type.h	Especifica la funcionalidad de la búsqueda de contenido. Seleccione un tipo a partir de la lista desplegable. \nNinguno: desactiva la funcionalidad de búsqueda. \nEn @{LIBRARY}: Abre @{LIBRARY} para buscar en el @{LIBRARY} contenido. \nEn el grupo de asistentes de escritorio: Muestra la etiqueta "Búsqueda" en la ventana principal para buscar en el contenido del asistente de escritorio.
+errObjectUpdate	El objeto no se puede actualizar. Actualice el objeto con un tipo similar
+config_headers_differ1	La información del perfil está obsoleta. Haga clic en Continuar para actualizar el proyecto
+config_headers_differ2	Se recomienda crear un archivo antes de actualizar
+default_start_mode	Contenido inicial por defecto
+default_start_mode.h	Define el modo o formato de documento que se tiene que iniciar por defecto a partir de la lista de contenidos
+default_start_doc	Documento inicial por defecto
+default_start_doc.h	Define el tipo de documento si un documento está fijado en la parametrización Contenido inicial por defecto
+show_next_btn	Pulsador siguiente
+show_next_btn.h	Solo visita guiada\nIndica si el botón "Pasar al paso siguiente" se muestra en la burbuja del objeto.
+condition	Condición
+condition.h	Durante la reproducción, el valor indicado por el usuario debe coincidir con la condición para ir al siguiente paso o pasar a un paso específico. \nSeleccione 'Tratar condición' para crear o tratar una condición.
+errDuplicateContext	Esta aplicación ya se ha grabado
+add_sticky_notes	Mostrar control “Añadir nota rápida”
+add_sticky_notes.h	Permite visualizar un control añadiendo una nota rápida a una página. Puede especificar la posición del control en la barra lateral.
+show_instant_help_btn	Posición: Control "Ayuda instantánea"
+show_instant_help_btn.h	Le permite visualizar un control para activar la ayuda instantánea. Puede especificar la posición del control en la barra lateral.
+show_carousel	Mostrar carrusel
+show_carousel.h	Esta opción muestra el Asistente de escritorio en modo carrusel
+condition_pattern	Patrón de condición
+condition_pattern.h	Indique el patrón utilizado para la condición
+condition_value	Valor de condición
+condition_value.h	Contiene el valor utilizado para la condición. Indique un texto o un número basado en el patrón seleccionado
+condition_jump_target	Destino de salto
+condition_jump_target.h	Solo visita guiada\nIndica un destino de salto para la condición. Seleccione un paso de la lista desplegable. La navegación pasa al paso especificado si la condición coincide.
+condition_text	Texto de condición
+condition_text.h	Contiene un texto que se tiene que mostrar si la condición no se ha cumplido
+condition_case_sensitive	Dependiente de mayúsculas/minúsculas
+condition_case_sensitive.h	Indica que la condición es dependiente de mayúsculas/minúsculas
+condition_ignore_on_load	Ignorar al cargar la página
+condition_ignore_on_load.h	Solo ayuda contextual\nIndica que la condición no está verificada en la carga de la página. Se verifica la condición al utilizar un control correspondiente. Esto evita la visualización directa de la burbuja de condición.
+c_equals	Es igual que
+c_not_equals	No es igual que
+c_greater	Es mayor que
+c_greater_equals	Es mayor que o igual que
+c_less	Es menor que
+c_less_equals	Es menor que o igual que
+c_min_char	Cantidad mínima de caracteres
+c_max_char	Cantidad  máxima de caracteres
+c_num_char	Número de caracteres igual que
+c_reg_exp	Expresión regular
+vertical	Vertical
+horizontal	Horizontal
+AutoBarReady	Inactivo
+AutoBarExplanation	Insertar Explicación
+AutoBarChooseApp	Seleccionar aplicación
+AutoBarRecord	Grabar
+AutoBarBusy	Ocupado
+AutoBarPause	Pausa
+AutoBarReRecManualHotspot	Tratar control: Pulse Ctrl + Intro para ejecutar las modificaciones. Pulse Esc para rechazar las modificaciones
+wizAddExplanation	Añadir Explicación
+AutoBarNoRecognition	Sin controles reconocidos
+AutoBarDiagnosis	Diagnóstico
+condition_bubblestyle	Estilo de la burbuja
+condition_bubblestyle.h	Define qué recurso de estilo de burbuja se tiene que utilizar para visualizar el texto de condición
+condition_highlight_bgr	Color de marcación
+condition_highlight_bgr.h	Define el color de la marcación para el control
+IDS_MPI_TOURSTOP_LABEL	Nombre
+IDS_MPI_TOURSTOP_LABEL_MODIFIED	Traducir manualmente
+IDS_MPI_TOURSTOP_NAME	UID
+IDS_MPI_TOURSTOP_SHOW	Mostrar en la visualización del progreso
+IDS_MPI_TOURSTOP_JUMP	Destino de salto
+IDS_MPI_TOURSTOP_CALLABLE	Es subrutina
+basic_info	Propiedades básicas
+IDS_NO_IMAGE_SELECT	Ninguna imagen seleccionada
+IDS_NO_IMAGE	No existe imagen
+ID_INSERT_TAKE	Añadir paso
+ID_PRJ_LAYOUT_HORZ	Layout horizontal
+ID_PRJ_LAYOUT_VERT	Layout vertical
+ID_PRJ_LAYOUT_DIV	Layout dividido - 1
+ID_PRJ_LAYOUT_4	Layout dividido - 2
+ID_PRJ_LAYOUT_5	Layout dividido - 3
+IDS_UNTITLED	(Sin título)
+docTableHeaderStep	Paso
+layout_advanced	Layout avanzado
+showEditorHelp	Mostrar Ayuda del editor Web
+slide:insert_tb	Insertar
+slide:action_tb	Acción
+slide:structure_tb	Estructura
+slide:view_tb	Vista
+existing_scrs_in_prj	La imagen actual ya se ha utilizado más de una vez en su proyecto. \nSeleccione la imagen a la que desea añadir los objetos grabados.
+start_topic	Iniciar
+guided_tour	Visita guiada
+context_help	Ayuda de contexto
+off	Off
+main_bar_1	Barra principal 1
+main_bar_2	Barra principal 2
+main_bar_3	Barra principal 3
+main_bar_4	Barra principal 4
+main_bar_5	Barra principal 5
+main_bar_6	Barra principal 6
+main_bar_7	Barra principal 7
+main_bar_8	Barra principal 8
+sub_menu_1	Submenú 1
+sub_menu_2	Submenú 2
+sub_menu_3	Submenú 3
+sub_menu_4	Submenú 4
+sub_menu_5	Submenú 5
+sub_menu_6	Submenú 6
+content_btn	Posición: Control “Contenido”
+content_btn.h	Indica la posición del control “Contenido” en la barra lateral.
+search_btn	Posición: Control “Búsqueda”
+search_btn.h	Indica la posición del control “Búsqueda” en la barra lateral.
+orCenter	Centro
+orNorth	Norte
+orWest	Oeste
+orNortWest	Noroeste
+orEast	Este
+orNortEast	Noreste
+orSouth	Sur
+orSouthWest	Suroeste
+orSoutEast	Sureste
+screen_tolerence	Desviación permitida de la pantalla (%)
+screen_tolerence.h	El parámetro define la coherencia gráfica de las páginas de pantalla mostradas necesaria para las capturas de pantalla registradas en porcentajes, para visualizar la información contextual respectiva. Si las diferencias gráficas están por encima del valor definido, el @{NAVIGATOR} compara la llave lateral registrada con la página de pantalla y muestra los contenidos correspondientes en una página de aplicación diferente.
+video_folder	Carpeta de grabaciones de vídeo
+video_folder.h	Indica la carpeta para almacenar grabaciones de vídeo. \nNota: las grabaciones de vídeo no están almacenadas en la carpeta de caché de @{NAVIGATOR} a causa de sus tamaños de fichero.
+allow_video_rec	Permitir grabación de vídeo
+allow_video_rec.h	Permite a los usuarios grabar contenido de vídeo.
+hide_da_on_web_assistant	Ocultar @{NAVIGATOR} al ejecutar @{XRAY}
+hide_da_on_web_assistant.h	Especifica que las ventanas de @{NAVIGATOR} están ocultas al ejecutar @{XRAY} en primer plano.
+show_web_assistant_msg	Mostrar mensaje @{XRAY}
+show_web_assistant_msg.h	Especifica que se muestra un mensaje al ejecutar @{XRAY} en primer plano o sale del modo de primer plano.
+*	ayuda *
+alternate_text	Pasos de animación
+auto_hide	Ocultar tras animación
+auto_hide.h	Si esta opción está activada, la marca se ocultará automáticamente tras la conclusión de la animación.
+bmain_height	Altura
+bmain_height.h	Define la altura de las burbuja principal en píxeles. Si la cantidad de texto excede el espacio disponible en la burbuja, se ajustará la altura de forma automática al espacio necesario.
+bmain_style	Tipo
+bmain_style.h	Este ajuste establece qué tipo de burbuja se debe utilizar para la representación de la burbuja principal. Los tipos de burbujas se definen utilizando el 'Editor de tipo de burbuja' que puede lanzarse desde el menú 'Herramientas' -> 'Tratar tipos de burbuja'. Los tipos de burbuja están siempre disponibles para toda el área de trabajo.
+bmain_width	Anchura
+bmain_width.h	Define el ancho de la burbuja en píxeles.
+bottom_dock	Inferior anclado
+cache_stale_interval	Intervalo obsoleto (mín.)
+cache_stale_interval.h	Activa la utilización del caché del @{NAVIGATOR} y define un período para actualizar el contenido en la carpeta de caché. El valor se define en minutos. \nPara desactivar el caché, cambie el valor a '0'.
+centered	Centrado
+choose_nr.h	choose_text.h	Este parámetro contiene el conjunto de caracteres que se establecerá para las entradas seleccionadas en un menú contextual o un campo de lista durante la grabación automatizada. Esta cadena se añadirá durante la grabación en el texto explicativo de la burbuja y en los distintos modos en lugar del comodín '${choose_text}' (ver Modo texto en el Editor HTML), durante la generación automática de texto con un módulo también de texto.
+close_details	Cerrar ventana de contenido
+close_details.h	Define una clave de función para cerrar la ventana de contenido de un proyecto seleccionado
+confirmation_hotkey	Pulsador resaltado para confirmación de paso
+confirmation_hotkey.h	Define un pulsador resaltado para la confirmación de los pasos durante la reproducción del asistente de proceso
+detail_positioning	Alineación de la ventana de contenido
+detail_positioning.h	Define la alineación de la ventana de contenido en la pantalla. Excepto en la alineación 'Centrado', la ventana de contenido se acoplará a la ventana principal.
+detail_size	Tamaño de la ventana de contenido
+detail_size.h	Define el tamaño (ancho, alto) de la ventana de contenido en píxeles
+enable_search	Activar etiqueta de búsqueda
+enable_search.h	Activa la funcionalidad de búsqueda en el contenido del asistente de escritorio
+h_dock	Posición horizontal
+icon_position	Posición icono
+icon_position.h	Los valores introducidos aquí indican la posición del icono en la pantalla. Los valores se indican en píxeles y se refieren a la esquina superior izquierda de la pantalla.
+leaves_page	Abandona la página
+leaves_page.h	Esta opción muestra la navegación que sigue la acción simulada en un objeto para acceder a una nueva página. De esta forma se impulsará un nuevo análisis de página tan pronto como se haya realizado la acción en el objeto y la nueva página esté terminada.
+left_dock	Izquierda anclada
+library_height	Altura de la burbuja
+library_height.h	Define la altura de la burbuja en píxeles.
+library_width	Ancho de la burbuja
+library_width.h	Define el ancho de la burbuja en píxeles.
+maximize_details	Maximizar ventana de contenidos
+maximize_details.h	Define una clave de función para maximizar la ventana de contenidos
+next_doc	Seleccionar siguiente documento
+next_doc.h	Define una clave de función para seleccionar el siguiente documento en la ventana de contenidos
+next_project	Seleccionar siguiente proyecto
+next_project.h	Define una clave de función para seleccionar el siguiente proyecto en la ventana principal
+open_content	Abrir contenido
+open_content.h	Define una clave de función para abrir un objeto de contenido seleccionado
+open_details	Abrir ventana de contenidos
+open_details.h	Define una clave de función para abrir la ventana de contenidos para un proyecto seleccionado
+prev_doc	Seleccionar documento anterior
+prev_doc.h	Define una clave de función para seleccionar el documento anterior en la ventana de contenidos
+prev_project	Seleccionar proyecto anterior
+prev_project.h	Define una clave de función para seleccionar el proyecto anterior en la ventana principal
+right_dock	Derecha anclada
+show_execute	Mostrar pulsador Ejecutar
+show_execute.h	Define si se muestra un pulsador de ejecución en la burbuja del objeto durante la reproducción. El pulsador permite al usuario ejecutar una acción en la aplicación y, a continuación, se muestra el siguiente paso.
+show_icon_on_start	Mostrar símbolo de estado al inicio
+show_icon_on_start.h	Define si para el inicio del asistente de escritorio se mostrará el símbolo de estado en vez de la ventana principal
+start_doc	Abrir documento
+start_doc.h	Define una clave de función para abrir un documento seleccionado de la ventana de contenidos
+step_on_same_page	Paso en la misma página
+top_dock	Superior anclado
+v_dock	Posición vertical
+value.h	Cada objeto creado en una navegación contiene un identificador único (Unique Identifier), bajo el cual se administra el en proyecto.
+var_name.h	El parámetro define cómo se muestra la ayuda para un objeto y cómo se puede activar a través del usuario.

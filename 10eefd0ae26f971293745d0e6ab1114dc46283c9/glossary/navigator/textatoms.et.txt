@@ -1,0 +1,313 @@
+﻿#	Ingliskeelsed tekstiosad
+BULLET	&#149;
+NEWLINE	\r\n
+TOK_COMPANY	SAP
+TOK_LIB	Kursus
+TOK_TOUR	Õppetükk
+TOK_TRAINER	Desktop Assistant
+TOK_AUTOMATION	epo
+NAVIGATOR	Desktop Assistant
+NAV_LIBRARY	teek
+BTN_ABORT	Katkesta
+BTN_CLOSE	Katkesta
+BTN_OK	OK
+BTN_CLOSE_DLG	Sule
+BTN_CONTINUE	Jätka
+BTN_PREVIEW	Eelvaade
+BTN_PROCEED	Jätka
+BTN_RESTART	Käivita uuesti
+BTN_SKIP	Jäta samm vahele
+BTN_START	Käivita
+BTN_STOP	Peata
+BTN_EXECUTE	Täida
+CA_SWITCH	Kontekstispikker
+CONTENT_CAP	Sisu
+MAIL_SUBJECT	Sisutaotlus töölauaabimehele
+MAIL_HEADER	Lugupeetud autor,\n\nsoovin taotleda järgmist sisu:
+MAIL_FOOTER	- Protsess/toiming: kirjeldage praegu kasutatavat rakenduseprotsessi. \n\n- Kirjeldus: kirjeldage teavet, mida vajate. \n\nParimate soovidega,
+MAIL_DATA	- rakenduse nimi:
+MAIL_TOOLTIP	Taotluse sisu
+SHARE_TOOLTIP	Jaga sisu
+REQUEST_TEXT	Sisu taotletmiseks klõpsake %s
+REQUEST_LINK	siin
+SEARCH_CAP	Otsi
+INFO_CAP	Teave
+SETTINGS_CAP	Sätted
+BACK_TOOLTIP	Tagasi
+SHARE_CONTENT_TOOLTIP	Jaga sisu
+CB_HIDE_OPTION	Ära enam kuva
+MY_ROLES	Minu rollid
+EDIT_ROLES	Muuda rolle
+NO_ROLES	Kuva sisu rollideta
+SELECT_ALL_CAPTION	Vali kõik
+USER_CAPTION	Kasutajaala
+READ_MORE	Loe veel...
+NO_CATEGORY_CAPTION	Muu sisu
+DELETE_FAILED	Kustutamistoiming nurjus.
+RENAME_FAILED	Ümbernimetamistoiming nurjus.
+FILE_EXISTS	Sama nimega fail on juba olemas. Sisestage mõni muu nimi.
+LBL_YES	Jah
+LBL_DELETE	Kustuta
+LBL_NO	Ei
+LBL_OK	OK
+DELETE_DLG_TEXT	Kas soovite kindlasti valitud dokumendid (%N) kustutada?
+LBL_CONCURRENT	Käivita paralleelrežiim
+LBL_DA	Töölauaabimees
+LBL_SIM	Käivita simulatsioon
+LBL_CDOC	Ava
+LBL_DEMO	Käivita demorežiim
+LBL_NAVI	Käivita tutvustus
+LBL_BOOK	Esita raamatut
+LBL_GROUP	Ava teegis
+LBL_NAVIGATION	Töölauaabimees
+LBL_PA	Tutvustus
+LBL_PRACTICE	Käivita harjutusrežiim
+LBL_SIMULATION	Simulatsioon
+LBL_BOOKPAGE	Kuva raamatulehekülg
+LBL_TEST	Käivita testrežiim
+LBL_RECORD_DOCUMENT	Kirjedokument
+MSG_AUTOMATION_FINISHED	Automatiseerimine on lõpetatud
+MSG_AUTOMATION_FINISHED_2	Automaatse protsessi taaskäivitamiseks klõpsake nuppu Käivita uuesti.
+MSG_AUTOMATION_START	Redigeeri sisendväärtusi
+MSG_AUTOMATION_START_2	Kontrollige või redigeerige järgmisi väärtusi. Need sisestatakse protsessi käigus automaatselt.
+MSG_EPO_DIALOG	Elektrooniliste protsesside optimeerija
+MSG_NAVI_LIBRARY_NO_APP	Teavet pole saadaval.
+LBL_NAVI_NO_MATCH	Teie otsingule vastavaid tulemusi pole.
+NO_RECORDS	Saadaolevaid dokumente pole.
+MSG_NAVI_LIBRARY_SUBTITLE	Saadaolev sisu:
+MSG_NAVI_LIBRARY_TITLE	Töölauaabimees
+MSG_NOT_APPLICABLE	pole redigeeritav
+MSG_PA_CONTROL_STEP	Etapi jaoks nõutav toiming:
+MSG_PA_EXPLANATION_STEP	Navigeerige allpool näidatud kuvale.
+MSG_PA_FORM_STEP	Vormil täidetavad nõutavad väljad:
+MSG_PA_DIALOG	Tutvustus
+MSG_PA_START_SCREEN	Avage avakuva
+MSG_PA_STEP_NOT_FOUND	Aktiveerige nõutav kuva
+MSG_PA_STEP_NOT_FOUND1	Veenduge, et sihtrakendus (@{TARGETAPPNAME}) on avatud.
+MSG_PA_STEP_NOT_FOUND2	Navigeerige allpool kuvatud esiletõstetud juhtelemendiga kuvale.
+MSG_STEP_LIGHT	Etapi eelvaade
+MSG_STEP_NOT_FOUND	Juhendava tutvustuse etappi ei leitud.
+MSG_STEP_NOT_FOUND_2	Klõpsake sihtrakenduse tiitliriba või liikuge õigele kuvale.<br><br>Vajaliku kuva vaatamiseks klõpsake nuppu Eelvaade.
+PA_FINISHED	Tutvustus on lõpule jõudnud.
+PROJECT_TITLE	Projekti nimi
+TRAY_INFO_BUBBLE_HEADING	Tutvustus
+TRAY_INFO_BUBBLE_TEXT	Praegust etappi ei saa kuvada. Lisateabe saamiseks klõpsake siin.
+RESTRICTED_BUBBLE_HEADING	Toiming on blokeeritud
+RESTRICTED_BUBBLE_TEXT	Te ei saa käivitada toiminguid enne, kui praegune etapp on kinnitatud.
+HELP_TITLE	Spikker
+HELP_INTRO	Spikrist leiate rakenduse @{NAVIGATOR} põhiosad ja funktsioonid.</br></br><b>Märkus.</b> Saadaolevad funktsioonid sõltuvad rakenduse @{NAVIGATOR} konfiguratsioonist.</br>
+HELP_TITLE_DA	Külgriba ja Windows
+HELP_SIDEBAR_T	Külgriba
+HELP_SIDEBAR_H	Külgriba võimaldab käivitada rakenduse @{NAVIGATOR} põhifunktsioonid. Iga funktsiooni jaoks kuvatakse nupp. Külgriba saab pukseerimise abil teisaldada ning külgriba äärise saab klõpsamise abil minimeerida ja maksimeerida.
+HELP_CONTENT_CONTROL_T	Sisu
+HELP_CONTENT_CONTROL_H	Näitab, kas sisu on saadaval. Avab sisuga põhiakna.
+HELP_SEARCH_CONTROL_T	Otsi
+HELP_SEARCH_CONTROL_H	Avab otsingu sisu otsimiseks.
+HELP_EXTSEARCH_CONTROL_T	Väline otsing
+HELP_EXTSEARCH_CONTROL_H	Avab välise otsingu sisu otsimiseks.
+HELP_STICKY_CONTROL_T	Lisa märkmepaber
+HELP_STICKY_CONTROL_H	Lisab praeguse rakenduseakna jaoks märkmepaberi. Saate sisestada sinna teksti.
+HELP_RECORDING_CONTROL_T	Käivita salvestamine
+HELP_RECORDING_CONTROL_H	Käivitab protsessi salvestamise. Salvestatud protsess salvestatakse dokumendina kasutajaalale.
+HELP_MAIN_WINDOW_T	Põhiaken
+HELP_MAIN_WINDOW_H	Põhiaknas kuvatakse kindla lehekonteksti jaoks saadaolev sisu.</br>Tutvustuse taasesituse ajal kuvatakse aknas etappide loend.
+HELP_HEADER_T	Päis
+HELP_HEADER_H	Olekuikoon päises näitab, kas sisu on paeguse konteksti jaoks saadaval.
+HELP_CONTENT_TAB_T	Sisuvaade
+HELP_CONTENT_TAB_H	Vahekaardil kuvatakse praeguse rakenduse saadaolev sisu.
+HELP_CONTENT_VIEW_T	Sisuvaade
+HELP_CONTENT_VIEW_H	Sisuvaates kuvatakse valitud sisu saadaolev teave, režiimid ja dokumentatsioon.</br>Sisuloendisse naasmiseks saate kasutada juhtelementi Tagasi.
+HELP_SEARCH_TAB_T	Otsinguvahekaart
+HELP_SEARCH_TAB_H	Vahekaardil saate otsida oma kindlat sisu oma praeguse konteksti jaoks.
+HELP_INFO_TAB_T	Teabetabel
+HELP_INFO_TAB_H	Tabelis kuvatakse rakenduse @{NAVIGATOR} üldteave.
+HELP_USERAREA_TAB_T	Kasutajaala vahekaart
+HELP_USERAREA_TAB_H	Vahekaart sisaldab salvestatud protsessidokumente. Saate dokumendi avada, ühiskasutusse anda või kustutada. Samuti saate salvestada täiendavaid protsesse.
+HELP_INSTANT_T	Kiirspikker
+HELP_INSTANT_H	Aktiveeritud sätte korral kuvatakse praegusel rakendusekuval paremal täiendav kontekstiteave. Säte on vaikimisi lubatud.
+HELP_REQCONTENT_T	Taotluse sisu
+HELP_REQCONTENT_H	Avab meilisõnumiakna autorilt puuduva sisu taotlemiseks.
+HELP_SETTINGS_T	Sätted
+HELP_SETTINGS_H	Vaade sisaldab sätteid rakenduse @{NAVIGATOR} sisu kuvamiseks.
+HELP_MYROLES_T	Minu rollid
+HELP_MYROLES_H	See säte kuvab määratud rolli sisu.
+HELP_WITHOUTROLES_T	Kuva sisu rollideta
+HELP_WITHOUTROLES_H	See säte kuvab sisu määratud rollideta.
+HELP_EDITROLES_T	Rollid
+HELP_EDITROLES_H	Kõik sisu jaoks kasutatud rollid on loetletud ja neid saab sisu kuvamiseks aktiveerida või desaktiveerida.
+HELP_SHARECONTENT_T	Jaga sisu
+HELP_SHARECONTENT_H	Avab sisu lingiga dialoogiakna. Linki saab jagada teiste kasutajatega.
+HELP_REQUESTCONTENT_T	Taotle sisu
+HELP_REQUESTCONTENT_H	Avab eelmääratletud meilisõnumi, et taotleda kindla juhtumi sisu.
+HELP_PLAYBACK_CONTENT_T	Taasesita sisu
+HELP_PLAYBACK_CONTENT_H	Sisuaknas olevate nuppude abil saab käivitada või avada saadaolevat sisu.
+HELP_MINIMIZED_STATUS_T	Minimeeritud olek
+HELP_MINIMIZED_STATUS_H	Põhiakna sulgemise korral näitab ujuv olekuikoon endiselt, kas vastava konteksti jaoks on saadaval sisu. Põhiakna taastamiseks klõpsake ikooni.
+HELP_MINIMIZED_MENU_T	Kontekstimenüü
+HELP_MINIMIZED_MENU_H	Kontekstimenüü (hiire paremklõps ikoonil) sisaldab põhiakna kuvamise funktsioone ja kontekstispikrit.
+HELP_BOOK_WINDOW_T	Raamatuaken
+HELP_BOOK_WINDOW_H	Raamatu aken on raamatu taasesitamise ajal avatud. Põhiaken ja sisuaken on peidetud.
+HELP_GOTOTOP	Mine üles
+HELP_CAPTION	Rakenduse @{NAVIGATOR} spikker
+NAVHELP_TITLE	Olekuikoon ja kontekstimenüü
+NAVHELP_INTRO	</br>Spikker annab ülevaate olekuikoonist ja kontekstimenüü kirjetest.
+NAVHELP_STATUS_ICON_T	Olekuikoon (tegumiriba)
+NAVHELP_STATUS_ICON_H	Olekuikoon asub tegumiribal ja kuvab tarkvarakomponendi @{NAVIGATOR} praegused tegevused. Võimalikud on järgmised olekud:
+NAVHELP_STATUS_FOUND_T	Sisu ión saadaval (roheline ikoon)
+NAVHELP_STATUS_FOUND_H	Sisu on praeguse konteksti jaoks saadaval ja kuvatakse.
+NAVHELP_STATUS_CHECK_T	Sisu laadimine (kollane ikoon)
+NAVHELP_STATUS_CHECK_H	@{NAVIGATOR} kontrollib, kas praeguses kontekstis on saadaolevat sisu, ja laadib sisu.
+NAVHELP_STATUS_NOFOUND_T	Sisu pole saadaval (punane ikoon)
+NAVHELP_STATUS_NOFOUND_H	Sisu pole praeguse konteksti jaoks saadaval.
+NAVHELP_STANDBY_T	Keelatud
+NAVHELP_STANDBY_H	@{NAVIGATOR} on keelatud. Olekuikooni (<i>CTRL + F11</i>) klõpsamise korral @{NAVIGATOR} keelatakse või lubatakse.
+NAVHELP_STATUS_MIN_T	Minimeeritud
+NAVHELP_STATUS_MIN_H	Aknad ja külgriba on minimeeritud.
+NAVHELP_STATUS_MENU_T	Kontekstimenüü
+NAVHELP_STATUS_MENU_H	Kontekstimenüü (ikooni paremklõpsamisel) sisaldab tarkvarakomponendi @{NAVIGATOR} üldisi funktsioone.
+NAVHELP_VERSION_T	Kuva versioon
+NAVHELP_VERSION_H	Kuvab installitud rakenduse @{NAVIGATOR} versiooninumbri. See on vajalik probleemide korral toe poole pöördumisel.
+NAVHELP_JSCONSOLE_T	JavaScripti konsool
+NAVHELP_JSCONSOLE_H	Kuvab JavaScripti konsooli detailsete tõrketeadete lugemiseks. See on vajalik probleemide korral toe poole pöördumisel.
+NAVHELP_NAV_CACHE_T	Kustuta kohalik vahemälu
+NAVHELP_NAV_CACHE_H	Kustutab rakenduse @{NAVIGATOR} sisu kohaliku vahemälu.
+NAVHELP_RESET_HIDDEN_T	Kuva kogu peidetud spikker uuesti
+NAVHELP_RESET_HIDDEN_H	Lähtestab spikrielemendid, mis seati taasesituse ajal peidetuks.
+NAVHELP_EXIT_T	Välju
+NAVHELP_EXIT_H	Peatab taasesituse ja sulgeb rakenduse @{NAVIGATOR}.
+IDS_NAVP_ABOUT	Kuva versioon...
+IDS_NAVP_CONSOLE	JavaScripti konsool...
+IDS_NAVP_DELETE_CACHE	Kustuta kohalik vahemälu
+IDS_NAVP_HOOKER	Hooker
+IDS_SEARCH_INPUT	Otsi spikrisisu
+IDS_CLEAR_SEARCH	Tühjenda otsing
+IDS_NAVP_CLOSE	Välju
+IDS_RESET_CURRENT	Kuva uuesti peidetud spikrielement
+IDS_RESET_ALL	Kuva kogu peidetud spikker uuesti
+IDS_RESET_ALL_TIP	Kuva esimest korda kuvale sisenemisel kõik keelatud vihjed uuesti
+IDS_OPEN_RECORD_LBL	Ava
+IDS_EDIT_RECORD_LBL	Nimeta ümber
+IDS_DELETE_RECORD_LBL	Kustuta
+IDS_SHARE_RECORD_LBL	Jaga
+IDS_EXTERNAL_SEARCH_BTN	Väline otsing
+IDS_EXTERNAL_SEARCH_SUB_MENU	Väline otsing
+IDS_SHOW_SCREEN_ICON	Kuva töölauaabimees
+IDS_SHOW_DA	Kuva põhiaken
+IDS_SHOW_CONTENT	Kuva sisu
+IDS_HIDE_CONTENT	Peida sisu
+IDS_SEARCH_BTN	Otsi
+IDS_REQUEST_CONTENT_BTN	Taotluse sisu
+IDS_RECORDING_BTN	Käivita salvestamine
+IDS_SHOW_CA_SWITCH	Kuva kontekstispikker
+IDS_HIDE_CA_SWITCH	Peida kontekstispikker
+IDS_CA_SWITCH_INACTIVE_BTN	Kontekstispikker pole saadaval
+IDS_DO_CTX_RECOGNITION	Kuva kontekstispikker
+IDS_NAV_STANDBY	@{NAVIGATOR} on keelatud.
+IDS_NAV_NO_STANDBY	@{NAVIGATOR} on lubatud.
+IDS_SHOW_DA_PANELS	@{NAVIGATOR} on taas saadaval. Funktsiooni @{NAVIGATOR} saate kasutada, kui vajate abi.
+IDS_HIDE_DA_PANELS	@{NAVIGATOR} kadus automaatselt, kuna asjakohane spikker on saadaval parasjagu avatud rakenduses. Abi vajamise korral avage rakenduses spikker.
+IDS_ADD_STICKY_NOTES_BTN	Lisa märkmepaber
+IDS_ADD_STICKY_NOTES_INACTIVE_BTN	Saate selle rakenduse jaoks lisada ainult ühe märkmepaberi.
+IDS_EXIT_DA	Välju
+IDS_EXIT_DA_BTN	Välju
+IDS_EXIT_DA_SUB_MENU	Välju
+IDS_SHOW_MORE	Kuva rohkem
+IDS_HIDE_MORE	Peida veel
+IDS_REQUEST_CONTENT_SUB_MENU	Taotluse sisu
+IDS_SHOW_CA_SUB_MENU	Kuva kontekstispikker
+IDS_HIDE_CA_SUB_MENU	Peida kontekstispikker
+IDS_ADD_STICKY_NOTE_SUB_MENU	Lisa märkmepaber
+IDS_RECORDING_SUB_MENU	Käivita salvestamine
+IDS_CA_SWITCH_SUB_MENU	Kontekstispikker
+IDS_SHARE_DLG_CAPTION	Anna dokument ühiskasutusse
+IDS_DELETE_FRAMES	Raamide kustutamine
+OPEN_FOLDER	Ava kaust
+SHARE_DOC	Jaga meilitsi
+IDS_SHARE_DLG_TEXT	Mida soovite teha?
+IDS_SEARCH_BTN_SUB_MENU	Otsi sisu
+IDS_LIBRARY_SEARCH_BTN_SUB_MENU	Otsi sisu teegist
+GRACEFUL_DEGRADATION	See funktsioon pole võrguprobleemide tõttu ajutiselt saadaval. \n\nProovige hiljem uuesti.
+SHARE_BTN	Jaga meilitsi
+COPY_BTN	Kopeeri link
+SHARE_MAIL_SUBJECT	Soovitatud sisu
+SHARE_MAIL_HEADER	Lugupeetud kasutaja,\n\nSee sisu võib teile huvi pakkuda. \n\n
+SHARE_MAIL_FOOTER	Lugupidamisega
+SHARE_MAIL_LINK	Link:\t
+SHARE_MAIL_CAPTION	Pealdis:\t
+SHARE_TITLE	Jaga sisu
+SELECT_ASSET	Valige alustamiseks põhivara.
+ENTER_NAME	Sisestage nimi
+DELETE_RECORD_WRN	NB! Seda toimingut ei saa tagasi võtta.
+MSG_PA_NEXT_LBL	Järgmine
+MSG_PA_STEP_LBL	Etapiloend
+TOGGLE_STEPLIST_TOOLTIP	Kuva/peida etapiloend
+PREVIEW_STEP_TOOLTIP	Eelvaate etapp
+NEXT_STEP_TOOLTIP	Mine järgmisse etappi
+PREV_STEP_TOOLTIP	Mine eelmisse etappi
+ROLES_TITLE	Töölaua abimehe rollid
+ROLES_LBL	Filtreeri spikrisisu rolli järgi
+OK_CAPTION	OK
+CANCEL_CAPTION	Tühista
+BTN_YES	Jah
+BTN_NO	Ei
+DELETE_CONFIRM	Kas soovite kindlasti selle märkmepaberi eemaldada?
+EXIT_CONFIRM	Kas soovite kindlasti rakenduse @{NAVIGATOR} sulgeda?
+sticky_notes	Märkmepaberid
+exit_da	Sule @{NAVIGATOR}
+STICKY_NOTE_DEFAULT_TEXT	Lisage siia tekst.
+SEARCH_BTN_TOOLTIP	Otsi
+NEXT_BTN_TOOLTIP	Edasi
+PREV_BTN_TOOLTIP	Eelmine
+HIDE_BTN_TOOLTIP	Peida karussell
+IDS_PRJ_NAME	Sisestage nimi:
+IDS_APPLICATIONS	Valige aken:
+IDS_PRJ_LANGUAGE	Valige keel:
+IDS_FULL_SCREEN	Täisekraan
+IDS_CHOOSE_APP_CAPTION	Valige rakendus
+IDS_RECORD_BTN	Salvesta
+IDS_ANALYZE_ACTIONS	Toimingute analüüsimine...
+IDS_PARSE_PROJECT	Projekti sõelumine...
+IDS_REGION	Piirkond
+IDS_AREA_HELP	Saate muuta piirkonna suurust, valides alloleva malli. Piirkonna valimiseks skaleerige punast ristkülikut või valige kogu kuva.
+IDS_CHOOSE_SIZE	Valige suurus:
+IDS_DEFINE_REC_AREA	Salvestusala
+IDS_DEFINE_NAME_LANG	Genereeri sisu
+PLEASE_SELECT	Valige
+quick_recorder.help_caption	Näpunäide
+quick_recorder.help	Pausile panemiseks või jätkamiseks kasutage klahvi "PAUSE" (Paus). \nLõpuleviimiseks kasutage klahvi "END" (Lõpeta). \n\nSalvestamise käivitamiseks valige "OK".
+quick_recorder.audio_help	Pausile panemiseks või jätkamiseks kasutage klahvi „PAUSE“ (Paus). \nLõpuleviimiseks kasutage klahvi „END“ (Lõpeta). \n\nHeli:\nklõpsamise ajal heli ei salvestata. Rääkige tekst enne juhtelemendi valimist. \n\nSalvestamise käivitamiseks valige „OK“.
+FILE_EXISTS	Sama nimega fail on juba olemas. Sisestage mõni muu nimi.
+HELP_EXIT_CONTROL_H	Peatab taasesituse ja sulgeb rakenduse @{NAVIGATOR}.
+HELP_EXIT_CONTROL_T	Välju
+BTN_CLOSE_DLG	Sule
+DELETE_RECORD_WRN	NB! Seda toimingut ei saa tagasi võtta.
+ENTER_NAME	Sisestage nimi
+IDS_CLEAR_SEARCH	Tühjenda otsing
+IDS_RESET_ALL_TIP	Kuva esimest korda kuvale sisenemisel kõik keelatud vihjed uuesti
+IDS_SEARCH_INPUT	Otsi spikrisisu
+LBL_DELETE	Kustuta
+LBL_NAVI_NO_MATCH	Teie otsingule vastavaid tulemusi pole.
+LBL_TU	Ava
+MSG_PA_NEXT_LBL	Järgmine
+MSG_PA_STEP_LBL	Etapiloend
+RENAME_FAILED	Ümbernimetamistoiming nurjus.
+ROLES_LBL	Filtreeri spikrisisu rolli järgi
+SELECT_ASSET	Valige alustamiseks põhivara.
+LBL_CDOC	Ava
+LBL_RECORD_DOCUMENT	Kirjedokument
+QR_CAPTION	Vali salvestusväljund
+QR_WELCOME	Mida soovite luua?
+QR_DOC_CAP	Dokument
+QR_DOC_TXT	Loob Microsoft Wordi dokumendi, milles on iga salvestatava toimingu kuvatõmmis ja juhise tekst.
+QR_VIDEO_CAP	Video
+QR_VIDEO_TXT	Loob teie salvestisest kõrge kvaliteediga video.
+QR_DOC_VIDEO_CAP	Dokument ja video
+QR_DOC_VIDEO_TXT	Loob dokumendi ja video.
+SHARE_ERR_CAP	Salvestist ei saa jagada
+SHARE_ERR_TXT	Selle salvestise maht on meili teel jagamiseks liiga suur.\nKas soovite avada hoopis failiasukoha?
+HELP_CONTENT_WINDOW_H	Sisuaknas kuvatakse põhiakna valitud sisu saadaolev teave, režiimid ja dokumentatsioon.</br>Sisuakna saab dokkida põhiaknale, mis võimaldab mõlemaid aknaid kuval koos liigutada.
+HELP_CONTENT_WINDOW_T	Sisuaken
+IDS_CONTENT_BTN	Sisu
+MSG_PA_STEP_NOT_FOUND_NUMERAL_1	1.
+MSG_PA_STEP_NOT_FOUND_NUMERAL_2	2.
+SHARE_URL	Praeguse lehe URL:

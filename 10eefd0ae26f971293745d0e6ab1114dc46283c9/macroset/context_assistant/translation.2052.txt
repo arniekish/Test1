@@ -1,0 +1,765 @@
+﻿NAVIGATOR	Desktop Assistant
+XRAY	Web Assistant
+LIBRARY	library
+MANAGER	Manager
+form_bubble	表单浮动框
+bform_height	高度
+bform_height.h	定义要显示的表单浮动框的高度（像素）。
+bform_width	宽度
+bform_width.h	定义要显示的表单浮动框宽度（像素）。
+bform_position	位置
+bform_position.h	定义屏幕上“自由”对齐方式的表单浮动框位置（左上）。值以像素为单位。
+paramAutoMergeComplete	合并屏幕已完成。
+form	表单
+application_contexts	应用程序
+﻿Application	应用程序
+highlight_offset	偏移
+AutoBarChooseApp	选择应用程序
+AutoBarReRecManual	单击对象。
+BubbleOnActivate	直接显示浮动框
+ClickOnAAPosition	单击进入应用程序以定义矩形。
+ClickOnPosition	单击应用程序中的某个位置。
+EnabledOnPgLoad	激活
+HighlightOnActivate	直接显示突出显示
+start_from_arbitrary	从任意步骤启动
+focus_step	焦点层
+focus_step.h	仅向导浏览\n显示灰色层以突出显示当前步骤中所需的控件。
+yes	是
+no	否
+light_mode	交互模式
+light_mode.h	指定用户必须在对象浮动框中导航至下一步。回放期间不进行任何页面识别。
+restricted_mode	受限制的模式
+restricted_mode.h	指定只可执行当前操作。应用程序页面的其他控件都会被阻止。\n只有在激活“焦点层”的情况下才可使用该设置。
+show_highlight	突出显示
+action	操作
+active_area	活动区域
+add_application_expl	插入说明
+adv	高级
+display_behavior	显示行为
+all_values	所有值
+anim_steps	动画步骤
+application_context	应用程序
+area	区域
+auto_merge	合并屏幕宏
+b_height	高度
+form_on	表单模式
+b_percent	浮动框可见 (%)
+b_hide_option	隐藏选项
+b_minimizable	可最小化
+b_closable	可关闭
+b_minimized	最小化
+b_width	宽度
+b_width.h	以像素为单位定义对象浮动框宽度。
+bmain_minimizable	可最小化
+bmain_position	位置
+bmain_win_style	样式
+bmain_size	大小
+bmain_alignment	对齐
+bubble	对象浮动框
+bubble_offset	偏移
+bubblestyle_d	样式
+bubblestyle_init	浮动框样式
+choose_appl_template	选择应用程序参数文件
+choose_bool	所选值
+choose_nr	所选索引
+choose_text	所选值
+target_static_text	录制为“页面说明符”。
+target_spec_warning	警告：此控件无录制信息。
+prev_step	上一步
+next_step	下一步
+click	鼠标操作
+click_pos	单击位置
+click_pos_rel	浮动框位置
+config_file	应用程序参数文件
+define_target	屏幕
+display	编辑主浮动框
+display_name	显示名称
+drag	拖动
+drop	放下
+dump_page	截屏
+elem_bubble	对象浮动框
+element_type	对象类型
+enabled	已启用
+optional	可选
+enter	鼠标进入
+executable	应用程序
+explanation_d	文本
+explanation_d_modified	手动翻译
+explanation_long	说明
+fh_mouseover	鼠标悬停时显示帮助
+fh_onelem	图标
+fh_tooltip	工具提示
+fh_bubble	浮动框
+step_list	步骤列表
+fieldicon	对象图像
+fieldname	对象名称
+find	查找
+AutoBarChooseScn	单击相应屏幕
+frame	框架
+g_highlight_bgr	颜色
+g_highlight_border	边框
+g_highlight_effect	效果
+global	全局
+hide_on_focuslost	失去焦点后隐藏
+hilight	高亮显示
+input_radio	单选框/复选框
+input_text	输入文本
+init	初始化
+key	键
+key_desc	热键
+key_name	键代码
+key_press	按键
+lclick	左键单击
+ldblclick	左键双击
+force_display	强制显示
+auto_execute	自动执行
+show_confirmation	显示确认按钮
+show_confirmation.h	定义回放期间是否在对象浮动框中显示确认按钮。 用户使用该按钮可以确认执行的操作，之后会显示下一步骤。
+link_to_sim	插入模拟链接
+macro_comment	备注
+main_bubble	窗口
+match_value	匹配值
+mini_on_focuslost	失去焦点后最小化
+enable_tincan	@{NAVIGATOR} 跟踪
+nav_check_freq	更新频率（分钟）
+navigation	Desktop Assistant
+new_screen_context	新屏幕
+no_spike	无浮动框柄
+pa_caption	向导浏览
+none	无
+objname	对象名称
+orientation	方向
+path	对象路径
+position	位置
+rclick	右键单击
+rdblclick	右键双击
+record_activearea	录制活动区域
+record_application_context	录制应用程序
+no_control	单击位置无可用对象。
+record_control	录制对象
+record_control_pa	录制向导浏览步骤
+record_define_target	录制屏幕
+record_display	编辑主浮动框
+record_end_display	编辑浮动框
+record_explanation	添加说明
+record_object_context	录制对象
+record_screen_context	录制屏幕
+record_target_specializer	录制页面说明符
+record_compatible_application	录制兼容应用程序
+reference	源
+regexp	正则表达式
+replace	替换
+replace_continue	替换并继续...
+replace_pgkey_attr	替换页面键属性
+error_regexp	正则表达式无效。更正您的输入。
+resize	调整窗口大小
+revision	修订
+sc_config_header	参数文件信息
+screen	屏幕
+screenhelp	屏幕帮助
+screenshot_rect	截屏位置
+select_single	单选
+selected_merge	合并选定的屏幕宏
+show_bubble	直接显示
+show_hilight	显示突出显示
+show_on_focus	对准焦点时显示
+source	源
+start_unit	上下文帮助样式
+subkey	允许作为子键
+script	脚本
+target_name	标题
+target_specializer	页面说明符
+text_d	输入文本
+text_d_specializer	输入文本
+tolerance	合并屏幕宏容差
+translate	自动翻译
+autoTranslate	翻译项目
+paramReRecordLanguage	语言
+merge_critical_macros	自动合并宏
+merge_critical_macros.h	如果要将模拟转换为导航，可以自动合并以此方式创建的屏幕。将使用在参数“合并屏幕宏容差”中确定的容差值对上下文进行组合。
+uid	唯一标识
+underline	下划线
+update_control	更新对象
+update_target	更新屏幕
+variant	变式
+win_rect	窗口大小
+wizCancel	取消
+wizFinish	完成
+wizNext	下一个
+wizOk	确定
+wizExplanation	说明
+wizContinue	继续
+app_info	显示应用程序
+app_link_to_sim	为应用程序插入模拟链接
+screen_info	显示屏幕
+screen_link_to_sim	为屏幕插入模拟链接
+object_info	显示变式
+object_link_to_sim	插入模拟链接
+disabled	已禁用
+record_context_assistant_include	包括 @{NAVIGATOR} 项目
+project_id	项目标题
+project_id.h	参数包含已插入项目。“编辑链接”按钮允许您在工作区中选择项目。
+project	项目
+context_assistant_include	Desktop Assistant 项目
+open_expanded	显示高级主浮动框
+restart_option	重启按钮
+next_project_id	下一项目
+next_project_id.h	此选项用于定义完成当前流程后将启动的项目。 新流程直接启动，将不显示结束浮动框。
+end_unit	浏览结束
+add_end_unit	添加流程结束
+demo	演示模式
+uebung	练习模式
+praxis	并发模式
+test	测试模式
+doc	Word 文档
+pdf	PDF 文档
+html	HTML 文档
+ppt	PowerPoint 文档
+explanation_type	图标
+note	注释
+info	信息
+tipp	提示
+warnung	警告
+no_image	无图标
+display_on	显示主浮动框于
+nav_start	导航开始
+app_focus	应用程序焦点
+screen_focus	屏幕焦点
+never	不显示
+list_type	屏幕的列表类型
+list_type.h	此参数用于在屏幕已启用“显示所有对象信息”选项时确定屏幕上下文对象列表的类型。
+unordered_list	项目符号
+ordered_list	编号
+convert_sn	生成 Desktop Assistant
+Application	应用程序
+obj_context	对象
+expl_context	说明
+record_cntrl_type	类型
+disable_standby	禁用待机状态 (@{NAVIGATOR})
+disable_standby.h	指定无法设置@{NAVIGATOR} 的待机状态。 如果已取消激活此选项，可以使用快捷键 'CTRL + F11' 或单击状态图标设置待机状态。
+disable_exit	隐藏退出条目 (@{NAVIGATOR})
+disable_exit.h	指定@{NAVIGATOR} 状态图标的上下文菜单中的“退出”条目为隐藏状态。
+bcontent_style	浮动框样式
+bcontent_style.h	此设置用于定义将使用哪种浮动框样式显示浮动框。
+cache_properties	缓存
+cache_folder	文件夹位置
+cache_folder.h	指定缓存文件夹 'NavigatorCache' 的位置。缺省位置为 '%localappdata%'。可输入自定义位置。\n注：缓存文件夹名称不可更改。
+use_caching	使用缓存
+use_caching.h	激活@{NAVIGATOR} 缓存的使用。
+function_keys	功能键
+minimize_da	最小化
+minimize_da.h	定义用于最小化主窗口的功能键。
+next_tab	选择下个标签
+next_tab.h	定义用于在主窗口中选择下个标签的功能键。
+next_screen	转到下一屏幕
+next_screen.h	定义用于导航到所选项目下一屏幕的功能键。
+back	返回
+back.h	定义用于转到上一屏幕的功能键。
+toggle_standby	切换待机模式
+toggle_standby.h	定义用于切换待机模式的功能键。
+abort	中止
+abort.h	定义用于中止 Desktop Assistant 的功能键。
+restart	重新启动
+restart.h	定义用于重新启动 Desktop Assistant 的功能键。
+start_pa	启动 Desktop Assistant 项目
+start_pa.h	定义用于启动所选项目的功能键。
+start_demo	启动显示模式
+start_demo.h	定义用于启动所选演示模式的功能键。
+start_prac	启动练习模式
+start_prac.h	定义用于启动所选练习模式的功能键。
+start_test	启动测试模式
+start_test.h	定义用于启动所选测试模式的功能键。
+start_concur	启动并发模式
+start_concur.h	定义用于启动所选并发模式的功能键。
+start_book	启动书
+start_book.h	定义用于启动所选书的功能键。
+start_group	在库中打开
+start_group.h	定义用于在库中打开组的功能键。
+toggle_ctx_rec	切换上下文识别
+toggle_ctx_rec.h	定义用于切换 Desktop Assistant 上下文识别的功能键。
+select_next	选择下一条目
+select_next.h	定义用于在当前窗口中选择下一条目的功能键。
+select_prev	选择上一条目
+select_prev.h	定义用于在当前窗口中选择上一条目的功能键。
+toggle_warning	显示警告对话框
+toggle_warning.h	定义用于显示 Desktop Assistant 警告对话框的功能键。
+execute_step	执行步骤
+execute_step.h	定义回放向导浏览期间用于执行步骤的功能键。
+copy_link	复制链接
+copy_link.h	定义用于复制所选实体链接的功能键。
+maximize_trainer	最大化内容窗口
+maximize_trainer.h	定义用于最大化内容窗口的功能键。
+share_email	通过电子邮件共享
+share_email.h	定义用于通过电子邮件共享所选实体内容的功能键。
+start_default	启动缺省内容
+start_default.h	定义用于启动缺省模式或选定文档的功能键。
+show_da_help	显示 Desktop Assistant 帮助
+show_da_help.h	定义用于打开 Desktop Assistant 帮助的功能键。
+request_content	请求内容
+request_content.h	定义用于请求应用程序页面内容的功能键。
+search_content	搜索内容
+search_content.h	定义用于根据所选搜索类型搜索内容的功能键。
+show_hidden_elems	显示隐藏帮助要素
+show_hidden_elems.h	定义用于显示隐藏帮助要素的功能键。
+toggle_side_bar	显示/隐藏侧边栏
+toggle_side_bar.h	定义用于显示和隐藏侧边栏的功能键。
+content_library	Desktop Assistant - 内容和行为
+content_library_window	Desktop Assistant - 样式和窗口
+content_library_sidebar	Desktop Assistant - 侧边栏
+style	样式
+style.h	定义 Desktop Assistant 组件（主窗口、内容窗口、状态图标）的外观。从列表中选择样式资源。
+show_only_bar	启动时仅显示侧边栏
+show_only_bar.h	定义在启动 Desktop Assistant 时是仅显示侧边栏还是也显示主窗口。
+clear_on_mismatch	上下文不匹配时清除内容列表
+clear_on_mismatch.h	定义系统在找不到内容的时候清除内容列表。 如果取消激活此设置，将显示上次识别的对象的内容。
+da_positioning	主窗口对齐方式
+da_positioning.h	定义屏幕上主窗口的对齐方式。 “自由”选项允许在“主窗口位置”参数中定义位置。
+bar_positioning	侧边栏对齐
+bar_positioning.h	定义屏幕上的侧边栏对齐方式。
+left_top	左上角
+left_center	左侧中间
+left_bottom	左下角
+right_top	右上角
+right_center	右侧中间
+top_center	中上
+right_bottom	右下角
+center	居中
+free	自由
+list_order	内容排序
+list_order.h	定义列表中可用内容的排序。
+by_default	浏览器结构
+by_name	字母顺序
+by_type	字母（按类型）
+library_position	主窗口位置（自由）
+library_position.h	定义屏幕上“自由”对齐方式的主窗口位置（左上）。值以像素为单位。
+search_url	搜索组
+search_url.h	允许您指定工作区组以在@{LIBRARY} 中搜索内容。
+enable_recording	位置：“录制”控件
+enable_recording.h	允许您显示用于录制流程的控件。您可以指定该控件在侧边栏中的位置。\n该录制允许用户将流程作为 Microsoft Word 文档或视频进行录制。录制的文件将显示在主窗口中的“用户范围”标签上。
+enable_exit_da	位置：“退出”控件
+enable_exit_da.h	允许您显示用于退出 @{NAVIGATOR} 的控件。您可以指定控件在侧边栏中的位置。
+enable_info	显示“信息”标签
+enable_info.h	启用 Desktop Assistant 的主窗口的“信息”标签。在 Desktop Assistant 组的简短描述中插入信息文本。
+request_content_type	请求内容类型
+request_content_type.h	指定用于请求内容的功能。从下拉列表中选择类型。\n电子邮件：允许您为请求输入电子邮件地址。\nURL：允许您输入 URL 以打开网页。\n“请求内容”控件显示在侧边栏中。如果未找到任何内容，则在主窗口中显示“请求内容”链接。
+email	电子邮件
+url	URL
+enable_request_content	位置：“请求内容”控件
+enable_request_content.h	指定“请求内容”控件在侧边栏中的位置。
+enable_external_search_ctx	提供上下文信息
+enable_external_search_ctx.h	在搜索期间，提供用户以及搜索 URL 的附加上下文信息。该上下文信息将用于搜索。如果您的指定搜索可使用此上下文信息，则激活此设置。\n在“上下文信息”参数中指定提供的上下文信息。
+external_search_ctx	上下文信息
+external_search_ctx.h	如果已激活“提供上下文信息”设置，则指定此上下文信息。可提供以下上下文信息：当前应用程序的 EXE (&executable=$#{EXE})，当前应用程序页面的页面键值 (&pagekey=$#{PAGEKEY})\n注意：请勿更改上下文信息字符串的结构。
+enable_external_search	位置：“外部搜索”控件
+enable_external_search.h	允许您激活外部搜索页面以搜索内容或更多信息。激活此设置后，“外部搜索”控件会显示在侧边栏中。您可以指定该控件在侧边栏中的位置。\n该按钮将打开搜索字段以输入搜索词。搜索结果会显示在外部搜索页面上。要执行外部搜索，必须在“外部搜索 URL”参数中指定搜索 URL。
+external_search_url	URL
+external_search_url.h	允许您为外部搜索指定 URL。按以下结构输入 URL：\nhttps://www.google.com/#q=$#{SEARCHTERM}\nhttps://www.bing.com/search?q=$#{SEARCHTERM}\nhttps://search.yahoo.com/search?p=$#{SEARCHTERM}\nhttps://www.wolframalpha.com/input/?i=$#{SEARCHTERM}\n\n注意：请勿删除或更改 URL 参数的 '=$#{SEARCHTERM}'。
+enable_share_content	显示“共享内容”控件
+enable_share_content.h	在主窗口的页脚中显示“共享内容”按钮。 该按钮可打开包含所选内容链接的对话框。
+author_email	电子邮件
+author_email.h	允许您为请求内容指定电子邮件地址。该电子邮件地址用于“请求内容”功能。
+author_url	URL
+author_url.h	允许您为请求内容指定 URL。该 URL 用于“请求内容”功能。
+author_url_params	URL 参数
+author_url_params.h	允许您指定作者 URL 的参数。\n可以指定应用程序名称和可执行文件。 使用所需名称替换值“应用程序”或“可执行文件”。
+enable_fuzzy_match	启用模糊匹配
+enable_fuzzy_match.h	定义是否为了内容的上下文与应用程序页面匹配而使用模糊匹配。
+enable_ident_filter	启用高级应用程序标识
+enable_ident_filter.h	指定仅将相关的应用程序信息用于 @{NAVIGATOR} 回放。这允许您优化 @{NAVIGATOR} 的性能。\n注意：该选项可能导致错误的对象识别。建议在发布内容之前测试回放。
+library_size	主窗口大小
+library_size.h	以像素为单位定义主窗口的大小（宽度、高度）。
+book_win_position	内容窗口位置（自由）
+book_win_position.h	定义屏幕上“自由”对齐方式的内容窗口位置（左上）。值以像素为单位。
+book_win_size	内容窗口大小
+book_win_size.h	以像素为单位定义内容窗口的大小（宽度、高度）。
+book_win_positioning	内容窗口对齐
+book_win_positioning.h	定义屏幕上内容窗口的对齐方式。“自由”选项允许您在“内容窗口位置”参数中定义位置。
+errNoApplicationContext	当前宏不属于应用程序上下文。
+errNoTargetDefinition	该宏与目标定义不对应。
+errExtractPagekey	无法提取带参数文件的页面键：
+errScreenshot	无法截屏。重试。
+errLoadTemplate	无法加载参数文件：
+errRecordProcessStep	无法为“上下文帮助”项目录制向导浏览步骤。
+errLanguageSelection	未选择语言。
+errNoWriteToken	您不具有所选对象的写入权限。
+errMacroSelection	未选择宏。
+errObjectInformation	给定位置无对象信息。
+errSpecializedInformation	给定位置无详细信息。
+errPosition	位置不在窗口区域。
+errActionMacroSelection	未选择操作宏。
+errUpdateObject	无法更新所选对象类型。
+errInsertExplanation	无法为所选宏插入自由说明。
+action.h	仅向导浏览\n此选项用于定义用户应执行的对象操作。
+all_values.h	在某些情况下，应用程序对象包含标准 HTML 控件无法提供的选取值。然后，会在应用程序中使用一个最接近对象的控件。此字段还包含对象保存的所有选取值。
+anim_steps.h	该值用于定义所选的突出显示效果将通过几个步骤生成动画。较小值可提高动画的速度，但会导致动画不连贯。而较大值可使动画更加顺畅，但同时会减慢动画的整体速度。
+auto_execute.h	该设置定义操作将在导航回放过程中自动执行。
+b_height.h	以像素为单位定义对象浮动框高度。如果文本量超出浮动框中的可用空间，则其高度将自动缩放以达到所需的空间。
+b_hide_option.h	仅上下文帮助\n如果激活此选项，设置将出现在对象或说明浮动框中，最终用户可在此处取消激活对象信息（浮动框和突出显示）。 这样用户便可以隐藏任何不再需要的信息。
+b_minimizable.h	此选项定义回放期间是否可最小化浮动框。激活该选项后，浮动框标题中会显示“最小化”按钮。
+b_closable.h	仅上下文帮助\n此选项定义回放期间是否可关闭浮动框。 激活该选项后，浮动框标题中会显示“关闭”按钮。
+b_minimized.h	仅上下文帮助\n此选项用于定义在加载页面时是否以最小化显示对象浮动框。
+bmain_size.h	以像素为单位定义主窗口的大小（宽度、高度）。
+bmain_minimizable.h	此选项用于定义主窗口是否可最小化。
+bmain_position.h	此处输入的值用于定义主窗口在屏幕上的位置。该数值以像素为单位描述与屏幕左上角的距离。
+bmain_win_style.h	定义主窗口的外观。从列表中选择样式资源。
+bmain_alignment.h	定义屏幕上主窗口的对齐方式。 “自由”选项允许在“窗口位置”参数中定义位置。
+bubble_offset.h	此选项以像素为单位定义对象浮动框在显示时与对象间的偏移。
+bubblestyle_d.h	指定浮动框样式资源以显示项目的对象浮动框。
+bubblestyle_d.h	指定浮动框样式资源以显示项目的对象浮动框。
+choose_bool.h	此字段中包含的值可用于确定单选按钮或复选框是处于开启状态还是关闭状态。单选按钮的值始终为 '1'（开启）。复选框的值可以为 '0'（关闭）或 '1'（开启）。
+choose_text.h	此参数包含在自动录制流程中为弹出菜单或列表字段中的选定条目找到的字符串。此字符串将插入到不同模式的说明性浮动框文本中，取代占位符 '${choose_text}'（请参见 HTML 编辑器中的文本模式）。在录制过程中使用文本模块自动生成浮动框内容时，它将用作自动生成的浮动框文本的文本模块。
+click_pos.h	描述录制对象时作者在应用程序窗口中单击的位置。位置以像素为单位指定，并以应用程序窗口内容的左上角为参照。
+click_pos_rel.h	描述在应用程序窗口中的位置。以左边缘和上边缘为参照点，通过百分比 (%) 形式给出相对于应用程序窗口整体宽度和高度的位置。
+config_file.h	包含用于创建键及之后解释该键的应用程序参数文件的名称。
+display_name.h	指定应用程序名称。该名称将显示在向导浏览的异常窗口中。
+dump_page.h	包含录制的屏幕。\n您可以使用“替换图像”功能更改图像。
+element_type.h	说明识别机制辨识出的对象类。
+enabled.h	仅上下文帮助\n此选项用于定义是否将宏合并到页面分析中。如果取消激活此选项，即使页面上存在关联对象，也不会显示帮助对象。
+optional.h	仅向导浏览\n该选项定义向导浏览步骤对于流程中的用户是否可选。\n回放期间，步骤列表中会显示其他图标。如果控件在页面中不可见或页面错误，则会跳过该步骤。
+executable.h	包含操作系统所使用的程序的可执行文件名称。
+explanation_d.h	包含相应上下文的信息（文本、链接、图像等）。请确保主浮动框内的信息处于最佳显示状态。
+explanation_d_modified.h	如果已激活此选项，则不会再在自动翻译事件中自动生成上下文信息，而是必须对其进行手动编辑。 这有助于保留对浮动框内容的手动更改。
+fieldname.h	包含已插入到浮动框文本的已录制控件的名称。\n您可以在文本字段中更改对象名称。此对象名称具有占位符 '$#{fieldname}'。
+fieldicon.h	包含已插入到浮动框文本的已录制按钮或图标的图像。\n您可以使用“替换图像”功能更改对象图像。此对象图像具有占位符 '$I{fieldicon}'。
+g_highlight_bgr.h	用于定义导航中突出显示边框的标准颜色。颜色可作为十六进制格式的 RBG 值直接输入，也可从“颜色选取器”对话框中选择。
+g_highlight_border.h	此参数以像素为单位定义对象突出显示框架的常规粗细。可用的像素宽度从 '1' 到 '10'。
+g_highlight_effect.h	此选项确定在导航对象中使用的突出显示效果的种类。
+hide_on_focuslost.h	此选项用于定义当屏幕上的焦点离开有关对象时是否隐藏浮动框。
+highlight_offset.h	此参数定义围绕在标记要素周围的突出显示矩形的额外像素偏移。
+key.h	包含识别应用程序窗口和应用程序中特定页面的所有条件。只有当目标应用程序中的页面满足键中定义的所有条件时，该键才匹配。为简化单个键条件的定义，允许使用正则表达式。
+key_name.h	此参数用于确定使用的键或快捷方式。其中包括用空格分隔键名，如：'ctrl + k'。
+key_desc.h	此参数用于确定使用的键或快捷方式。其中包括用空格分隔键名，如：'ctrl + k'。
+force_display.h	仅上下文帮助\n指定宏内容始终显示为即时帮助，即使 Desktop Assistant 回放期间已禁用即时帮助。
+link_to_sim.h	此选项将包含主浮动框的模拟链接。此选项与基于模拟项目（通过转换）创建的导航相关。
+macro_comment.h	常规备注。以缩图视图显示。
+match_value.h	此选项用于指定是否将指示值与活动应用程序中对象的实际值进行比较。
+mini_on_focuslost.h	此选项用于定义当屏幕上的焦点离开有关对象时是否最小化浮动框。
+nav_check_freq.h	定义@{NAVIGATOR} 检查更新内容的频率。 如果更新内容可用，@{NAVIGATOR} 将自动启动该内容。 这对于变更管理流程特别有用。
+enable_tincan.h	激活对 @{NAVIGATOR} 内容的跟踪。该内容必须始于 @{MANAGER} 工作区。
+no_spike.h	此选项用于定义对象浮动框在显示时是否带柄。
+objname.h	在使用行为和行为分配时，导航中的每个对象需要一个唯一名称以便于识别。
+orientation.h	此参数定义对象浮动框相对于引用对象的方向。浮动框箭头指向页面上引用的位置，而浮动框自身按照指示显示在朝所选方向偏移的位置。如果选择方向“居中”，则显示的浮动框不含中心在定义位置的箭头。
+path.h	对象路径基于所用应用程序参数文件描述对象属性。对象路径用于标识活动应用程序中的对象。通常无需手动编辑此字段。
+position.h	此处输入的值用于定义主浮动框在屏幕上的位置。该数值以像素为单位描述与屏幕左上角的距离。
+reference.h	如果导航由模拟转换而来，则在此处指定对应步骤的来源。
+resize.h	此选项用于定义是否将目标应用程序的窗口大小自动更改为创建导航时所使用的窗口大小。这有助于基于位置显示活动区域。
+revision.h	显示录制应用程序屏幕时用于创建键的应用程序参数文件版本。
+sc_config_header.h	应用程序参数文件的信息保存在此字段中。在回放期间，导航使用此信息可正确识别应用程序及其对象。
+screenshot_rect.h	显示用于对象截屏的原始屏幕区域。通常无需手动编辑此值。
+show_bubble.h	此选项用于定义是否在页面加载完成后立即显示浮动框。
+start_from_arbitrary.h	此选项用于定义可以从任意步骤启动向导浏览，不必从流程开始时启动。
+show_hilight.h	指定是否为此对象显示突出显示。
+show_highlight.h	指定是否为对象显示突出显示。
+show_on_focus.h	此选项用于定义当屏幕上的焦点转到有关对象时是否显示浮动框。
+source.h	如果导航由模拟转换而来，则参数将指定原始课程。
+subkey.h	在忽略键的特定原始部分的情况下，该功能非常有用，因为特定页面的变式不相关而需要在导航中通过相同的键和步骤进行处理。此选项强制识别机制将键视为匹配，即使页面包含的由识别报告的键条件多于键中定义的数量也是如此。因此可缩短页面键，以便用一个键覆盖多个页面。
+target_name.h	包含应用程序窗口名称。
+text_d.h	此参数包含要输入到引用输入字段中的字符串。包含在自动录制流程中输入的值。此字符串将在录制过程中使用文本模块自动生成浮动框内容时插入到不同模式的说明性浮动框文本中，取代占位符 '${text_d}'（请参见 HTML 编辑器中的文本模式）。
+text_d_specializer.h	此参数包含要输入到引用输入字段中的字符串。包含在自动录制流程中输入的值。此字符串将在录制过程中使用文本模块自动生成浮动框内容时插入到不同模式的说明性浮动框文本中，取代占位符 '${text_d}'（请参见 HTML 编辑器中的文本模式）。
+tolerance.h	该值用于定义合并“屏幕”宏截屏时的匹配度容差。此设置与功能“合并屏幕宏”相关，可从“工具 -> 批量更改”菜单启动。增大该值将增加容差阈值。请注意，在此情况下还可合并显示不同对象的截屏。该值以百分比形式指定。
+uid.h	包含宏的唯一标识符，在项目中将根据此标识符管理宏。
+win_rect.h	定义在创建项目时的屏幕大小。
+explanation_type.h	此选项用于确定注释类型。根据类型设置，象形图会与文本一起显示，以便突出显示咨询文本。
+app_info.h	该设置用于定义是否在上下文帮助中显示应用程序。 如果不显示应用程序，则取消激活此设置。
+app_link_to_sim.h	此参数可用于显示“源”参数中指定模拟的链接以及上下文类型。可在流程中选择不同的模式。
+screen_info.h	该设置用于定义是否在上下文帮助中显示页面。 如果不显示屏幕，则取消激活此设置。
+screen_link_to_sim.h	此参数可用于显示“源”参数中指定模拟的链接以及上下文类型。可在流程中选择不同的模式。
+object_info.h	仅上下文帮助\n该设置用于定义要为对象显示的相关变式。
+open_expanded.h	如果激活此选项，将显示主浮动框，同时打开页面和对象列表。
+display_on.h	此参数用于定义显示导航主浮动框的位置。启动导航时，查看应用程序或查看相应的应用程序页面。
+area.h	此参数用于定义控件的位置和大小。前两位数表示对象相对于屏幕左侧和上方边缘的位置。后两位数定义对象的宽度和高度。单击输入字段旁的按钮可打开编辑对话框，可在其中定制对象的位置和大小。
+form_on.h	定义该步骤为表单。回放期间该步骤的所有操作将在一个浮动框中显示。
+transition	下一向导浏览步骤
+transition_info	下一向导浏览步骤
+action_pa	操作
+trans_action	操作
+step_name1	下一步
+step_name2	备选步骤 1
+step_name3	备选步骤 2
+step_name4	备选步骤 3
+LClick	左键单击
+RClick	右键单击
+LDblClick	左键双击
+RDblClick	右键双击
+Focus	焦点
+FocusLost	失去焦点
+step	向导浏览步骤
+name	名称
+end_message	文本
+show_end_window	结束窗口
+show_end_window.h	指定在向导浏览结束时显示窗口。 用户利用该窗口可以手动关闭向导浏览。 如果取消激活此选项，则不会显示窗口并且向导浏览将自动关闭。
+trans_action.h	仅向导浏览\n指定触发跳转到下一向导浏览步骤的操作。
+action_pa.h	此设置指定哪个用户操作触发跳转到下一向导浏览步骤。
+step_name1.h	仅向导浏览\n定义流程流中的下一步。
+step_name2.h	仅向导浏览\n如果无法显示定义的向导浏览步骤，则定义一个备选向导浏览步骤。
+step_name3.h	仅向导浏览\n如果无法显示定义的备选向导浏览步骤 1，则再定义一个备选向导浏览步骤。
+step_name4.h	仅向导浏览\n如果无法显示定义的备选向导浏览步骤 2，则再定义一个备选向导浏览步骤。
+step_on_same_page.h	仅向导浏览\n如果下一个向导浏览步骤位于同一应用程序页面，则应激活此设置。这样可避免页面识别。
+name.h	定义向导浏览步骤名称。该名称将显示在“对象”宏的“下一向导浏览步骤”设置中供选择。
+set_value	自动设置值
+set_value.h	此设置定义宏的值是否将在导航回放期间自动设置。
+end_message	文本
+end_message.h	流程结束时，可在浮动框内显示的这个文本框中输入文本。已使用缺省文本预设文本框。
+restart_option	重启按钮
+restart_option.h	激活此选项后，浮动框中将出现一个按钮，用户可使用这个按钮重复流程。如此便可使用其他条目再次执行流程。
+record_end_display	编辑浮动框
+end_bubble	浮动框流程结束
+bend_position	位置
+bend_position.h	此处输入的值用于定义浮动框在屏幕上的位置。值以像素为单位，位置相对于屏幕的左上角。
+bend_style	样式
+bend_style.h	此设置用于定义将使用哪种浮动框样式显示浮动框。 使用“浮动框样式编辑器”定义浮动框样式，打开路径为：菜单“工具”->“编辑浮动框样式”。 浮动框样式始终对整个工作区可用。
+bend_width	宽度
+bend_width.h	以像素为单位定义要显示的浮动框的宽度。
+bend_height	高度
+bend_height.h	以像素为单位定义要显示的浮动框的高度。
+process_start_unit	向导浏览样式
+record_pa_control	录制向导浏览步骤
+prev_step	上一步
+next_step	下一步
+disqualifier	排除屏幕
+disqualifier.h	利用“页面说明符”，可以通过特定对象区分相似的应用程序页面。 此选项指定，在存在“页面说明符”的情况下，应显示还是排除识别出的应用程序页面。\n缩略图视图显示选项的状态：加号（不排除）或减号（排除）。
+exception_bubble	浮动框异常处理
+bexp_position	位置
+bexp_position.h	此处输入的值用于定义浮动框在屏幕上的位置。该值以像素为单位。浮动框将显示在屏幕的左上角。
+bexp_style	样式
+bexp_style.h	在此可以选择要使用的浮动框类型。浮动框样式可在浮动框样式编辑器中进行定义，其菜单路径为：工具 -> 编辑浮动框样式。不同的浮动框样式始终可用于整个工作区。
+content_demo	演示模式
+content_demo.h	选择此选项后，将在 Desktop Assistant 中显示组的演示模式。
+content_practice	练习模式
+content_practice.h	选择此选项后，将在 Desktop Assistant 中显示组的练习模式。
+content_test	测试模式
+content_test.h	选择此选项后，将在 Desktop Assistant 中显示组的测试模式。
+content_concurrent	并发模式
+content_concurrent.h	选择此选项后，将在 Desktop Assistant 中显示组的并发模式。
+content_navi	导航
+content_navi.h	选择此选项后，将在 Desktop Assistant 中显示组的导航信息。
+content_documentation	文档
+content_documentation.h	选择此选项后，将在 Desktop Assistant 中显示组的文档。
+content_externals	外部文件
+content_externals.h	选择此选项后，将在 Desktop Assistant 中显示组的外部文件。
+navi_style	样式
+navi_style.h	定义导航窗口的外观。从列表中选择样式资源。
+menu_path:/record	录制
+F1HELPNAME	帮助
+alignment	浮动框对齐
+alignment.h	指定屏幕上浮动框窗口的对齐方式。 通过“自由”选项可在“浮动框位置”参数中定义位置。
+bform_alignment	对齐
+bform_alignment.h	定义屏幕上表单浮动框窗口的对齐方式。 通过“自由”选项可在“表单浮动框位置”参数中定义位置。
+gloss_bubble	词汇表浮动框
+gloss_bubble_style	样式
+gloss_bubble_style.h	定义词汇表浮动框的外观。从列表中选择样式资源。
+ellipse	圆形
+gloss_bubble_size	大小
+gloss_bubble_size.h	以像素为单位定义词汇表浮动框的大小（宽度、高度）。
+Navi	Desktop Assistant
+exclude_from_da	从 Desktop Assistant 中排除
+exclude_from_da.h	指定不会为 Desktop Assistant 的上下文识别考虑页面键值。
+all_as_descr	使用文本自
+all_as_descr.h	定义 @{NAVIGATOR} 的文本类型。缺省值为“简短描述”。
+consider_roles	考虑角色
+consider_roles.h	激活对角色的使用，以便在回放期间显示内容。
+consider_categories	考虑内容类别
+consider_categories.h	激活对内容类别的使用，以便在 @{NAVIGATOR} 的主窗口中排序内容。
+disable_ca_in_pa	在向导浏览中隐藏即时帮助
+disable_ca_in_pa.h	指定在向导浏览回放的过程中是否隐藏所有即时帮助信息。 向导浏览完成后，将重新显示即时帮助。
+full_desc	描述
+shrt_desc	简短描述
+wrong_position	位置错误
+help	帮助
+warning	警告
+maintenance	维护
+update	更新
+new	新建
+training	培训
+attachment	附件
+link	链接
+tip	提示
+note	注释
+compliance	合规性
+mini_bubble_style	微型图标样式
+mini_bubble_style.h	为用于该项目的微型图标定义样式资源。 微型图标属于可调整资源的资源类型。\n可以通过使用“高级”部分中的“微型图标类型”参数，在每个操作和说明宏中设置图标。
+mini_bubble	微型图标类型
+mini_bubble.h	仅上下文帮助\n为对象定义微型图标类型。 该图标基于已定义的“样式”宏的“微型图标样式”。
+NavRecMouseWheel	使用鼠标滚轮继续。按 ESC 可结束鼠标滚动。
+search_type	搜索类型
+none	无
+search_in_lib	在 @{LIBRARY} 中
+search_in_da	Desktop Assistant 组
+search_type.h	指定用于搜索内容的功能。从下拉列表中选择类型。\n无：取消激活搜索功能。\n在 @{LIBRARY} 中：打开 @{LIBRARY} 以在 @{LIBRARY} 内容中进行搜索。\n在 Desktop Assistant 组中：在主窗口中显示“搜索”标签以在 Desktop Assistant 内容中进行搜索。
+errObjectUpdate	无法更新对象。请将对象更新为相似类型。
+config_headers_differ1	参数文件信息已过期。请单击“继续”更新项目。
+config_headers_differ2	建议先创建归档，然后再更新。
+default_start_mode	缺省启动内容
+default_start_mode.h	定义缺省情况下要从内容列表中启动的模式或文档格式。
+default_start_doc	缺省启动文档
+default_start_doc.h	如果在“缺省启动内容”设置中设置了文档，用于定义该文档的类型。
+show_next_btn	下一按钮
+show_next_btn.h	仅向导浏览\n指定在对象浮动框中是否显示“转到下一步”按钮。
+condition	条件
+condition.h	在回放的过程中，用户输入的值必须与条件匹配，然后才能转到下一步或跳转到特定步骤。\n选择“编辑条件”以创建或编辑条件。
+errDuplicateContext	此应用程序已录制。
+add_sticky_notes	位置：“添加便笺”控件
+add_sticky_notes.h	允许您显示用于在页面上添加便笺的控件。您可以在侧边栏中指定控件的位置。
+show_instant_help_btn	位置：“即时帮助”控件
+show_instant_help_btn.h	允许您显示用于激活即时帮助的控件。您可以指定控件在侧边栏中的位置。
+show_carousel	显示轮播控件
+show_carousel.h	此选项以轮播控件模式显示 Desktop Assistant。
+condition_pattern	条件模式
+condition_pattern.h	指定用于条件的模式。
+condition_value	条件值
+condition_value.h	包含用于条件的值。根据所选模式输入文本或数字。
+condition_jump_target	跳转目标
+condition_jump_target.h	仅向导浏览\n指定条件的跳转目标。 从下拉列表中选择一个步骤。 如果条件匹配，导航将跳转到指定步骤。
+condition_text	条件文本
+condition_text.h	包含当未满足条件时所要显示的文本。
+condition_case_sensitive	区分大小写
+condition_case_sensitive.h	指定条件区分大小写。
+condition_ignore_on_load	页面加载时忽略
+condition_ignore_on_load.h	仅上下文帮助\n指定在页面加载时不检查条件。 在使用相应控件时将检查条件。 这样可避免直接显示条件浮动框。
+c_equals	等于
+c_not_equals	不等于
+c_greater	大于
+c_greater_equals	大于或等于
+c_less	小于
+c_less_equals	小于或等于
+c_min_char	最少字符数
+c_max_char	最多字符数
+c_num_char	字符数等于
+c_reg_exp	正则表达式
+vertical	垂直
+horizontal	水平
+AutoBarReady	空闲
+AutoBarExplanation	插入说明
+AutoBarChooseApp	选择应用程序
+AutoBarRecord	录制
+AutoBarBusy	忙碌
+AutoBarPause	暂停
+AutoBarReRecManualHotspot	编辑控件：按 Ctrl + Enter 继续执行更改。按 Esc 放弃更改。
+wizAddExplanation	添加说明
+AutoBarNoRecognition	未识别控件
+AutoBarDiagnosis	诊断
+condition_bubblestyle	浮动框样式
+condition_bubblestyle.h	定义用于显示条件文本的浮动框样式资源。
+condition_highlight_bgr	突出显示颜色
+condition_highlight_bgr.h	定义控件的突出显示颜色。
+IDS_MPI_TOURSTOP_LABEL	名称
+IDS_MPI_TOURSTOP_LABEL_MODIFIED	手动翻译
+IDS_MPI_TOURSTOP_NAME	唯一标识
+IDS_MPI_TOURSTOP_SHOW	在进度条中显示
+IDS_MPI_TOURSTOP_JUMP	跳转目标
+IDS_MPI_TOURSTOP_CALLABLE	为子例程
+basic_info	基本属性
+IDS_NO_IMAGE_SELECT	未选择图像
+IDS_NO_IMAGE	未找到图像
+ID_INSERT_TAKE	添加步骤
+ID_PRJ_LAYOUT_HORZ	水平布局
+ID_PRJ_LAYOUT_VERT	垂直布局
+ID_PRJ_LAYOUT_DIV	分割布局 - 1
+ID_PRJ_LAYOUT_4	分割布局 - 2
+ID_PRJ_LAYOUT_5	分割布局 - 3
+IDS_UNTITLED	（未命名）
+docTableHeaderStep	步骤
+layout_advanced	高级布局
+showEditorHelp	显示 Web 编辑器帮助
+slide:insert_tb	插入
+slide:action_tb	操作
+slide:structure_tb	结构
+slide:view_tb	视图
+existing_scrs_in_prj	当前屏幕在项目中已多次使用。\n选择要添加已录制对象的屏幕。
+start_topic	开始
+guided_tour	向导浏览
+context_help	上下文帮助
+off	关闭
+main_bar_1	主栏 1
+main_bar_2	主栏 2
+main_bar_3	主栏 3
+main_bar_4	主栏 4
+main_bar_5	主栏 5
+main_bar_6	主栏 6
+main_bar_7	主栏 7
+main_bar_8	主栏 8
+sub_menu_1	子菜单 1
+sub_menu_2	子菜单 2
+sub_menu_3	子菜单 3
+sub_menu_4	子菜单 4
+sub_menu_5	子菜单 5
+sub_menu_6	子菜单 6
+content_btn	位置：“内容”控件
+content_btn.h	指定“内容”控件在侧边栏中的位置。
+search_btn	位置：“搜索”控件
+search_btn.h	指定“搜索”控件在侧边栏中的位置。
+orCenter	居中
+orNorth	上
+orWest	左
+orNortWest	左上
+orEast	右
+orNortEast	右上
+orSouth	下
+orSouthWest	左下
+orSoutEast	右下
+screen_tolerence	容许的屏幕差异 (%)
+screen_tolerence.h	此参数以百分比形式针对要显示的关联上下文信息，定义显示屏幕页面与录制截屏间所需的图形匹配度。 如果图形差异高于定义的值，@{NAVIGATOR} 将比较录制页面键与屏幕页面，并为不同的应用程序页面显示相应的内容。
+video_folder	视频录制文件夹
+video_folder.h	指定用于存储视频录制的文件夹。\n注：由于文件大小，视频录制不存储在 @{NAVIGATOR} 的缓存文件夹中。
+allow_video_rec	允许视频录制
+allow_video_rec.h	允许用户录制视频内容。
+hide_da_on_web_assistant	运行 @{XRAY} 时隐藏 @{NAVIGATOR}
+hide_da_on_web_assistant.h	指定当 @{XRAY} 在前景中运行时，将隐藏 @{NAVIGATOR} 窗口。
+show_web_assistant_msg	显示 @{XRAY} 消息
+show_web_assistant_msg.h	指定当 @{XRAY} 在前景中运行或离开前景模式时显示消息。
+auto_hide	播放动画后隐藏
+auto_hide.h	如果启用此选项，动画完成后会再次自动隐藏突出显示。
+bmain_height	高度
+bmain_height.h	以像素为单位定义主浮动框高度。如果文本量超出浮动框中的可用空间，则其高度将自动缩放以达到所需的空间。
+bmain_style	样式
+bmain_style.h	此设置用于定义将使用哪种浮动框类型显示主浮动框。浮动框类型通过“浮动框类型编辑器”进行定义，该编辑器可从菜单“工具 -> 编辑浮动框类型”启动。浮动框类型始终可用于整个工作区。
+bmain_width	宽度
+bmain_width.h	以像素为单位定义主浮动框宽度。
+bottom_dock	停靠于底部
+cache_stale_interval	过时间隔（分钟）
+cache_stale_interval.h	激活 @{NAVIGATOR} 缓存的使用然后定义时限以更新缓存文件夹中的内容。 该值以分钟为单位定义。 \n要取消激活缓存，可将该值更改为 '0'。
+centered	居中
+close_details	关闭内容窗口
+close_details.h	定义用于关闭选定项目的内容窗口的功能键。
+confirmation_hotkey	步骤确认热键
+confirmation_hotkey.h	为流程助手回放过程中的步骤确认定义热键。
+detail_positioning	内容窗口对齐方式
+detail_positioning.h	定义屏幕上内容窗口的对齐方式。 除“居中”对齐方式外，内容窗口将停靠在主窗口旁。
+detail_size	内容窗口大小
+detail_size.h	以像素为单位定义内容窗口的大小（宽度、高度）。
+enable_search	启用搜索标签
+enable_search.h	在“桌面助手”内容中启用搜索功能
+h_dock	水平停靠
+icon_position	图标位置
+icon_position.h	此处输入的值用于定义图标在屏幕上的位置。该值以像素形式表示。图标将显示在屏幕的左上角。
+leaves_page	离开屏幕
+leaves_page.h	此选项用于指示导航此对象所需的操作将加载新页面。在执行对象操作并完成页面加载后，将立即执行新页面分析。
+left_dock	停靠于左侧
+library_height	浮动框高度
+library_height.h	将以像素为单位定义浮动框高度。
+library_width	浮动框宽度
+library_width.h	将以像素为单位定义浮动框宽度。
+maximize_details	最大化内容窗口
+maximize_details.h	定义用于最大化内容窗口的功能键。
+next_doc	选择下个文档
+next_doc.h	定义用于在内容窗口中选择下个文档的功能键。
+next_project	选择下个项目
+next_project.h	定义用于在主窗口中选择下个项目的功能键。
+open_content	打开内容
+open_content.h	定义用于打开所选内容对象的功能键。
+open_details	打开内容窗口
+open_details.h	定义用于打开选定项目的内容窗口的功能键。
+prev_doc	选择上个文档
+prev_doc.h	定义用于在内容窗口中选择上个文档的功能键。
+prev_project	选择上个项目
+prev_project.h	定义用于在主窗口中选择上个项目的功能键。
+right_dock	停靠于右侧
+show_execute	显示“执行”按钮
+show_execute.h	定义回放期间是否在对象浮动框中显示执行按钮。 用户可使用该按钮在应用程序中执行操作，之后会显示下一步骤。
+show_icon_on_start	启动时显示状态图标
+show_icon_on_start.h	定义桌面助手启动时是否显示状态图标而不显示主窗口。
+start_doc	打开文档
+start_doc.h	定义用于在内容窗口中打开所选文档的功能键。
+step_on_same_page	相同页面上的步骤
+top_dock	停靠于顶部
+v_dock	垂直停靠

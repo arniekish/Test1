@@ -1,0 +1,313 @@
+﻿#	Nguyên tử văn bản tiếng Anh
+BULLET	&#149;
+NEWLINE	\r\n
+TOK_COMPANY	SAP
+TOK_LIB	Khóa học
+TOK_TOUR	Bài học
+TOK_TRAINER	Desktop Assistant
+TOK_AUTOMATION	epo
+NAVIGATOR	Desktop Assistant
+NAV_LIBRARY	thư viện
+BTN_ABORT	Thoát
+BTN_CLOSE	Thoát
+BTN_OK	OK
+BTN_CLOSE_DLG	Đóng
+BTN_CONTINUE	Tiếp tục
+BTN_PREVIEW	Xem trước
+BTN_PROCEED	Tiếp tục
+BTN_RESTART	Bắt đầu lại
+BTN_SKIP	Bỏ qua
+BTN_START	Bắt đầu
+BTN_STOP	Dừng
+BTN_EXECUTE	Thực hiện
+CA_SWITCH	Trợ giúp ngữ cảnh
+CONTENT_CAP	Nội dung
+MAIL_SUBJECT	Yêu cầu nội dung hỗ trợ màn hình nền
+MAIL_HEADER	Kính gửi tác giả,\n\ntôi muốn yêu cầu nội dung về:
+MAIL_FOOTER	- Quy trình/Bản dịch: Vui lòng mô tả quy trình ứng dụng đang được sử dụng. \n\n- Mô tả: Vui lòng mô tả thông tin mà bạn cần. \n\nTrân trọng,
+MAIL_DATA	- Tên ứng dụng
+MAIL_TOOLTIP	Yêu cầu nội dung
+SHARE_TOOLTIP	Chia sẻ nội dung
+REQUEST_TEXT	Nhấp %s để yêu cầu nội dung
+REQUEST_LINK	tại đây
+SEARCH_CAP	Tìm kiếm
+INFO_CAP	Thông tin
+SETTINGS_CAP	Thiết lập
+BACK_TOOLTIP	Quay lại
+SHARE_CONTENT_TOOLTIP	Chia sẻ nội dung
+CB_HIDE_OPTION	Không hiện lại
+MY_ROLES	Vai trò của tôi
+EDIT_ROLES	Thay đổi vai trò
+NO_ROLES	Hiện nội dung không có vai trò
+SELECT_ALL_CAPTION	Chọn tất cả
+USER_CAPTION	Khu vực người dùng
+READ_MORE	Đọc thêm...
+NO_CATEGORY_CAPTION	Nội dung khác
+DELETE_FAILED	Không thể xóa hoạt động.
+RENAME_FAILED	Hoạt động đổi tên không thành công.
+FILE_EXISTS	Tập tin có cùng tên đã tồn tại rồi. Nhập tên khác.
+LBL_YES	Có
+LBL_DELETE	Xóa
+LBL_NO	Không
+LBL_OK	Ok
+DELETE_DLG_TEXT	Bạn có thực sự muốn xóa tài liệu (%N) đã chọn không?
+LBL_CONCURRENT	Bắt đầu chế độ đồng thời
+LBL_DA	Hỗ trợ màn hình nền
+LBL_SIM	Bắt đầu mô phỏng
+LBL_CDOC	Mở
+LBL_DEMO	Bắt đầu chế độ Demo
+LBL_NAVI	Bắt đầu tham quan có hướng dẫn
+LBL_BOOK	Phát sách
+LBL_GROUP	Mở trong thư viện
+LBL_NAVIGATION	Hỗ trợ màn hình nền
+LBL_PA	Tham quan có hướng dẫn
+LBL_PRACTICE	Bắt đầu chế độ thực hành
+LBL_SIMULATION	Mô phỏng
+LBL_BOOKPAGE	Hiển thị trang sách
+LBL_TEST	Bắt đầu chế độ kiểm tra
+LBL_RECORD_DOCUMENT	Ghi chứng từ
+MSG_AUTOMATION_FINISHED	Tự động hoàn thành
+MSG_AUTOMATION_FINISHED_2	Bấm vào "Bắt đầu lại" để bắt đầu lại quy trình tự động.
+MSG_AUTOMATION_START	 Chỉnh sửa giá trị nhập vào
+MSG_AUTOMATION_START_2	Kiểm tra hoặc chỉnh sửa những giá trị sau. Những giá trị này được nhập tự động khi thực hiện quy trình.
+MSG_EPO_DIALOG	Bộ tối ưu hóa quy trình điện tử
+MSG_NAVI_LIBRARY_NO_APP	Không có sẵn thông tin.
+LBL_NAVI_NO_MATCH	Không có kết quả cho tìm kiếm của bạn.
+NO_RECORDS	Không có sẵn tài liệu.
+MSG_NAVI_LIBRARY_SUBTITLE	Nội dung có sẵn:
+MSG_NAVI_LIBRARY_TITLE	Hỗ trợ màn hình nền
+MSG_NOT_APPLICABLE	Không thể chỉnh sửa
+MSG_PA_CONTROL_STEP	Thao tác yêu cầu cho bước:
+MSG_PA_EXPLANATION_STEP	Điều hướng đến màn hình hiển thị bên dưới.
+MSG_PA_FORM_STEP	Điền vào trường bắt buộc trong biểu mẫu:
+MSG_PA_DIALOG	Tham quan có hướng dẫn
+MSG_PA_START_SCREEN	Mở màn hình khởi động.
+MSG_PA_STEP_NOT_FOUND	Chuyển sang màn hình cần thiết
+MSG_PA_STEP_NOT_FOUND1	Đảm bảo rằng ứng dụng đích (@{TARGETAPPNAME}) ở chế độ mở.
+MSG_PA_STEP_NOT_FOUND2	Điều hướng đến màn hình có điều khiển được làm nổi bật hiển thị dưới đây:
+MSG_STEP_LIGHT	Xem trước bước
+MSG_STEP_NOT_FOUND	Không tìm thấy bước tham quan có hướng dẫn.
+MSG_STEP_NOT_FOUND_2	Nhấp chuột vào thanh tiêu đề của ứng dụng đích hoặc điều hướng đến màn hình bên phải.<br><br>Nhấp chuột vào 'Xem trước' để thấy màn hình đã yêu cầu.
+PA_FINISHED	Hoàn tất tham quan có hướng dẫn.
+PROJECT_TITLE	Tiêu đề dự án
+TRAY_INFO_BUBBLE_HEADING	Tham quan có hướng dẫn
+TRAY_INFO_BUBBLE_TEXT	Không thể hiển thị bước hiện tại. Nhấp vào đây để biết thêm thông tin.
+RESTRICTED_BUBBLE_HEADING	Thao tác bị chặn
+RESTRICTED_BUBBLE_TEXT	Bạn không thể thực thi bất kỳ thao tác nào cho đến khi bước hiện tại được xác nhận.
+HELP_TITLE	Trợ giúp
+HELP_INTRO	Trợ giúp cho bạn tổng quan về phần chính và chức năng của @{NAVIGATOR}.</br></br><b>Lưu ý:</b> Các chức năng sẵn có phụ thuộc vào cấu hình của @{NAVIGATOR}.</br>
+HELP_TITLE_DA	Cửa sổ và thanh bên
+HELP_SIDEBAR_T	Thanh bên
+HELP_SIDEBAR_H	Thanh bên cho phép bạn khởi động chức năng chính của @{NAVIGATOR}. Với mỗi chức năng, nút được hiển thị. Có thể di chuyển thanh bên bằng cách sử dụng kéo & thả và có thể thu nhỏ và phóng to bằng cách nhấp vào đường biên thanh bên.
+HELP_CONTENT_CONTROL_T	Nội dung
+HELP_CONTENT_CONTROL_H	Chỉ báo nếu có sẵn nội dung. Mở cửa sổ chính cùng nội dung.
+HELP_SEARCH_CONTROL_T	Tìm kiếm
+HELP_SEARCH_CONTROL_H	Mở tìm kiếm để tìm kiếm nội dung.
+HELP_EXTSEARCH_CONTROL_T	Tìm kiếm bên ngoài
+HELP_EXTSEARCH_CONTROL_H	Mở tìm kiếm bên ngoài để tìm kiếm nội dung.
+HELP_STICKY_CONTROL_T	Thêm ghi chú dính
+HELP_STICKY_CONTROL_H	Chèn ghi chú dính cho cửa sổ ứng dụng hiện tại. Có thể nhập văn bản cho ghi chú dính.
+HELP_RECORDING_CONTROL_T	Bắt đầu ghi
+HELP_RECORDING_CONTROL_H	Bắt đầu ghi quy trình. Quy trình đã ghi sẽ được lưu làm văn bản trong Khu vực người dùng.
+HELP_MAIN_WINDOW_T	Cửa sổ chính
+HELP_MAIN_WINDOW_H	Cửa sổ chính hiển thị nội dung sẵn có cho ngữ cảnh trang cụ thể.</br>Trong khi phát lại tham quan có hướng dẫn, cửa sổ sẽ hiển thị danh sách các bước.
+HELP_HEADER_T	Tiêu đề
+HELP_HEADER_H	Biểu tượng tr.thái trong tiêu đề cho biết nội dung có sẵn có cho ngữ cảnh hiện tại không.
+HELP_CONTENT_TAB_T	Thẻ nội dung
+HELP_CONTENT_TAB_H	Thẻ này hiển thị nội dung sẵn có cho ứng dụng hiện tại.
+HELP_CONTENT_VIEW_T	Màn hình nội dung
+HELP_CONTENT_VIEW_H	Màn hình nội dung hiển thị các thông tin, chế độ và tài liệu sẵn có cho nội dung đã chọn.</br>Bạn có thể sử dụng phím điều khiển 'Back' để quay lại danh sách nội dung.
+HELP_SEARCH_TAB_T	Tab tìm kiếm
+HELP_SEARCH_TAB_H	Bạn có thể tìm kiếm nội dung cụ thể về ngữ cảnh hiện thời trên tab.
+HELP_INFO_TAB_T	Tab thông tin
+HELP_INFO_TAB_H	Tab hiển thị thông tin chung về @{NAVIGATOR}.
+HELP_USERAREA_TAB_T	Thẻ khu vực người dùng
+HELP_USERAREA_TAB_H	Thẻ này chứa tài liệu quy trình đã ghi. Bạn có thể mở, chia sẻ, hoặc xóa tài liệu. Bạn có thể ghi thêm quy trình.
+HELP_INSTANT_T	Trợ giúp tức thời
+HELP_INSTANT_H	Với thông tin ngữ cảnh bổ sung thiết lập được kích hoạt hiển thị bên phải trên màn hình ứng dụng hiện thời. Thiết lập được kích hoạt theo mặc định.
+HELP_REQCONTENT_T	Yêu cầu nội dung
+HELP_REQCONTENT_H	Mở cửa sổ email về nội dung thiếu được yêu cầu của tác giả.
+HELP_SETTINGS_T	Thiết lập
+HELP_SETTINGS_H	Màn hình chứa thiết lập để hiển thị nội dung @{NAVIGATOR}.
+HELP_MYROLES_T	Vai trò của tôi
+HELP_MYROLES_H	Thiết lập này hiển thị nội dung cho vai trò đã gán.
+HELP_WITHOUTROLES_T	Hiện nội dung không có vai trò
+HELP_WITHOUTROLES_H	Thiết lập này hiển thị nội dung mà không có vai trò được gán.
+HELP_EDITROLES_T	Vai trò
+HELP_EDITROLES_H	Tất cả vai trò cho nội dung được liệt kê và có thể kích hoạt hoặc hủy kích hoạt hiện n.dung.
+HELP_SHARECONTENT_T	Chia sẻ nội dung
+HELP_SHARECONTENT_H	Mở hộp thoại với liên kết đến nội dung. Có thể chia sẻ liên kết với người dùng khác.
+HELP_REQUESTCONTENT_T	Yêu cầu nội dung
+HELP_REQUESTCONTENT_H	Mở email được xác định trước để yêu cầu nội dung cho trường hợp cụ thể.
+HELP_PLAYBACK_CONTENT_T	Phát lại nội dung
+HELP_PLAYBACK_CONTENT_H	Có thể bắt đầu hoặc mở nội dung sẵn có khi sử dụng nút trong cửa sổ nội dung.
+HELP_MINIMIZED_STATUS_T	Trạng thái thu nhỏ
+HELP_MINIMIZED_STATUS_H	Trong trường hợp bạn đóng cửa sổ chính, biểu tượng trạng thái di động sẽ cho biết nội dung có sẵn có cho ngữ cảnh hiện thời không. Nhấp biểu tượng để khôi phục cửa sổ chính.
+HELP_MINIMIZED_MENU_T	Trình đơn ngữ cảnh
+HELP_MINIMIZED_MENU_H	Trình đơn ngữ cảnh (nhấp chuột phải vào biểu tượng) gồm các chức năng hiển thị cửa sổ chính và trợ giúp ngữ cảnh.
+HELP_BOOK_WINDOW_T	Cửa sổ sách
+HELP_BOOK_WINDOW_H	Cửa sổ sách mở khi phát lại sách. Cửa sổ chính và cửa sổ nội dung ẩn.
+HELP_GOTOTOP	Lên đầu trang
+HELP_CAPTION	@{NAVIGATOR} Trợ giúp
+NAVHELP_TITLE	Trình đơn ngữ cảnh và biểu tượng tình trạng
+NAVHELP_INTRO	</br>Trợ giúp cung cấp cho bạn tổng quan về biểu tượng tình trạng và mục nhập trình đơn ngữ cảnh.
+NAVHELP_STATUS_ICON_T	Biểu tượng trạng thái (Thanh tác vụ)
+NAVHELP_STATUS_ICON_H	Biểu tượng trạng thái được đặt trong thanh tác vụ và hiển thị các hoạt động hiện thời của @{NAVIGATOR}. Có các trạng thái sau đây:
+NAVHELP_STATUS_FOUND_T	Nội dung sẵn có (Biểu tượng xanh lá)
+NAVHELP_STATUS_FOUND_H	Nội dung sẵn có cho ngữ cảnh hiện tại và được hiển thị.
+NAVHELP_STATUS_CHECK_T	Đang tải nội dung (Biểu tượng màu vàng)
+NAVHELP_STATUS_CHECK_H	@{NAVIGATOR} kiểm tra ngữ cảnh hiện thời cho nội dung sẵn có và tải nội dung.
+NAVHELP_STATUS_NOFOUND_T	Không sẵn có nội dung (Biểu tượng đỏ)
+NAVHELP_STATUS_NOFOUND_H	Không sẵn có nội dung cho ngữ cảnh hiện tại.
+NAVHELP_STANDBY_T	Tắt
+NAVHELP_STANDBY_H	@{NAVIGATOR} bị vô hiệu hóa. Bấm vào biểu tượng tình trạng (<i>CTRL + F11</i>) để bật hoặc tắt @{NAVIGATOR}.
+NAVHELP_STATUS_MIN_T	Thu nhỏ
+NAVHELP_STATUS_MIN_H	Cửa sổ và thanh bên được thu nhỏ.
+NAVHELP_STATUS_MENU_T	Trình đơn ngữ cảnh
+NAVHELP_STATUS_MENU_H	Trình đơn ngữ cảnh (nhấp chuột phải vào biểu tượng) bao gồm các chức năng chung của @{NAVIGATOR}.
+NAVHELP_VERSION_T	Hiện Phiên bản
+NAVHELP_VERSION_H	Hiển thị số phiên bản của @{NAVIGATOR} đã cài đặt. Điều này là cần thiết để liên hệ bộ phận hỗ trợ trong trường hợp gặp sự cố.
+NAVHELP_JSCONSOLE_T	JavaScript Console
+NAVHELP_JSCONSOLE_H	Hiển thị JavaScript Console để cung cấp thông báo lỗi chi tiết. Điều này là cần thiết để liên hệ bộ phận hỗ trợ trong trường hợp gặp sự cố.
+NAVHELP_NAV_CACHE_T	Xóa bộ nhớ đệm cục bộ
+NAVHELP_NAV_CACHE_H	Xóa bộ nhớ đệm cục bộ của nội dung @{NAVIGATOR}.
+NAVHELP_RESET_HIDDEN_T	Hiển thị tất cả trợ giúp đã nén lần nữa
+NAVHELP_RESET_HIDDEN_H	Thiết lập lại thành phần trợ giúp đã được thiết lập thành "Ẩn" trong khi phát lại.
+NAVHELP_EXIT_T	Thoát
+NAVHELP_EXIT_H	Dừng phát lại và đóng @{NAVIGATOR}.
+IDS_NAVP_ABOUT	Hiện phiên bản...
+IDS_NAVP_CONSOLE	JavaScript Console...
+IDS_NAVP_DELETE_CACHE	Xóa bộ nhớ đệm cục bộ
+IDS_NAVP_HOOKER	Hooker
+IDS_SEARCH_INPUT	Nội dung trợ giúp tìm kiếm
+IDS_CLEAR_SEARCH	Xóa tìm kiếm
+IDS_NAVP_CLOSE	Thoát
+IDS_RESET_CURRENT	Hiển thị lại yếu tố trợ giúp đã ẩn
+IDS_RESET_ALL	Hiển thị tất cả trợ giúp đã nén lần nữa
+IDS_RESET_ALL_TIP	Hiển thị tất cả gợi ý đã tắt lần nữa khi nhập màn hình lần đầu tiên.
+IDS_OPEN_RECORD_LBL	Mở
+IDS_EDIT_RECORD_LBL	Đổi tên
+IDS_DELETE_RECORD_LBL	Xóa
+IDS_SHARE_RECORD_LBL	Chia sẻ
+IDS_EXTERNAL_SEARCH_BTN	Tìm kiếm bên ngoài
+IDS_EXTERNAL_SEARCH_SUB_MENU	Tìm kiếm bên ngoài
+IDS_SHOW_SCREEN_ICON	Hiển thị hỗ trợ màn hình nền
+IDS_SHOW_DA	Hiển thị cửa sổ chính
+IDS_SHOW_CONTENT	Hiển thị nội dung
+IDS_HIDE_CONTENT	Ẩn nội dung
+IDS_SEARCH_BTN	Tìm kiếm
+IDS_REQUEST_CONTENT_BTN	Yêu cầu nội dung
+IDS_RECORDING_BTN	Bắt đầu ghi
+IDS_SHOW_CA_SWITCH	Hiển thị trợ giúp ngữ cảnh
+IDS_HIDE_CA_SWITCH	Ẩn trợ giúp ngữ cảnh
+IDS_CA_SWITCH_INACTIVE_BTN	Không có sẵn trợ giúp ngữ cảnh
+IDS_DO_CTX_RECOGNITION	Hiển thị trợ giúp ngữ cảnh
+IDS_NAV_STANDBY	@{NAVIGATOR} bị vô hiệu hóa.
+IDS_NAV_NO_STANDBY	@{NAVIGATOR} được bật.
+IDS_SHOW_DA_PANELS	@{NAVIGATOR} hiện tại có sẵn lần nữa. Bạn có thể sử dụng @{NAVIGATOR} nếu bạn cần bất kỳ hỗ trợ nào.
+IDS_HIDE_DA_PANELS	@{NAVIGATOR} tự động biến mất vì trợ giúp thích hợp có sẵn trong ứng dụng bạn đã mở hiện tại. Chỉ mở trợ giúp trong ứng dụng nếu bạn cần hỗ trợ thêm.
+IDS_ADD_STICKY_NOTES_BTN	Thêm ghi chú dính
+IDS_ADD_STICKY_NOTES_INACTIVE_BTN	Bạn chỉ có thể thêm một ghi chú dính cho ứng dụng này.
+IDS_EXIT_DA	Thoát
+IDS_EXIT_DA_BTN	Thoát
+IDS_EXIT_DA_SUB_MENU	Thoát
+IDS_SHOW_MORE	Hiển thị thêm
+IDS_HIDE_MORE	Ẩn thêm
+IDS_REQUEST_CONTENT_SUB_MENU	Yêu cầu nội dung
+IDS_SHOW_CA_SUB_MENU	Hiển thị trợ giúp ngữ cảnh
+IDS_HIDE_CA_SUB_MENU	Ẩn trợ giúp ngữ cảnh
+IDS_ADD_STICKY_NOTE_SUB_MENU	Thêm ghi chú dính
+IDS_RECORDING_SUB_MENU	Bắt đầu ghi
+IDS_CA_SWITCH_SUB_MENU	Trợ giúp ngữ cảnh
+IDS_SHARE_DLG_CAPTION	Chia sẻ tài liệu
+IDS_DELETE_FRAMES	Xóa khung
+OPEN_FOLDER	Mở thư mục
+SHARE_DOC	Chia sẻ qua email
+IDS_SHARE_DLG_TEXT	Bạn muốn làm gì?
+IDS_SEARCH_BTN_SUB_MENU	Tìm kiếm nội dung
+IDS_LIBRARY_SEARCH_BTN_SUB_MENU	Tìm kiếm nội dung trong thư viện
+GRACEFUL_DEGRADATION	Tính năng này tạm thời không sẵn có do vấn đề về mạng. \n\nVui lòng thử lại sau.
+SHARE_BTN	Chia sẻ qua email
+COPY_BTN	Sao chép liên kết
+SHARE_MAIL_SUBJECT	Nội dung đề nghị
+SHARE_MAIL_HEADER	Kính gửi người dùng,\n\nNội dung này có thể thú vị đối với bạn. \n\n
+SHARE_MAIL_FOOTER	Trân trọng,
+SHARE_MAIL_LINK	Liên kết:\t
+SHARE_MAIL_CAPTION	Chú thích:\t
+SHARE_TITLE	Chia sẻ nội dung
+SELECT_ASSET	Lựa chọn tài sản để bắt đầu.
+ENTER_NAME	Nhập tên
+DELETE_RECORD_WRN	Quan trọng: Không thể khôi phục hành động này.
+MSG_PA_NEXT_LBL	Tiếp theo
+MSG_PA_STEP_LBL	Danh sách bước
+TOGGLE_STEPLIST_TOOLTIP	Danh sách bước hiện / ẩn
+PREVIEW_STEP_TOOLTIP	Xem trước bước
+NEXT_STEP_TOOLTIP	Đến bước tiếp theo
+PREV_STEP_TOOLTIP	Đến bước trước
+ROLES_TITLE	Vai trò hỗ trợ màn hình nền
+ROLES_LBL	Lọc nội dung trợ giúp theo vai trò
+OK_CAPTION	OK
+CANCEL_CAPTION	Hủy
+BTN_YES	Có
+BTN_NO	Không
+DELETE_CONFIRM	Bạn có chắc chắn muốn xóa ghi chú dính này không?
+EXIT_CONFIRM	Bạn có thực sự muốn thoát @{NAVIGATOR}?
+sticky_notes	Ghi chú dính
+exit_da	Thoát @{NAVIGATOR}
+STICKY_NOTE_DEFAULT_TEXT	Thêm văn bản ở đây.
+SEARCH_BTN_TOOLTIP	Tìm kiếm
+NEXT_BTN_TOOLTIP	Tiếp theo
+PREV_BTN_TOOLTIP	Trước
+HIDE_BTN_TOOLTIP	Ẩn xoay vòng
+IDS_PRJ_NAME	Nhập tên:
+IDS_APPLICATIONS	Chọn cửa sổ:
+IDS_PRJ_LANGUAGE	Chọn ngôn ngữ:
+IDS_FULL_SCREEN	Toàn màn hình
+IDS_CHOOSE_APP_CAPTION	Chọn ứng dụng
+IDS_RECORD_BTN	Ghi
+IDS_ANALYZE_ACTIONS	Đang phân tích thao tác...
+IDS_PARSE_PROJECT	Đang phân tích cú pháp dự án...
+IDS_REGION	Vùng
+IDS_AREA_HELP	Thay đổi kích cỡ vùng bằng cách chọn mẫu bên dưới. Chia tỷ lệ hình chữ nhật đỏ để chọn vùng hoặc chọn toàn màn hình.
+IDS_CHOOSE_SIZE	Chọn kích cỡ:
+IDS_DEFINE_REC_AREA	Khu vực ghi
+IDS_DEFINE_NAME_LANG	Tạo nội dung
+PLEASE_SELECT	Vui lòng chọn
+quick_recorder.help_caption	Gợi ý
+quick_recorder.help	Sử dụng phím "PAUSE" để dừng hoặc tiếp tục. \nSử dụng phím "END" để kết thúc. \n\nChọn "OK" để bắt đầu ghi lại.
+quick_recorder.audio_help	Sử dụng phím "PAUSE" để dừng hoặc tiếp tục. \nSử dụng phím "END" để kết thúc. \n\nÂm thanh:\nÂm thanh của bạn sẽ không được ghi trong khi nhấp. Đọc văn bản của bạn trước khi lựa chọn kiểm soát. \n\nChọn "OK" để bắt đầu ghi lại.
+FILE_EXISTS	Tập tin có cùng tên đã tồn tại rồi. Nhập tên khác.
+HELP_EXIT_CONTROL_H	Dừng phát lại và đóng @{NAVIGATOR}.
+HELP_EXIT_CONTROL_T	Thoát
+BTN_CLOSE_DLG	Đóng
+DELETE_RECORD_WRN	Quan trọng: Không thể khôi phục hành động này.
+ENTER_NAME	Nhập tên
+IDS_CLEAR_SEARCH	Xóa tìm kiếm
+IDS_RESET_ALL_TIP	Hiển thị tất cả gợi ý đã tắt lần nữa khi nhập màn hình lần đầu tiên.
+IDS_SEARCH_INPUT	Nội dung trợ giúp tìm kiếm
+LBL_DELETE	Xóa
+LBL_NAVI_NO_MATCH	Không có kết quả cho tìm kiếm của bạn.
+LBL_TU	Mở
+MSG_PA_NEXT_LBL	Tiếp theo
+MSG_PA_STEP_LBL	Danh sách bước
+RENAME_FAILED	Hoạt động đổi tên không thành công.
+ROLES_LBL	Lọc nội dung trợ giúp theo vai trò
+SELECT_ASSET	Lựa chọn tài sản để bắt đầu.
+LBL_CDOC	Mở
+LBL_RECORD_DOCUMENT	Ghi chứng từ
+QR_CAPTION	Lựa chọn đầu ra bản ghi
+QR_WELCOME	Bạn muốn tạo cái gì?
+QR_DOC_CAP	Tài liệu
+QR_DOC_TXT	Tạo tài liệu Microsoft Word hiển thị ảnh chụp màn hình và văn bản hướng dẫn cho mỗi hành động bạn ghi lại.
+QR_VIDEO_CAP	Video
+QR_VIDEO_TXT	Tạo video chất lượng cao cho bản ghi của bạn.
+QR_DOC_VIDEO_CAP	Tài liệu và video
+QR_DOC_VIDEO_TXT	Tạo tài liệu và video.
+SHARE_ERR_CAP	Không thể chia sẻ bản ghi
+SHARE_ERR_TXT	Bản ghi này quá lớn không thể chia sẻ qua email.\nBạn có muốn mở vị trí tập tin thay thế không?
+HELP_CONTENT_WINDOW_H	Cửa sổ nội dung hiển thị thông tin sẵn có, chế độ và tài liệu cho nội dung được chọn của cửa sổ chính.</br>Có thể neo cửa sổ nội dung lên trên cửa sổ chính, cho phép bạn di chuyển cả hai cửa sổ cùng lúc trên màn hình.
+HELP_CONTENT_WINDOW_T	Cửa sổ nội dung
+IDS_CONTENT_BTN	Nội dung
+MSG_PA_STEP_NOT_FOUND_NUMERAL_1	1.
+MSG_PA_STEP_NOT_FOUND_NUMERAL_2	2.
+SHARE_URL	URL của trang hiện tại:

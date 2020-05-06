@@ -1,0 +1,766 @@
+﻿NAVIGATOR	Desktop Assistant
+XRAY	Web Assistant
+LIBRARY	library
+MANAGER	Manager
+form_bubble	Formulierbubble
+bform_height	Hoogte
+bform_height.h	Hiermee wordt de hoogte gedefinieerd van de vormbubble die in pixels wordt weergegeven.
+bform_width	Breedte
+bform_width.h	Hiermee wordt de breedte gedefinieerd van de vormbubble die in pixels wordt weergegeven.
+bform_position	Positie
+bform_position.h	Definieert de positie van de vormbubble (links, top) voor de "vrije" uitlijning op het scherm. De waarden worden in pixels gegeven.
+paramAutoMergeComplete	Samenvoegen van de schermen is voltooid.
+form	Formulier
+application_contexts	Applicatie
+﻿Application	Applicatie
+highlight_offset	Offset
+AutoBarChooseApp	Applicatie selecteren
+AutoBarReRecManual	Klik op object.
+BubbleOnActivate	Bubble direct weergeven
+ClickOnAAPosition	Klik in applicatie om rechthoek te definiëren
+ClickOnPosition	Klik op een positie in de applicatie.
+EnabledOnPgLoad	Activeren
+HighlightOnActivate	Markering direct weergeven
+start_from_arbitrary	Beginnen bij willekeurige stap
+focus_step	Focuslaag
+focus_step.h	Alleen rondleiding\nGeeft een grijze laag weer om het vereiste besturingselement in de huidige stap te markeren.
+yes	Ja
+no	Nee
+light_mode	Interactieve modus
+light_mode.h	Geeft aan dat de gebruiker in de objectbubble naar de volgende stap moet navigeren. Tijdens het afspelen wordt geen paginaherkenning uitgevoerd.
+restricted_mode	Beperkte modus
+restricted_mode.h	Geeft aan dat alleen de huidige actie kan worden uitgevoerd. De andere besturingselementen van de applicatiepagina worden geblokkeerd. \nDe instelling kan worden gebruikt als ‘Focuslaag weergeven’ is geactiveerd.
+show_highlight	Markeringen
+action	Actie
+active_area	Actief gebied
+add_application_expl	Toelichting invoegen
+adv	Geavanceerd
+display_behavior	Weergavegedrag
+all_values	Alle waarden
+anim_steps	Animatiestappen
+application_context	Applicatie
+area	Gebied
+auto_merge	Schermmacro's samenvoegen
+b_height	Hoogte
+form_on	Formuliermodus
+b_percent	Bubble zichtbaar (%)
+b_hide_option	Optie "Verbergen"
+b_minimizable	Mimimaliseerbaar
+b_closable	Beëindigbaar
+b_minimized	Geminimaliseerd
+b_width	Breedte
+b_width.h	Definieert de breedte van de objectbubble in pixels.
+bmain_minimizable	Mimimaliseerbaar
+bmain_position	Positie
+bmain_win_style	Type
+bmain_size	Grootte
+bmain_alignment	Uitlijning
+bubble	Objectbubble
+bubble_offset	Offset
+bubblestyle_d	Stijl
+bubblestyle_init	Bubblestijl
+choose_appl_template	Applicatieprofiel selecteren
+choose_bool	Geselecteerde waarde
+choose_nr	Geselecteerde index
+choose_text	Geselecteerde waarde
+target_static_text	is opgenomen als "Pagina-aanduiding".
+target_spec_warning	Waarschuwing: geen heropname-informatie beschikbaar voor dit besturingselement.
+prev_step	Vorige stap
+next_step	Volgende stap
+click	Muisactie
+click_pos	Klikpositie
+click_pos_rel	Bubblepositie
+config_file	Applicatieprofiel
+define_target	Scherm
+display	Hoofdbubble bewerken
+display_name	Weergavenaam
+drag	Slepen
+drop	Neerzetten
+dump_page	Screenshot
+elem_bubble	Objectbubble
+element_type	Objecttype
+enabled	Ingeschakeld
+optional	Optioneel
+enter	Muisinvoer
+executable	Applicatie
+explanation_d	Tekst
+explanation_d_modified	Handmatig vertalen
+explanation_long	Toelichting
+fh_mouseover	Help bij mouseover
+fh_onelem	Pictogram
+fh_tooltip	Tooltip
+fh_bubble	Bubble
+step_list	Stappenlijst
+fieldicon	Objectafbeelding
+fieldname	Objectnaam
+find	Zoeken
+AutoBarChooseScn	Op respectievelijk scherm klikken
+frame	Frame
+g_highlight_bgr	Kleur
+g_highlight_border	Rand
+g_highlight_effect	Effect
+global	Algemeen
+hide_on_focuslost	Bij focusverlies verbergen
+hilight	Markering
+input_radio	Keuzerondje/selectievakje
+input_text	Invoertekst
+init	Initieel
+key	Code
+key_desc	Sneltoets
+key_name	Toetscode
+key_press	Knopdruk
+lclick	Linkermuisklik
+ldblclick	Linkerdubbelklik
+force_display	Weergave forceren
+auto_execute	Automatisch uitvoeren
+show_confirmation	Bevestigingsknop weergeven
+show_confirmation.h	Definieert of de bevestigingsknop tijdens het afspelen wordt weergegeven in de objectbubble. De gebruiker kan met deze knop een uitgevoerde actie bevestigen. Hierna wordt de volgende stap weergegeven.
+link_to_sim	Simulatielink invoegen
+macro_comment	Commentaar
+main_bubble	Venster
+match_value	Waarde vergelijken
+mini_on_focuslost	Bij focusverlies minimaliseren
+enable_tincan	@{NAVIGATOR}-tracering
+nav_check_freq	Actualiseringsfrequentie (min)
+navigation	Desktophelp
+new_screen_context	Nieuw scherm
+no_spike	Zonder punt
+pa_caption	Rondleiding
+none	Geen
+objname	Objectnaam
+orientation	Richting
+path	Objectpad
+position	Positie
+rclick	Rechtermuisklik
+rdblclick	Rechterdubbelklik
+record_activearea	Actief gebied opnemen
+record_application_context	Applicatie opnemen
+no_control	Geen object beschibaar op geklikte positie.
+record_control	Object opnemen
+record_control_pa	Stap van rondleiding opnemen
+record_define_target	Scherm opnemen
+record_display	Hoofdbubble bewerken
+record_end_display	Bubble bewerken
+record_explanation	Toelichting toevoegen
+record_object_context	Object opnemen
+record_screen_context	Scherm opnemen
+record_target_specializer	Pagina-aanduiding opnemen
+record_compatible_application	Compatibele applicatie opnemen
+reference	Bron
+regexp	Reguliere uitdrukking
+replace	Vervangen
+replace_continue	Vervangen en doorgaan...
+replace_pgkey_attr	Paginacodeattributen vervangen
+error_regexp	Ongeldige reguliere uitdrukking. Corrigeer uw invoer.
+resize	Venstergrootte aanpassen
+revision	Wijziging
+sc_config_header	Profielinformatie
+screen	Scherm
+screenhelp	Schermhelp
+screenshot_rect	Screenshotpositie
+select_single	Eén object selecteren
+selected_merge	Geselecteerde schermmacro's samenvoegen
+show_bubble	Direct weergeven
+show_hilight	Markering weergeven
+show_on_focus	Bij focus weergeven
+source	Bron
+start_unit	Contexthelpstijl
+subkey	Als deelsleutel toegestaan
+script	Script
+target_name	Titel
+target_specializer	Pagina-aanduiding
+text_d	Invoertekst
+text_d_specializer	Invoertekst
+tolerance	Tolerantie schermmacro's samenvoegen
+translate	Automatische vertaling
+autoTranslate	Project vertalen
+paramReRecordLanguage	Taal
+merge_critical_macros	Macro's automatisch samenvoegen
+merge_critical_macros.h	Als u simulaties in navigaties converteert, kunt u automatisch schermen samenvoegen die zo zijn aangemaakt. Deze worden gecombineerd door gebruik van de tolerantiewaarde die is bepaald in de parameter "Tolerantie schermmacro's samenvoegen".
+uid	UID
+underline	Onderstrepen
+update_control	Object actualiseren
+update_target	Scherm actualiseren
+variant	Variant
+win_rect	Venstergrootte
+wizCancel	Annuleren
+wizFinish	Voltooien
+wizNext	Volgende
+wizOk	OK
+wizExplanation	Toelichting
+wizContinue	Doorgaan
+app_info	Applicatie weergeven
+app_link_to_sim	Simulatielink voor applicatie invoegen
+screen_info	Scherm weergeven
+screen_link_to_sim	Simulatielink voor scherm invoegen
+object_info	Variant weergeven
+object_link_to_sim	Simulatielink invoegen
+disabled	Uitgeschakeld
+record_context_assistant_include	Project @{NAVIGATOR} opnemen
+project_id	Projecttitel
+project_id.h	De parameter bevat het ingevoegde project. Via de knop "Link bewerken" kan het project in het werkgebied worden gekozen.
+project	Project
+context_assistant_include	Desktophelpproject
+open_expanded	Hoofdbubble geavanceerd weergeven
+restart_option	Knop "Herstarten"
+next_project_id	Volgend project
+next_project_id.h	Deze optie definieert een project dat zal worden gestart nadat het huidige proces in voltooid. Het nieuwe proces wordt direct gestart en er wordt geen eindbubble weergegeven.
+end_unit	Einde rondleiding
+add_end_unit	Proceseinde toevoegen
+demo	Demomodus
+uebung	Oefenmodus
+praxis	Praktijkmodus
+test	Testmodus
+doc	Word-document
+pdf	PDF-document
+html	HTML-document
+ppt	PowerPoint-document
+explanation_type	Pictogram
+note	Opmerking
+info	Info
+tipp	Tip
+warnung	Waarschuwing
+no_image	Geen pictogram
+display_on	Hoofdbubble weergeven bij
+nav_start	Begin navigatie
+app_focus	Applicatiefocus
+screen_focus	Schermfocus
+never	Niet weergeven
+list_type	Lijsttype voor scherm
+list_type.h	Deze parameter bepaalt het lijsttype van de objecten in het scherm, als de optie "Alle objectinformatie weergeven" hiervoor is ingeschakeld.
+unordered_list	Opsommingstekens
+ordered_list	Nummering
+convert_sn	Desktophelp genereren
+Application	Applicatie
+obj_context	Object
+expl_context	Toelichting
+record_cntrl_type	Type
+disable_standby	Schakel stand-bymodus uit (@{NAVIGATOR})
+disable_standby.h	Geeft aan dat de standbystatus van de @{NAVIGATOR} niet kan worden ingesteld. Als deze optie is gedeactiveerd, kunt u de standbystatus instellen via de snelkoppeling 'CTRL  + F11' of door te klikken op het statuspictogram.
+disable_exit	Gegeven "Afsluiten" verbergen  (@{NAVIGATOR})
+disable_exit.h	Geeft aan dat het gegeven 'Afsluiten' in het contextmenu van het statuspictogram van de @{NAVIGATOR} is verborgen.
+bcontent_style	Bubblestijl
+bcontent_style.h	Deze instelling definieert welk bubblestijl wordt gebruikt voor weergave van bubble.
+cache_properties	Cache
+cache_folder	Maplocatie
+cache_folder.h	Hiermee wordt de locatie van de cachemap "NavigatorCache" gespecificeerd. De standaardlocatie is "%localappdata%". U kunt een klantlocatie invoeren. \nOpmerking: de naam van de cachemap kan niet worden gewijzigd.
+use_caching	Caching gebruiken
+use_caching.h	Activeert het gebruik van de cache @{NAVIGATOR}.
+function_keys	Functietoetsen
+minimize_da	Minimaliseren
+minimize_da.h	Hiermee wordt een functietoets gedefinieerd voor het minimaliseren van het hoofdvenster.
+next_tab	Volgend tabblad selecteren
+next_tab.h	Hiermee wordt een functietoets gedefinieerd voor het selecteren van het volgende tabblad in het hoofdvenster.
+next_screen	Ga naar volgend scherm
+next_screen.h	Definieert een functietoets om naar het volgende scherm te navigeren voor een geselecteerd project.
+back	Ga terug
+back.h	Definieert een functietoets om naar het vorige scherm te gaan.
+toggle_standby	Stand-bymodus omschakelen
+toggle_standby.h	Hiermee wordt een functietoets gedefinieerd voor het omschakelen van de stand-bymodus.
+abort	Afbreken
+abort.h	Hiermee wordt een functietoets gedefinieerd voor het afbreken van de desktophelp.
+restart	Opnieuw starten
+restart.h	Hiermee wordt een functietoets gedefinieerd voor het herstarten van de desktophelp.
+start_pa	Desktophelpproject starten
+start_pa.h	Hiermee wordt een functietoets gedefinieerd voor het starten van een geselecteerd project.
+start_demo	Demomodus starten
+start_demo.h	Hiermee wordt een functietoets gedefinieerd voor het starten van een geselecteerde demomodus
+start_prac	Oefenmodus starten
+start_prac.h	Hiermee wordt een functietoets gedefinieerd voor het starten van een geselecteerde oefenmodus.
+start_test	Testmodus starten
+start_test.h	Hiermee wordt een functietoets gedefinieerd voor het starten van een geselecteerde testmodus.
+start_concur	Praktijkmodus starten
+start_concur.h	Hiermee wordt een functietoets gedefinieerd voor het starten van een geselecteerde praktijkmodus.
+start_book	Boek starten
+start_book.h	Hiermee wordt een functietoets gedefinieerd voor het starten van een geselecteerd boek.
+start_group	Openen in bibliotheek
+start_group.h	Definieert een functietoets om een groep in de library te openen.
+toggle_ctx_rec	Contextherkenning omschakelen
+toggle_ctx_rec.h	Hiermee wordt een functietoets gedefinieerd voor het omschakelen van de contextherkenning van de desktophelp.
+select_next	Volgend gegeven selecteren
+select_next.h	Definieert een functietoets om het volgende gegeven in het huidige venster te selecteren.
+select_prev	Vorig gegeven selecteren
+select_prev.h	Definieert een functietoets om het vorige gegeven in het huidige venster te selecteren.
+toggle_warning	Waarschuwingsdialoog weergeven
+toggle_warning.h	Hiermee wordt een functietoets gedefinieerd voor het weergeven van de waarschuwingsdialoog van de desktophelp.
+execute_step	Stap uitvoeren
+execute_step.h	Hiermee wordt een functietoets gedefinieerd voor het uitvoeren van een stap tijdens het afspelen van de rondleiding.
+copy_link	Link kopiëren
+copy_link.h	Definieert een functietoets om de link naar de geselecteerde entiteit te kopiëren.
+maximize_trainer	Contentvenster maximaliseren
+maximize_trainer.h	Hiermee wordt een functietoets gedefinieerd voor het maximaliseren van het contentvenster.
+share_email	Delen via e-mail
+share_email.h	Definieert een functietoets om content van de geselecteerde entiteit te delen via e-mail.
+start_default	Standaardcontent starten
+start_default.h	Definieert een functietoets om de standaardmodus of het geselecteerde document te starten.
+show_da_help	Desktophelp weergeven
+show_da_help.h	Definieert een functietoets om de desktophelp te openen.
+request_content	Content aanvragen
+request_content.h	Definieert een functietoets om content aan te vragen voor een applicatiepagina.
+search_content	Content zoeken
+search_content.h	Definieert een functietoets om te zoeken naar content afhankelijk van het geselecteerde zoektype.
+show_hidden_elems	Alle verborgen Helpelementen weergeven
+show_hidden_elems.h	Definieert een functietoets om verborgen helpelementen weer te geven.
+toggle_side_bar	Zijbalk weergeven/verbergen
+toggle_side_bar.h	Definieert een functietoets om de zijbalk weer te geven en te verbergen.
+content_library	Desktophelp - content en gedrag
+content_library_window	Desktophelp - stijl en vensters
+content_library_sidebar	Desktophelp - zijbalk
+style	Stijl
+style.h	Definieert de weergave van de desktophelpcomponenten (hoofdvenster, contentvenster, statuspictogram). Selecteer een stijlresource uit de lijst.
+show_only_bar	Alleen zijbalk weergeven bij start
+show_only_bar.h	Definieert of alleen zijbalk wordt weergegeven bij start desktophelp of ook hoofdvenster
+clear_on_mismatch	Contentlijst wissen bij ontbrekende contextovereenstemming
+clear_on_mismatch.h	Definieert dat de contentlijst wordt gewist als er geen context is gevonden. Als de instelling is gedeactiveerd, wordt de content van het laatste herkende object weergegeven.
+da_positioning	Uitlijning hoofdvenster
+da_positioning.h	Definieert de uitlijning van het hoofdvenster op het scherm. De optie 'Vrij' stelt u in staat om een positie in de parameter 'Hoofdvensterpositie' te definiëren.
+bar_positioning	Uitlijning zijbalk
+bar_positioning.h	Definieert uitlijning zijbalk op scherm
+left_top	Linkerbovenhoek
+left_center	Linksmidden
+left_bottom	Linkerbenedenhoek
+right_top	Rechterbovenhoek
+right_center	Rechtsmidden
+top_center	Midden boven
+right_bottom	Rechterbenedenhoek
+center	Gecentreerd
+free	Vrij
+list_order	Contentsortering
+list_order.h	Hiermee wordt de sortering gedefinieerd van de beschikbare content in de lijst.
+by_default	Structuur verkenner
+by_name	Alfabetisch
+by_type	Alfabetisch volgens type
+library_position	Hoofdvensterpositie (vrij)
+library_position.h	Hiermee wordt de positie (links, bovenin) van het hoofdvenster gedefinieerd voor de "vrije" uitlijning op het scherm. De waarden worden aangegeven in pixels.
+search_url	Zoekgroep
+search_url.h	Hiermee kunt u een groep van het werkgebied voor het zoeken van content in de @{LIBRARY} opgeven.
+enable_recording	Positie: besturingselement ‘Opname’
+enable_recording.h	Hiermee kunt u een besturingselement weergeven voor opnameprocessen. U kunt de positie van het besturingselement in de zijbalk opgeven.\nDe opname biedt de gebruiker de mogelijkheid processen op te nemen als Microsoft Word-documenten of als video's. De opgenomen bestanden worden weergegeven in het hoofdvenster op het tabblad ‘Gebruikersgebied’.
+enable_exit_da	Positie: besturingselement 'Afsluiten'
+enable_exit_da.h	Hiermee kunt u een besturingselement weergeven voor het afsluiten van @{NAVIGATOR}. U kunt de positie van het besturingselement opgeven in de zijbalk.
+enable_info	Tabblad 'Info' weergeven
+enable_info.h	Schakelt het tabblad 'Info' voor het hoofdvenster van de desktophelp in. Voeg een informatietekst in de korte omschrijving van de desktophelpgroep in.
+request_content_type	Type aangevraagde content
+request_content_type.h	Geeft de functionaliteit voor het aanvragen van content aan. Selecteer een type in de vervolgkeuzelijst. \nE-mail: hiermee kunt u een e-mailadres invoeren voor de aanvragen. \nURL: hiermee kunt u een URL invoeren voor het openen van een webpagina. \nHet besturingselement ‘Content aanvragen’ wordt weergegeven in de zijbalk. Als er geen content wordt gevonden, wordt de link ‘Content aanvragen’ weergegeven in het hoofdvenster.
+email	E-mail
+url	URL
+enable_request_content	Positie: besturingselement 'Content aanvragen'
+enable_request_content.h	Geeft de positie aan van het besturingselement 'Content aanvragen’ in de zijbalk.
+enable_external_search_ctx	Contextinformatie opgeven
+enable_external_search_ctx.h	Biedt aanvullende contextinformatie van de gebruiker met de zoekopdracht-URL tijdens de zoekopdracht. De contextinformatie wordt gebruikt voor het zoeken. Activeer deze instelling als de door u opgegeven zoekdopdracht de contextinformatie kan gebruiken. \nDe opgegeven contextinformatie wordt gespecificeerd in de parameter ‘Contextinformatie’.
+external_search_ctx	Contextinformatie
+external_search_ctx.h	Geeft de contextinformatie aan als de instelling 'Contextinformatie opgeven' is geactiveerd. De volgende contextinformatie kan worden opgegeven: EXE van de huidige applicatie (&executable=$#{EXE}), paginacode van de huidige applicatiepagina (&pagekey=$#{PAGEKEY})\nOpmerking: wijzig niet de structuur van de contextinfofmatiereeks.
+enable_external_search	Positie: besturingselement ‘Extern zoeken’
+enable_external_search.h	Hiermee kunt u een externe zoekpagina openen om te zoeken naar content of verdere informatie. Als deze instelling is geactiveerd, wordt het besturingselement ‘Extern zoeken’ weergegeven in de zijbalk. U kunt de positie van het besturingselement in de zijbalk opgeven. \nMet de knop wordt een zoekveld geopend waarin een zoekterm kan worden ingevoerd. De zoekresultaten worden weergegeven op de externe zoekpagina. Voor de externe zoekpagina moet u een zoekopdracht-URL opgeven in de paramater 'URL externe zoekopdracht'.
+external_search_url	URL
+external_search_url.h	Hiermee kunt u een URL opgeven voor de externe zoekopdracht. Voer de URL in de volgende structuur in:\nhttps://www.google.com/#q=$#{SEARCHTERM}\nhttps://www.bing.com/search?q=$#{SEARCHTERM}\nhttps://search.yahoo.com/search?p=$#{SEARCHTERM}\nhttps://www.wolframalpha.com/input/?i=$#{SEARCHTERM}\n\nOpmerking: '=$#{SEARCHTERM}' van de URL-parameter mag niet worden verwijderd of gewijzigd.
+enable_share_content	Besturingselement 'Content delen' weergeven
+enable_share_content.h	Geeft de knop 'Content delen' weer in de voetregel van het hoofdvenster. Wanneer u op de knop klikt, wordt een dialoogvenster met de link naar de geselecteerde content geopend.
+author_email	E-mail
+author_email.h	Hiermee kunt u een e-mailadres voor het aanvragen van content opgeven. Het e-mailadres wordt gebruikt voor de functie ‘Content aanvragen’.
+author_url	URL
+author_url.h	Hiermee kunt u een URL voor het aanvragen van content opgeven. De URL wordt gebruikt voor de functie ‘Content aanvragen’.
+author_url_params	URL-parameters
+author_url_params.h	Hiermee kunt u de parameters voor de auteur-URL opgeven. \nU kunt de applicatienaam en het uitvoerbare bestand opgeven. Vervang de waarde "Applicatie" of "Uitvoerbaar bestand" door de verplichte naam.
+enable_fuzzy_match	"Bij benadering overeenkomen" inschakelen
+enable_fuzzy_match.h	Definieert of fuzzy afstemming wordt gebruikt voor afstemming context van content met applicatiepagina
+enable_ident_filter	Geavanceerde applicatie-ID inschakelen
+enable_ident_filter.h	Geeft aan dat alleen de relevante applicatie-informatie wordt gebruikt voor het weergeven van de @{NAVIGATOR}. Hiermee kunt u de prestatie van de @{NAVIGATOR} optimaliseren.\nOpmerking: de optie kan tot een verkeerde objectherkenning leiden. Aanbevolen wordt om het weergeven te testen voordat u de content publiceert .
+library_size	Hoofdvenstergrootte
+library_size.h	Hiermee wordt de grootte (breedte, hoogte) van het hoofdvenster in pixels gedefinieerd.
+book_win_position	Positie contentvenster (vrij)
+book_win_position.h	Hiermee wordt de positie (links, bovenin) van het contentvenster gedefinieerd voor de "vrije" uitlijning op het scherm. De waarden worden aangegeven in pixels.
+book_win_size	Grootte contentvenster
+book_win_size.h	Hiermee wordt de grootte (breedte, hoogte) van het contentvenster in pixels gedefinieerd.
+book_win_positioning	Uitlijning contentvenster
+book_win_positioning.h	Hiermee wordt de uitlijning van het contentvenster op het scherm gedefinieerd. De optie 'Vrij' stelt u in staat om een positie in de parameter 'Positie contentvenster' te definiëren.
+errNoApplicationContext	Huidige macro is geen applicatiecontext.
+errNoTargetDefinition	Macro komt niet overeen met doeldefinitie.
+errExtractPagekey	Paginacode kan niet uit profiel worden geëxtraheerd:
+errScreenshot	Er kan geen screenshot worden gemaakt. Probeer het opnieuw.
+errLoadTemplate	Het profiel kan niet worden geladen:
+errRecordProcessStep	Rondleidingsstappen kunnen niet worden opgenomen voor "contexthelp"-projecten
+errLanguageSelection	Geen taal geselecteerd.
+errNoWriteToken	U hebt geen schrijfrecht voor het geselecteerde object.
+errMacroSelection	Geen macro geselecteerd.
+errObjectInformation	Geen objectinformatie op opgegeven positie.
+errSpecializedInformation	Geen gespecialiseerde informatie op opgegeven positie.
+errPosition	De positie bevindt zich niet in het venstergebied.
+errActionMacroSelection	Geen actiemacro geselecteerd.
+errUpdateObject	Geselecteerd objecttype kan niet worden bijgewerkt.
+errInsertExplanation	Vrije toelichting kan niet worden ingevoegd voor de geselecteerde macro.
+action.h	Alleen rondleiding\nDeze optie definieert de actie die de gebruiker voor het object moet uitvoeren.
+all_values.h	In sommige gevallen bevat het object van een applicatie keuzes voor waarden die niet kunnen worden gedekt door standaard-HTML-besturing. Er wordt dan een besturingselement gebruikt dat het dichtste in de buurt is van de applicatie. Dit veld heeft bovendien alle waarden die het object in de vorm van keuzes bevat.
+anim_steps.h	De waarde definieert, in hoeveel stappen het gekozen markeringseffect is geanimeerd. Lage waarden versnellen de animatie, maar zorgen voor een schokkerige weergave. Hoge waarden maken de animatie vloeiender, maar hebben ook een vertragend effect op de animatiesnelheid.
+auto_execute.h	Instelling definieert dat actie automatisch wordt uitgevoerd tijdens weergave van navigatie
+b_height.h	Definieert de hoogte van de weer te geven objectbubble in pixels. Als de hoeveelheid tekst de beschikbare ruimte in de bubble overschrijdt, wordt deze qua hoogte automatisch naar de benodigde ruimte aangepast.
+b_hide_option.h	Alleen contexthelp\nDoor deze optie te activeren wordt in de object- of toelichtingsbubble een instelling weergegeven waarmee de objectinformatie (bubble en markering) door de eindgebruikers kan worden gedeactiveerd. Daardoor kan de gebruiker informatie die hij niet meer nodig heeft, verbergen.
+b_minimizable.h	Deze optie definieert of de bubble tijdens het afspelen kan worden geminimaliseerd. Als de optie is geactiveerd wordt de knop "Minimaliseren" in de bubblekop weergegeven.
+b_closable.h	Alleen contexthelp\nDeze optie definieert of de bubble tijdens het afspelen kan worden gesloten. Als de optie is geactiveerd wordt de knop "Sluiten" in de bubblekop weergegeven.
+b_minimized.h	Alleen contexthelp\nDeze optie definieert of de objectbubble geminimaliseerd wordt weergegeven als de pagina wordt geladen.
+bmain_size.h	Hiermee wordt de grootte (breedte, hoogte) van het hoofdvenster in pixels gedefinieerd.
+bmain_minimizable.h	Deze optie definieert of hoofdvenster kan worden geminimaliseerd of niet.
+bmain_position.h	De hier ingevoerde waarden geven de positie van het hoofdvenster op het beeldscherm aan. De nummers omschrijven de aftstand van de hoek linksboven van het scherm in pixels.
+bmain_win_style.h	Hiermee wordt de weergave gedefinieerd van het hoofdvenster. Selecteer een stijlresource uit de lijst.
+bmain_alignment.h	Definieert de uitlijning van het hoofdvenster op het scherm. De optie "Vrij" stelt u in staat om een positie in de parameter "Vensterpositie" te definiëren.
+bubble_offset.h	Deze optie definieert verschuiving in pixels waarin objectbubble wordt weergegeven bij object
+bubblestyle_d.h	Geeft de bubblestijlresource aan voor het weergeven van de objectbubbles van het project.
+bubblestyle_d.h	Geeft de bubblestijlresource aan voor het weergeven van de objectbubbles van het project.
+choose_bool.h	Dit veld bevat de waarde die bepaalt of het keuzerondje of het selectievakje is geactiveerd. Voor een optieveld is de waarde altijd '1' (ingeschakeld). Voor een selectievakje kan de ingevulde waarde '0' (uitgeschakeld) of '1' (ingeschakeld) zijn.
+choose_text.h	Deze parameter bevat de tekenreeks die is gevonden voor het geselecteerde gegeven in een pop-upmenu of keuzelijst tijdens het geautomatiseerde opnameproces. Deze string wordt ingevoegd in de verklarende bubbleteksten in de verschillende modi in plaats van de tijdelijke anduiding ${choose_text}' (zie tekstmodus in de HTML-editor). Deze wordt gebruikt voor de automatisch gegenereerde bubbletekst wanneer bubblecontent automatisch wordt gegenereerd met tekstmodules tijdens opnames.
+click_pos.h	Beschrijft de positie in het applicatievenster, waarop de auteur heeft geklikt, toen het object werd opgenomen. De positie is opgegeven in pixels en refereert aan de linkerbovenhoek van de content van het applicatievenster.
+click_pos_rel.h	Omschrijft de positie in het applicatievenster. De waarde in procenten (%) geeft de positie op in verhouding tot de totale breedte en hoogte van het applicatievenster met linker- en bovenhoek als referentiepunt.
+config_file.h	Bevat naam van applicatieprofiel waarmee code wordt aangemaakt en deze later ook wordt geïnterpreteerd
+display_name.h	Geeft de applicatienaam aan. De naam wordt weergegeven in het uitzonderingsvenster van een rondleiding.
+dump_page.h	Bevat het opgenomen scherm. \nU kunt de afbeelding wijzigen met de functie ‘Afbeelding vervangen’.
+element_type.h	Hiermee wordt objectklasse omschreven die is herkend door herkenningsmechanisme.
+enabled.h	Alleen contexthelp\nDeze optie definieert of de macro onderdeel is van de analyse van de pagina of niet. Als de optie is gedeactiveerd, zal het helpobject niet worden weergegeven, ook niet als het bijbehorende object bestaat op de pagina.
+optional.h	Alleen rondleiding\nDe optie definieert of de rondleidingsstap voor de gebruiker in een proces optioneel is. \nTijdens het afspelen wordt een ander pictogram weergegeven in de stappenlijst. Als het besturingselement niet zichtbaar is op de pagina of als de pagina onjuist is, wordt de stap overgeslagen.
+executable.h	Bevat naam uitvoerbaar bestand van applicatie zoals gebruikt door besturingssysteem
+explanation_d.h	Bevat de informatie over de betreffende context (teksten, links, afbeeldingen enz.). Zorg voor een optimale weergave van informatie in de hoofdbubble.
+explanation_d_modified.h	Als deze optie wordt geactiveerd, wordt de contextinformatie bij een automatische vertaling niet langer automatisch gegenereerd maar moet deze handmatig worden bewerkt. Dit helpt om handmatig ingevoerde wijzigingen voor de content van de bubble te behouden.
+fieldname.h	Bevat de naam van het opgenomen besturingselement, die in de bubbleteksten wordt ingevoegd. \nU kunt de objectnaam wijzigen in het tekstveld. De objectnaam bevat de tijdelijke aanduiding '$#{fieldname}'.
+fieldicon.h	Bevat de afbeelding van een opgenomen knop of pictogram, die in de bubbleteksten wordt ingevoegd. \nU kunt de objectafbeelding wijzigen met de functie ‘Afbeelding vervangen’. De objectafbeelding bevat de tijdelijke aanduiding '$I{fieldicon}'.
+g_highlight_bgr.h	Hiermee wordt de standaardkleur voor de markeringsranden in de navigatie gedefinieerd De kleur kan direct als RGB-waarde in HEX-formaat worden ingevoerd of uit de inschakelbare kleurenkiezer worden geselecteerd.
+g_highlight_border.h	Deze parameter definieert de algemene dikte van het objectmarkeringsframe in pixels. Ter beschikking staan de pixeldikten '1' t/m '10'.
+g_highlight_effect.h	Deze optie bepaalt soort markeringseffect dat wordt gebruikt voor objecten in navigatie.
+hide_on_focuslost.h	Deze optie definieert of bubble verborgen wordt wanneer focus op scherm het desbetreffende object verlaat.
+highlight_offset.h	Deze parameter definieert de toegevoegde pixeloffset voor de markeringsrechthoek die het gemarkeerde element omgeeft.
+key.h	Bevat alle criteria om het applicatievenster en een bepaalde pagina in de applicatie te identificeren. De code wordt alleen als passend gezien, als de pagina in de doelapplicatie aan alle criteria uit de code voldoet. Om criteria in de code minder specifiek te definiëren, is in de code het gebruik van reguliere uitdrukkingen toegestaan.
+key_name.h	Deze parameter bepaalt de gebruikte toets of toetsencombinatie. Hierbij worden de namen van de toetsen door spaties gescheiden, bijvoorbeeld: 'ctrl + k'.
+key_desc.h	Deze parameter bepaalt de gebruikte toets of toetsencombinatie. Hierbij worden de namen van de toetsen door spaties gescheiden, bijvoorbeeld: 'ctrl + k'.
+force_display.h	Alleen contexthelp\nGeeft aan dat de macrocontent altijd als help wordt weergegeven, ook als help is uitgeschakeld tijdens het afspelen van de desktophelp.
+link_to_sim.h	Deze optie bevat de simulatielink naar de hoofdbubble. Deze optie is gerelateerd aan een navigatie die is aangemaakt op basis van een simulatieproject (door conversie).
+macro_comment.h	Algemeen commentaar; wordt in miniatuurweergave weergegeven.
+match_value.h	Deze optie geeft aan, of de opgegeven waarde met de werkelijke waarde van het object in de liveapplicatie moet worden vergeleken.
+mini_on_focuslost.h	Deze optie definieert of de bubble wordt geminimaliseerd als de focus op het scherm het desbetreffende object verlaat.
+nav_check_freq.h	Definieert hoe vaak de controles van @{NAVIGATOR} voor bijgewerkte content moeten plaatsvinden . Als er bijgewerkte content beschikbaar is, wordt de content automatisch door @{NAVIGATOR} gestart. Dit is bijzonder handig voor wijzigingsbeheerprocessen.
+enable_tincan.h	Hiermee wordt de tracering voor @{NAVIGATOR}-content geactiveerd. De content moet worden gestart vanuit een @{MANAGER}-werkgebied.
+no_spike.h	Deze optie definieert of de objectbubbles met of zonder een punt moeten worden weergegeven.
+objname.h	Elk object in een navigatie heeft een eenduidige naam nodig ter identificatie bij het gebruik van gedrag en gedragstoewijzingen.
+orientation.h	Deze parameter definieert de uitlijning van de objectbubble in verhouding tot het gerefereerde object. De bubblepijl wijst in de richting van de positie die wordt gerefereerd op de pagine, terwijl de bubble zelf ten opzichte daarvan verschoven naar de ingestelde richting wordt weergegeven. Als de uitlijning 'Midden' is geselecteerd, wordt de bubble zonder pijl gecentreerd in de gedefinieerde positie weergegeven.
+path.h	Het objectpad omschrijft de eigenschappen van het object op basis van het gebruikte applicatieprofiel. Het objectpad wordt gebruikt om het object in de live-applicatie te identificeren. Over het algemeen is geen handmatige bewerking van het veld vereist.
+position.h	De hier ingevoerde waarden geven de positie van de hoofdbubble op het beeldscherm aan. De nummers omschrijven de aftstand van de hoek linksboven van het scherm in pixels.
+reference.h	Als de navigatie is geconverteerd van een simulatie, dan moet de bron van de desbetreffende stap hier worden opgegeven.
+resize.h	Deze optie definieert of de grootte van het doelapplicatievenster automatisch wordt aangepast op de grootte die is gebruikt toen de navigatie is aangemaakt. Dit kan handig zijn voor actieve gebieden, aangezien deze positiegebaseerd worden weergegeven.
+revision.h	Geeft de versie van het applicatieprofiel weer waarmee de sleutel bij de opname van het applicatiescherm werd aangemaakt.
+sc_config_header.h	Informatie uit het applicatieprofiel wordt in dit veld opgeslagen. De navigatie gebruikt informatie om de applicatie en objecten tijdens het afspelen correct te kunnen herkennen.
+screenshot_rect.h	Geeft het gebied weer van het originele scherm voor de screenshot. Over het algemeen is geen handmatige bewerking van de waarde vereist.
+show_bubble.h	Deze optie definieert of de bubble direct moet worden weergegeven nadat de pagina volledig is geladen.
+start_from_arbitrary.h	Deze optie definieert, dat de rondleiding kan worden gestart vanuit een willekeurige stap en niet vanuit het begin van het proces.
+show_hilight.h	Geeft aan of een markering wordt weergegeven voor het object.
+show_highlight.h	Geeft aan of markeringen automatisch worden weergegeven voor de objecten.
+show_on_focus.h	Deze optie definieert of de bubble wordt weergegeven als de focus op het scherm op het desbetreffende object komt.
+source.h	Als de navigatie is geconv. v. simulatie, specificeert de parameter de originele cursusmodule.
+subkey.h	In sommige gevallen is het handig als bepaalde onderdelen van het originele gedeelte van een code worden genegeerd, bijv. omdat de varianten van een bepaalde pagina niet relevant zijn en allemaal door dezelfde code en stap in de navigatie zullen worden behandeld. In dit geval kan met deze optie afgedwongen worden, dat de code als passend wordt gezien, ook als de pagina meer codecriteria bij de herkenning terugmeldt dan in de code zijn gedefinieerd. De paginacode kan zo verkort worden, dat met één code meer dan één pagina kan worden afgedekt.
+target_name.h	Bevat de naam van het applicatievenster.
+text_d.h	Deze parameter bevat de tekenreeks, die in het gerefereerde invoerveld moet worden ingevoerd. Deze bevat de bij het automatische opnameproces ingevoerde waarde. Deze string wordt in de verklaringsteksten van de bubble in de verschillende modi in plaats van de plaatshouder '${text_d}' (zie tekstmodus in HTML-editor) bij het automatisch genereren van tekst de met tekstmodules tijdens de opname ingevoegd.
+text_d_specializer.h	Deze parameter bevat de tekenreeks die in het gerefereerde invoerveld moet worden ingevoerd. Deze bevat de bij het automatische opnameproces ingevoerde waarde. Deze string wordt in de toelichtingsbubbleteksten ingevoegd in de verschillende modi in plaats van de plaatsaanduiding '${text_d}' (zie tekstmodus in HTML-editor) bij het automatisch genereren van bubblecontent met tekstmodules tijdens de opname.
+tolerance.h	De waarde definieert de tolerantie voor het overeenkomstpercentage bij het samenvoegen van schermmacro's. Deze instelling is gerelateerd aan de functie "Schermmacro's samenvoegen" die kan worden gestart vanuit "Hulpmiddelen" -> "Bulkwijzigingen". Het verhogen van de waarde verhoogt de tolerantiedrempel. Let op: in dit geval kunnen ook screenshots worden samengevoegd waarop verschillende objecten zijn weergegeven. De waarde is opgegeven in pixels.
+uid.h	Bevat een unieke ID van de macro waaronder in het project wordt beheerd.
+win_rect.h	Geeft de venstergrootte bij het aanmaken van het project aan.
+explanation_type.h	Deze optie bepaalt het type opmerking. Afhankelijk van het ingestelde type wordt samen met de tekst een bepaald pictogram weergegeven om de opmerking te markeren.
+app_info.h	De instelling definieert of de applicatie in de contexthelp wordt weergegeven. Als de applicatie niet moet worden weergegeven, moet de instelling worden gedeactiveerd.
+app_link_to_sim.h	Met deze parameter kan naast het contexttype een link naar de in parameter 'Bron' opgegeven simulatie worden weergegeven. In dit proces kan tussen verschillende modi worden geselecteerd.
+screen_info.h	De instelling definieert, of de pagina in de contexthelp wordt weergegeven. Als het scherm niet moet worden weergegeven, moet de instelling worden gedeactiveerd.
+screen_link_to_sim.h	Met deze parameter kan naast het contexttype een link naar de in parameter 'Bron' opgegeven simulatie worden weergegeven. In het proces kan tussen verschillende modi worden geselecteerd.
+object_info.h	Alleen contexthelp\nDe instelling definieert de variant die voor het object moet worden weergegeven.
+open_expanded.h	Wanneer deze optie is geactiveerd, wordt de hoofdbubble met geopende pagina- en objectlijst weergegeven.
+display_on.h	Deze parameter definieert, in welke situatie de hoofdbubble van de navigatie moet worden weergegeven. Bij het starten van de navigatie, bij weergave van de applicatie of bij weergave van de betreffende applicatiepagina.
+area.h	De parameter definieert de positie en grootte van het besturingselement. De eerste twee getallen geven de positie aan van een object vanaf de linkerkant en bovenkant van het scherm. De laatste twee getallen definiëren de breedte en de hoogte van het object. De knoppen naast het invoerveld openen een bewerkingsdialoogvenster waarmee de positie en grootte van het object kunnen worden aangepast.
+form_on.h	Hiermee wordt gedefinieerd dat de stap een formulier is. Alle acties van de stap worden tijdens afspelen in een bubble weergegeven.
+transition	Volgende rondleidingsstap
+transition_info	Volgende rondleidingsstap
+action_pa	Actie
+trans_action	Actie
+step_name1	Volgende stap
+step_name2	Alternatieve stap 1
+step_name3	Alternatieve stap 2
+step_name4	Alternatieve stap 3
+LClick	Linkermuisklik
+RClick	Rechtermuisklik
+LDblClick	Linkerdubbelklik
+RDblClick	Rechterdubbelklik
+Focus	Focus
+FocusLost	Focus verloren
+step	Guide: stap in rondleiding
+name	Naam
+end_message	Tekst
+show_end_window	Eindvenster
+show_end_window.h	Geeft aan dat er een venster wordt weergegeven aan het einde van de rondleiding. Via het venster kan de gebruiker de rondleiding handmatig sluiten. Als de optie is gedeactiveerd, wordt het venster niet weergegeven en wordt de rondleiding automatisch gesloten.
+trans_action.h	Alleen rondleiding\nGeeft de actie op waarmee de sprong naar de volgende rondleidingsstap wordt geactiveerd.
+action_pa.h	Deze instelling geeft aan welke gebruikersactie de sprong naar de volgende rondleidingsstap activeert.
+step_name1.h	Alleen rondleiding\nDefinieert de volgende stap in het procesverloop.
+step_name2.h	Alleen rondleiding\nDefinieert een alternatieve rondleidingsstap als de gedefinieerde rondleidingsstap niet kan worden weergegeven.
+step_name3.h	Alleen rondleiding\nDefinieert een alternatieve rondleidingsstap als de gedefinieerde alternatieve rondleidingsstap 1 niet kan worden weergegeven.
+step_name4.h	Alleen rondleiding\nDefinieert een alternatieve rondleidingsstap als de gedefinieerde alternatieve rondleidingsstap 2 niet kan worden weergegeven.
+step_on_same_page.h	Alleen rondleiding\nDeze instelling moet worden geactiveerd als de volgende rondleidingsstap zich op dezelfde applicatiepagina bevindt. Hierdoor hoeft er geen paginaherkenning te worden uitgevoerd.
+name.h	Hiermee wordt de naam van de rondleidingsstap gedefinieerd. De naam wordt weergegeven in de "Volgende rondleidingsstap"-instellingen van een "Object"-macro voor de selectie.
+set_value	Waarde automatisch instellen
+set_value.h	De instelling definieert of de waarde van de macro bij de weergave van de navigatie automatisch moet worden ingesteld.
+end_message	Tekst
+end_message.h	U kunt in het tekstvak een tekst invoeren, dieaan het einde van een proces in de bubble wordt weergegeven. Het tekstvak is al voorzien van een standaardtekst.
+restart_option	Knop "Herstarten"
+restart_option.h	Als deze optie is geactiveerd, wordt een knop weergegeven in de bubble die door de gebruiker kan worden gebruikt om een proces te herhalen. Daardoor kan een proces opnieuw met andere gegevens worden uitgevoerd.
+record_end_display	Bubble bewerken
+end_bubble	Bubble - proceseinde
+bend_position	Positie
+bend_position.h	De hier ingevoerde waarden geven de positie van de bubble op het beeldscherm aan. De waarden worden in pixels opgegeven en zijn gerelateerd aan de linker bovenhoek van het beeldscherm.
+bend_style	Stijl
+bend_style.h	Deze instelling definieert, welk bubblestijl voor de weergave van de bubble moet worden gebruikt. Bubblestijlen worden via de bubblestijleditor gedefinieerd, die via het menu "Hulpmiddelen" > "Bubblestijlen bewerken" wordt opgeroepen. Bubblestijlen zijn altijd voor het gehele werkgebied beschikbaar.
+bend_width	Breedte
+bend_width.h	Hiermee wordt de breedte van de weer te geven bubble in pixels gedefinieerd.
+bend_height	Hoogte
+bend_height.h	Hiermee wordt de hoogte van de weer te geven bubble in pixels gedefinieerd.
+process_start_unit	Rondleidingsstijl
+record_pa_control	Stap van rondleiding opnemen
+prev_step	Vorige stap
+next_step	Volgende stap
+disqualifier	Scherm uitsluiten
+disqualifier.h	Met de "Pagina-aanduiding" kunt u differentiëren tussen gelijksoortige applicatiepagina's door een specifiek object te gebruiken. Met deze optie geeft u aan of de herkende applicatiepagina moet worden weergegeven of uitgesloten als de "Pagina-aanduiding" beschikbaar is. \nDe miniatuurweergave geeft de status van de optie weer: een plusteken (niet uitsluiten) of minteken (uitsluiten).
+exception_bubble	Bubble - uitzonderingsverwerking
+bexp_position	Positie
+bexp_position.h	De hier ingevoerde waarden definiëren de bubblepositie op het beeldscherm. De waarden zijn opgegeven in pixels. De bubble verschijnt in de linkerbovenhoek van het scherm.
+bexp_style	Stijl
+bexp_style.h	Hier kunt u het type bubble kiezen dat u wilt gebruiken. Bubblestijlen kunnen worden gedefinieerd in de bubblestijleditor, die kan worden geopend vanuit het volgende menu:  Hulpmiddelen -> Bubblestijl bewerken.  De verschillende bubblestijlen zijn altijd beschikbaar voor het gehele werkgebied.
+content_demo	Demomodus
+content_demo.h	Met deze optie worden demomodi van groep weergegeven in desktophelp.
+content_practice	Oefenmodus
+content_practice.h	Met deze optie worden oefenmodi van groep weergegeven in desktophelp.
+content_test	Testmodus
+content_test.h	Met deze optie worden testmodi van groep weergegeven in desktophelp.
+content_concurrent	Praktijkmodus
+content_concurrent.h	Met deze optie worden praktijkmodi van groep weergegeven in desktophelp.
+content_navi	Navigatie
+content_navi.h	Met deze optie worden navigaties van groep weergegeven in desktophelp.
+content_documentation	Documentatie
+content_documentation.h	Met deze optie wordt documentatie van groep weergegeven in desktophelp.
+content_externals	Externe bestanden
+content_externals.h	Met deze optie worden externe bestanden van groep weergegeven in desktophelp.
+navi_style	Stijl
+navi_style.h	Hiermee wordt de weergave van het navigatievenster gedefinieerd. Selecteer een stijlresource uit de lijst.
+menu_path:/record	Opname
+F1HELPNAME	Help
+alignment	Bubble-uitlijning
+alignment.h	Geeft de uitlijning van het bubblevenster op het scherm aan. Met de optie 'Vrij' kunt u een positie in de parameter 'Bubblepositie' definiëren.
+bform_alignment	Uitlijning
+bform_alignment.h	Definieert de uitlijning van het vormbubblevenster op het scherm. Met de optie 'Vrij' kunt u een positie in de parameter 'Vormbubblepositie' definiëren.
+gloss_bubble	Bubble verklarende woordenlijst
+gloss_bubble_style	Stijl
+gloss_bubble_style.h	Hiermee wordt de weergave van de bubble verklarende woordenlijst gedefinieerd. Selecteer een stijlresource uit de lijst.
+ellipse	Cirkel
+gloss_bubble_size	Grootte
+gloss_bubble_size.h	Hiermee wordt de grootte (breedte, hoogte) gedefinieerd van de bubble verklarende woordenlijst in pixels.
+Navi	Desktophelp
+exclude_from_da	Van desktophelp uitsluiten
+exclude_from_da.h	Geeft aan dat paginakey niet wordt ingecalculeerd voor contextherkenning van desktophelp
+all_as_descr	Tekst gebruiken uit
+all_as_descr.h	Definieert tekstsoort voor @{NAVIGATOR}. Standaard is 'Korte omschrijving'
+consider_roles	Rollen incalculeren
+consider_roles.h	Activeert het gebruik van rollen voor de weergave van content tijdens het afspelen.
+consider_categories	Contentcategorieën overwegen
+consider_categories.h	Activeert het gebruik van contentcategorieën voor de sortering van content in het hoofdvenster van @{NAVIGATOR}.
+disable_ca_in_pa	Help in rondleiding verbergen
+disable_ca_in_pa.h	Geef aan dat alle helpinformatie wordt verborgen als de rondleiding wordt afgespeeld. Als de rondleiding is voltooid, wordt de help weer weergegeven.
+full_desc	Omschrijving
+shrt_desc	Korte omschrijving
+wrong_position	Positiefout
+help	Help
+warning	Waarschuwing
+maintenance	Verzorging
+update	Actualiseren
+new	Nieuw
+training	Training
+attachment	Bijlage
+link	Link
+tip	Tip
+note	Opmerking
+compliance	Compliance
+mini_bubble_style	Stijl minipictogrammen
+mini_bubble_style.h	Definieert een stijlresource voor de minipictogrammen die voor het project worden gebruikt. De minipictogrammen zijn een resourcetype van de aanpasbare resources. \nIn elke actie- en toelichtingsmacro kan een pictogram worden ingesteld via de parameter 'Minipictogramtype' in de sectie 'Geavanceerd'.
+mini_bubble	Type minipictogram
+mini_bubble.h	Alleen contexthelp\nDefinieert een type voor het minipictogram van het object. Het pictogram is gebaseerd op de gedefinieerde "Minipictogramstijl" van de macro "Stijl".
+NavRecMouseWheel	Gebruik muiswiel om door te gaan. Druk op ESC om bladeren via muis te beëindigen
+search_type	Zoektype
+none	Geen
+search_in_lib	In @{LIBRARY}
+search_in_da	Desktophelpgroep
+search_type.h	Definieert de functionaliteit voor het zoeken van content. Selecteer een type in de vervolgkeuzelijst. \nGeen: deactiveert de zoekfunctionaliteit. \nIn @{LIBRARY}: opent de @{LIBRARY} voor het zoeken in de @{LIBRARY}-content. \nIn desktophelpgroep: geeft het tabblad ‘Zoeken’ in het hoofdvenster weer voor het zoeken in desktophelpcontent.
+errObjectUpdate	Object kan niet worden geactualiseerd; actualiseer object met soortgelijk type
+config_headers_differ1	Profielinformatie is verouderd. Klik op "Doorgaan" om het project bij te werken.
+config_headers_differ2	Het wordt aanbevolen om een archief te creëren voordat u gaat bijwerken.
+default_start_mode	Standaardbegincontent
+default_start_mode.h	Definieert de modus of het documentformaat dat standaard moet worden gestart vanuit de contentlijst.
+default_start_doc	Standaardbegindocument
+default_start_doc.h	Definieert het documenttype, als een document is ingesteld in de instelling 'Standaardbegincontent'.
+show_next_btn	Knop Volgende
+show_next_btn.h	Alleen rondleiding\nGeeft aan dat de knop "Ga naar volgende stap" wordt weergegeven in de objectbubble.
+condition	Voorwaarde
+condition.h	Tijdens het afspelen moet de door de gebruiker ingevoerde waarde overeenkomen met de conditie om naar de volgende stap of een andere specifieke stap te gaan. \nSelecteer "Conditie bewerken" om een conditie aan te maken of te bewerken.
+errDuplicateContext	Deze applicatie is al opgenomen.
+add_sticky_notes	Positie: besturingselement 'Schermnotitie toevoegen'
+add_sticky_notes.h	Hiermee kunt u een besturingselement weergeven voor het toevoegen van een schermnotitie op een pagina. U kunt de positie van het besturingselement opgeven in de zijbalk.
+show_instant_help_btn	Positie: besturingselement 'Help'
+show_instant_help_btn.h	Hiermee kunt u een besturingselement weergeven voor het activeren van de help. U kunt de positie van het besturingselement opgeven in de zijbalk.
+show_carousel	Carrousel weergeven
+show_carousel.h	Deze optie geeft desktophelp in carrouselmodus weer.
+condition_pattern	Conditiepatroon
+condition_pattern.h	Specificeert het patroon dat wordt gebruikt voor de conditie.
+condition_value	Conditiewaarde
+condition_value.h	Bevat de waarde die wordt gebruikt voor de conditie. Voer een tekst of nummer in op basis van het geselecteerde patroon.
+condition_jump_target	Sprongbestemming
+condition_jump_target.h	Alleen rondleiding\nGeeft een sprongbestemming voor de conditie aan. Selecteer een stap uit de vervolgkeuzelijst. De navigatie springt naar de opgegeven stap als de conditie overeenkomt.
+condition_text	Conditietekst
+condition_text.h	Bevat een weer te geven tekst als niet aan de conditie wordt voldaan.
+condition_case_sensitive	Hoofdlettergevoelig
+condition_case_sensitive.h	Geeft aan dat de conditie hoofdlettergevoelig is.
+condition_ignore_on_load	Negeren bij laden pagina
+condition_ignore_on_load.h	Alleen contexthelp\nGeeft aan dat de conditie niet wordt gecontroleerd bij het laden van de pagina. De conditie wordt gecontroleerd als er een overeenkomstig besturingselement wordt gebruikt. Hierdoor kan de conditiebubble niet direct worden weergegeven.
+c_equals	Is gelijk aan
+c_not_equals	Is niet gelijk aan
+c_greater	Is groter dan
+c_greater_equals	Is groter dan of gelijk aan
+c_less	Is minder dan
+c_less_equals	Is minder dan of gelijk aan
+c_min_char	Minimumaantal tekens
+c_max_char	Maximumaantal tekens
+c_num_char	Aantal tekens gelijk aan
+c_reg_exp	Reguliere uitdrukking
+vertical	Verticaal
+horizontal	Horizontaal
+AutoBarReady	Inactief
+AutoBarExplanation	Toelichting invoegen
+AutoBarChooseApp	Applicatie selecteren
+AutoBarRecord	Opnemen
+AutoBarBusy	Bezet
+AutoBarPause	Pauze
+AutoBarReRecManualHotspot	Besturingselement bewerken: druk op Ctrl + Enter om door te gaan met de wijzigingen. Druk op Esc om de wijzigingen af te keuren.
+wizAddExplanation	Toelichting toevoegen
+AutoBarNoRecognition	Geen besturingselementen herkend
+AutoBarDiagnosis	Diagnose
+condition_bubblestyle	Bubblestijl
+condition_bubblestyle.h	Definieert welke bubblestijlresource moet worden gebruikt om de conditietekst weer te geven.
+condition_highlight_bgr	Markeringskleur
+condition_highlight_bgr.h	Definieert de kleur van de markering voor het besturingselement.
+IDS_MPI_TOURSTOP_LABEL	Naam
+IDS_MPI_TOURSTOP_LABEL_MODIFIED	Handmatig vertalen
+IDS_MPI_TOURSTOP_NAME	UID
+IDS_MPI_TOURSTOP_SHOW	Weergeven in voortgangsweergave
+IDS_MPI_TOURSTOP_JUMP	Sprongbestemming
+IDS_MPI_TOURSTOP_CALLABLE	Is subroutine
+basic_info	Basiseigenschappen
+IDS_NO_IMAGE_SELECT	Geen afbeelding geselecteerd
+IDS_NO_IMAGE	Afbeelding niet gevonden
+ID_INSERT_TAKE	Stap toevoegen
+ID_PRJ_LAYOUT_HORZ	Horizontale lay-out
+ID_PRJ_LAYOUT_VERT	Verticale lay-out
+ID_PRJ_LAYOUT_DIV	Gesplitste lay-out - 1
+ID_PRJ_LAYOUT_4	Gesplitste lay-out - 2
+ID_PRJ_LAYOUT_5	Gesplitste lay-out - 3
+IDS_UNTITLED	(Geen titel)
+docTableHeaderStep	Stap
+layout_advanced	Geavanceerde lay-out
+showEditorHelp	Help bij webeditor weergeven
+slide:insert_tb	Invoegen
+slide:action_tb	Actie
+slide:structure_tb	Structuur
+slide:view_tb	Weergave
+existing_scrs_in_prj	Het huidige scherm wordt meer dan één keer in uw project gebruikt. \nSelecteer het scherm waaraan u de opgenomen objecten wilt toevoegen.
+start_topic	Starten
+guided_tour	Rondleiding
+context_help	Contexthelp
+off	Uit
+main_bar_1	Hoofdbalk 1
+main_bar_2	Hoofdbalk 2
+main_bar_3	Hoofdbalk 3
+main_bar_4	Hoofdbalk 4
+main_bar_5	Hoofdbalk 5
+main_bar_6	Hoofdbalk 6
+main_bar_7	Hoofdbalk 7
+main_bar_8	Hoofdbalk 8
+sub_menu_1	Submenu 1
+sub_menu_2	Submenu 2
+sub_menu_3	Submenu 3
+sub_menu_4	Submenu 4
+sub_menu_5	Submenu 5
+sub_menu_6	Submenu 6
+content_btn	Positie: besturingselement 'Content’
+content_btn.h	Geeft de positie aan van het besturingselement 'Content’ in de zijbalk.
+search_btn	Positie: besturingselement ‘Zoeken’
+search_btn.h	Geeft de positie aan van het besturingselement 'Zoeken’ in de zijbalk.
+orCenter	Gecentreerd
+orNorth	Noord
+orWest	West
+orNortWest	Noordwest
+orEast	Oost
+orNortEast	Noordoost
+orSouth	Zuid
+orSouthWest	Zuidwest
+orSoutEast	Zuidoost
+screen_tolerence	Toegestane schermafwijking (%)
+screen_tolerence.h	De parameter definieert de noodzakelijke grafische overeenstemming van de weergegeven beeldschermpagina met het opgenomen screenshot in procenten, om de bijbehorende contextinformatie weer te geven. Als de grafische verschillen boven de gedefinieerde waarde liggen, vergelijkt de @{NAVIGATOR} de opgenomen paginacode met de schermpagina en geeft bij een andere applicatiepagina de bijbehorende inhoud weer.
+video_folder	Map video-opnamen
+video_folder.h	Geeft de map aan waarin video-opnamen worden opgeslagen. \nOpmerking: Video-opnamen worden vanwege de bestandsgrootte niet opgeslagen in de cachemap van @{NAVIGATOR}.
+allow_video_rec	Video-opname toestaan
+allow_video_rec.h	Hiermee kunnen alle gebruikers videocontent opnemen.
+hide_da_on_web_assistant	@{NAVIGATOR} verbergen tijdens uitvoeren van @{XRAY}
+hide_da_on_web_assistant.h	Geeft aan dat @{NAVIGATOR}-vensters verborgen zijn als @{XRAY} op de voorgrond wordt uitgevoerd.
+show_web_assistant_msg	@{XRAY}-bericht weergeven
+show_web_assistant_msg.h	Geeft aan of een bericht wordt weergegeven als @{XRAY} op de voorgrond wordt uitgevoerd of de voorgrondmodus verlaat.
+auto_hide	Na animatie onderdrukken
+auto_hide.h	Wanneer deze optie is geactiveerd, dan wordt de markering na het afronden van de animatie automatisch weer onderdrukt.
+bmain_height	Hoogte
+bmain_height.h	Definieert de hoogte van de hoofdbubble in pixels. Als de hoeveelheid tekst de beschikbare ruimte in de bubble overschrijdt, wordt deze qua hoogte automatisch naar de benodigde ruimte aangepast.
+bmain_style	Stijl
+bmain_style.h	Deze instelling bepaalt, welk bubbletype voor de weergave van de hoofdbubble moet worden gebruikt. Bubbletypen worden via de bubbletype-editor gedefinieerd, die via het menu 'Hulpmiddelen' -> 'Bubbletypen bewerken' wordt gestart. Bubbletypen zijn altijd voor het gehele werkgebied beschikbaar.
+bmain_width	Breedte
+bmain_width.h	Hiermee wordt de breedte van de hoofdbubble in pixels gedefinieerd.
+bottom_dock	Onderkant gedokt
+cache_stale_interval	Verouderd interval (min.)
+cache_stale_interval.h	Activeert het gebruik van de @{NAVIGATOR}-cache en definieert een tijdvak voor het bijwerken van de content in de cachemap. De waarde wordt gedefinieerd in minuten. \nWijzig de waarde in '0' om de cache te deactiveren.
+centered	Gecentreerd
+choose_nr.h	Deze parameter bevat het indexnummer van de te kiezen positie in een popup-menu of een lijst. Deze wordt bij geautomatiseerd registreren automatisch bepaald.
+close_details	Contentvenster sluiten
+close_details.h	Hiermee wordt een functietoets gedefinieerd voor het sluiten van het contentvenster voor een geselecteerd project.
+confirmation_hotkey	Sneltoets stapbevestiging
+confirmation_hotkey.h	Hiermee wordt sneltoets gedef. voor bevestiging van stappen tijdens weergeven van proceshelp.
+detail_positioning	Uitlijning contentvenster
+detail_positioning.h	Definieert de uitlijning van het contentvenster op het scherm. Het contentvenster wordt (buiten de uitlijning 'Gecentreerd') gedokt aan het hoofdvenster.
+detail_size	Contentvenstergrootte
+detail_size.h	Hiermee wordt de grootte (breedte, hoogte) gedefinieerd van het contentvenster in pixels.
+enable_search	Tabblad "Zoeken" activeren
+enable_search.h	Hiermee wordt de functie "Zoeken" geactiveerd binnen de desktophelpcontent
+h_dock	Horizontaal gedokt
+icon_position	Icoon-positie
+icon_position.h	De hier ingevoerde waarden geven de positie van het icoon op het beeldscherm aan. De waarden worden in pixel opgegeven en zijn gerelateerd aan de linker bovenhoek van het beeldscherm.
+leaves_page	Hiermee verlaat u het scherm
+leaves_page.h	Deze optie geeft in de navigatie aan, dat de voor het object vereiste actie het laden van een nieuwe pagina tot gevolg heeft. Een nieuwe pagina-analyse wordt gestart, zodra de actie op het object wordt uitgevoerd en de pagina volledig is geladen.
+left_dock	Linkerkant gedokt
+library_height	Bubble-hoogte
+library_height.h	Definieert de hoogte van de bubble in pixel.
+library_width	Bubble-breedte
+library_width.h	Definieert de breedte van de bubble in pixel.
+maximize_details	Contentvenster maximaliseren
+maximize_details.h	Hiermee wordt een functietoets gedefinieerd voor het maximaliseren van het contentvenster.
+next_doc	Volgend document selecteren
+next_doc.h	Hiermee wordt een functietoets gedefinieerd voor het selecteren van het volgende document in het contentvenster.
+next_project	Volgend project selecteren
+next_project.h	Hiermee wordt een functietoets gedefinieerd voor het selecteren van het volgende project in het hoofdvenster.
+open_content	Content openen
+open_content.h	Definieert een functietoets om een geselecteerd contentobject te openen.
+open_details	Contentvenster openen
+open_details.h	Hiermee wordt een functietoets gedefinieerd voor het openen van het contentvenster voor een geselecteerd project.
+prev_doc	Selecteer vorige document
+prev_doc.h	Hiermee wordt een functietoets gedefinieerd voor het selecteren van het vorige document in het contentvenster.
+prev_project	Selecteer vorige project
+prev_project.h	Hiermee wordt een functietoets gedefinieerd voor het selecteren van het vorige project in het hoofdvenster.
+right_dock	Rechterkant gedokt
+show_execute	Knop "Uitvoeren" weergeven
+show_execute.h	Definieert of de knop "Uitvoeren" tijdens het afspelen wordt weergegeven in de objectbubble. De gebruiker kan met deze knop een actie in de applicatie uitvoeren, en hierna wordt de volgende stap weergegeven.
+show_icon_on_start	Statuspictogram alleen bij start weergeven
+show_icon_on_start.h	Hiermee wordt voor de start van de desktophelp gedefinieerd of het statuspictogram wordt weergegeven in plaats van het hoofdvenster.
+start_doc	Document openen
+start_doc.h	Hiermee wordt een functietoets gedefinieerd voor het openen van een geselecteerd document van het contentvenster.
+step_on_same_page	Stap op dezelfde pagina
+top_dock	Bovenkant gedokt
+v_dock	Verticaal gedokt

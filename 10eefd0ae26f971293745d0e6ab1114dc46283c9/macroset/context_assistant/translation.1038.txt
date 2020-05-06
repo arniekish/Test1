@@ -1,0 +1,765 @@
+﻿NAVIGATOR	Desktop Assistant
+XRAY	Web Assistant
+LIBRARY	library
+MANAGER	Manager
+form_bubble	Űrlapbuborék
+bform_height	Magasság
+bform_height.h	Itt adhatja meg a megjelenítendő űrlapbuborék magasságát pixelben.
+bform_width	Szélesség
+bform_width.h	Itt adhatja meg a megjelenítendő űrlapbuborék szélességét pixelben.
+bform_position	Pozíció
+bform_position.h	Itt adhatja meg az űrlapbuborék pozícióját (balra, fent) 'szabad' elrendezéshez a képernyőn. Az értékeket pixelben kell megadni.
+paramAutoMergeComplete	A képernyők egyesítése kész.
+form	Űrlap
+application_contexts	Alkalmazás
+﻿Application	Alkalmazás
+highlight_offset	Eltolás
+AutoBarChooseApp	Alkalmazás kiválasztása
+AutoBarReRecManual	Kattintson az objektumra.
+BubbleOnActivate	Buborék közvetlen megjelenítése
+ClickOnAAPosition	A négyszög meghatározásához kattintson az alkalmazásra.
+ClickOnPosition	Kattintson egy helyre az alkalmazásban.
+EnabledOnPgLoad	Aktiválás
+HighlightOnActivate	Kiemelés közvetlen megjelenítése
+start_from_arbitrary	Indítás tetszőleges lépésből
+focus_step	Fókuszréteg
+focus_step.h	Csak lépésenkénti útmutató\nAz aktuális lépéshez szükséges vezérlő kiemelése szürke réteggel.
+yes	Igen
+no	Nem
+light_mode	Interaktív mód
+light_mode.h	Ezzel a beállítással adható meg, hogy a felhasználónak kelljen a következő lépésre navigálni az objektumbuborékon belül. Ebben az esetben lejátszás közben nincs oldalfelismerés.
+restricted_mode	Korlátozott mód
+restricted_mode.h	A beállítás aktiválása esetén csak az aktuális műveletet lehet végrehajtani, és az alkalmazás oldalának többi vezérlője blokkolódik. \nA beállítás a Fókuszréteg megjelenítése beállítás aktiválása esetén érhető el.
+show_highlight	Kiemelések
+action	Művelet
+active_area	Aktív terület
+add_application_expl	Magyarázat beszúrása
+adv	Speciális
+display_behavior	Megjelenítési viselkedés
+all_values	Összes érték
+anim_steps	Animációs lépések
+application_context	Alkalmazás
+area	Terület
+auto_merge	Képernyőmakrók egyesítése
+b_height	Magasság
+form_on	Űrlap mód
+b_percent	Buborék látható (%)
+b_hide_option	Elrejtési beállítás
+b_minimizable	Kis méretre állítható
+b_closable	Bezárható
+b_minimized	Ikonméretű
+b_width	Szélesség
+b_width.h	Itt adhatja meg az objektumbuborék szélességét pixelben.
+bmain_minimizable	Kis méretre állítható
+bmain_position	Pozíció
+bmain_win_style	Stílus
+bmain_size	Méret
+bmain_alignment	Igazítás
+bubble	Objektumbuborék
+bubble_offset	Eltolás
+bubblestyle_d	Stílus
+bubblestyle_init	Buborékstílus
+choose_appl_template	Alkalmazásprofil kiválasztása
+choose_bool	Kiválasztott érték
+choose_nr	Kiválasztott index
+choose_text	Kiválasztott érték
+target_static_text	rögzítve mint 'Oldalazonosító'.
+target_spec_warning	Figyelem: nincs elérhető újrafelvételi információ ehhez a vezérlőhöz.
+prev_step	Előző lépés
+next_step	Következő lépés
+click	Egérművelet
+click_pos	Kattintás helye
+click_pos_rel	Buborék pozíciója
+config_file	Alkalmazásprofil
+define_target	Képernyő
+display	Fő buborék szerkesztése
+display_name	Megjelenített név
+drag	Húzás
+drop	Elhelyezés
+dump_page	Képernyőfelvétel
+elem_bubble	Objektumbuborék
+element_type	Objektumtípus
+enabled	Aktiválva
+optional	Opcionális
+enter	Egér belépése
+executable	Alkalmazás
+explanation_d	Szöveg
+explanation_d_modified	Manuális fordítás
+explanation_long	Magyarázat
+fh_mouseover	Rámutatás az egérrel súgója
+fh_onelem	Ikon
+fh_tooltip	Elemleírás
+fh_bubble	Buborék
+step_list	Lépéslista
+fieldicon	Objektum képe
+fieldname	Objektumnév
+find	Keresés
+AutoBarChooseScn	Kattintson a megfelelő képernyőre
+frame	Keret
+g_highlight_bgr	Szín
+g_highlight_border	Szegély
+g_highlight_effect	Effektus
+global	Globális
+hide_on_focuslost	Elrejtés fókusz elvesztése esetén
+hilight	Kiemelés
+input_radio	Választókapcsoló/jelölőmező
+input_text	Bevitt szöveg
+init	Inicializálás
+key	Kulcs
+key_desc	Gyorsbillentyű
+key_name	Billentyűkód
+key_press	Kattintás billentyűre
+lclick	Kattintás a bal gombbal
+ldblclick	Dupla kattintás a bal gombbal
+force_display	Kényszerített megjelenítés
+auto_execute	Automatikus végrehajtás
+show_confirmation	Jóváhagyás gomb megjelenítése
+show_confirmation.h	Itt adhatja meg, hogy megjelenjen-e jóváhagyás gomb az objektumbuborékban lejátszás közben. A gomb használatával a felhasználó jóváhagyhatja a végrehajtott műveletet, ezután pedig megjelenik a következő lépés.
+link_to_sim	Szimulációs hivatkozás beszúrása
+macro_comment	Megjegyzés
+main_bubble	Ablak
+match_value	Egyezési érték
+mini_on_focuslost	Kis méret fókusz elvesztése esetén
+enable_tincan	@{NAVIGATOR} nyomon követése
+nav_check_freq	Gyakoriság aktualizálása (perc)
+navigation	Asztali varázsló
+new_screen_context	Új képernyő
+no_spike	Nincs hegy
+pa_caption	Lépésenkénti útmutató
+none	Nincs
+objname	Objektumnév
+orientation	Tájolás
+path	Objektum elérési útja
+position	Pozíció
+rclick	Kattintás a jobb gombbal
+rdblclick	Dupla kattintás a jobb gombbal
+record_activearea	Aktív terület felvétele
+record_application_context	Felvételkészítés az alkalmazásban
+no_control	Nincs elérhető objektum a kattintás helyén.
+record_control	Objektum felvétele
+record_control_pa	Lépésenkénti útmutató lépésének felvétele
+record_define_target	Képernyő felvétele
+record_display	Fő buborék szerkesztése
+record_end_display	Buborék szerkesztése
+record_explanation	Magyarázat hozzáadása
+record_object_context	Objektum felvétele
+record_screen_context	Képernyő felvétele
+record_target_specializer	Oldalazonosító felvétele
+record_compatible_application	Kompatibilis alkalmazás felvétele
+reference	Forrás
+regexp	Reguláris kifejezés
+replace	Csere
+replace_continue	Csere és folytatás...
+replace_pgkey_attr	Oldalkulcs-attribútumok cseréje
+error_regexp	Érvénytelen reguláris kifejezés. Javítsa a bevitelét.
+resize	Ablak átméretezése
+revision	Revízió
+sc_config_header	Profilinformáció
+screen	Képernyő
+screenhelp	Képernyősúgó
+screenshot_rect	Képernyőfelvétel helye
+select_single	Egyszeres kiválasztás
+selected_merge	Kiválasztott képernyőmakrók egyesítése
+show_bubble	Közvetlen megjelenítés
+show_hilight	Kiemelés megjelenítése
+show_on_focus	Megjelenítés fókuszban
+source	Forrás
+start_unit	Kontextusfüggő súgó stílusa
+subkey	Alkulcsként engedélyezve
+script	Szkript
+target_name	Cím
+target_specializer	Oldalazonosító
+text_d	Bevitt szöveg
+text_d_specializer	Bevitt szöveg
+tolerance	Képernyőmakrók egyesítésének tűrése
+translate	Automatikus fordítás
+autoTranslate	Projekt fordítása
+paramReRecordLanguage	Nyelv
+merge_critical_macros	Makrók automatikus egyesítése
+merge_critical_macros.h	Ha szimulációkat konvertál navigációkká, az így létrehozott képernyők automatikusan egyesíthetők. Ezek összevonása a 'Képernyőmakrók egyesítésének tűrése' paraméterben meghatározott tűrésértékkel történik.
+uid	UID
+underline	Aláhúzott
+update_control	Objektum aktualizálása
+update_target	Képernyő aktualizálása
+variant	Változat
+win_rect	Ablak mérete
+wizCancel	Mégse
+wizFinish	Befejezés
+wizNext	Következő
+wizOk	OK
+wizExplanation	Magyarázat
+wizContinue	Folytatás
+app_info	Alkalmazás megjelenítése
+app_link_to_sim	Szimulációhivatkozás beszúrása alkalmazáshoz
+screen_info	Képernyő megjelenítése
+screen_link_to_sim	Szimulációhivatkozás beszúrása képernyőhöz
+object_info	Megjelenítési változat
+object_link_to_sim	Szimulációs hivatkozás beszúrása
+disabled	Deaktiválva
+record_context_assistant_include	@{NAVIGATOR} projekttel együtt
+project_id	Projekt címe
+project_id.h	A paraméter tartalmazza a beszúrt projektet. A 'Szerkesztési hivatkozás' gombbal kiválaszthatja a projektet a munkaterületen.
+project	Projekt
+context_assistant_include	Asztalivarázsló-projekt
+open_expanded	Speciális fő buborék megjelenítése
+restart_option	Újraindítás gomb
+next_project_id	Következő projekt
+next_project_id.h	Ezzel a beállítással adhatja meg, hogy a projekt az aktuális folyamat befejezése után induljon el. Az új folyamat közvetlenül indul, és nem jelenik meg záró buborék.
+end_unit	Útmutató vége
+add_end_unit	Folyamat végének hozzáadása
+demo	Demó mód
+uebung	Gyakorlás mód
+praxis	Egyidejű mód
+test	Teszt mód
+doc	Word-dokumentum
+pdf	PDF-dokumentum
+html	HTML-dokumentum
+ppt	PowerPoint-dokumentum
+explanation_type	Ikon
+note	Megjegyzés
+info	Infó
+tipp	Tipp
+warnung	Figyelmeztetés
+no_image	Nincs ikon
+display_on	Fő buborék megjelenítésének helye
+nav_start	Navigáció indítása
+app_focus	Alkalmazásfókusz
+screen_focus	Képernyőfókusz
+never	Nincs megjelenítés
+list_type	Képernyő listatípusa
+list_type.h	Ezzel a paraméterrel adható meg az objektumok listázásának típusa a képernyőn, ha ahhoz aktiválva van az 'Összes objektuminformáció megjelenítése' beállítás.
+unordered_list	Listajelek
+ordered_list	Számozás
+convert_sn	Asztali varázsló generálása
+Application	Alkalmazás
+obj_context	Objektum
+expl_context	Magyarázat
+record_cntrl_type	Típus
+disable_standby	Készenléti státus deaktiválása (@{NAVIGATOR})
+disable_standby.h	Itt adhatja meg, hogy a @{NAVIGATOR} készenléti állapotát ne lehessen beállítani. Ha a beállítás nincs aktiválva, akkor a CTRL + F11 billentyűparanccsal vagy a státusikonra kattintva beállítható a készenléti állapot.
+disable_exit	Kilépés parancs elrejtése (@{NAVIGATOR})
+disable_exit.h	Itt adhatja meg, hogy ne jelenjen meg a Kilépés parancs a(z) @{NAVIGATOR} státusikonjának környezetfüggő menüjében.
+bcontent_style	Buborékstílus
+bcontent_style.h	Ez a beállítás határozza meg a buborék megjelenítéséhez használt buborékstílust.
+cache_properties	Cache
+cache_folder	Mappa helye
+cache_folder.h	Itt adhatja meg a „NavigatorCache” gyorsítótármappa helyét. Az alapértelmezett hely a következő: „%localappdata%”. Más helyet is megadhat. \nMegjegyzés: A gyorsítótármappa neve nem módosítható.
+use_caching	Gyorsítótár használata
+use_caching.h	Itt aktiválhatja a @{NAVIGATOR} gyorsítótárának használatát.
+function_keys	Funkcióbillentyűk
+minimize_da	Kis méret
+minimize_da.h	Itt adhatja meg a főablakot kis méretre állító funkcióbillentyűt.
+next_tab	Következő lap kiválasztása
+next_tab.h	Itt adhatja meg a főablak következő lapjának kiválasztására szolgáló funkcióbillentyűt.
+next_screen	Ugrás a következő képernyőre
+next_screen.h	Itt adhatja meg a kiválasztott projektben a következő képernyőre váltásra szolgáló funkcióbillentyűt.
+back	Vissza
+back.h	Itt adhatja meg az előző képernyőre váltásra szolgáló funkcióbillentyűt.
+toggle_standby	Készenléti mód váltása
+toggle_standby.h	Itt adhatja meg a készenléti mód átváltására szolgáló funkcióbillentyűt.
+abort	Megszakítás
+abort.h	Az asztali varázslót megszakító funkcióbillentyű meghatározása.
+restart	Újraindítás
+restart.h	Itt adhatja meg az asztali varázslót újraindító funkcióbillentyűt.
+start_pa	Asztalivarázsló-projekt indítása
+start_pa.h	Itt adhatja meg a kiválasztott projektet elindító funkcióbillentyűt.
+start_demo	Demó mód indítása
+start_demo.h	Itt adhatja meg a kiválasztott demó módot elindító funkcióbillentyűt.
+start_prac	Gyakorlás mód indítása
+start_prac.h	Itt adhatja meg a kiválasztott gyakorlás módot elindító funkcióbillentyűt.
+start_test	Teszt mód indítása
+start_test.h	Itt adhatja meg a kiválasztott teszt módot elindító funkcióbillentyűt.
+start_concur	Egyidejű mód indítása
+start_concur.h	Itt adhatja meg a kiválasztott egyidejű módot elindító funkcióbillentyűt.
+start_book	Könyv indítása
+start_book.h	Itt adhatja meg a kiválasztott könyvet elindító funkcióbillentyűt.
+start_group	Megnyitás libraryben
+start_group.h	Itt adhatja meg a libraryben egy csoport megnyitására szolgáló funkcióbillentyűt.
+toggle_ctx_rec	Kontextusfelismerés váltása
+toggle_ctx_rec.h	Itt adhatja meg az asztali varázsló kontextusfelismerésének átváltására szolgáló funkcióbillentyűt.
+select_next	Következő bejegyzés kiválasztása
+select_next.h	Itt adhatja meg az aktuális ablak következő bejegyzésének kiválasztására szolgáló funkcióbillentyűt.
+select_prev	Előző bejegyzés kiválasztása
+select_prev.h	Itt adhatja meg az aktuális ablak előző bejegyzésének kiválasztására szolgáló funkcióbillentyűt.
+toggle_warning	Figyelmeztető párbeszédpanel megjelenítése
+toggle_warning.h	Itt adhatja meg az asztali varázsló figyelmeztető párbeszédpanelének megjelenítésére szolgáló funkcióbillentyűt.
+execute_step	Lépés végrehajtása
+execute_step.h	Itt adhatja meg a lépésenkénti útmutató lejátszása közben egy lépés végrehajtására szolgáló funkcióbillentyűt.
+copy_link	Hivatkozás másolása
+copy_link.h	Itt adhatja meg a kiválasztott entitás hivatkozásának másolására szolgáló funkcióbillentyűt.
+maximize_trainer	Tartalomablak maximalizálása
+maximize_trainer.h	Itt adhatja meg a tartalomablakot maximalizáló funkcióbillentyűt.
+share_email	Megosztás e-mailben
+share_email.h	Itt adhatja meg a kiválasztott bejegyzés e-mailben történő megosztására szolgáló funkcióbillentyűt.
+start_default	Alapértelmezett tartalom indítása
+start_default.h	Itt adhatja meg az alapértelmezett mód vagy a kiválasztott dokumentum indítására szolgáló funkcióbillentyűt.
+show_da_help	Asztali varázsló súgójának megjelenítése
+show_da_help.h	Itt adhatja meg az asztali varázsló súgójának megnyitására szolgáló funkcióbillentyűt.
+request_content	Tartalomkérés
+request_content.h	Itt adhatja meg az alkalmazásoldalhoz kapcsolódó tartalomkérésre szolgáló funkcióbillentyűt.
+search_content	Tartalom keresése
+search_content.h	Itt adhatja meg a kiválasztott kereséstípustól függő tartalomkeresésre szolgáló funkcióbillentyűt.
+show_hidden_elems	Rejtett súgóelemek megjelenítése
+show_hidden_elems.h	Itt adhatja meg a rejtett súgóelemek megjelenítésére szolgáló funkcióbillentyűt.
+toggle_side_bar	Oldalsáv megjelenítése / elrejtése
+toggle_side_bar.h	Itt adhatja meg az oldalsáv megjelenítésére és elrejtésére szolgáló funkcióbillentyűt.
+content_library	Asztali varázsló – Vezérlők és viselkedés
+content_library_window	Asztali varázsló - stílus és ablakok
+content_library_sidebar	Asztali varázsló – Oldalsáv
+style	Stílus
+style.h	Itt adhatja meg az asztali varázsló összetevőinek (főablak, tartalomablak, státusikon) megjelenését. Válasszon stíluserőforrást a listából.
+show_only_bar	Indításkor csak az oldalsáv látható
+show_only_bar.h	Itt adhatja meg, hogy csak az oldalsáv jelenjen meg az asztali varázsló vagy akár a főablak indításakor.
+clear_on_mismatch	Tartalomlista ürítése eltérő kontextus esetén
+clear_on_mismatch.h	Itt adhatja meg, hogy a tartalomlista ürüljön ki, ha nem található tartalom. Deaktivált beállítás esetén az utolsó felismert objektum tartalma jelenik meg.
+da_positioning	Főablak igazítása
+da_positioning.h	Itt adhatja meg a főablak igazítását a képernyőn. A 'Szabad' lehetőség kiválasztása esetén a 'Főablak pozíciója' paraméterben határozhatja meg a pozíciót.
+bar_positioning	Oldalsáv igazítása
+bar_positioning.h	Itt adhatja meg az oldalsáv igazítását a képernyőn.
+left_top	Bal felső sarok
+left_center	Bal oldalon középen
+left_bottom	Bal alsó sarok
+right_top	Jobb felső sarok
+right_center	Jobb oldalon középen
+top_center	Fent-középen
+right_bottom	Jobb alsó sarok
+center	Középen
+free	Szabad
+list_order	Tartalom rendezése
+list_order.h	Itt adhatja meg az elérhető tartalom rendezését a listán.
+by_default	Projektkezelő-struktúra
+by_name	Betűrendben
+by_type	Típusonként betűrendben
+library_position	Főablak pozíciója (szabad)
+library_position.h	Itt adhatja meg a főablak pozícióját (balra, fent) a képernyőn 'Szabad' igazítás esetén. Az értékek képpontban értendők.
+search_url	Csoport keresése
+search_url.h	A @{LIBRARY} tartalmában végzett kereséshez kapcsolódó munkaterület-csoport megadása.
+enable_recording	Pozíció: „Rögzítés” vezérlő
+enable_recording.h	Lehetővé teszi vezérlő megjelenítését a felvételi folyamatokhoz. Megadható a vezérlő oldalsávbeli elhelyezkedése is.\nA vezérlővel a felhasználó folyamatokat vehet fel Microsoft Word-dokumentumként, illetve videóként. A rögzített fájlok a fő ablak Felhasználói terület lapján jelennek meg.
+enable_exit_da	Pozíció: ’Kilépés’ vezérlő
+enable_exit_da.h	Engedélyezése esetén megjelenítheti a(z) @{NAVIGATOR} bezárását végrehajtó vezérlőt az oldalon. Megadható a vezérlő oldalsávon belüli elhelyezkedése is.
+enable_info	'Infó' lap megjelenítése
+enable_info.h	Aktiválja az Infó lapot az asztali varázsló főablakában. Írjon be információs szöveget az asztali varázsló csoportjának rövid leírásába.
+request_content_type	Tartalomkérés típusa
+request_content_type.h	A tartalomkérési funkció beállítása. Válasszon egy értéket a legördülő listából. \nE-mail: Egy tartalomkérési e-mail-címet lehet megadni. \nURL: Egy weboldal URL-címét lehet megadni. \nA Tartalom kérése vezérlő az oldalsávon jelenik meg. Ha nincs tartalom az oldalon, a fő ablakban jelenik meg a tartalomkérési hivatkozás.
+email	E-mail
+url	URL
+enable_request_content	Pozíció: „Tartalomkérés” vezérlő
+enable_request_content.h	A „Tartalomkérés” vezérlő oldalsávbeli pozíciójának megadása.
+enable_external_search_ctx	Kontextusadatok átadása
+enable_external_search_ctx.h	További kontextusadatok átadása a felhasználóról a keresési URL-címre a keresésekhez. A kontextusadatok a keresést segítik. Ha a megadott kereső kontextusadatokat is tud fogadni, aktiválja a beállítást.\nAz átadott kontextusadatok a Kontextusadatok paraméterben adhatók meg.
+external_search_ctx	Kontextusadatok
+external_search_ctx.h	Ebben a mezőben adhatók meg a kontextusadatok, ha a Kontextusadatok átadása beállítás aktív. A következő adatok adhatók át: az aktuális alkalmazás EXE-fájljának neve (&executable=$#{EXE-fájl neve}), az alkalmazás aktuális oldalának kódja (&pagekey=$#{Oldal kódja})\nMegjegyzés: Ne változtassa meg a kontextusadatokat tartalmazó sztring szerkezetét.
+enable_external_search	Pozíció: „Külső keresés” vezérlő
+enable_external_search.h	A tartalombeli keresésre és más adatok keresésére szolgáló külső keresési oldal engedélyezése. Engedélyezése esetén megjelenik a Külső keresés nevű vezérlő az oldalsávon, amelynek pozíciója testreszabható.\nA gomb megnyit egy keresési kifejezés megadására szolgáló keresőmezőt. A keresési eredmények a külső keresési oldalon jelennek meg. A külső kereséshez meg kell adni egy keresési URL-címet a Külső keresés URL-címe mezőben.
+external_search_url	URL
+external_search_url.h	Ebben a beállításban adható meg a külső keresések URL-címe. Az URL-címet a következő alakban kell megadni:\nhttps://www.google.com/#q=$#{SEARCHTERM}\nhttps://www.bing.com/search?q=$#{SEARCHTERM}\nhttps://search.yahoo.com/search?p=$#{SEARCHTERM}\nhttps://www.wolframalpha.com/input/?i=$#{SEARCHTERM}\n\nMegjegyzés: Ne törölje, és ne is módosítsa a „=$#{SEARCHTERM}” URL-paramétert.
+enable_share_content	'Tartalom megosztása' vezérlő megjelenítése
+enable_share_content.h	Megjelenti a Tartalom megosztása gombot a főablak láblécén. A gombbal a kiválasztott tartalomra mutató hivatkozást tartalmazó párbeszédpanel nyitható meg.
+author_email	E-mail
+author_email.h	Megadhat egy tartalomkérésre szolgáló e-mail-címet a „Tartalom kérése” funkcióhoz.
+author_url	URL
+author_url.h	Megadhat egy tartalomkérésre szolgáló URL-címet a „Tartalom kérése” funkcióhoz.
+author_url_params	URL-cím paraméterei
+author_url_params.h	Itt adhatja meg a szerzői URL paramétereit. \nMegadhatja az alkalmazás nevét és a futtatható fájlt. Írja felül az 'application' vagy az 'executable' értéket a megfelelő névvel.
+enable_fuzzy_match	Fuzzy-egyezés aktiválása
+enable_fuzzy_match.h	Itt adhatja meg, hogy használható-e fuzzy-egyezés az asztali varázsló tartalma és az alkalmazásoldal közötti egyeztetés során.
+enable_ident_filter	Bővített alkalmazásazonosítás aktiválása
+enable_ident_filter.h	Azt határozza meg, hogy csak a releváns alkalmazásadatok legyenek felhasználva a(z) @{NAVIGATOR} felületén történő lejátszáskor. Ezzel optimalizálható a(z) @{NAVIGATOR} teljesítménye.\nMegjegyzés: a beállítás téves objektumfelismeréshez vezethet. A tartalom közzététele előtt célszerű tesztelni a lejátszást.
+library_size	Főablak mérete
+library_size.h	Itt adhatja meg a főablak méretét (szélesség, magasság) képpontban.
+book_win_position	Tartalomablak pozíciója (szabad)
+book_win_position.h	Itt adhatja meg a tartalomablak pozícióját (balra, fent) a képernyőn „Szabad” igazítás esetén. Az értékek képpontban értendők.
+book_win_size	Tartalomablak mérete
+book_win_size.h	Itt adhatja meg a tartalomablak méretét (szélesség, magasság) pixelben.
+book_win_positioning	Tartalomablak igazítása
+book_win_positioning.h	Itt adhatja meg a tartalomablak igazítását a képernyőn. A „Szabad” lehetőség kiválasztása esetén a „Tartalomablak pozíciója” paraméterben határozhatja meg a pozíciót.
+errNoApplicationContext	Az aktuális makró nem alkalmazáskontextus.
+errNoTargetDefinition	A makro nem felel meg a céldefiníciónak.
+errExtractPagekey	Nem nyerhető ki oldalkulcs a következő profillal:
+errScreenshot	Nem készíthető képernyőfelvétel. Próbálja újra.
+errLoadTemplate	A profil nem tölthető be:
+errRecordProcessStep	Környezetfüggő súgó típusú projektek esetén nem vehetők fel lépésenkénti útmutató lépései.
+errLanguageSelection	Nincs kiválasztva nyelv.
+errNoWriteToken	A kiválasztott objektumra vonatkozóan nincs írási jogosultsága.
+errMacroSelection	Nincs kiválasztva makró.
+errObjectInformation	Nincs objektuminformáció a megadott pozícióban.
+errSpecializedInformation	Nincs részletes információ a megadott pozícióban.
+errPosition	A pozíció nem a képernyőterületen van.
+errActionMacroSelection	Nincs kiválasztva műveletmakró.
+errUpdateObject	A kiválasztott objektumtípus nem aktualizálható.
+errInsertExplanation	Nem szúrható be egyéni magyarázat a kiválasztott makróhoz.
+action.h	Csak lépésenként útmutató\nEzzel a beállítással adható meg az a művelet, amelyet a felhasználónak végre kell hajtania az objektumon.
+all_values.h	Néha egy alkalmazás objektuma olyan értékválasztási lehetőségeket tartalmaz, amelyek nem kezelhetők standard HTML-vezérlővel. Ilyenkor az alkalmazás objektumához legközelebbi vezérlő használatos. Továbbá ez a mező tartalmazza az összes olyan értéket, amely az objektumnál kiválasztható.
+anim_steps.h	Ezzel az értékkel adhatja meg, hány lépésben animált a kiválasztott kiemelési hatás. Az alacsony értékek felgyorsítják az animációt, de elmosódott hatást keltenek. A magas értékek egyenletesebbé teszik az animációt, azonban le is lassítják.
+auto_execute.h	A beállítás azt határozza meg, hogy a művelet automatikusan lesz végrehajtva a navigáció lejátszásakor.
+b_height.h	Itt adhatja meg az objektumbuborék magasságát képpontban. Ha a szöveg hossza túllépi a buborékban rendelkezésre álló helyet, automatikusan növeli a magasságot a szükséges méretre.
+b_hide_option.h	Csak kontextusfüggő súgó\nAktiválása esetén egy olyan beállítás jelenik meg az objektum vagy a magyarázat buborékában, amellyel a végfelhasználók deaktiválhatják az objektuminformációt (buborék és kiemelés). Így a felhasználók elrejthetik azokat az információkat, amelyekre már nincs szükségük.
+b_minimizable.h	Ezzel a beállítással határozhatja meg, hogy lejátszás közben kis méretűre állítható-e a buborék. Ha aktiválja, megjelenik a Kis méret gomb a buborék fejlécében.
+b_closable.h	Csak környezetfüggő súgó\nEzzel a beállítással határozhatja meg, hogy lejátszás közben bezárható-e a buborék. Ha aktiválja, megjelenik a Bezárás gomb a buborék fejlécében.
+b_minimized.h	Csak kontextusfüggő súgó\nEzzel beállítással adhatja meg, hogy az objektumbuborék kis méretben jelenjen meg az oldal betöltésekor.
+bmain_size.h	Itt adhatja meg a főablak méretét (szélesség, magasság) képpontban.
+bmain_minimizable.h	Ez a beállítás határozza meg, hogy a főablak kis méretre állítható-e.
+bmain_position.h	Az itt megadott értékek határozzák meg a főablak pozícióját a képernyőn. A számok a képernyő bal felső sarkától való távolságot jelentik képpontban.
+bmain_win_style.h	Itt határozhatja meg a főablak megjelenését. Válasszon stíluserőforrást a listáról.
+bmain_alignment.h	Itt adhatja meg a főablak igazítását a képernyőn. A 'Szabad' lehetőség kiválasztása esetén az 'Ablak pozíciója' paraméterben határozhatja meg a pozíciót.
+bubble_offset.h	Ez a beállítás az objektumbuborék és az objektum közti eltolást határozza meg pixelben.
+bubblestyle_d.h	A projekt objektumbuborékaihoz használatos buborékstílus-erőforrás kijelölése.
+bubblestyle_d.h	A projekt objektumbuborékaihoz használatos buborékstílus-erőforrás kijelölése.
+choose_bool.h	Ez a mező azt az értéket tartalmazza, amely meghatározza, hogy a választókapcsoló vagy a jelölőmező be van-e kapcsolva. A választókapcsoló értéke mindig '1' (be). A jelölőmező értéke lehet '0' (ki) vagy '1' (be).
+choose_text.h	Ez a paraméter azt a karakterláncot tartalmazza, amelyet az alkalmazás az automatikus felvételi folyamat közben talált az előugró menüben vagy a listamezőben a kijelölt bejegyzéshez. Ez a karakterlánc lesz beszúrva a magyarázó buborékszövegekbe a különböző módokban a(z) '${choose_text}' helyfoglalónál (lásd a HTML-szerkesztő szövegmódját). Az automatikusan generált buborékszövegek szövegelemeként használatos, ha a felvétel közben a buboréktartalom automatikusan jön létre szövegelemek használatával.
+click_pos.h	Az a pozíció az alkalmazásablakban, amelyre a szerző az objektum felvételekor rákattintott. A pozíció képpontban van megadva, és az alkalmazásablak tartalmának bal felső sarkához viszonyított.
+click_pos_rel.h	A pozíció az alkalmazásablakban. A százalékérték (%) az alkalmazásablak teljes szélességének és magasságának arányában adja meg a pozíciót a bal felső sarkot használva referenciapontként.
+config_file.h	A billentyű létrehozásához és későbbi értelmezéséhez használt alkalmazásprofil nevét tartalmazza.
+display_name.h	Az alkalmazás nevének megadása. Ez fog megjelenni a lépésenkénti útmutatók kivételablakaiban.
+dump_page.h	A képernyőről készített fotó.\nA Kép cseréje funkcióval lecserélhető a kép.
+element_type.h	Leírja a felismerési mechanizmus által felismert objektumosztályt.
+enabled.h	Csak környezetfüggő súgó\nEzzel a beállítással adhatja meg, hogy a makró szerepeljen-e az oldal elemzésében. Ha a beállítás inaktív, akkor sem jelenik meg a súgóobjektum, ha a kapcsolódó objektum szerepel az oldalon.
+optional.h	Csak lépésenkénti útmutató\nEz a beállítás határozza meg, hogy a lépésenkénti útmutató lépése opcionális legyen-e a folyamatban tevékenykedő felhasználó számára. \nLejátszás közben más ikon jelenik meg a lépéslistán. Ha a vezérlő nem látható az oldalon, vagy ha az oldal helytelen, a lépés kimarad.
+executable.h	Az alkalmazás futtatható fájljának nevét tartalmazza, ahogyan az operációs rendszer használja.
+explanation_d.h	A megfelelő kontextus (szövegek, hivatkozások, képek stb.) adatait tartalmazza. Ügyeljen rá, hogy az adatok optimálisan jelenjenek meg a fő buborékban.
+explanation_d_modified.h	Ha ez a beállítás aktív, az alkalmazás nem generálja automatikusan a kontextusinformációt automatikus fordítás esetén, hanem manuálisan kell szerkeszteni. Így megmaradnak a buboréktartalom manuális módosításai.
+fieldname.h	A buborékszövegbe illesztett, videórögzítés során rögzített vezérlő neve.\nAz objektum neve módosítható a szövegmezőben. Az objektum nevének helyőrzője: „$#{fieldname}”.
+fieldicon.h	A buborékszövegbe illesztett, videórögzítés során lefényképezett gomb vagy ikon képe.\nAz objektumkép lecserélhető a Kép cseréje lehetőséggel. Az objektumkép helyőrzője: „$I{fieldicon}”.
+g_highlight_bgr.h	Itt adhatja meg a kiemelés szegélyeinek standard színét a navigációban. A szín megadható közvetlenül RBG-értékként HEX-formátumban, vagy kiválasztható a Színválasztó párbeszédpanelen.
+g_highlight_border.h	Ezzel a paraméterrel adhatja meg az objektum kiemelési keretének általános vastagságát képpontban. A képpontszélesség 1 és 10 között választható.
+g_highlight_effect.h	Ez a beállítás az objektumnál a navigációban használt kiemelési hatás fajtáját határozza meg.
+hide_on_focuslost.h	Ez a beállítás határozza meg, hogy a buborék rejtett legyen-e, ha a képernyőn a fókusz lekerül a vonatkozó objektumról.
+highlight_offset.h	Ez a paraméter határozza meg a hozzáadott pixeleltolást a kiemelés kijelölt elemet körülvevő négyszögénél.
+key.h	Az összes olyan kritériumot tartalmazza, amely az alkalmazásablak és az alkalmazás adott oldalának azonosításához szükséges. A kulcs csak akkor egyezik, ha a célalkalmazás oldala megfelel a kulcsban meghatározott valamennyi kritériumnak. Az egyes kulcskritériumok meghatározásának enyhítéséhez reguláris kifejezések is használhatók.
+key_name.h	Ez a paraméter a használt billentyűt vagy billentyűparancsot határozza meg. A billentyűneveket szóközzel kell elválasztani, például: 'ctrl + k'.
+key_desc.h	Ez a paraméter a használt billentyűt vagy billentyűparancsot határozza meg. A billentyűneveket szóközzel kell elválasztani, például: 'ctrl + k'.
+force_display.h	Csak környezetfüggő súgó\nItt adhatja meg, hogy a makrótartalom mindig megjelenjen azonnali súgóként – még akkor is, ha a lejátszás közbeni azonnali súgó le van tiltva az asztali varázslóban.
+link_to_sim.h	Ez a beállítás beszúrja a szimuláció hivatkozását a fő buborékba. A beállítás olyan navigációhoz kapcsolódik, amely szimulációs projekt alapján jött létre (konvertálással).
+macro_comment.h	Általános megjegyzés. A kicsinyített nézetben jelenik meg.
+match_value.h	Ezzel a beállítással határozható meg, hogy a megadott értéket össze kell-e hasonlítani az objektum valós értékével a produktív alkalmazásban.
+mini_on_focuslost.h	Ezzel a beállítással adhatja meg, hogy a buborék kis méretre váltson, amikor a fókusz a képernyőn lekerül a vonatkozó objektumról.
+nav_check_freq.h	Itt adhatja meg, hogy a(z) @{NAVIGATOR} milyen gyakran keressen frissített tartalmat. Ha van elérhető frissített tartalom, a(z) @{NAVIGATOR} azonnal automatikusan elindítja. Ez különösen módosításkezelési folyamatoknál hasznos.
+enable_tincan.h	Itt aktiválhatja a(z) @{NAVIGATOR} tartalmának nyomon követését. A tartalomnak @{MANAGER}-munkaterületről kell származnia.
+no_spike.h	Ez a beállítás meghatározza, hogy az objektumbuborék heggyel vagy anélkül jelenjen-e meg.
+objname.h	A navigációban lévő összes objektumnak egyedi névvel kell rendelkeznie az azonosításhoz viselkedések és viselkedés-hozzárendelések használata esetén.
+orientation.h	Ezzel a paraméterrel adható meg az objektumbuborék tájolása a hivatkozott objektumhoz képest. A buboréknyíl az oldalon hivatkozott pozícióra mutat, míg maga a buborék a kiválasztott irányba eltolva látható. Ha a 'Középen' tájolás van kiválasztva, a buborék nyíl nélkül jelenik meg a meghatározott pozíció közepén.
+path.h	Az objektum elérési útja az objektum tulajdonságait írja le a használt alkalmazásprofil alapján. Az objektum elérési útjával azonosítható az objektum a produktív alkalmazásban. Ez a mező manuálisan nem szerkeszthető.
+position.h	Az itt megadott értékek határozzák meg a fő buborék pozícióját a képernyőn. A számok a képernyő bal felső sarkától való távolságot jelentik képpontban.
+reference.h	Ha a navigáció szimulációból lett konvertálva, itt határozható meg a megfelelő lépés forrása.
+resize.h	Ezzel a beállítással adhatja meg, hogy a célalkalmazás ablakmérete automatikusan arra a méretre módosuljon-e, amely a navigáció létrehozásakor volt használatos. Ez az aktív területek esetében hasznos, mivel ezek pozícióalapon jelennek meg.
+revision.h	Azon alkalmazásprofil verzióját jeleníti meg, amelyet az alkalmazás képernyőjének rögzítésekor a kulcs létrehozására használtak
+sc_config_header.h	Ebben a mezőben az alkalmazás profiljának adatai menthetők. A navigáció arra használja ezeket az adatokat, hogy pontosan felismerje az alkalmazást és annak objektumait lejátszás közben.
+screenshot_rect.h	Azt mutatja, hogy az alkalmazás az eredeti képernyő mely részét használta az objektum képernyőfelvételéhez. Ez az érték manuálisan nem szerkeszthető.
+show_bubble.h	Ez a beállítás azt határozza meg, hogy a buborék megjelenjék-e közvetlenül az oldal teljes betöltése után.
+start_from_arbitrary.h	Ezzel a beállítással adhatja meg, hogy a lépésenkénti útmutató tetszőleges lépésből elindítható legyen, ne a folyamat kezdetén induljon.
+show_hilight.h	Az objektum kiemelését engedélyező beállítás.
+show_highlight.h	Az objektumok kiemeléseinek megjelenítését szabályozó beállítás.
+show_on_focus.h	Ez a beállítás határozza meg, hogy megjelenjen-e a buborék, amikor a fókusz a képernyőn a vonatkozó objektumra kerül.
+source.h	Ha a navigáció szimulációból lett konvertálva, a paraméter az eredeti leckét határozza meg.
+subkey.h	Olyan esetekben lehet hasznos, ha a kulcs eredeti részének egyes elemei figyelmen kívül maradnak, például mert az adott oldal változatai nem relevánsak, és egyazon kulcs és lépés által kell kezelni őket a navigációban. Ez a beállítás előírja a felismerési folyamatnak, hogy akkor is egyező kulcsnak tekintse a kulcsot, ha a felismerés több kritériumot jelzett az oldalon a kulcsban megadottnál. Így az oldalkulcs rövidíthető, ezáltal több oldal tartozhat ugyanazon kulcs alá.
+target_name.h	Az alkalmazásablak nevét tartalmazza.
+text_d.h	Ez a paraméter a hivatkozott bejegyzés mezőjében megadandó karakterláncot tartalmazza. Az automatikus felvételi folyamat közben megadott értéket tartalmazza. Ez a karakterlánc lesz beszúrva a magyarázó buborékszövegekbe a különböző módokban a '${text_d}' helyfoglaló helyén (lásd a HTML-szerkesztő szövegmódját), ha a felvétel közben a buboréktartalom automatikusan jön létre szövegelemek használatával.
+text_d_specializer.h	Ez a paraméter a hivatkozott bejegyzés mezőjében megadandó karakterláncot tartalmazza. Az automatikus felvételi folyamat közben megadott értéket tartalmazza. Ez a karakterlánc lesz beszúrva a magyarázó buborékszövegekbe a különböző módokban a '${text_d}' helyfoglaló helyén (lásd a HTML-szerkesztő szövegmódját), ha a felvétel közben a buboréktartalom automatikusan jön létre szövegelemek használatával.
+tolerance.h	Az értékkel az egyezés mértékének tűrését adhatja meg a Képernyő makrók egyesítésénél. Ez a beállítás a 'Képernyőmakrók egyesítése' funkcióhoz kapcsolódik, amely az Eszközök menü Tömeges módosítások parancsával indítható el. Az érték növelése növeli a tűrésküszöböt. Ebben az esetben vegye figyelembe, hogy olyan képernyőfelvételek is egyesíthetők, amelyeken különböző objektumok jelennek meg. Az értéket százalékban kell megadni.
+uid.h	A makróhoz tartozó egyedi azonosítót tartalmaz, amellyel a projektben kezelhető.
+win_rect.h	Itt adhatja meg az ablak méretét a projekt létrehozásakor.
+explanation_type.h	Ezzel a beállítással adhatja meg a jegyzettípust. A típus beállításától függően egy piktogram jelenik meg a szöveggel együtt, hogy kiemelje a tanácsadó szöveget.
+app_info.h	Itt adhatja meg, hogy az alkalmazás megjelenjen-e a környezetfüggő súgóban. Ha nem szeretné megjeleníteni az alkalmazást, deaktiválja a beállítást.
+app_link_to_sim.h	Ezzel a paraméterrel jeleníthető meg a 'Forrás' paraméterben meghatározott szimulációra mutató hivatkozás a kontextustípus mellett. A folyamatban különböző módok választhatók.
+screen_info.h	Itt adhatja meg, hogy az oldal megjelenjen-e a környezetfüggő súgóban. Ha nem szeretné megjeleníteni a képernyőt, deaktiválja a beállítást.
+screen_link_to_sim.h	Ezzel a paraméterrel jeleníthető meg a 'Forrás' paraméterben meghatározott szimulációra mutató hivatkozás a kontextustípus mellett. A folyamatban különböző módok választhatók.
+object_info.h	Csak környezetfüggő súgó\nEzzel a beállítással adható meg az objektumhoz megjelenítendő változat.
+open_expanded.h	Ha ez a beállítás aktív, a fő buborék nyitott oldallal és objektumlistával jelenik meg.
+display_on.h	Ezzel a paraméterrel adható meg, hogy milyen helyzetben jelenjen meg a navigáció fő buboréka. A navigáció indításakor, az alkalmazás megjelenítésekor vagy a megfelelő alkalmazásoldal megjelenítésekor.
+area.h	Ebben a paraméterben adhatja meg a vezérlő pozícióját és méretét. Az első két szám az objektum pozícióját jelzi a képernyő bal felső sarkától számítva. Az utolsó két szám az objektum szélességét és magasságát határozza meg. A beviteli mező melletti gomb egy szerkesztési párbeszédpanelt nyit meg, amelyen testre szabható az objektum pozíciója és mérete.
+form_on.h	Itt adhatja meg, hogy a lépés űrlap. A lépés minden művelete egy buborékban jelenik meg lejátszás közben.
+transition	Lépésenkénti útmutató következő lépése
+transition_info	Lépésenkénti útmutató következő lépése
+action_pa	Művelet
+trans_action	Művelet
+step_name1	Következő lépés
+step_name2	1. alternatív lépés
+step_name3	2. alternatív lépés
+step_name4	3. alternatív lépés
+LClick	Kattintás a bal gombbal
+RClick	Kattintás a jobb gombbal
+LDblClick	Dupla kattintás a bal gombbal
+RDblClick	Dupla kattintás a jobb gombbal
+Focus	Fókusz
+FocusLost	Fókusz elvesztve
+step	Lépésenkénti útmutató lépése
+name	Név
+end_message	Szöveg
+show_end_window	Záróablak megjelenítése
+show_end_window.h	Itt adhatja meg, hogy egy ablak jelenjen meg a lépésenkénti útmutató végén. Ebben az ablakban a felhasználó manuálisan bezárhatja a lépésenkénti útmutatót. Ha a beállítás nincs bejelölve, az ablak nem jelenik meg, és a lépésenkénti útmutató bezárása automatikus.
+trans_action.h	Csak lépésenkénti útmutató\nItt adhatja meg a lépésenkénti útmutató következő lépésére ugrást kiváltó műveletet.
+action_pa.h	Ez a beállítás határozza meg, hogy a felhasználó mely művelete esetén történik meg a lépésenkénti útmutató következő lépésére ugrás.
+step_name1.h	Csak lépésenkénti útmutató\nItt adhatja meg a folyamatsorozat következő lépését.
+step_name2.h	Csak lépésenkénti útmutató\nItt adhatja meg a lépésenkénti útmutató alternatív lépését, ha a megadott lépés nem jeleníthető meg.
+step_name3.h	Csak lépésenkénti útmutató\nItt adhatja meg a lépésenkénti útmutató alternatív lépését, ha megadott 1. alternatív lépés nem jeleníthető meg.
+step_name4.h	Csak lépésenkénti útmutató\nItt adhatja meg a lépésenkénti útmutató alternatív lépését, ha megadott 2. alternatív lépés nem jeleníthető meg.
+step_on_same_page.h	Csak lépésenkénti útmutató\nAkkor aktiválja ezt a beállítást, ha a lépésenkénti útmutató következő lépése ugyanazon az alkalmazásoldalon van. Így elkerülhető az oldalfelismerés.
+name.h	Itt adhatja meg a lépésenkénti útmutató lépésének nevét. A név a kiválasztáshoz tartozó Objektum makró Lépésenkénti útmutató következő lépése beállításaiban jelenik meg.
+set_value	Érték automatikus beállítása
+set_value.h	A beállítás meghatározza, hogy a makró értékét az alkalmazás automatikusan állítja-e be a navigáció lejátszásakor.
+end_message	Szöveg
+end_message.h	Ebben a szövegmezőben a folyamat végén a buborékban megjelenő szöveg adható meg. A szövegmező előzetesen beállított alapértelmezett szöveget tartalmaz.
+restart_option	Újraindítás gomb
+restart_option.h	Ha ez a beállítás aktív, egy gomb jelenik meg a buborékban, amellyel a felhasználó megismételheti a folyamatot. Így a folyamat újra végrehajtható más bevitelekkel.
+record_end_display	Buborék szerkesztése
+end_bubble	Folyamat vége buborék
+bend_position	Pozíció
+bend_position.h	Az itt megadott értékek a buborék pozícióját határozzák meg a képernyőn. Az értékek képpontban adhatók meg, és a képernyő bal felső sarkához viszonyítandók.
+bend_style	Stílus
+bend_style.h	Ezzel a beállítással adhatja meg a buborék megjelenítéséhez használt buborékstílust. A buborékstílusok a Buborékstílus-szerkesztővel definiálhatók, amely az Eszközök menü Buborékstílusok szerkesztése parancsával indítható el. A buborékstílusok mindig elérhetők a teljes munkaterületen.
+bend_width	Szélesség
+bend_width.h	Ez a buborék szélességét határozza meg pixelben.
+bend_height	Magasság
+bend_height.h	Ez a buborék szélességét határozza meg pixelben.
+process_start_unit	Lépésenkénti útmutató stílusa
+record_pa_control	Lépésenkénti útmutató lépésének felvétele
+prev_step	Előző lépés
+next_step	Következő lépés
+disqualifier	Képernyő kizárása
+disqualifier.h	Az Oldalazonosító segítségével egy adott objektum használatával megkülönböztethetők a hasonló alkalmazásoldalak. Ezzel a beállítással adhatja meg, hogy a felismert alkalmazásoldal megjelenjen-e vagy ki legyen-e zárva, ha elérhető az Oldalazonosító. \nA miniatűr nézet a beállítás státusát jeleníti meg: pluszjelet (nincs kizárás) vagy mínuszjelet (kizárás).
+exception_bubble	Kivételkezelés buborék
+bexp_position	Pozíció
+bexp_position.h	Az itt megadott értékek határozzák meg a buborék pozícióját a képernyőn. Az értékeket képpontban kell megadni. A buborék a képernyő bal felső sarkában jelenik meg.
+bexp_style	Stílus
+bexp_style.h	Itt választható ki a használni kívánt buborék típusa. A buborékstílusok a buborékstílus-szerkesztőben határozhatók meg, amely a következő menüútvonalon nyitható meg:  Eszközök -> Buborékstílus szerkesztése.  A különböző buborékstílusok mindig elérhetők a teljes munkaterületen.
+content_demo	Demó mód
+content_demo.h	Ezzel a beállítással jeleníthetők meg egy csoport demó módjai az asztali varázslóban.
+content_practice	Gyakorlás mód
+content_practice.h	Ezzel a beállítással jeleníthetők meg egy csoport gyakorlás módjai az asztali varázslóban.
+content_test	Teszt mód
+content_test.h	Ezzel a beállítással jeleníthetők meg egy csoport teszt módjai az asztali varázslóban.
+content_concurrent	Egyidejű mód
+content_concurrent.h	Ezzel a beállítással jeleníthetők meg egy csoport egyidejű módjai az asztali varázslóban.
+content_navi	Navigálás
+content_navi.h	Ezzel a beállítással jeleníthetők meg egy csoport navigációi az asztali varázslóban.
+content_documentation	Dokumentáció
+content_documentation.h	Ezzel a beállítással jeleníthetők meg egy csoport dokumentációi az asztali varázslóban.
+content_externals	Külső fájlok
+content_externals.h	Ezzel a beállítással jeleníthetők meg egy csoport külső fájljai az asztali varázslóban.
+navi_style	Stílus
+navi_style.h	Itt adhatja meg a navigációs ablak megjelenését. Válasszon stíluserőforrást a listáról.
+menu_path:/record	Felvétel
+F1HELPNAME	súgó
+alignment	Buborék igazítása
+alignment.h	Itt adhatja meg a buborékablak igazítását a képernyőn. A 'Szabad' lehetőség kiválasztása esetén a 'Buborék pozíciója' paraméterben határozhatja meg a pozíciót.
+bform_alignment	Igazítás
+bform_alignment.h	Itt adhatja meg az űrlapbuborék-ablak igazítását a képernyőn. A 'Szabad' lehetőség kiválasztása esetén az 'Űrlapbuborék pozíciója' paraméterben határozhatja meg a pozíciót.
+gloss_bubble	Szójegyzékbuborék
+gloss_bubble_style	Stílus
+gloss_bubble_style.h	Itt adhatja meg a szójegyzékbuborék megjelenését. Válasszon stíluserőforrást a listáról.
+ellipse	Kör
+gloss_bubble_size	Méret
+gloss_bubble_size.h	Itt adhatja meg a szójegyzékbuborék méretét (szélesség, magasság) képpontban.
+Navi	Asztali varázsló
+exclude_from_da	Kizárás az asztali varázslóból
+exclude_from_da.h	Itt adhatja meg, hogy az oldalkulcs ne legyen figyelembe véve az asztali varázsló kontextusfelismerésében.
+all_as_descr	Szövegforrás
+all_as_descr.h	Itt adhatja meg a szöveg típusát az @{NAVIGATOR} eszközhöz. Az alapértelmezett a Rövid leírás.
+consider_roles	Szerepek figyelembe vétele
+consider_roles.h	Szerepek használatának bekapcsolása a lejátszás alatti tartalommegjelenítéshez.
+consider_categories	Tartalomkategóriák használata
+consider_categories.h	Tartalomkategóriák használatának bekapcsolása a(z) @{NAVIGATOR} fő ablakában zajló tartalomrendszerezéshez.
+disable_ca_in_pa	Azonnali súgó elrejtése a lépésenkénti útmutatóban
+disable_ca_in_pa.h	Itt adhatja meg, hogy az azonnali súgó rejtett legyen a lépésenkénti útmutató lejátszása közben. A lépésenkénti útmutató befejezése után újra megjelenik az azonnali súgó.
+full_desc	Leírás
+shrt_desc	Rövid leírás
+wrong_position	Pozícióhiba
+help	Súgó
+warning	Figyelmeztetés
+maintenance	Karbantartás
+update	Frissítés
+new	Új
+training	Tanítás
+attachment	Melléklet
+link	Hivatkozás
+tip	Tipp
+note	Megjegyzés
+compliance	Megfelelés
+mini_bubble_style	Miniikon stílusa
+mini_bubble_style.h	Itt adhat meg stíluserőforrást a projekthez használatos miniikonokhoz. A miniikonok az adaptálható erpforrások egyik erőforrástípusa. \nAz egyes művelet- és magyarázatmakrókban a Speciális szakasz Miniikon típusa paraméterével állítható be ikon.
+mini_bubble	Miniikon típusa
+mini_bubble.h	Csak környezetfüggő súgó\nItt adhatja meg az objektum miniikonjának típusát. Az ikon a Stílus makró 'Miniikon stílusa' paraméterén alapul.
+NavRecMouseWheel	A folytatáshoz használja az egér görgőjét. A görgetés befejezéséhez nyomja meg az ESC billentyűt.
+search_type	Keresés típusa
+none	Nincs
+search_in_lib	Ebben: @{LIBRARY}
+search_in_da	Asztali varázsló csoport
+search_type.h	A tartalomkeresési funkció beállítása. A legördülő listából az alábbi lehetőségeket választhatja. \nNincs: a keresési funkció kikapcsolása. \nEbben: @{LIBRARY}: a(z) @{LIBRARY} megnyitása a(z) @{LIBRARY} tartalmában való kereséshez. \nAsztali varázsló csoportjában: az asztali varázsló tartalmában végzett keresésre szolgáló Keresés lap megjelenítése a fő ablakban.
+errObjectUpdate	Az objektum nem frissíthető. Frissítse az objektumot hasonló típussal.
+config_headers_differ1	A profiladatok elavultak. A projekt frissítéséhez kattintson a Folytatás gombra.
+config_headers_differ2	Ajánlatos archívumot létrehozni a frissítés előtt.
+default_start_mode	Alapértelmezett kezdő tartalom
+default_start_mode.h	Itt adhatja meg, hogy alapértelmezés szerint a tartalomlista melyik módja vagy dokumentumformátumja induljon el.
+default_start_doc	Alapértelmezett kezdő dokumentum
+default_start_doc.h	Itt adhatja meg a dokumentumtípust, ha dokumentum van megadva az 'Alapértelmezett kezdő tartalom' beállításban.
+show_next_btn	Tovább gomb
+show_next_btn.h	Csak lépésenkénti útmutató\nA beállítás engedélyezése esetén az objektumbuborékban az Ugrás a következő lépésre gomb is megjelenik.
+condition	Feltétel
+condition.h	Lejátszáskor a felhasználó által megadott értéknek egyeznie kell a feltétellel ahhoz, hogy továbbléphessen a következő lépésre, vagy egy adott lépésre ugorhasson. \nA feltétel létrehozásához vagy szerkesztéséhez kattintson a Feltétel szerkesztése lehetőségre.
+errDuplicateContext	Ez az alkalmazás már fel van véve.
+add_sticky_notes	Pozíció: „Öntapadó jegyzet hozzáadása” vezérlő
+add_sticky_notes.h	A beállítással megjeleníthet egy öntapadó jegyzet készítésére szolgáló vezérlőt egy oldalon. Megadható a vezérlő oldalsávon belüli elhelyezkedése is.
+show_instant_help_btn	Pozíció: „Azonnali súgó” vezérlő
+show_instant_help_btn.h	Engedélyezése esetén megjelenítheti az azonnali súgót aktiváló vezérlőt az oldalon. Megadható a vezérlő oldalsávon belüli elhelyezkedése is.
+show_carousel	Választó megjelenítése
+show_carousel.h	Ez a beállítás választó módban jeleníti meg az asztali varázslót.
+condition_pattern	Feltételminta
+condition_pattern.h	Itt adhatja meg a feltételhez használandó mintát.
+condition_value	Feltétel értéke
+condition_value.h	A feltételhez használt érték. Adjon meg szöveget vagy számot a választott minta alapján.
+condition_jump_target	Ugrás célja
+condition_jump_target.h	Csak lépésenkénti útmutató\nItt adhatja meg a feltétel ugrási célját. Válasszon egy lépést a legördülő listából. A navigáció a feltétel teljesülése esetén a megadott lépésre vált.
+condition_text	Feltétel szövege
+condition_text.h	A feltétel nem teljesülése esetén megjelenítendő szöveg.
+condition_case_sensitive	Kis- és nagybetűk megkülönböztetése
+condition_case_sensitive.h	Itt adhatja meg, hogy a feltétel különbséget tesz a kis- és nagybetűk között.
+condition_ignore_on_load	Ignorálás oldalbetöltéskor
+condition_ignore_on_load.h	Csak kontextusfüggő súgó\nItt adhatja meg, hogy a feltétel teljesülése ne legyen vizsgálva az oldal betöltésekor. A rendszer a megfelelő vezérlő használatakor ellenőrzi feltétel teljesülését. Így elkerülhető a feltételbuborék közvetlen megjelenése.
+c_equals	Egyenlő:
+c_not_equals	Nem egyenlő:
+c_greater	Nagyobb, mint
+c_greater_equals	Nagyobb vagy egyenlő:
+c_less	Kisebb, mint
+c_less_equals	Kisebb vagy egyenlő
+c_min_char	Karakterek minimális száma
+c_max_char	Karakterek maximális száma
+c_num_char	Karakterek száma egyenlő:
+c_reg_exp	Reguláris kifejezés
+vertical	Függőleges
+horizontal	Vízszintes
+AutoBarReady	Inaktív
+AutoBarExplanation	Magyarázat beszúrása
+AutoBarChooseApp	Alkalmazás kiválasztása
+AutoBarRecord	Felvétel
+AutoBarBusy	Foglalt
+AutoBarPause	Szünet
+AutoBarReRecManualHotspot	Vezérlő szerkesztése: a módosítások elfogadásához nyomja le a Ctrl + Enter billentyűkombinációt. A módosítások elvetéséhez nyomja le az Esc billentyűt.
+wizAddExplanation	Magyarázat hozzáadása
+AutoBarNoRecognition	Nincs felismert vezérlő
+AutoBarDiagnosis	Diagnózis
+condition_bubblestyle	Buborékstílus
+condition_bubblestyle.h	Itt adhatja meg, hogy melyik buborékstílus-erőforrás használandó a feltételszöveg megjelenítéséhez.
+condition_highlight_bgr	Kiemelőszín
+condition_highlight_bgr.h	Itt adhatja meg a vezérlő kiemelésének színét.
+IDS_MPI_TOURSTOP_LABEL	Név
+IDS_MPI_TOURSTOP_LABEL_MODIFIED	Manuális fordítás
+IDS_MPI_TOURSTOP_NAME	UID
+IDS_MPI_TOURSTOP_SHOW	Megjelenítés az előrehaladás-jelzőn
+IDS_MPI_TOURSTOP_JUMP	Ugrás célja
+IDS_MPI_TOURSTOP_CALLABLE	Szubrutin
+basic_info	Alapvető tulajdonságok
+IDS_NO_IMAGE_SELECT	Nincs kiválasztott kép
+IDS_NO_IMAGE	A kép nem található
+ID_INSERT_TAKE	Lépés hozzáadása
+ID_PRJ_LAYOUT_HORZ	Vízszintes elrendezés
+ID_PRJ_LAYOUT_VERT	Függőleges elrendezés
+ID_PRJ_LAYOUT_DIV	Felosztott elrendezés - 1
+ID_PRJ_LAYOUT_4	Felosztott elrendezés - 2
+ID_PRJ_LAYOUT_5	Felosztott elrendezés - 3
+IDS_UNTITLED	(névtelen)
+docTableHeaderStep	Lépés
+layout_advanced	Speciális elrendezés
+showEditorHelp	Webes szerkesztő súgójának megjelenítése
+slide:insert_tb	Beszúrás
+slide:action_tb	Művelet
+slide:structure_tb	Struktúra
+slide:view_tb	Megjelenítés
+existing_scrs_in_prj	Az aktuális képernyő már többször használatos a projektben. \nVálassza ki azt a képernyőt, amelyhez hozzá szeretné adni a felvett objektumokat.
+start_topic	Indítás
+guided_tour	Lépésenkénti útmutató
+context_help	Kontextusfüggő súgó
+off	Ki
+main_bar_1	Fő sáv 1
+main_bar_2	Fő sáv 2
+main_bar_3	Fő sáv 3
+main_bar_4	Fő sáv 4
+main_bar_5	Fő sáv 5
+main_bar_6	Fő sáv 6
+main_bar_7	Fő sáv 7
+main_bar_8	Fő sáv 8
+sub_menu_1	Almenü 1
+sub_menu_2	Almenü 2
+sub_menu_3	Almenü 3
+sub_menu_4	Almenü 4
+sub_menu_5	Almenü 5
+sub_menu_6	Almenü 6
+content_btn	Pozíció: „Tartalom” vezérlő
+content_btn.h	A „Tartalom” vezérlő oldalsávbeli pozíciójának megadása.
+search_btn	Pozíció: „Keresés” vezérlő
+search_btn.h	A „Keresés” vezérlő oldalsávbeli pozíciójának megadása.
+orCenter	Közép
+orNorth	Észak
+orWest	Nyugat
+orNortWest	Északnyugat
+orEast	Kelet
+orNortEast	Északkelet
+orSouth	Dél
+orSouthWest	Délnyugat
+orSoutEast	Délkelet
+screen_tolerence	Tolerált képernyőeltérés (%)
+screen_tolerence.h	Ezzel a paraméterrel adhatja meg, hogy hány százalékos grafikus egyezés szükséges a megjelenített képernyőoldal és a rögzített képernyőfelvétel között, hogy megjelenjenek a kapcsolódó kontextusadatok. Ha a grafikus eltérés a meghatározott érték feletti, a @{NAVIGATOR} összehasonlítja a felvett oldal kulcsát a képernyőoldallal, és egy másik alkalmazásoldal megfelelő tartalmát jeleníti meg.
+video_folder	Videofelvételek mappája
+video_folder.h	Itt adható meg a videofelvételek tárolására szolgáló mappa. \nMegjegyzés: A rögzítésre használt fájlok mérete miatt a videofelvételeket nem tárolja el a rendszer a @{NAVIGATOR} cache-mappájában.
+allow_video_rec	Videórögzítés engedélyezése
+allow_video_rec.h	Itt engedélyezheti a felhasználóknak a videotartalom rögzítését.
+hide_da_on_web_assistant	@{NAVIGATOR} Elrejtése @{XRAY} futásán
+hide_da_on_web_assistant.h	Meghatározza, hogy @{NAVIGATOR} ablakai rejtve legyenek, amikor @{XRAY} fut az előtérben.
+show_web_assistant_msg	@{XRAY} üzenet megjelenítése
+show_web_assistant_msg.h	Meghatározza, hogy az üzenet megjelenjen @{XRAY} előtérben történő futásakor vagy elhagyja az előtér módot.
+auto_hide	Elrejtés animáció után
+auto_hide.h	Ha ez a beállítás aktív, a kiemelést az alkalmazás az animáció befejezését követően automatikusan elrejti.
+bmain_height	Magasság
+bmain_height.h	Itt adhatja meg a fő buborék magasságát képpontban. Ha a szöveg hossza túllépi a buborékban rendelkezésre álló helyet, automatikusan növeli a magasságot a szükséges méretre.
+bmain_style	Stílus
+bmain_style.h	Ezzel a beállítással adhatja meg a fő buborék megjelenítéséhez használt buboréktípust. A buboréktípusok a Buboréktípus-szerkesztővel definiálhatók, amely az Eszközök menü Buboréktípusok szerkesztése parancsával indítható el. A buboréktípusok mindig elérhetők a teljes munkaterületen.
+bmain_width	Szélesség
+bmain_width.h	Itt adhatja meg a fő buborék szélességét pixelben.
+bottom_dock	Lent rögzítve
+cache_stale_interval	Avulási intervallum (perc)
+cache_stale_interval.h	Itt aktiválhatja a @{NAVIGATOR} cache használatát, és meghatározhatja a cache-mappa tartalmának frissítési időkeretét. Az érték percben adható meg. \nA cache deaktiválásához adja meg a 0 értéket.
+centered	Középen
+close_details	Tartalomablak bezárása
+close_details.h	Itt adhatja meg a kiválasztott projekt tartalomablakát bezáró funkcióbillentyűt.
+confirmation_hotkey	Lépésjóváhagyási gyorsbillentyű
+confirmation_hotkey.h	Itt adhat meg gyorsbillentyűt a lépések jóváhagyásához a folyamatvarázsló lejátszása közben.
+detail_positioning	Tartalomablak igazítása
+detail_positioning.h	Itt adhatja meg a tartalomablak igazítását a képernyőn. A 'Középre' igazítás kivételével a tartalomablak mindig a főablakhoz rögzített.
+detail_size	Tartalomablak mérete
+detail_size.h	Itt adhatja meg a tartalomablak méretét (szélesség, magasság) képpontban.
+enable_search	Keresés lap aktiválása
+enable_search.h	Keresőfunkció aktiválása az asztali varázsló tartalmában
+h_dock	Vízszintesen rögzítve
+icon_position	Ikon pozíciója
+icon_position.h	Az itt megadott értékek határozzák meg az ikon pozícióját a képernyőn. Az értékek pixelben értendők. Az ikon a képernyő bal felső sarkában jelenik meg.
+leaves_page	Képernyő elhagyása
+leaves_page.h	Ez a beállítás azt jelzi a navigációnak, hogy az objektumhoz szükséges művelet új oldal betöltéséhez vezet. A program új oldalelemzést hajt végre, amint befejeződött a művelet az objektumnál, és betöltődött az oldal.
+left_dock	Bal oldalon rögzítve
+library_height	Buborék magassága
+library_height.h	Ez a buborék magasságát határozza meg pixelben.
+library_width	Buborék szélessége
+library_width.h	Ez a buborék szélességét határozza meg pixelben.
+maximize_details	Tartalomablak teljes méretre állítása
+maximize_details.h	Itt adhatja meg a tartalomablakot teljes méretre állító funkcióbillentyűt.
+next_doc	Új dokumentum kiválasztása
+next_doc.h	Itt adhatja meg a tartalomablak következő dokumentumának kiválasztására szolgáló funkcióbillentyűt.
+next_project	Következő projekt kiválasztása
+next_project.h	Itt adhatja meg a főablak következő projektjének kiválasztására szolgáló funkcióbillentyűt.
+open_content	Tartalom megnyitása
+open_content.h	Itt adhatja meg a kiválasztott tartalomobjektum megnyitására szolgáló funkcióbillentyűt.
+open_details	Tartalomablak megnyitása
+open_details.h	Itt adhatja meg a kiválasztott projekt tartalomablakának megnyitására szolgáló funkcióbillentyűt.
+prev_doc	Előző dokumentum kiválasztása
+prev_doc.h	Itt adhatja meg a tartalomablak előző dokumentumának kiválasztására szolgáló funkcióbillentyűt.
+prev_project	Előző projekt kiválasztása
+prev_project.h	Itt adhatja meg a főablak előző projektjének kiválasztására szolgáló funkcióbillentyűt.
+right_dock	Jobb oldalon rögzítve
+show_execute	Végrehajtás gomb megjelenítése
+show_execute.h	Itt adhatja meg, hogy megjelenjen-e végrehajtás gomb az objektumbuborékban lejátszás közben. A gomb használatával a felhasználó műveletet hajthat végre az alkalmazásban, ezután pedig megjelenik a következő lépés.
+show_icon_on_start	Státusikon megjelenítése indításkor
+show_icon_on_start.h	Itt adhatja meg, hogy az asztali varázsló indításakor a státusikon jelenjen meg a főablak helyett.
+start_doc	Dokumentum megnyitása
+start_doc.h	Itt adhatja meg a tartalomablakban kiválasztott dokumentum megnyitására szolgáló funkcióbillentyűt.
+step_on_same_page	Lépés azonos oldalon
+top_dock	Fent rögzített
+v_dock	Függőlegesen rögzítve

@@ -1,0 +1,312 @@
+﻿#	Anglické textové atomy
+BULLET	&#149;
+TOK_COMPANY	SAP
+TOK_LIB	Kurz
+TOK_TOUR	Učební jednotka
+TOK_TRAINER	Desktop Assistant
+TOK_AUTOMATION	epo
+NAVIGATOR	Desktop Assistant
+NAV_LIBRARY	library
+BTN_ABORT	Konec
+BTN_CLOSE	Konec
+BTN_OK	OK
+BTN_CLOSE_DLG	Zavřít
+BTN_CONTINUE	Pokračovat
+BTN_PREVIEW	Náhled
+BTN_PROCEED	Pokračovat
+BTN_RESTART	Začít znovu
+BTN_SKIP	Přeskočit
+BTN_START	Zahájení
+BTN_STOP	Zastavit
+BTN_EXECUTE	Provést
+CA_SWITCH	Kontextová nápověda
+CONTENT_CAP	Obsah
+MAIL_SUBJECT	Žádost o obsah pro desktopového asistenta
+MAIL_HEADER	Vážený autore,\n\nrád bych Vás požádal(a) o obsah pro:
+MAIL_FOOTER	- Proces/transakce: Popište aktuálně používaný aplikační proces. \n\n- Popis: Popište potřebné informace. \n\nS pozdravem
+MAIL_DATA	- Název aplikace:
+MAIL_TOOLTIP	Žádost o obsah
+SHARE_TOOLTIP	Sdílet obsah
+REQUEST_TEXT	Klikněte na %s, chcete-li požádat o obsah
+REQUEST_LINK	zde
+SEARCH_CAP	Hledání
+INFO_CAP	Informace
+SETTINGS_CAP	Nastavení
+BACK_TOOLTIP	Zpět
+SHARE_CONTENT_TOOLTIP	Sdílet obsah
+CB_HIDE_OPTION	Již nezobrazovat
+MY_ROLES	Moje role
+EDIT_ROLES	Změnit role
+NO_ROLES	Zobrazit obsah bez rolí
+SELECT_ALL_CAPTION	Vybrat vše
+USER_CAPTION	Uživatelská oblast
+READ_MORE	Číse více...
+NO_CATEGORY_CAPTION	Jiný obsah
+DELETE_FAILED	Operace vymazání se nezdařila.
+RENAME_FAILED	Operace přejmenování se nezdařila.
+FILE_EXISTS	Soubor se stejným názvem již existuje. Zadejte jiný název.
+LBL_YES	Ano
+LBL_DELETE	Vymazat
+LBL_NO	Ne
+LBL_OK	OK
+DELETE_DLG_TEXT	Opravdu chcete smazat vybrané dokumenty (%N)?
+LBL_CONCURRENT	Spustit souběžný režim
+LBL_DA	Desktopový asistent
+LBL_SIM	Zahájit simulaci
+LBL_CDOC	Otevřít
+LBL_DEMO	Spustit režim demo
+LBL_NAVI	Zahájit prohlídku s výkladem
+LBL_BOOK	Přehrát knihu
+LBL_GROUP	Otevřít v library
+LBL_NAVIGATION	Desktopový asistent
+LBL_PA	Prohlídka s výkladem
+LBL_PRACTICE	Spustit cvičný režim
+LBL_SIMULATION	Simulace
+LBL_BOOKPAGE	Zobrazit stránku knihy
+LBL_TEST	Spustit testovací režim
+LBL_RECORD_DOCUMENT	Zaznamenat dokument
+MSG_AUTOMATION_FINISHED	Automatizace ukončena
+MSG_AUTOMATION_FINISHED_2	Kliknutím na 'Začít znovu' spustíte znovu automatický proces.
+MSG_AUTOMATION_START	Upravit vstupní hodnoty
+MSG_AUTOMATION_START_2	Zkontrolujte nebo upravte následující hodnoty. Tyto hodnoty se automaticky zadávají během procesu.
+MSG_EPO_DIALOG	Electronic Process Optimizer
+MSG_NAVI_LIBRARY_NO_APP	Nejsou k dispozici žádné informace.
+LBL_NAVI_NO_MATCH	Neexistují žádné výsledky hledání.
+NO_RECORDS	Nejsou k dispozici žádné dokumenty.
+MSG_NAVI_LIBRARY_SUBTITLE	Dostupný obsah:
+MSG_NAVI_LIBRARY_TITLE	Desktopový asistent
+MSG_NOT_APPLICABLE	nelze upravit
+MSG_PA_CONTROL_STEP	Potřebná akce pro krok:
+MSG_PA_EXPLANATION_STEP	Přejít na obrazovku zobrazenou níže.
+MSG_PA_FORM_STEP	Povinná pole k vyplnění ve formuláři:
+MSG_PA_DIALOG	Prohlídka s výkladem
+MSG_PA_START_SCREEN	Otevřete úvodní obrazovku.
+MSG_PA_STEP_NOT_FOUND	Přejděte na příslušnou obrazovku
+MSG_PA_STEP_NOT_FOUND1	Zkontrolujte, že je cílová aplikace (@{TARGETAPPNAME}) otevřená.
+MSG_PA_STEP_NOT_FOUND2	Přejděte na obrazovku se zvýrazněným ovládacím prvkem níže.
+MSG_STEP_LIGHT	Náhled kroku
+MSG_STEP_NOT_FOUND	Krok prohlídky s výkladem nebyl nalezen.
+MSG_STEP_NOT_FOUND_2	Klikněte v liště s titulem cílové aplikace nebo přejděte na správnou obrazovku.<br><br>Požadovanou stránku zobrazíte kliknutím na 'Náhled'.
+PA_FINISHED	Prohlídka s výkladem byla dokončena.
+PROJECT_TITLE	Titul projektu
+TRAY_INFO_BUBBLE_HEADING	Prohlídka s výkladem
+TRAY_INFO_BUBBLE_TEXT	Aktuální krok procesu nelze zobrazit. Klikněte sem pro další informace.
+RESTRICTED_BUBBLE_HEADING	Akce blokována
+RESTRICTED_BUBBLE_TEXT	Nemůžete provést žádné akce, dokud nebude potvrzen aktuální krok.
+HELP_TITLE	Nápověda
+HELP_INTRO	Nápověda poskytuje přehled hlavních částí a funkcí @{NAVIGATOR}.</br></br><b>Poznámka:</b> Dostupné funkce závisejí na konfiguraci @{NAVIGATOR}.</br>
+HELP_TITLE_DA	Postranní panel a okna
+HELP_SIDEBAR_T	Postranní panel
+HELP_SIDEBAR_H	Postranní panel umožňuje spustit hlavní funkce @{NAVIGATOR}. Pro každou funkci se zobrazuje tlačítko. Postranní panel lze přesunout přetažením. Můžete ho minimalizovat a maximalizovat kliknutím na ohraničení postranního panelu.
+HELP_CONTENT_CONTROL_T	Obsah
+HELP_CONTENT_CONTROL_H	Indikuje, zda je k dispozici obsah. Otevře hlavní okno s obsahem.
+HELP_SEARCH_CONTROL_T	Hledání
+HELP_SEARCH_CONTROL_H	Otevře hledání pro hledaný obsah.
+HELP_EXTSEARCH_CONTROL_T	Externí hledání
+HELP_EXTSEARCH_CONTROL_H	Otevře externí hledání k hledání obsahu.
+HELP_STICKY_CONTROL_T	Přidat rychlou poznámku
+HELP_STICKY_CONTROL_H	Vloží rychlou poznámku do aktuálního okna aplikace. Můžete zadat text pro svou rychlou poznámku.
+HELP_RECORDING_CONTROL_T	Zahájit záznam
+HELP_RECORDING_CONTROL_H	Zahajuje záznam procesu. Zaznamenaný proces bude uložen jako dokument v uživatelské oblasti.
+HELP_MAIN_WINDOW_T	Hlavní okno
+HELP_MAIN_WINDOW_H	Hlavní okno zobrazuje obsah dostupný pro určitý kontext stránky.</br>Okno při přehrávání prohlídky s výkladem zobrazuje seznam kroků.
+HELP_HEADER_T	Hlavička
+HELP_HEADER_H	Stavová ikona v hlavičce indikuje, zda je obsah dostupný pro aktuální kontext.
+HELP_CONTENT_TAB_T	Záložka obsahu
+HELP_CONTENT_TAB_H	Záložka zobrazuje obsah dostupný pro aktuální aplikaci.
+HELP_CONTENT_VIEW_T	Zobrazení obsahu
+HELP_CONTENT_VIEW_H	V zobrazení obsahu najdete dostupné informace, režimy a dokumentaci pro vybraný obsah.</br>Můžete použít ovládací prvek „Zpět“ a vrátit se do seznamu obsahu.
+HELP_SEARCH_TAB_T	Záložka hledání
+HELP_SEARCH_TAB_H	Na záložce můžete najít konkrétní obsah pro aktuální kontext.
+HELP_INFO_TAB_T	Informační záložka
+HELP_INFO_TAB_H	Záložka zobrazuje obecné informace o @{NAVIGATOR}.
+HELP_USERAREA_TAB_T	Záložka uživatelské oblasti
+HELP_USERAREA_TAB_H	Záložka obsahuje dokumenty k zaznamenanému procesu. Můžete otevřít, sdílet nebo vymazat dokument. Můžete zaznamenat další procesy.
+HELP_INSTANT_T	Okamžitá nápověda
+HELP_INSTANT_H	V případě aktivovaného nastavení se na aktuální obrazovce aplikace zobrazí další kontextové informace. Nastavení je ve výchozím stavu aktivované.
+HELP_REQCONTENT_T	Žádost o obsah
+HELP_REQCONTENT_H	Otevře e-mailové okno pro žádost o chybějící obsah od autora.
+HELP_SETTINGS_T	Nastavení
+HELP_SETTINGS_H	Zobrazení obsahuje nastavení k zobrazení obsahu @{NAVIGATOR}.
+HELP_MYROLES_T	Moje role
+HELP_MYROLES_H	Toto nastavení zobrazuje obsah pro přiřazenou roli.
+HELP_WITHOUTROLES_T	Zobrazit obsah bez rolí
+HELP_WITHOUTROLES_H	Toto nastavení zobrazuje obsah bez přiřazených rolí.
+HELP_EDITROLES_T	Role
+HELP_EDITROLES_H	Všechny role použité pro obsah jsou uvedeny a lze je aktivovat či deaktivovat k zobrazení obsahu.
+HELP_SHARECONTENT_T	Sdílet obsah
+HELP_SHARECONTENT_H	Otevírá dialogové okno s odkazem na obsah. Odkaz lze sdílet s ostatními uživateli.
+HELP_REQUESTCONTENT_T	Žádost o obsah
+HELP_REQUESTCONTENT_H	Otevře předdefinovaný e-mail k vyžádání obsahu pro specifický případ.
+HELP_PLAYBACK_CONTENT_T	Přehrát obsah
+HELP_PLAYBACK_CONTENT_H	Dostupný obsah lze zahájit či otevřít pomocí tlačítek v okně obsahu.
+HELP_MINIMIZED_STATUS_T	Minimalizovaný stav
+HELP_MINIMIZED_STATUS_H	Pokud hlavní okno zavřete, plovoucí stavová ikona bude stále indikovat, zda je obsah dostupný pro aktuální kontext. Kliknutím na ikonu obnovíte hlavní okno.
+HELP_MINIMIZED_MENU_T	Kontextové menu
+HELP_MINIMIZED_MENU_H	Kontextové menu (kliknutí pravým tlačítkem na ikonu) zahrnuje funkce, které zobrazí hlavní okno a kontestovou nápovědu.
+HELP_BOOK_WINDOW_T	Okno knihy
+HELP_BOOK_WINDOW_H	Při přehrávání knihy se otevře okno knihy. Hlavní okno a okno obsahu jsou skrytá.
+HELP_GOTOTOP	Přejít nahoru
+HELP_CAPTION	@{NAVIGATOR} – nápověda
+NAVHELP_TITLE	Stavová ikona a kontextové menu
+NAVHELP_INTRO	</br>Nápověda poskytuje přehled stavových ikon a záznamů kontextového menu.
+NAVHELP_STATUS_ICON_T	Stavová ikona (hlavní panel)
+NAVHELP_STATUS_ICON_H	Stavová ikona je umístěna na hlavním panelu a zobrazuje aktuální aktivity @{NAVIGATOR}. Existuje následující status:
+NAVHELP_STATUS_FOUND_T	Dostupný obsah (zelená ikona)
+NAVHELP_STATUS_FOUND_H	Obsah je zobrazený pro aktuální kontext a zobrazený.
+NAVHELP_STATUS_CHECK_T	Načtení obsahu (žlutá ikona)
+NAVHELP_STATUS_CHECK_H	@{NAVIGATOR} zkontrolujte aktuální kontext dostupného obsahu a načte obsah.
+NAVHELP_STATUS_NOFOUND_T	Není k dispozici žádný obsah (červená ikona)
+NAVHELP_STATUS_NOFOUND_H	Obsah není dostupný pro aktuální kontext.
+NAVHELP_STANDBY_T	Zakázáno
+NAVHELP_STANDBY_H	@{NAVIGATOR} je zakázáno. Kliknutím na stavovou ikonu (<i>CTRL + F11</i>) zakážete nebo povolíte@{NAVIGATOR}.
+NAVHELP_STATUS_MIN_T	Minimalizováno
+NAVHELP_STATUS_MIN_H	Okna a postranní lišty jsou minimalizovány.
+NAVHELP_STATUS_MENU_T	Kontextové menu
+NAVHELP_STATUS_MENU_H	Kontextová nabídka (kliknutí pravým tlačítkem myši na ikonu) zahrnuje obecné funkce @{NAVIGATOR}.
+NAVHELP_VERSION_T	Zobrazit verzi
+NAVHELP_VERSION_H	Zobrazuje číslo verze nainstalované aplikace @{NAVIGATOR}. To je nezbytné pro každý kontakt s podporou v případě problémů.
+NAVHELP_JSCONSOLE_T	Konzole JavaScript
+NAVHELP_JSCONSOLE_H	Zobrazuje konzoli JavaScript a poskytuje podrobné chybové zprávy. To je nezbytné pro každý kontakt s podporou v případě problémů.
+NAVHELP_NAV_CACHE_T	Vymazat lokální mezipaměť
+NAVHELP_NAV_CACHE_H	Vymaže lokální mezipapměť obsahu @{NAVIGATOR}.
+NAVHELP_RESET_HIDDEN_T	Zobrazit veškerou potlačenou nápovědu znovu
+NAVHELP_RESET_HIDDEN_H	Resetuje prvky nápovědy, které jsou při přehrávání nastavené na Skryté.
+NAVHELP_EXIT_T	Ukončit
+NAVHELP_EXIT_H	Zastaví přehrávání a zavře @{NAVIGATOR}.
+IDS_NAVP_ABOUT	Zobrazit verzi...
+IDS_NAVP_CONSOLE	Konzole JavaScript...
+IDS_NAVP_DELETE_CACHE	Vymazat lokální mezipaměť
+IDS_NAVP_HOOKER	Hooker
+IDS_SEARCH_INPUT	Obsah nápovědy vyhledávání
+IDS_CLEAR_SEARCH	Vymazat hledání
+IDS_NAVP_CLOSE	Ukončit
+IDS_RESET_CURRENT	Zobrazit skryté prvky nápovědy znovu
+IDS_RESET_ALL	Zobrazit veškerou potlačenou nápovědu znovu
+IDS_RESET_ALL_TIP	Zobrazit všechny deaktivované tipy znovu při prvním zadávání obrazovky.
+IDS_OPEN_RECORD_LBL	Otevřít
+IDS_EDIT_RECORD_LBL	Přejmenovat
+IDS_DELETE_RECORD_LBL	Vymazat
+IDS_SHARE_RECORD_LBL	Sdílet
+IDS_EXTERNAL_SEARCH_BTN	Externí hledání
+IDS_EXTERNAL_SEARCH_SUB_MENU	Externí hledání
+IDS_SHOW_SCREEN_ICON	Zobrazit desktopového asistenta
+IDS_SHOW_DA	Zobrazit hlavní okno
+IDS_SHOW_CONTENT	Zobrazit obsah
+IDS_HIDE_CONTENT	Skrýt obsah
+IDS_SEARCH_BTN	Hledání
+IDS_REQUEST_CONTENT_BTN	Žádost o obsah
+IDS_RECORDING_BTN	Zahájit záznam
+IDS_SHOW_CA_SWITCH	Zobrazit kontextovou nápovědu
+IDS_HIDE_CA_SWITCH	Skrýt kontextovou nápovědu
+IDS_CA_SWITCH_INACTIVE_BTN	Kontextová nápověda není k dispozici
+IDS_DO_CTX_RECOGNITION	Zobrazit kontextovou nápovědu
+IDS_NAV_STANDBY	@{NAVIGATOR} je neaktivní.
+IDS_NAV_NO_STANDBY	@{NAVIGATOR} je aktivní.
+IDS_SHOW_DA_PANELS	@{NAVIGATOR} je nyní znovu k dispozici. @{NAVIGATOR} Můžete používat, pokud potřebujete další pomoc.
+IDS_HIDE_DA_PANELS	@{NAVIGATOR} zmizí automaticky, když je v aplikaci, kterou máte momentálně otevřenou, k dispozici příslušná nápověda. Pokud potřebujete další pomoc, otevřete nápovědu v aplikaci.
+IDS_ADD_STICKY_NOTES_BTN	Přidat rychlou poznámku
+IDS_ADD_STICKY_NOTES_INACTIVE_BTN	Můžete přidat pouze jednu rychlou poznámku pro tuto aplikaci.
+IDS_EXIT_DA	Konec
+IDS_EXIT_DA_BTN	Konec
+IDS_EXIT_DA_SUB_MENU	Konec
+IDS_SHOW_MORE	Zobrazit více
+IDS_HIDE_MORE	Skrýt více
+IDS_REQUEST_CONTENT_SUB_MENU	Žádost o obsah
+IDS_SHOW_CA_SUB_MENU	Zobrazit kontextovou nápovědu
+IDS_HIDE_CA_SUB_MENU	Skrýt kontextovou nápovědu
+IDS_ADD_STICKY_NOTE_SUB_MENU	Přidat rychlou poznámku
+IDS_RECORDING_SUB_MENU	Zahájit záznam
+IDS_CA_SWITCH_SUB_MENU	Kontextová nápověda
+IDS_SHARE_DLG_CAPTION	Sdílet dokument
+IDS_DELETE_FRAMES	Vymazání rámečků
+OPEN_FOLDER	Otevřít složku
+SHARE_DOC	Sdílet e-mailem
+IDS_SHARE_DLG_TEXT	Co chcete dělat?
+IDS_SEARCH_BTN_SUB_MENU	Hledání obsahu
+IDS_LIBRARY_SEARCH_BTN_SUB_MENU	Hledat obsah v knihovně
+GRACEFUL_DEGRADATION	Tato funkce v současnosti není k dispozici kvůli síťovým problémům. \n\nZkuste to znovu později.
+SHARE_BTN	Sdílet e-mailem
+COPY_BTN	Kopírovat odkaz
+SHARE_MAIL_SUBJECT	Doporučený obsah
+SHARE_MAIL_HEADER	Vážený uživateli,\n\ntento obsah by Vás mohl zajímat. \n\n
+SHARE_MAIL_FOOTER	S pozdravem
+SHARE_MAIL_LINK	Odkaz:\t
+SHARE_MAIL_CAPTION	Popisek:\t
+SHARE_TITLE	Sdílet obsah
+SELECT_ASSET	Vyberte prostředek k zahájení.
+ENTER_NAME	Zadejte název
+DELETE_RECORD_WRN	Důležité: Tuto akci nelze vrátit.
+MSG_PA_NEXT_LBL	Další
+MSG_PA_STEP_LBL	Seznam kroků
+TOGGLE_STEPLIST_TOOLTIP	Zobrazit / skrýt seznam kroků
+PREVIEW_STEP_TOOLTIP	Předchozí krok
+NEXT_STEP_TOOLTIP	Přejít na další krok
+PREV_STEP_TOOLTIP	Přejít na předchozí krok
+ROLES_TITLE	Role desktopového asistenta
+ROLES_LBL	Filtrovat obsah nápovědy podle role
+OK_CAPTION	OK
+CANCEL_CAPTION	Zrušit
+BTN_YES	Ano
+BTN_NO	Ne
+DELETE_CONFIRM	Chcete tuto rychlou poznámku opravdu vymazat?
+EXIT_CONFIRM	Chcete opravdu ukončit @{NAVIGATOR}?
+sticky_notes	Rychlé poznámky
+exit_da	Ukončit @{NAVIGATOR}
+STICKY_NOTE_DEFAULT_TEXT	Přidejte svůj text sem.
+SEARCH_BTN_TOOLTIP	Hledání
+NEXT_BTN_TOOLTIP	Další
+PREV_BTN_TOOLTIP	Předchozí
+HIDE_BTN_TOOLTIP	Skrýt karusel
+IDS_PRJ_NAME	Zadejte jméno:
+IDS_APPLICATIONS	Zavřete okno:
+IDS_PRJ_LANGUAGE	Zvolte jazyk:
+IDS_FULL_SCREEN	Celá obrazovka
+IDS_CHOOSE_APP_CAPTION	Výběr aplikace
+IDS_RECORD_BTN	Záznam
+IDS_ANALYZE_ACTIONS	Analýza akcí...
+IDS_PARSE_PROJECT	Probíhá analýza projektu...
+IDS_REGION	Region
+IDS_AREA_HELP	Změňte velikost regionu výběrem předlohy níže. Změňte velikost červeného obdélníku, abyste vybrali region, nebo vyberte celou obrazovku.
+IDS_CHOOSE_SIZE	Zvolte velikost:
+IDS_DEFINE_REC_AREA	Oblast záznamu
+IDS_DEFINE_NAME_LANG	Generovat obsah
+PLEASE_SELECT	Vyberte
+quick_recorder.help_caption	Tip
+quick_recorder.help	Klávesou „PAUSE“ můžete záznam pozastavit nebo pokračovat. \nKlávesou „END“ ho dokončíte. \n\nVybráním „OK“ zahájíte záznam.
+quick_recorder.audio_help	Klávesou „PAUSE“ můžete záznam pozastavit a pokračovat v něm. \nKlávesou „END“ dokončíte záznam. \n\nZvuk:\n Váš zvuk se nezaznamenává při kliknutí. Nejprve namluvte svůj text a potom vyberte ovládací prvek. \n\nVybráním „OK“ zahájíte záznam.
+FILE_EXISTS	Soubor se stejným názvem již existuje. Zadejte jiný název.
+HELP_EXIT_CONTROL_H	Zastaví přehrávání a zavře @{NAVIGATOR}.
+HELP_EXIT_CONTROL_T	Konec
+BTN_CLOSE_DLG	Zavřít
+DELETE_RECORD_WRN	Důležité: Tuto akci nelze vrátit.
+ENTER_NAME	Zadejte název
+IDS_CLEAR_SEARCH	Vymazat hledání
+IDS_RESET_ALL_TIP	Zobrazit všechny deaktivované tipy znovu při prvním zadávání obrazovky.
+IDS_SEARCH_INPUT	Obsah nápovědy vyhledávání
+LBL_DELETE	Vymazat
+LBL_NAVI_NO_MATCH	Neexistují žádné výsledky hledání.
+LBL_TU	Otevřít
+MSG_PA_NEXT_LBL	Další
+MSG_PA_STEP_LBL	Seznam kroků
+RENAME_FAILED	Operace přejmenování se nezdařila.
+ROLES_LBL	Filtrovat obsah nápovědy podle role
+SELECT_ASSET	Vyberte prostředek k zahájení.
+LBL_CDOC	Otevřít
+LBL_RECORD_DOCUMENT	Zaznamenat dokument
+QR_CAPTION	Výběr výstupu záznamu
+QR_WELCOME	Co chcete vytvořit?
+QR_DOC_CAP	Dokument
+QR_DOC_TXT	Vytvoří dokument Microsoft Word obsahující snímek obrazovky a text s pokyny ke každé akci, kterou zaznamenáte.
+QR_VIDEO_CAP	Video
+QR_VIDEO_TXT	Vytvoří video z vašeho záznamu ve vysoké kvalitě.
+QR_DOC_VIDEO_CAP	Dokument a video
+QR_DOC_VIDEO_TXT	Vytvoří dokument a video.
+SHARE_ERR_CAP	Záznam nelze sdílet
+SHARE_ERR_TXT	Tento záznam je na sdílení e-mailem příliš velký.\nChcete namísto toho otevřít umístění souboru?
+HELP_CONTENT_WINDOW_H	Okno s obsahem zobrazuje dostupné informace, režimy a dokumentaci pro vybraný obsah hlavního okna.</br>Okno s obsahem lze přichytit k hlavnímu oknu, což umožňuje přesouvat obě okna společně na obrazovce.
+HELP_CONTENT_WINDOW_T	Okno s obsahem
+IDS_CONTENT_BTN	Obsah
+MSG_PA_STEP_NOT_FOUND_NUMERAL_1	1.
+MSG_PA_STEP_NOT_FOUND_NUMERAL_2	2.
+SHARE_URL	URL aktuální stránky:

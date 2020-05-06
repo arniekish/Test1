@@ -1,0 +1,521 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<script src="./lesson_view_common.js" type="text/javascript" language="javascript" ></script>
+<script src="./util.js" type="text/javascript" language="javascript" ></script>
+
+<script type="text/javascript">
+
+// ====================================== Proxies ======================================
+
+
+// ==================================== BubbleProxy ====================================
+
+function BubbleProxy() {
+    this.edit_uid = null;
+    this.edit_param_info = null;
+}
+
+BubbleProxy.prototype = new Proxy();
+
+BubbleProxy.prototype.Create = function(mac, slide_type, prop_map) {
+    ok = Proxy.prototype.Create.call(this, mac, slide_type, prop_map);
+    if (ok != null && !ok) {
+        return false;
+    }
+    // support for new T2 skin directory
+    var dir = 'src="' + Viewer.Context['trainer_skin_dir'];
+    var s = this.SlideObj().text;
+    s = s.replace(/src\=\"style\!standard\:image/g, dir);
+    this.SlideObj().text = s;
+    this._prop_map.text.value = s;
+
+    this.edit_uid = mac.uid;
+    this.edit_param_info = prop_map.text.mac_prop;
+
+    if (mac['b_hide_option'] == true || mac['b_hide_option'] == 'true') {
+        var scr = ';';
+        var cb_text = Viewer.get_glossary_item('CB_HIDE_OPTION', true)
+        var hide = '<div style="position:absolute; bottom:0px; width:100%; ">' +
+                    '<span class="divider" style="background: #999999; display: block; margin: 5px 0; padding: 0; height: 1px;"><!--for IE6! dont remove!--></span>' +
+                    ' <table border="0" cellspacing="0" cellpadding="0" style="font-size:12px;">' +
+                    '    <tr valign="middle">' +
+                    '      <td><input type=checkbox onclick="' + scr + '"></td>' +
+                    '      <td style="padding:0px 3px;">' + cb_text + '</td>' +
+                    '    </tr>' +
+                    '  </table>' +
+                    '</div>';
+
+        var text = '<div style="padding-bottom:40px;">' + this.SlideObj().text + '</div>' + hide;
+
+        this.SlideObj().text = text;
+        this._prop_map.text.value = this.SlideObj().text;
+    }
+
+    return true;
+}
+
+BubbleProxy.prototype.IsHidden = function(mac) {
+    if (Viewer.is_single_bubble_mode) {
+        if (Viewer.is_take_selected_()) return false;
+        if (this.IsSelected() || this.IsFocused()) return false;
+        return true;
+    }
+    return Proxy.prototype.IsHidden.call(this, mac);
+}
+
+function _calc_spike_offset(orientation, w, h) {
+    var off = { x: 0, y: 0 };
+    var cent_x = w / 2;
+    var cent_y = h / 2;
+    switch (orientation) {
+        case 'C':
+            off.x = cent_x;
+            off.y = cent_y;
+            break;
+        case 'NW':
+            off.x = 0;
+            off.y = 0;
+            break;
+        case 'N':
+            off.x = cent_x;
+            off.y = 0;
+            break;
+        case 'NE':
+            off.x = w;
+            off.y = 0;
+            break;
+        case 'E':
+            off.x = w;
+            off.y = cent_y;
+            break;
+        case 'S':
+            off.x = cent_x;
+            off.y = h;
+            break;
+        case 'SW':
+            off.x = 0;
+            off.y = h;
+            break;
+        case 'W':
+            off.x = 0;
+            off.y = cent_y;
+            break;
+        case 'SE':
+        default:
+            off.x = w;
+            off.y = h;
+            break;
+    }
+    off.x = Math.round(off.x);
+    off.y = Math.round(off.y);
+    return off;
+}
+
+//Proxy.prototype.SlideToMacro = function(mac, slide_prop_name, prop_value) {
+
+BubbleProxy.prototype.onUpdateOrientation = function(prop_value) {
+
+    function correct_bubble_pos(old_orientation, new_orientation, ctrl_w, ctrl_h) {
+
+        var off1 = _calc_spike_offset(old_orientation, ctrl_w, ctrl_h);
+        var off2 = _calc_spike_offset(new_orientation, ctrl_w, ctrl_h);
+        var offset = { x: off2.x - off1.x, y: off2.y - off1.y };
+        return offset;
+    }
+
+    var mac = this.Macro();
+    if (!mac) return;
+
+    if (mac.orientation == this._slide_obj.orientation) return;
+    var ctrl = this._hilight;
+    if (ctrl) {
+        // in navigation, the orientation influences the bubble position as well,
+        // therefore we have to adjust the bubble position accordingly
+        var off = correct_bubble_pos(mac.orientation, this._slide_obj.orientation, ctrl.SlideObj().w, ctrl.SlideObj().h);
+        mac.bubble_offset.left -= off.x;
+        mac.bubble_offset.top -= off.y;
+        add_change(mac.uid, 'bubble_offset');
+    }
+    mac['orientation'] = this._slide_obj.orientation;
+    add_change(mac.uid, 'orientation');
+}
+
+
+BubbleProxy.prototype.SlideToMacro = function(mac, slide_prop_name, prop_value) {
+    if (slide_prop_name == 'x' || slide_prop_name == 'y') {
+        var off = prop_value - this._slide_obj[slide_prop_name];
+        this._slide_obj[slide_prop_name] = prop_value;
+        if (!mac.bubble_offset) mac.bubble_offset = { left: 0, top: 0 };
+        if (slide_prop_name == 'x') {
+            mac.bubble_offset.left += off;
+            //onMacroChanged(mac, slide_prop_name, prop_value);
+        } else if (slide_prop_name == 'y') {
+            mac.bubble_offset.top += off;
+        }
+        add_change(mac.uid, 'bubble_offset');
+        if (this._mini_bubble) this._mini_bubble.MacroToSlide(mac, this._mini_bubble._prop_map, true);
+    } else {
+        Proxy.prototype.SlideToMacro.call(this, mac, slide_prop_name, prop_value);
+    }
+}
+
+BubbleProxy.prototype.MacroToSlide = function(mac, prop_map, refresh_slide_obj) {
+
+    Proxy.prototype.MacroToSlide.call(this, mac, prop_map, refresh_slide_obj);
+
+    var possize_name = mac.screenshot_rect ? 'screenshot_rect' : 'area';
+    var mpn = mac[possize_name] || {width: 0, height: 0, left: 0, top: 0}; // DPS-41335
+    var spike = _calc_spike_offset(mac.orientation, mpn.width, mpn.height);
+
+    spike.x += mpn.left;
+    spike.y += mpn.top;
+    if (mac.bubble_offset) {
+        spike.x += mac.bubble_offset.left;
+        spike.y += mac.bubble_offset.top;
+    }
+
+    this._slide_obj.x = spike.x;
+    this._slide_obj.y = spike.y;
+}
+
+// ==================================== RelPosBubbleProxy ====================================
+
+function RelPosBubbleProxy() {
+    this.edit_uid = null;
+    this.edit_param_info = null;
+}
+
+RelPosBubbleProxy.prototype = new BubbleProxy();
+
+RelPosBubbleProxy.prototype.MacroToSlide = function(mac, prop_map, refresh_slide_obj) {
+
+    Proxy.prototype.MacroToSlide.call(this, mac, prop_map, refresh_slide_obj);
+    if (Viewer.last_page_w_ != 0 && Viewer.last_page_h_ != 0) {
+        if (mac.alignment != "free" && mac.alignment) {
+            this._slide_obj.x = mac.click_pos_rel.left;
+            this._slide_obj.y = mac.click_pos_rel.top;
+        } else {
+            var l = Math.max(0, Math.min(100, mac.click_pos_rel.left));
+            this._slide_obj.x = Math.round(l * Viewer.last_page_w_ / 100);
+            var t = Math.max(0, Math.min(100, mac.click_pos_rel.top));
+            this._slide_obj.y = Math.round(t * Viewer.last_page_h_ / 100);
+        }
+    } else {
+        this._slide_obj.x = 0;
+        this._slide_obj.y = 0;
+    }
+
+}
+
+RelPosBubbleProxy.prototype.SlideToMacro = function(mac, slide_prop_name, prop_value) {
+    if (slide_prop_name == 'x') {
+        if (Viewer.last_page_w_) {
+            mac.click_pos_rel.left = Math.max(0, Math.min(100, parseInt(parseInt(prop_value) / Viewer.last_page_w_ * 100)));
+            add_change(mac.uid, 'click_pos_rel');
+        }
+    } else if (slide_prop_name == 'y') {
+        if (Viewer.last_page_h_) {
+            mac.click_pos_rel.top = Math.max(0, Math.min(parseInt(parseInt(prop_value) / Viewer.last_page_h_ * 100)));
+            add_change(mac.uid, 'click_pos_rel');
+        }
+    } else {
+        BubbleProxy.prototype.SlideToMacro.call(this, mac, slide_prop_name, prop_value);
+    }
+}
+
+
+
+// ==================================== MiniBubbleProxy ====================================
+
+function MiniBubbleProxy() {
+    this.edit_uid = null;
+    this.edit_param_info = null;
+}
+
+MiniBubbleProxy.prototype = new Proxy();
+
+MiniBubbleProxy.prototype.MacroToSlide = function(mac, prop_map, refresh_slide_obj) {
+    BubbleProxy.prototype.MacroToSlide.call(this, mac, prop_map, refresh_slide_obj);
+
+    var possize_name = mac.screenshot_rect ? 'screenshot_rect' : 'area';
+
+    var w = mac[possize_name].width;
+    var h = mac[possize_name].height;
+
+    var x = mac[possize_name].left;
+    var y = mac[possize_name].top;
+    if (mac.bubble_offset) {
+        x += mac.bubble_offset.left;
+        y += mac.bubble_offset.top;
+    }
+    var cent_x = w / 2;
+    var cent_y = h / 2;
+
+    var spike = _calc_spike_offset(mac.orientation, w, h);
+    switch (mac.orientation) {
+        case 'C':
+            x += spike.x + 8;
+            y += spike.y + 8;
+            break;
+        case 'NW':
+            x += spike.x - 16;
+            y += spike.y - 16;
+            break;
+        case 'N':
+            x += cent_x - 8;
+            y += spike.y - 16;
+            break;
+        case 'NE':
+            x += spike.x;
+            y += spike.y - 16;
+            break;
+        case 'E':
+            x += spike.x;
+            y += cent_y - 8; // +1;
+            break;
+        case 'S':
+            x += cent_x - 8;
+            y += spike.y;
+            break;
+        case 'SW':
+            x += spike.x - 16;
+            y += spike.y;
+            break;
+        case 'W':
+            x += spike.x - 16;
+            y += cent_y - 8; // +1;
+            break;
+        case 'SE':
+        default:
+            x += spike.x;
+            y += spike.y;
+            break;
+    }
+    this._slide_obj.x = Math.round(x);
+    this._slide_obj.y = Math.round(y);
+    if (refresh_slide_obj) {
+        UpdateSlideControl(this.SlideObj(), 'x', x);
+        UpdateSlideControl(this.SlideObj(), 'y', y);
+    }
+}
+
+
+
+
+
+// for explanation bubbles
+function getExplanationText(mac) {
+    return mac ? ca_get_explanation(mac.type, mac.explanation_d) : '';
+}
+
+
+// ============================= VIEWER =============================
+
+function NavigationViewer() {
+    // map macro types to slide control types
+    this.type_map = {
+        global: null, start_unit: null, context_assistant_include: null,
+        define_target: null, application_context: null,
+        target_specializer: 'hrefarea',
+        explanation_long: 'bubble', click: 'bubble,image,inputclick', active_area: 'bubble,image,hrefarea',
+        key_press: 'bubble', input_text: 'bubble,image,hrefarea', select_single: 'bubble,image,inputselect',
+        input_radio: 'bubble,image,inputradio', script: null//, step: null, transition: null
+    }
+    this.start_unit_ = {}; //mac
+}
+
+NavigationViewer.prototype = new ViewerBase();
+
+
+// called when a take has changed
+
+NavigationViewer.prototype.UpdateTake = function(take_id, take, action) { // action: 1==inserted, 2==modified, 3==deleted
+    if (!take) return;
+    if (in_drag) return;
+
+    // remove all previous macros from take
+    var old_take = Page.take_by_id[take_id];
+    for (var i = 0; i < old_take.macros.length; i++) {
+        Page.macro_by_id[old_take.macros[i].uid] = null;
+    }
+
+    // set new take
+    Page.take_by_id[take_id] = take;
+
+    // add new take macros
+    for (var i = 0; i < take.macros.length; i++) {
+        Page.macro_by_id[take.macros[i].uid] = take.macros[i];
+    }
+
+    // update
+    var start_unit_updated = false;
+    var macros = take.macros;
+    for (var j = 0; j < macros.length; j++) {
+        var mac = macros[j];
+        if (mac.macro_template == 'start_unit') {
+            this.start_unit_ = mac;
+            start_unit_updated = true;
+        }
+    }
+
+    // reload take if necessary
+    if (this.cur_take_uid == take_id) {
+        this.load_take(take);
+    } else if (start_unit_updated) {
+        this.load_take(Page.take_by_id[this.cur_take_uid]);
+    }
+
+},
+
+NavigationViewer.prototype.create_proxies_ = function(mac, new_slide) {
+
+    //slide_window.handle_size = 1;
+    // slide types:
+    // rect, image, inputclick, inputtext, inputradio, inputselect, text/hrefarea/placeholder,
+    // timer, big_arrow, arrow, y_ruler, x_ruler, link_textBoxIcon,
+    // link_demo/link_test/link_slide/link_book/link_quiz/link_practice/link_concurrent, link_document
+    // wmp/flash/quicktime/realplayer, bubble, html/office, animator, switchboard, testomat
+
+    // map macro types to slide control types
+    var tpl = mac.macro_template;
+    var slide_type = this.type_map[tpl];
+    if (!slide_type) return;
+
+    // use last specified type
+    var slide_types = slide_type.split(',');
+    if (slide_types.length == 0) slide_types.push(slide_type);
+
+    // create 'highlight' ctrl
+    // '2.0'
+    // g_highlight_effect (1/2) 1=frame 2=underline
+    // g_highlight_border
+    var hilight = null;
+    var st = this.has_type(mac, ['rect', 'hrefarea', 'inputclick', 'inputtext', 'inputselect', 'inputradio']);
+    var possize_name = '';
+    if (st && (mac.screenshot_rect || mac.area)) {
+        var slprops = {};
+        possize_name = mac.screenshot_rect ? 'screenshot_rect' : 'area';
+        slprops.x = { mac_prop: possize_name + '.left', min: 0, access: 'r' };
+        slprops.y = { mac_prop: possize_name + '.top', min: 0, access: 'r' };
+        slprops.w = { mac_prop: possize_name + '.width', min: 8, access: 'r' };
+        slprops.h = { mac_prop: possize_name + '.height', min: 8, access: 'r' };
+        slprops.border_color = { mac_prop: 'g_highlight_bgr', value: '00FF00' };
+        //slprops.element_type = { mac_prop: 'element_type', value: '00FF00' };
+        //slprops.color = { mac_prop: 'g_highlight_bgr', value: '00FF00' };
+
+        if (mac.element_type == 'WINRadio') {
+            slprops.radio = { value: true };
+        }
+        slprops.visible = { mac_prop: 'show_hilight', value: true };
+        hilight = new Proxy();
+        if (hilight.Create(mac, st, slprops)) {
+            hilight.always_visible_in_single_bubble_mode = true;
+            this.add_proxy(new_slide, hilight);
+        } else {
+            hilight = null;
+        }
+    }
+
+    // create 'bubble' proxy (only if we have highlight since positions are based on an offset)
+    var bubble = null;
+    var is_relpos = mac.click_pos_rel != null;
+    if (this.has_type(mac, ['bubble'])) {
+        var slprops = {};
+        slprops.w = { mac_prop: 'b_width', value: 100, min: 10 };
+        slprops.h = { mac_prop: 'b_height', value: 50, min: 10 };
+        slprops.orientation = { mac_prop: 'orientation', value: 'SE', write_func: 'this.onUpdateOrientation(prop_value);' };
+        slprops.no_spike = { value: mac.no_spike ? true : false };
+        slprops.bubblestyle = { mac_prop: 'bubblestyle_d', value: 'white_island' };
+        slprops.bubble_class = { value: 'StyleA' };
+        slprops.minimizable = { mac_prop: 'b_minimizable', value: false };
+
+        //slprops.closable = { mac_prop: 'closable', value: false };
+        if (tpl == 'target_specializer') {
+            slprops.text = { mac_prop: 'text_d', value: '' };
+        } else if (tpl == 'explanation_long') {
+            slprops.text = { mac_prop: 'explanation_d', read_func: 'getExplanationText(mac);' }; //Note: read_func expects the variable mac being available at execution time
+        } else {
+            slprops.text = { mac_prop: 'explanation_d', value: '' };
+        }
+
+        bubble = is_relpos ? new RelPosBubbleProxy() : new BubbleProxy();
+        if (bubble.Create(mac, 'bubble', slprops)) {
+            bubble._hilight = hilight;
+            this.add_proxy(new_slide, bubble);
+        }
+    }
+}
+
+NavigationViewer.prototype.create_page_control = function(macros, new_slide) {
+    var page = null;
+    for (var i = 0; i < macros.length; i++) {
+        var mac = macros[i];
+        var tpl = mac.macro_template;
+
+        if (tpl == 'start_unit') {
+            this.start_unit_ = mac;
+            macros.splice(i, 1);
+            i--;
+            continue;
+        }
+
+        if (tpl == 'define_target') {
+            if (page == null) {
+                page = this.create_page_control_(mac, mac.win_rect);
+            }
+            macros.splice(i, 1);
+            i--;
+        }
+    }
+    return page;
+}
+
+Viewer = new NavigationViewer;
+
+</script>
+
+<style type="text/css">
+    html, body, #edit_frame {
+        margin: 0;
+        padding: 0;
+    }
+
+    html {
+        overflow: hidden;
+    }
+
+    body {
+        border-width: 0px;
+        background-color: #000000;
+        z-index: 0;
+    }
+
+    #edit_frame {
+        border-width: 0px;
+        background-color: #000000;
+        width: 100%;
+        height: 100%;
+    }
+</style>
+</head>
+
+<body id="xhtmaster" onload="onLoad();" onresize="onResize()">
+
+<iframe id="edit_frame"
+    onblur="onBlur()"
+    frameborder="0"
+    allowtransparency="true"
+    src="slide.htm"
+    onload="frameLoaded();"
+    onreadystatechange="onReadystatechangeFrame();">
+</iframe>
+
+</body>
+</html>

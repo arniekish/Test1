@@ -1,0 +1,757 @@
+﻿NAVIGATOR	Desktop Assistant
+XRAY	Web Assistant
+LIBRARY	library
+MANAGER	Manager
+form_bubble	Element za informacije obrasca
+bform_height	Visina
+bform_height.h	Definiše visinu elementa za informacije obrasca za prikaz u pikselima.
+bform_width	Širina
+bform_width.h	Definiše širinu elementa za informacije obrasca za prikaz u pikselima.
+bform_position	Pozicija
+bform_position.h	Definiše poziciju elementa za informacije (levo, gore) za 'Slobodno' poravnanje na ekranu. Vrednosti su date u pikselima.
+paramAutoMergeComplete	Spajanje ekrana je završeno.
+form	Obrazac
+application_contexts	Aplikacija
+﻿Application	Aplikacija
+highlight_offset	Razmak
+AutoBarChooseApp	Izaberi aplikaciju
+AutoBarReRecManual	Kliknite na objekat.
+BubbleOnActivate	Direktno prikaži element za informacije
+ClickOnAAPosition	Klik na aplikaciju za definisanje pravougaonika.
+ClickOnPosition	Kliknite na poziciju u aplikaciji.
+EnabledOnPgLoad	Aktiviraj
+HighlightOnActivate	Direktno prikaži označavanje
+start_from_arbitrary	Pokreni od proizvoljnog koraka
+focus_step	Sloj fokusa
+focus_step.h	Samo vođeno upoznavanje sa sistemom \nPrikazuje sivi sloj za isticanje zahtevane kontrole u trenutnom koraku.
+yes	Da
+no	Ne
+light_mode	Interaktivni način
+light_mode.h	Određuje da korisnik mora da usmerava u elementu za informacije objekta do sledećeg koraka. Nema prepoznavanja stranice u toku reprodukcije.
+restricted_mode	Ograničeni način
+restricted_mode.h	Određuje da se samo trenutna radnje može izvršiti. Druge kontrole stranice aplikacije se blokiraju. \nPodešavanje se može koristiti ako je 'Sloj fokusa' aktiviran.
+show_highlight	Označavanja
+action	Radnja
+active_area	Aktivna oblast
+add_application_expl	Unesi objašnjenje
+adv	Napredno
+display_behavior	Ponašanje prikaza
+all_values	Sve vrednosti
+anim_steps	Koraci animacije
+application_context	Aplikacija
+area	Oblast
+auto_merge	Spoji makroe ekrana
+b_height	Visina
+form_on	Način obrasca
+b_percent	Element za informacije vidljiv (%)
+b_hide_option	Opcija skrivanja
+b_minimizable	S mogućnošću minimiziranja
+b_closable	Mogućnost zatvaranja
+b_minimized	Minimizirano
+b_width	Širina
+b_width.h	Definiše širinu elementa za informacije objekta u pikselima.
+bmain_minimizable	S mogućnošću minimiziranja
+bmain_position	Pozicija
+bmain_win_style	Stil
+bmain_size	Veličina
+bmain_alignment	Poravnanje
+bubble	Element za informacije objekta
+bubble_offset	Razmak
+bubblestyle_d	Stil
+bubblestyle_init	Stil elementa za informacije
+choose_appl_template	Izaberi profil aplikacije
+choose_bool	Odabrana vrednost
+choose_nr	Odabrani indeks
+choose_text	Odabrana vrednost
+target_static_text	je zabeležen kao 'Identifikator stranice'.
+target_spec_warning	Upozorenje: Informacije o ponovnom beleženju nisu dostupne za ovu kontrolu.
+prev_step	Prethodni korak
+next_step	Sledeći korak
+click	Radnja mišem
+click_pos	Pozicija klika
+click_pos_rel	Pozicija elementa za informacije
+config_file	Profil aplikacije
+define_target	Ekran
+display	Uredi glavni element za informacije
+display_name	Naziv prikaza
+drag	Vuci
+drop	Pusti
+dump_page	Snimak ekrana
+elem_bubble	Element za informacije objekta
+element_type	Tip objekta
+enabled	Aktivirano
+optional	Izborno
+enter	Unos mišem
+executable	Aplikacija
+explanation_d	Tekst
+explanation_d_modified	Prevedi ručno
+explanation_long	Objašnjenje
+fh_mouseover	Pomoć pri prelasku mišem
+fh_onelem	Ikona
+fh_tooltip	Kratke informacije
+fh_bubble	Element za informacije
+step_list	Lista koraka
+fieldicon	Slika objekta
+fieldname	Naziv objekta
+find	Nađi
+AutoBarChooseScn	Kliknite na odgovarajući ekran
+frame	Okvir
+g_highlight_bgr	Boja
+g_highlight_border	Okvir
+g_highlight_effect	Efekat
+global	Globalno
+hide_on_focuslost	Sakrij pri gubitku fokusa
+hilight	Označi
+input_radio	Dugme odabira/kvadratić za potvrdu
+input_text	Unos teksta
+init	Pokretanje
+key	Ključ
+key_desc	Prečica
+key_name	Šifra tastera
+key_press	Pritisak tastera
+lclick	Levi klik
+ldblclick	Levi dupli klik
+force_display	Prisili prikaz
+auto_execute	Automatsko izvršenje
+show_confirmation	Prikaži dugme Potvrda
+show_confirmation.h	Definiše da li je prikazano dugme potvrde u elementu za informacije objekta tokom reprodukcije. Dugme dozvoljava korisniku potvrdu izvršene radnje i nakon toga prikazuje se sledeći korak.
+link_to_sim	Unesi vezu simulacije
+macro_comment	Komentar
+main_bubble	Prozor
+match_value	Uporedi vrednost
+mini_on_focuslost	Minimiziraj pri gubitku fokusa
+enable_tincan	@{NAVIGATOR} Praćenje
+nav_check_freq	Ažuriraj učestalost (min)
+navigation	Asistent radne površine
+new_screen_context	Novi ekran
+no_spike	Šema šiljka
+pa_caption	Vođeno upoznavanje sa sistemom
+none	Nijedan
+objname	Naziv objekta
+orientation	Orijentacija
+path	Put objekta
+position	Pozicija
+rclick	Desni klik miša
+rdblclick	Dupli desni klik
+record_activearea	Zabeleži aktivnu oblast
+record_application_context	Zabeleži aplikaciju
+no_control	Objekat nije dostupan na poziciji klika.
+record_control	Zabeleži objekat
+record_control_pa	Zabeleži korak vođenog upoznavanja sa sistemom
+record_define_target	Zabeleži ekran
+record_display	Uredi glavni element za informacije
+record_end_display	Uredi element za informacije
+record_explanation	Dodaj objašnjenje
+record_object_context	Zabeleži objekat
+record_screen_context	Zabeleži ekran
+record_target_specializer	Zabeleži identifikator stranice
+record_compatible_application	Zabeleži kompatibilnu aplikaciju
+reference	Izvor
+regexp	Redovni izraz
+replace	Zameni
+replace_continue	Zameni i nastavi...
+replace_pgkey_attr	Zameni obeležja ključa stranice
+error_regexp	Nevažeći regularni izraz. Ispravite vaš unos.
+resize	Promeni veličinu prozora
+revision	Revizija
+sc_config_header	Informacije o profilu
+screen	Ekran
+screenhelp	Pomoć ekrana
+screenshot_rect	Pozicija snimka ekrana
+select_single	Pojedinačni odabir
+selected_merge	Spoji odabrane makroe ekrana
+show_bubble	Direktno prikaži
+show_hilight	Pokaži označavanje
+show_on_focus	Prikaži pri fokusu
+source	Izvor
+start_unit	Stil pomoći za kontekst.
+subkey	Dozvoljeno kao podključ
+script	Script
+target_name	Naslov
+target_specializer	Identifikator stranice
+text_d	Unos teksta
+text_d_specializer	Unos teksta
+tolerance	Spoji dopušteno odstupanje makroa ekrana
+translate	Automatski prevod
+autoTranslate	Prevedi projekat
+paramReRecordLanguage	Jezik
+merge_critical_macros	Automatski spoji makroe
+merge_critical_macros.h	Ako konvertujete simulacije u usmeravanja, automatski možete da spojite ekrane kreirane na takav način. One se kombinuju pomoću vrednosti dopuštenog odstupanja određene u parametru 'Spoji dopušteno odstupanje makroa ekrana'.
+uid	UID
+underline	Podvuci
+update_control	Ažuriraj objekat
+update_target	Ažuriraj ekran
+variant	Varijanta
+win_rect	Veličina prozora
+wizCancel	Odustani
+wizFinish	Završetak
+wizNext	Sledeće
+wizOk	OK
+wizExplanation	Objašnjenje
+wizContinue	Nastavi
+app_info	Pokaži aplikaciju
+app_link_to_sim	Unesi vezu simulacije za aplikaciju
+screen_info	Pokaži ekran
+screen_link_to_sim	Unesi vezu simulacije za ekran
+object_info	Varijanta prikaza
+object_link_to_sim	Unesi vezu simulacije
+disabled	Deaktivirano
+record_context_assistant_include	Uključi @{NAVIGATOR} projekat
+project_id	Naslov projekta
+project_id.h	Parametar sadrži uneti projekat. Dugme 'Uredi vezu' dozvoljava vam odabir projekta u radnoj oblasti.
+project	Projekat
+context_assistant_include	Projekat asistenta radne površine
+open_expanded	Prikaži prošireni glavni element za informacije
+restart_option	Dugme Ponovo pokreni
+next_project_id	Sledeći projekat
+next_project_id.h	Ova opcija definiše projekat koji će biti pokrenut nakon završetka trenutnog procesa. Novi proces se direktno pokreće i neće biti prikazan element za informacije završetka.
+end_unit	Završetak upoznavanja sa sistemom
+add_end_unit	Dodaj završetak procesa
+demo	Demo način
+uebung	Način prakse
+praxis	Istovremeni način
+test	Način testa
+doc	Word dokument
+pdf	PDF dokument
+html	HTML dokument
+ppt	PowerPoint dokument
+explanation_type	Ikona
+note	Beleška
+info	Informacije
+tipp	Savet
+warnung	Upozorenje
+no_image	Nema ikone
+display_on	Prikaži glavni element za informacije
+nav_start	Početak usmeravanja
+app_focus	Fokus aplikacije
+screen_focus	Fokus ekrana
+never	Nemoj prikazati
+list_type	Tip liste za ekran
+list_type.h	Ovaj parametar određuje tip za izlistavanje objekata na ekranu, ako je za ovo aktivirana opcija 'Prikaži sve informacije o objektu'.
+unordered_list	Znaci za nabrajanje
+ordered_list	Numerisanje
+convert_sn	Generiši asistenta radne površine
+Application	Aplikacija
+obj_context	Objekat
+expl_context	Objašnjenje
+record_cntrl_type	Tip
+disable_standby	Deaktiviraj Standby status (@{NAVIGATOR})
+disable_standby.h	Određuje da se stanje pripravnosti @{NAVIGATOR} ne može postaviti. Ako je ova opcija deaktivirana, možete postaviti stanje pripravnosti pomoću prečice 'CTRL + F11' ili klikom na ikonu statusa.
+disable_exit	Sakrij unos Izlaz (@{NAVIGATOR})
+disable_exit.h	Određuje da je opcija 'Izlaz' u meniju konteksta ikone statusa @{NAVIGATOR} sakrivena.
+bcontent_style	Stil elementa za informacije
+bcontent_style.h	Ovo podešavanje definiše koji stil elementa za informacije treba da se koristi za prikaz elementa za informacije.
+cache_properties	Skrivena memorija
+cache_folder	Lokacija foldera
+cache_folder.h	Određuje lokaciju foldera skrivene memorije 'NavigatorCache'. Standardna lokacija je '%localappdata%'. Možete da unesete korisnički definisanu lokaciju.\nBeleška: Naziv foldera skrivene memorije se ne može promeniti.
+use_caching	Koristi smeštanje u skrivenu memoriju
+use_caching.h	Aktivira upotrebu skrivene memorije @{NAVIGATOR}.
+function_keys	Funkcijski tasteri
+minimize_da	Umanji
+minimize_da.h	Definiše funkcijski taster za minimiziranje glavnog prozora.
+next_tab	Odaberi sledeću karticu
+next_tab.h	Definiše funkcijski taster za odabir sledeće kartice u glavnom prozoru.
+next_screen	Idi na sledeći ekran
+next_screen.h	Definiše funkcijski taster za usmeravanje na sledeći ekran za odabrani projekat.
+back	Nazad
+back.h	Definiše funkcijski taster za povratak na prethodnu verziju.
+toggle_standby	Prebaci način na čekanju
+toggle_standby.h	Definiše funkcijski taster za prebacivanje načina na čekanju.
+abort	Prekini
+abort.h	Definiše funkcijski taster za prekid asistenta radne površine.
+restart	Ponovo pokreni
+restart.h	Definiše funkcijski taster za ponovno pokretanje asistenta radne površine.
+start_pa	Pokreni projekat asistenta radne površine
+start_pa.h	Definiše funkcijski taster za pokretanje odabranog projekta.
+start_demo	Pokreni demo način
+start_demo.h	Definiše funkcijski taster za pokretanje odabranog demo načina.
+start_prac	Pokreni način prakse
+start_prac.h	Definiše funkcijski taster za pokretanje odabranog načina prakse.
+start_test	Pokreni način testa
+start_test.h	Definiše funkcijski taster za pokretanje odabranog načina testa.
+start_concur	Pokreni istovremeni način
+start_concur.h	Definiše funkcijski taster za pokretanje odabranog istovremenog načina.
+start_book	Pokreni knjigu
+start_book.h	Definiše funkcijski taster za pokretanje odabrane knjige.
+start_group	Otvori u library
+start_group.h	Definiše funkcijski taster za otvaranje grupe u library.
+toggle_ctx_rec	Prebaci prepoznavanje konteksta
+toggle_ctx_rec.h	Definiše funkcijski taster za prebacivanje prepoznavanja konteksta asistenta radne površine.
+select_next	Odaberi sledeći unos
+select_next.h	Definiše funkcijski taster za odabir sledećeg unosa u trenutnom prozoru.
+select_prev	Odaberi prethodni unos
+select_prev.h	Definiše funkcijski taster za odabir prethodnog unosa u trenutnom prozoru.
+toggle_warning	Pokaži dijalog upozorenja
+toggle_warning.h	Definiše funkcijski taster za pokazivanje dijaloga upozorenja asistenta radne površine.
+execute_step	Izvrši korak
+execute_step.h	Definiše funkcijski taster za izvršenje koraka tokom reprodukcije vođenog upoznavanja sa sistemom.
+copy_link	Kopiraj vezu
+copy_link.h	Definiše funkcijski taster za vezu kopiranja odabranog entiteta.
+maximize_trainer	Uvećaj prozor sadržaja
+maximize_trainer.h	Definiše funkcijski taster za uvećavanje prozora sadržaja.
+share_email	Deli preko e-pošte
+share_email.h	Definiše funkcijski taster za deljenje sadržaja odabranog entiteta preko e-pošte.
+start_default	Pokreni standardni sadržaj
+start_default.h	Definiše funkcijski taster za pokretanje standardnog načina ili odabranog dokumenta.
+show_da_help	Prikaži pomoć asistenta radne površine
+show_da_help.h	Definiše funkcijski taster za otvaranje pomoći asistenta radne površine.
+request_content	Zahtevaj sadržaj
+request_content.h	Definiše funkcijski taster za zahtevanje sadržaja za aplikacijsku stranicu.
+search_content	Traži sadržaj
+search_content.h	Definiše funkcijski taster za traženje sadržaja u zavisnosti od odabranog tipa traženja.
+show_hidden_elems	Pokaži sakrivene elemente pomoći
+show_hidden_elems.h	Definiše funkcijski taster za prikaz skrivenih elemenata pomoći.
+toggle_side_bar	Prikaži/sakrij bočnu traku
+toggle_side_bar.h	Definiše ključ funkcije za prikaz i sakrivanje bočne trake.
+content_library	Asistent radne površine - sadržaj i ponašanje
+content_library_window	Asistent radne površine - stil i prozori
+content_library_sidebar	Asistent radne površine - bočna traka
+style	Stil
+style.h	Definiše izgled komponenti asistenta radne površine (glavni prozor, prozor sadržaja, ikona statusa). Odaberi resurs stila s liste.
+show_only_bar	Pokaži samo bočnu traku na početku
+show_only_bar.h	Definiše da li će bočna traka biti prikazana na početku asistenta radne površine ili takođe u glavnom prozoru.
+clear_on_mismatch	Izbriši listu sadržaja pri neslaganju konteksta
+clear_on_mismatch.h	Definiše, da je lista sadržaja izbrisana ako kontekst nije nađen. Sa deaktiviranim podešavanjem sadržaj poslednjeg prepoznatog objekta je pokazan.
+da_positioning	Poravnanje glavnog prozora
+da_positioning.h	Definiše poravnanje glavnog prozora na ekranu. Opcija 'Slobodno' omogućava definisanje pozicije u parametru 'Pozicija glavnog prozora'.
+bar_positioning	Poravnanje bočne trake
+bar_positioning.h	Definiše poravnanje bočne trake na ekranu.
+left_top	Gornji levi ugao
+left_center	Levo centrirano
+left_bottom	Donji levi ugao
+right_top	Gornji desni ugao
+right_center	Desno centrirano
+top_center	Sredina na vrhu
+right_bottom	Donji desni ugao
+center	Centar
+free	Slobodno
+list_order	Ređanje sadržaja
+list_order.h	Definiše ređanje dostupnog sadržaja na listi.
+by_default	Struktura pretraživača
+by_name	Abecedno
+by_type	Abecedno po tipu
+library_position	Pozicija glavnog prozora (slobodna)
+library_position.h	Definiše poziciju glavnog prozora (levo, gore) za 'slobodno' poravnanje na ekranu. Vrednosti su date u pikselima.
+search_url	Traži grupu
+search_url.h	Omogućava vam da odredite grupu radnih oblasti za traženje sadržaja u @{LIBRARY}.
+enable_recording	Pozicija: Kontrola 'Beleženje'
+enable_recording.h	Omogućava vam da prikažete kontrolu za procese snimanja. Možete odrediti poziciju kontrole na bočnoj traci.\nSnimanje korisniku omogućava da zabeleži procese kao Microsoft Word dokumente ili kao video materijale. Snimljeni fajlovi se prikazuju na glavnom prozoru na kartici Oblast korisnika.
+enable_exit_da	Pozicija: Kontrola 'Izlaz'
+enable_exit_da.h	Omogućava vam da prikažete kontrolu za odustajanje od @{NAVIGATOR}. Možete odrediti poziciju kontrole na bočnoj traci.
+enable_info	Pokaži karticu 'Info'
+enable_info.h	Aktivira karticu 'Info' za glavni prozor asistenta radne površine. Unesite info tekst kratkog opisa grupe asistenata radne površine.
+request_content_type	Tip zahteva za sadržaj
+request_content_type.h	Određuje funkcionalnost za zahtevanje sadržaja. Odaberite tip na padajućoj listi.\nE-pošta: Omogućava vam da unesete adresu e-pošte za zahteve.\nURL: Omogućava vam da unesete URL za otvaranje web stranice.\nKontrola 'Zahtevaj sadržaj' se prikazuje na bočnoj traci. Ako sadržaj nije nađen, veza 'Zahtevaj sadržaj' se prikazuje u glavnom prozoru.
+email	E-pošta
+url	URL
+enable_request_content	Pozicija: Kontrola 'Zahtevaj sadržaj'
+enable_request_content.h	Određuje poziciju kontrole 'Zahtevaj sadržaj' na bočnoj traci.
+enable_external_search_ctx	Obezbedi informacije o kontekstu
+enable_external_search_ctx.h	Obezbeđuje dodatne informacije o kontekstu korisnika sa URL-om traženja u toku traženja. Informacije o kontekstu će se koristiti za traženje. Aktivirajte ovo podešavanje ako vaše navedeno traženje može da koristi informacije o kontekstu. \nObezbeđene informacije o kontekstu su navedene u parametru 'Informacije o kontekstu'.
+external_search_ctx	Informacije o kontekstu
+external_search_ctx.h	Navodi informacije o kontekstu ako je aktivirano podešavanje 'Obezbedi informacije o kontekstu'. Mogu se obezbediti sledeće informacije o kontekstu: EXE trenutne aplikacije (&executable=$#{EXE}), ključ stranice trenutne stranice aplikacije (&pagekey=$#{PAGEKEY}) \nBeleška: Nemojte menjati strukturu niza informacija o kontekstu.
+enable_external_search	Pozicija: Kontrola 'Eksterno traženje'
+enable_external_search.h	Omogućava vam da aktivirate stranicu eksternog traženja za traženje sadržaja ili dodatnih informacija. Kada je ovo podešavanje aktivirano, na bočnoj traci se prikazuje kontrola 'Eksterno traženje'. Na bočnoj traci možete odrediti poziciju ove kontrole. \nDugme otvara polje traženja za unos traženog termina. rezultati traženja se prikazuju na stranici eksternog traženja. Za eksterno traženje možete odrediti URL traženja u parametru 'URL eksternog traženja'.
+external_search_url	URL
+external_search_url.h	Omogućava vam da odredite URL za eksterno traženje. UnesiteURL u vidu sledeće strukture: \nhttps://www.google.com/#q=$#{SEARCHTERM} \nhttps://www.bing.com/search?q=$#{SEARCHTERM} \nhttps://search.yahoo.com/search?p=$#{SEARCHTERM} \nhttps://www.wolframalpha.com/input/?i=$#{SEARCHTERM} \n\nBeleška: Nemojte brisati ili menjati '=$#{SEARCHTERM}' URL parametra.
+enable_share_content	Pokaži kontrolu 'Pusti sadržaj'
+enable_share_content.h	Prikazuje dugme 'Pusti sadržaj' u podnožju glavnog prozora. Dugme otvara okvir za dijalog s vezom do odabranog sadržaja.
+author_email	E-pošta
+author_email.h	Omogućava vam da odredite adresu e-pošte za zahtevanje sadržaja. Adresa e-pošte se koristi za funkciju 'Zahtevaj sadržaj'.
+author_url	URL
+author_url.h	Omogućava vam da odredite URL za zahtevanje sadržaja. URL se koristi za funkciju 'Zahtevaj sadržaj'.
+author_url_params	URL parametri
+author_url_params.h	Omogućava vam da odredite parametre za URL autora. \nMožete odrediti naziv aplikacije i izvršnog fajla. Zamenite vrednost 'aplikacija' ili 'izvršni fajl' traženim nazivom.
+enable_fuzzy_match	Aktiviraj približno podudaranje
+enable_fuzzy_match.h	Definiše da li se približno podudaranje koristi za proveru podudarnosti konteksta sadržaja sa stranicom aplikacije.
+enable_ident_filter	Aktiviraj naprednu identifikaciju aplikacije
+enable_ident_filter.h	Određuje da se koriste samo relevantne informacije aplikacije za @{NAVIGATOR} reprodukciju. Ovo vam omogućava da optimizirate izvođenje @{NAVIGATOR}.\nBeleška: Ova opcija može dovesti do prepoznavanja pogrešnog objekta. Preporučuje se da testirate reprodukciju pre objavljivanja sadržaja.
+library_size	Veličina glavnog prozora
+library_size.h	Definiše veličinu (širinu, visinu) glavnog prozora u pikselima.
+book_win_position	Pozicija prozora sadržaja (slobodna)
+book_win_position.h	Definiše poziciju prozora sadržaja (levo, gore) za 'slobodno' poravnanje na ekranu. Vrednosti su date u pikselima.
+book_win_size	Veličina prozora sadržaja
+book_win_size.h	Definiše veličinu (širinu, visinu) prozora sadržaja u pikselima.
+book_win_positioning	Poravnanje prozora sadržaja
+book_win_positioning.h	Definiše poravnanje prozora sadržaja na ekranu. Opcija 'Slobodno' omogućava definisanje pozicije u parametru 'Pozicija prozora sadržaja'.
+errNoApplicationContext	Trenutni makro nije kontekst aplikacije.
+errNoTargetDefinition	Makro ne odgovara ciljnoj definiciji.
+errExtractPagekey	Nije moguće ekstrahovanje ključa stranice s profilom:
+errScreenshot	Nije moguće kreirati snimak ekrana. Pokušajte ponovo.
+errLoadTemplate	Nije moguće učitati profil:
+errRecordProcessStep	Koraci vođenog upoznavanja sa sistemom ne mogu se zabeležiti za projekte 'pomoć za kontekst'.
+errLanguageSelection	Jezik nije odabran.
+errNoWriteToken	Nemate ovlašćenje za pisanje za odabrani objekat.
+errMacroSelection	Makro nije odabran.
+errObjectInformation	Nema informacije o objektu na datoj poziciji.
+errSpecializedInformation	Nema navedenih informacije na datoj poziciji.
+errPosition	Pozicija nije u oblasti prozora.
+errActionMacroSelection	Makro radnje nije odabran.
+errUpdateObject	Odabrani tip objekta se ne može ažurirati.
+errInsertExplanation	Slobodno objašnjenje se ne može uneti za odabrani makro.
+action.h	Samo vođeno upoznavanje sa sistemom \nOva opcija definiše radnju koju korisnik treba da izvrši na objektu.
+all_values.h	U nekim slučajevima objekat aplikacije zadržava izbor vrednosti koje nisu pokrivene standardnom HTML kontrolom. Tada se koristi kontrola najbliža objektu u aplikaciji. Pored toga ovo polje zadržava sve vrednosti koje objekat zadržava kao svoj izbor.
+anim_steps.h	Vrednost definiše u koliko koraka se animira izabrani efekat označavanja. Niske vrednosti ubrzavaju animaciju, ali čine da izgleda iseckano. Visoke vrednosti čine animaciju usporenijom, ali takođe usporavaju ukupnu brzinu animacije.
+auto_execute.h	Ovo podešavanje definiše radnju koja će automatski biti izvršena pri reprodukciji usmeravanja.
+b_height.h	Definiše visinu elementa za informacije objekta u pikselima. Ako veličina teksta prekoračuje raspoloživi prostor u elementu za informacije, on će se prema visini prilagoditi zahtevanom prostoru.
+b_hide_option.h	Samo pomoć za kontekst \nAktiviranjem ove opcije pojaviće se podešavanje u objektu ili elementu za informacije objašnjenja u kojima krajnji korisnici mogu deaktivirati informacije o objektu (element za informacije i označavanje). Ovo korisnicima dozvoljava skrivanje informacija koje im više nisu potrebne.
+b_minimizable.h	Ova opcija definiše da li se element za informacije može minimizirati tokom reprodukcije. Sa aktiviranom opcijom dugme 'Minimiziraj' se prikazuje u zaglavlju elementa za informacije.
+b_closable.h	Samo pomoć za kontekst \nOva opcija definiše da li se element za informacije može zatvoriti tokom reprodukcije. Sa aktiviranom opcijom dugme 'Zatvori' se prikazuje u zaglavlju elementa za informacije.
+b_minimized.h	Samo pomoć za kontekst \nOva opcija definiše da li se element za informacije prikazuje umanjen kada se učita stranica.
+bmain_size.h	Definiše veličinu (širinu, visinu) glavnog prozora u pikselima.
+bmain_minimizable.h	Ova opcija definiše da li se glavni prozor može minimizirati ili ne.
+bmain_position.h	Vrednosti ovde unete definišu poziciju glavnog prozora na ekranu. Brojevi opisuju razdaljinu od gornjeg levog ugla ekrana u pikselima.
+bmain_win_style.h	Definiše izgled glavnog prozora. Odaberite resurs stila sa liste.
+bmain_alignment.h	Definiše poravnanje glavnog prozora na ekranu. Opcija 'Slobodno' omogućava definisanje pozicije u parametru 'Pozicija prozora'.
+bubble_offset.h	Ova opcija definiše razmak u pikselima u kojem se za objekat prikazuje element za informacije objekta.
+bubblestyle_d.h	Određuje resurs u stilu elementa za informacije za prikaz elementa za informacije objekta projekta.
+bubblestyle_d.h	Određuje resurs u stilu elementa za informacije za prikaz elementa za informacije objekta projekta.
+choose_bool.h	Ovo polje sadrži vrednost koja određuje da li su dugmad ili kvadratići za potvrdu uključeni ili isključeni. Vrednost dugmeta odabira je uvek '1' (uključeno). Vrednost za kvadratić za potvrdu može da bude '0' (isključeno) ili '1' (uključeno).
+choose_text.h	Ovaj parametar sadrži niz znakova nađenih za odabrani unos na meniju popup-a ili polju liste tokom automatskog procesa beleženja. Ovaj niz se unosi u tekstove elementa za informacije objašnjenja u različitim načinima umesto rezervisanog mesta '${choose_text}' (pogledajte način teksta u HTML uređivaču). Koristi se kao modul teksta za automatski generisan tekst elementa za informacije pri automatskom generisanju sadržaja elementa za informacije s modulima teksta pri beleženju.
+click_pos.h	Opisuje poziciju u prozoru aplikacije na koju je autor kliknuo pri beleženju objekta. Pozicija je određena u pikselima i odnosi se na gornji levi ugao sadržaja prozora aplikacije.
+click_pos_rel.h	Opisuje poziciju u prozoru aplikacije. Vrednost u procentima (%) daje poziciju relativnu u odnosu na ukupnu širinu i visinu prozora aplikacije sa levom i gornjom ivicom kao referentnom tačkom.
+config_file.h	Sadrži naziv profila aplikacije koji se koristi za kreiranje ključa, kao i za kasnije tumačenje ključa.
+display_name.h	Određuje naziv aplikacije. Naziv će se prikazati na prozoru izuzetka vođenog upoznavanja sa sistemom.
+dump_page.h	Sadrži zabeleženi ekran. \nMožete promeniti sliku preko funkcije ''Zameni sliku'.
+element_type.h	Opisuje klasu objekta koja je prepoznata mehanizmom prepoznavanja.
+enabled.h	Samo pomoć za kontekst \nOva opcija definiše da li je makro uključen u analizu stranice. Ako je ova opcija deaktivirana, objekat pomoći neće biti prikazan čak i ako postoji povezani objekat na stranici.
+optional.h	Samo vođeno upoznavanje sa sistemom \nOpcija definiše da li je korak vođenog upoznavanja sa sistemom izborni za korisnika u procesu. \nTokom reprodukcije će biti prikazana različita ikona na listi koraka. Ako kontrola nije vidljiva na stranici ili ako je stranica pogrešna, korak će biti preskočen.
+executable.h	Sadrži naziv izvršivog fajla aplikacije onako kako ga koristi operativni sistem.
+explanation_d.h	Sadrži informacije za određeni kontekst (tekst, veze, slike itd.) Obezbedite optimalni prikaz informacija u okviru glavnog elementa za informacije.
+explanation_d_modified.h	Ako se aktivira ova opcija, informacije o kontekstu više se ne generišu automatski u događaju automatskog prevoda, nego se moraju ručno uređivati. Ovo služi za zadržavanje ručnih promena sadržaja elementa za informacije.
+fieldname.h	Sadrži naziv zabeležene kontrole, koji se unosi u tekstove elementa za informacije. \nMožete promeniti naziv objekta u polju teksta. Naziv objekta ima rezervisano mesto '$#{fieldname}'.
+fieldicon.h	Sadrži sliku zabeleženog dugmeta ili ikone, koja se unosi u tekstove elementa za informacije. \nSliku objekta možete promeniti preko funkcije 'Zameni sliku'. Slika objekta ima rezervisano mesto '$I{fieldicon}'.
+g_highlight_bgr.h	Ovo definiše standardnu boju okvira označavanja u usmeravanju. Boja će možda biti direktno uneta kao RBG vrednost u HEX formatu ili odbrana iz okvira za dijalog Selektor boje.
+g_highlight_border.h	Ovaj parametar definiše opštu debljinu označenog okvira u pikselima. Širine piksela dostupne su od '1' do '10'.
+g_highlight_effect.h	Ova opcija određuje vrstu efekta označavanja koja se koristi za objekte u usmeravanju.
+hide_on_focuslost.h	Ova opcija definiše da li će element za informacije biti skriven kada fokus na ekranu napusti objekat.
+highlight_offset.h	Ovaj parametar definiše dodati razmak u pikselima za pravougaonik označavanja koji okružuje označeni element.
+key.h	Sadrži sve kriterijume za identifikaciju prozora aplikacije i određene stranice u aplikaciji. Taster odgovara samo ako stranica u ciljnoj aplikaciji odgovara svim kriterijumima koji su definisani u tasteru. U cilju ublažavanja definicije kriterijuma pojedinačnog tastera dozvoljena je upotreba redovnih izraza.
+key_name.h	Ovaj parametar određuje upotrebljeni taster ili prečicu. Ovo uključuje odvajanje naziva tastera razmacima, na primer: 'ctrl + k'.
+key_desc.h	Ovaj parametar određuje upotrebljeni taster ili prečicu. Ovo uključuje odvajanje naziva tastera razmacima, na primer: 'ctrl + k'.
+force_display.h	Samo pomoć za kontekst \nOdređuje da se sadržaj makroa uvek prikazuje kao trenutna pomoć, čak i ako je trenutna pomoć deaktivirana tokom reprodukcije asistenta radne površine.
+link_to_sim.h	Ova opcija će uključiti vezu simulacije u glavni element za informacije. Ova opcija je povezana sa usmeravanjem koje je kreirano na osnovu projekta simulacije (po konverziji).
+macro_comment.h	Opšti komentar. Prikazuje se u minijaturnom pogledu.
+match_value.h	Ova opcija određuje da li navedenu vrednost treba uporediti sa realnom vrednosti objekta u aplikaciji koja se izvodi.
+mini_on_focuslost.h	Ova opcija definiše da li će se element za informacije minimizirati kada fokus na ekranu napusti dotični objekat.
+nav_check_freq.h	Definiše učestalost @{NAVIGATOR} provera za ažurirani sadržaj. Ako je ažurirani sadržaj dostupan, @{NAVIGATOR} će pokrenuti sadržaj automatski. To je naročito korisno za procese upravljanja promenom.
+enable_tincan.h	Aktivira praćenje za @{NAVIGATOR} sadržaj. Sadržaj se mora pokrenuti iz radne oblasti @{MANAGER}.
+no_spike.h	Ova opcija definiše da li se element za informacije objekta prikazuje sa ili bez šiljka.
+objname.h	Svakom objektu u usmeravanju potreban je jedinstveni naziv za identifikacione svrhe pri upotrebi ponašanja i dodela ponašanja.
+orientation.h	Ovaj parametar definiše orijentaciju elementa za informacije objekta relativno u odnosu na referencirani objekat. Strelica elementa za informacije pokazuje poziciju referenciranu na stranici, dok je sam element za informacije prikazan kao pomeren u odabranom smeru, kako je zahtevano. Ako se odabere orijentacija 'Centar', element za informacije se prikazuje bez strelice koja je centrirana na definisanoj poziciji.
+path.h	Put objekta opisuje svojstva objekta na osnovu korištenog profila aplikacije. Put objekta se koristi za identifikaciju objekta tokom aplikacije koja se izvodi. Po pravilu nije potrebno da ručno uređujete ovo polje.
+position.h	Vrednosti ovde unete definišu poziciju glavnog elementa za informacije na ekranu. Brojevi opisuju razdaljinu od gornjeg levog ugla ekrana u pikselima.
+reference.h	Ako je usmeravanje konvertovano iz simulacije, ovde treba odrediti izvor odgovarajućeg koraka.
+resize.h	Ova opcija definiše da li će prozor ciljne aplikacije biti ručno promenjen na veličinu koja je upotrebljena pri kreiranju usmeravanja. To može biti korisno za aktivne oblasti pošto će biti prikazane na osnovu pozicije.
+revision.h	Prikazuje verziju profila aplikacije koja se koristi za kreiranje ključa pri beleženju ekrana aplikacije.
+sc_config_header.h	Informacije iz profila aplikacije sačuvane su u ovom polju. Usmeravanje koristi ove informacije kako bi se aplikacija i njeni objekti mogli pravilno prepoznati tokom reprodukcije.
+screenshot_rect.h	Prikazuje oblast originalnog ekrana koja se koristi za snimak ekrana objekta. Po pravilu nije potrebno da ručno uređujete ovu vrednost.
+show_bubble.h	Ova opcija prikazuje da li se element za informacije prikazuje odmah nakon potpunog učitavanja stranice.
+start_from_arbitrary.h	Ova opcija definiše da se vođeno upoznavanje sa sistemom može pokrenuti iz proizvoljnog koraka, a ne od početka procesa.
+show_hilight.h	Određuje da li se označavanje prikazuje za objekat.
+show_highlight.h	Određuje da li se označavanja prikazuju za objekte.
+show_on_focus.h	Ova opcija definiše da li će element za informacije biti prikazan kada se menja fokus dotičnog objekta na ekranu.
+source.h	Ako se usmeravanje konvertuje iz simulacije, parametar određuje originalnu lekciju.
+subkey.h	U nekim slučajevima korisno je ako su zanemareni određeni delovi originalnog dela tastera, npr. pošto varijante određene stranice nisu relevantne i treba ih sve obraditi pomoću istog Tastera i Koraka u usmeravanju. Ova opcija prisiljava mehanizam prepoznavanja da razmotri taster kao poklapanje, čak i ako stranica ima više kriterijuma tastera koji su prijavljeni preko prepoznavanja definisanih u tasteru. Stoga se taster stranice može skratiti kako bi se pokrilo više stranica jednim tasterom.
+target_name.h	Sadrži naziv prozora aplikacije.
+text_d.h	Ovaj parametar sadrži niz znakova koji treba uneti u referencirano polje unosa. Sadrži vrednost unetu tokom automatskog procesa beleženja. Ovaj niz se unosi u tekstove elementa za informacije objašnjenja u različitim načinima umesto rezervisanog mesta '${text_d}' (pogledajte način teksta u HTML uređivaču) pri automatskom generisanju sadržaja elementa za informacije s modulima teksta pri beleženju.
+text_d_specializer.h	Ovaj parametar sadrži niz znakova koji treba uneti u referencirano polje unosa. Sadrži vrednost unetu tokom automatskog procesa beleženja. Ovaj niz se unosi u tekstove elementa za informacije objašnjenja u različitim načinima umesto rezervisanog mesta '${text_d}' (pogledajte način teksta u HTML uređivaču) pri automatskom generisanju sadržaja elementa za informacije s modulima teksta pri beleženju.
+tolerance.h	Vrednost definiše dopušteno odstupanje za stepen poklapanja pri spajanju makroa 'Ekran'. Ovo podešavanje se odnosi na funkciju 'Spoji makroe ekrana' koji se mogu pokrenuti iz menija 'Alati-> Masovne promene'. Povećavanjem vrednosti povećava se granična vrednost dopuštenog odstupanja. U tom slučaju obratite pažnju da se mogu spojiti i trenutni snimci na kojima su prikazani različiti objekti. Vrednost je određena u procentima.
+uid.h	Sadrži jedinstveni identifikator makroa pod kojim se njime upravlja u projektu.
+win_rect.h	Definiše veličinu prozora pri kreiranju projekta.
+explanation_type.h	Ova opcija određuje tip beleške. U zavisnosti od podešavanja tipa prikazuje se piktogram zajedno s tekstom kako bi se označio tekst saveta.
+app_info.h	Ovo podešavanje definiše da li se aplikacija prikazuje u pomoći konteksta. Ako kontekst aplikacije ne treba prikazati, podešavanje treba deaktivirati.
+app_link_to_sim.h	Ovaj parametar se može koristiti za prikaz veze do simulacije određene u 'Izvornom' parametru pored tipa konteksta. Različiti načini mogu se odabrati u ovom procesu.
+screen_info.h	Ovo podešavanje definiše da li se stranica prikazuje u pomoći za kontekst. Ako ekrane treba prikazati, podešavanje treba deaktivirati.
+screen_link_to_sim.h	Ovaj parametar se može koristiti za prikaz veze do simulacije određene u 'Izvornom' parametru pored tipa konteksta. Različiti načini mogu se odabrati u ovom procesu.
+object_info.h	Samo pomoć za kontekst \nOvo podešavanje definiše varijantu koju treba prikazati za objekat.
+open_expanded.h	Ako se aktivira ova opcija prikazuje se glavni element za informacije sa otvorenom stranicom i listom objekata.
+display_on.h	Ovaj parametar definiše u kojoj situaciji treba prikazati glavni element za informacije usmeravanja. Pri pokretanju usmeravanja prikaz aplikacije ili prikaz odgovarajuće stranice aplikacije.
+area.h	Parametar definiše poziciju i veličinu kontrole. Prva dva broja ukazuju poziciju objekta s leve strane i gornje ivice ekrana. Poslednja dva broja definišu širinu i visinu objekta. Dugme pored polja unosa otvara okvir za dijalog za uređivanje čime se dozvoljava prilagođavanje pozicije i veličine objekta.
+form_on.h	Definiše da je korak obrazac. Sve radnje koraka se prikazuju u jednom elementu za informacije tokom reprodukcije.
+transition	Sledeći korak vođenog upoznavanja sa sistemom
+transition_info	Sledeći korak vođenog upoznavanja sa sistemom
+action_pa	Radnja
+trans_action	Radnja
+step_name1	Sledeći korak
+step_name2	Alternativni korak 1
+step_name3	Alternativni korak 2
+step_name4	Alternativni korak 3
+LClick	Levi klik
+RClick	Desni klik
+LDblClick	Levi dupli klik
+RDblClick	Dupli desni klik
+Focus	Fokus
+FocusLost	Fokus izgubljen
+step	Korak vođenog upoznavanja sa sistemom
+name	Naziv
+end_message	Tekst
+show_end_window	Prozor završetka
+show_end_window.h	Određuje da se prozor prikazuje na kraju vođenog upoznavanja sa sistemom. Ovaj prozor omogućava korisniku da ručno zatvori vođeno upoznavanje sa sistemom. Ako se ova opcija deaktivira, prozor se ne prikazuje i vođeno upoznavanje sa sistemom se automatski zatvara.
+trans_action.h	Samo vođeno upoznavanje sa sistemom \nOdređuje radnju koja pokreće prelazak na sledeći korak vođenog upoznavanja sa sistemom.
+action_pa.h	Ovo podešavanje određuje radnju korisnika koja pokreće prelazak na sledeći korak vođenog upoznavanja sa sistemom.
+step_name1.h	Samo vođeno upoznavanje sa sistemom \nDefiniše sledeći korak u toku procesa.
+step_name2.h	Samo vođeno upoznavanje sa sistemom \nDefiniše alternativni korak vođenog upoznavanja sa sistemom, ako definisani korak vođenog upoznavanja sa sistemom nije moguće prikazati.
+step_name3.h	Samo vođeno upoznavanje sa sistemom \nDefiniše alternativni korak vođenog upoznavanja sa sistemom, ako definisani alternativni korak vođenog upoznavanja sa sistemom 1 nije moguće prikazati.
+step_name4.h	Samo vođeno upoznavanje sa sistemom \nDefiniše alternativni korak vođenog upoznavanja sa sistemom, ako definisani alternativni korak vođenog upoznavanja sa sistemom 2 nije moguće prikazati.
+step_on_same_page.h	Samo vođeno upoznavanje sa sistemom \nOvo podešavanje treba aktivirati ako je sledeći korak vođenog upoznavanja sa sistemom na istoj stranici aplikacije. Ovim će se izbeći prepoznavanje stranice.
+name.h	Definiše naziv koraka vođenog upoznavanja sa sistemom. Naziv je prikazan u podešavanjima 'Sledeći korak vođenog upoznavanja sa sistemom' makroa 'Objekat' za odabir.
+set_value	Automatski postavi vrednost
+set_value.h	Podešavanje definiše da li će vrednost makroa biti automatski postavljena tokom reprodukcije usmeravanja.
+end_message	Tekst
+end_message.h	Možete da unesete tekst u ovo polje teksta, koje je prikazano u elementu za informacije na kraju procesa. Polje teksta je prethodno podešeno sa standardnim tekstom.
+restart_option	Dugme Ponovo pokreni
+restart_option.h	Kada se aktivira ova opcija, pojavljuje se dugme u elementu za informacije koji korisnik može da koristi za ponavljanje procesa. To omogućava ponovno izvršenje procesa s različitim unosima.
+record_end_display	Uredi element za informacije
+end_bubble	Element za informacije - završetak procesa
+bend_position	Pozicija
+bend_position.h	Vrednosti ovde unete ukazuju na poziciju elementa za informacije na ekranu. Vredosti su određene u pikselima i povezane su sa gornjim levim uglom ekrana.
+bend_style	Stil
+bend_style.h	Ovo podešavanje definiše koji stil elementa za informacije treba koristiti za prikaz elementa za informacije. Stilovi elementa za informacije su definisani pomoću uređivača stila elementa za informacije, koji se može otvoriti iz menija 'Alati -> Uredi stilove elementa za informacije'. Stilovi elementa za informacije su uvek dostupni za celu radnu oblast.
+bend_width	Širina
+bend_width.h	Ovo definiše širinu elementa za informacije za prikaz u pikselima.
+bend_height	Visina
+bend_height.h	Ovo definiše visinu elementa za informacije za prikaz u pikselima.
+process_start_unit	Stil vođenog upoznavanja sa sistemom
+record_pa_control	Zabeleži korak vođenog upoznavanja sa sistemom
+prev_step	Prethodni korak
+next_step	Sledeći korak
+disqualifier	Isključi ekran
+disqualifier.h	Sa 'Identifikatorom stranice' možete da razlikujete slične stranice aplikacije pomoću specifičnog objekta. Ova opcija određuje da li prepoznata stranica aplikacije treba da bude prikazana ili isključena ako je dostupan 'Identifikator stranice'. \nPogled sličice prikazuje status opcije: Simbol plus (ne isključuje) ili minus (isključuje).
+exception_bubble	Element za informacije - obrada izuzetka
+bexp_position	Pozicija
+bexp_position.h	Vrednosti koje su ovde unete definisaće poziciju elementa za informacije na ekranu. Vrednosti su date u pikselima. Element za informacije će se pojaviti u gornjem levom uglu ekrana.
+bexp_style	Stil
+bexp_style.h	Ovde možete da izaberete tip elementa za informacije koji želite da koristite. Stilovi elementa za informacije mogu se definisati u uređivaču stilova elementa za informacijekoji se može otvorite iz menija:  Alati -> Uredi stil elementa za informacije.  Različiti stilovi elementa za informacije su uvek dostupni za celu radnu oblast.
+content_demo	Demo način
+content_demo.h	Pomoću ove opcije prikazuju se demo načini grupe u asistentu radne površine.
+content_practice	Način prakse
+content_practice.h	Pomoću ove opcije prikazuju se načini prakse grupe u asistentu radne površine.
+content_test	Način testa
+content_test.h	Pomoću ove opcije prikazuju se načini testa grupe u asistentu radne površine.
+content_concurrent	Istovremeni način
+content_concurrent.h	Pomoću ove opcije prikazuju se istovremeni načini grupe u asistentu radne površine.
+content_navi	Usmeravanje
+content_navi.h	Pomoću ove opcije prikazuju se usmeravanja grupe u asistentu radne površine.
+content_documentation	Dokumentacija
+content_documentation.h	Pomoću ove opcije prikazuje se dokumentacija grupe u asistentu radne površine.
+content_externals	Eksterni fajlovi
+content_externals.h	Pomoću ove opcije prikazuju se eksterni fajlovi grupe u asistentu radne površine.
+navi_style	Stil
+navi_style.h	Definiše izgled prozora usmeravanja. Odaberite resurs stila sa liste.
+menu_path:/record	Beleženje
+F1HELPNAME	Pomoć
+alignment	Poravnanje elementa za informacije
+alignment.h	Određuje poravnanje prozora elementa za informacije na ekranu. Opcija 'Slobodno' omogućava vam definisanje pozicije u parametru 'Pozicija elementa za informacije'.
+bform_alignment	Poravnanje
+bform_alignment.h	Definiše poravnanje prozora elementa za informacije obrasca na ekranu. Opcija 'Slobodno' omogućava vam definisanje pozicije u parametru 'Pozicija elementa za informacije o obrascu'.
+gloss_bubble	Element za informacije glosara
+gloss_bubble_style	Stil
+gloss_bubble_style.h	Definiše izgled elementa za informacije glosara. Odaberite resurs stila sa liste.
+ellipse	Krug
+gloss_bubble_size	Veličina
+gloss_bubble_size.h	Definiše veličinu (širinu, visinu) elementa za informacije glosara u pikselima.
+Navi	Asistent radne površine
+exclude_from_da	Isključi iz asistenta radne površine
+exclude_from_da.h	Određuje da ključ stranice neće biti uzet u obzir za prepoznavanje konteksta asistenta radne površine.
+all_as_descr	Koristi tekst iz
+all_as_descr.h	Definiše tip teksta za @{NAVIGATOR}. Standardno je 'Kratki opis'.
+consider_roles	Uzmi u obzir uloge
+consider_roles.h	Aktivira upotrebu uloga za prikaz sadržaja tokom reprodukcije.
+consider_categories	Razmotrite kategorije sadržaja
+consider_categories.h	Aktivira upotrebu kategorija sadržaja za ređanje sadržaja u glavnom prozoru @{NAVIGATOR}.
+disable_ca_in_pa	Sakrij trenutnu pomoć u vođenom upoznavanju sa sistemom
+disable_ca_in_pa.h	Određuje da li su sve informacije o trenutnoj pomoći sakrivene u toku reprodukcije vođenog upoznavanja sa sistemom. Kada se završi vođeno upoznavanje sa sistemom, trenutna pomoć se ponovo prikazuje.
+full_desc	Opis
+shrt_desc	Kratki opis
+wrong_position	Greška pozicije
+help	Pomoć
+warning	Upozorenje
+maintenance	Održavanje
+update	Ažuriraj
+new	Novo
+training	Obuka
+attachment	Dodatak
+link	Veza
+tip	Savet
+note	Beleška
+compliance	Usklađenost
+mini_bubble_style	Stil mini ikone
+mini_bubble_style.h	Definiše resurs stila za mini ikone korištene za projekat. Mini ikone su tip resursa prilagodljivih resursa. \nIkona se može postaviti u svakom makrou radnje i objašnjenja pomoću parametra 'Tip mini ikone' u odeljku 'Napredno'.
+mini_bubble	Tip mini ikone
+mini_bubble.h	Samo pomoć za kontekst \nDefiniše tip za mini ikonu objekta. Ikona je zasnovana na definisanom 'Stilu mini ikona' makroa 'Stil'.
+NavRecMouseWheel	Koristite točak miša za nastavak. Pritisnite ESC za završetak pomeranja miša.
+search_type	Tip traženja
+none	Nijedan
+search_in_lib	U @{LIBRARY}
+search_in_da	Grupa asistenata radne površine
+search_type.h	Određuje funkcionalnost za traženje sadržaja. Odaberite tip na padajućoj listi. \nNišta: Deaktivira funkcionalnost traženja. \nU @{LIBRARY}: Otvara @{LIBRARY} za traženje u sadržaju @{LIBRARY}. \nU grupi asistenata radne površine: Prikazuje karticu 'Traži' na glavnom prozoru za traženje u sadržaju asistenta radne površine.
+errObjectUpdate	Objekat se ne može ažurirati. Ažurirajte objekat sličnog tipa.
+config_headers_differ1	Informacije o profilu su zastarele. Kliknite na 'Nastavi' za ažuriranje projekta.
+config_headers_differ2	Preporučuje se kreiranje arhive pre ažuriranja.
+default_start_mode	Standardni početni sadržaj
+default_start_mode.h	Definiše način ili format dokumenta koji treba standardno pokrenuti iz liste sadržaja.
+default_start_doc	Standardni početni dokument
+default_start_doc.h	Definiše tip dokumenta, ako je dokument postavljen u podešavanju 'Standardni početni sadržaj'.
+show_next_btn	Dugme Sledeće
+show_next_btn.h	Samo vođeno upoznavanje sa sistemom \nOdređuje da li se dugme 'Idi na sledeći korak' prikazuje u elementu za informacije objekta.
+condition	Uslov
+condition.h	Tokom reprodukcije, vrednost koju je uneo korisnik mora odgovarati uslovu radi prelaska na sledeći korak ili na određeni korak. \nOdaberite 'Uredi uslov' da biste kreirali ili uredili uslov.
+errDuplicateContext	Ova aplikacija je već zabeležena.
+add_sticky_notes	Pozicija: Kontrola 'Dodaj lepljivu belešku'
+add_sticky_notes.h	Omogućava vam da prikažete kontrolu za dodavanje lepljive beleške na stranici. Možete odrediti poziciju kontrole na bočnoj traci.
+show_instant_help_btn	Pozicija: Kontrola 'Trenutna pomoć'
+show_instant_help_btn.h	Omogućava vam da prikažete kontrolu za aktiviranje trenutne pomoći. Možete odrediti poziciju ove kontrole na bočnoj traci.
+show_carousel	Prikaži karusel
+show_carousel.h	Ova opcija pokazuje asistent radne površine u načinu karusela.
+condition_pattern	Šablon uslova
+condition_pattern.h	Određuje šablon koji se koristi za uslov.
+condition_value	Vrednost uslova
+condition_value.h	Sadrži vrednost koja se koristi za uslov. Unesite tekst ili broj na osnovu odabranog šablona.
+condition_jump_target	Cilj prelaska
+condition_jump_target.h	Samo vođeno upoznavanje sa sistemom \nOdređuje cilj prelaska za uslov. Izaberite korak iz padajuće liste. Usmeravanje prelazi na određeni korak ako se uslov podudara.
+condition_text	Tekst uslova
+condition_text.h	Sadrži tekst za prikaz, ako uslov nije ispunjen.
+condition_case_sensitive	Razlikovanje velikih i malih slova
+condition_case_sensitive.h	Određuje da uslov razlikuje velika i mala slova.
+condition_ignore_on_load	Zanemari pri učitavanju stranice
+condition_ignore_on_load.h	Samo pomoć za kontekst \nOdređuje da uslov nije proveren pri učitavanju stranice. Uslov se proverava kada se koristi odgovarajuća kontrola. Ovim se to izbegava, za direktan prikaz elementa za informacije.
+c_equals	Jednako
+c_not_equals	Nije jednako
+c_greater	Je veće od
+c_greater_equals	Je veće ili jednako
+c_less	Je manje od
+c_less_equals	Je manje ili jednako
+c_min_char	Minimalni broj znakova
+c_max_char	Maksimalni broj znakova
+c_num_char	Broj znakova jednak
+c_reg_exp	Redovni izraz
+vertical	Vertikalno
+horizontal	Horizontalno
+AutoBarReady	Neaktivno
+AutoBarExplanation	Unesi objašnjenje
+AutoBarChooseApp	Izaberi aplikaciju
+AutoBarRecord	Zabeleži
+AutoBarBusy	Zauzeto
+AutoBarPause	Pauza
+AutoBarReRecManualHotspot	Uredi kontrolu: Pritisnite Ctrl + Enter za nastavak s promenama. Pritisnite Esc za odbacivanje promena.
+wizAddExplanation	Dodaj objašnjenje
+AutoBarNoRecognition	Kontrole nisu prepoznate
+AutoBarDiagnosis	Dijagnoza
+condition_bubblestyle	Stil elementa za informacije
+condition_bubblestyle.h	Definiše resurs stila elementa za informacije koji treba da se koristi za prikaz teksta uslova.
+condition_highlight_bgr	Boja označavanja
+condition_highlight_bgr.h	Definiše boju označavanja za kontrolu.
+IDS_MPI_TOURSTOP_LABEL	Naziv
+IDS_MPI_TOURSTOP_LABEL_MODIFIED	Prevedi ručno
+IDS_MPI_TOURSTOP_NAME	UID
+IDS_MPI_TOURSTOP_SHOW	Pokaži na prikazu napretka
+IDS_MPI_TOURSTOP_JUMP	Cilj prelaska
+IDS_MPI_TOURSTOP_CALLABLE	Je podrutina
+basic_info	Osnovna svojstva
+IDS_NO_IMAGE_SELECT	Slika nije odabrana
+IDS_NO_IMAGE	Slika nije nađena
+ID_INSERT_TAKE	Dodaj korak
+ID_PRJ_LAYOUT_HORZ	Horizontalni izgled
+ID_PRJ_LAYOUT_VERT	Vertikalni izgled
+ID_PRJ_LAYOUT_DIV	Podeljeni izgled - 1
+ID_PRJ_LAYOUT_4	Podeljeni izgled - 2
+ID_PRJ_LAYOUT_5	Podeljeni izgled - 3
+IDS_UNTITLED	(bez naslova)
+docTableHeaderStep	Korak
+layout_advanced	Napredni izgled
+showEditorHelp	Prikaži pomoć web uređivača
+slide:insert_tb	Unesi
+slide:action_tb	Radnja
+slide:structure_tb	Struktura
+slide:view_tb	Pogled
+existing_scrs_in_prj	Trenutni ekran se već koristi više puta u vašem projektu. \nOdaberite ekran na koji želite da dodate zabeležene objekte.
+start_topic	Početak
+guided_tour	Vođeno upoznavanje sa sistemom
+context_help	Pomoć za kontekst
+off	Isključeno
+main_bar_1	Glavna traka 1
+main_bar_2	Glavna traka 2
+main_bar_3	Glavna traka 3
+main_bar_4	Glavna traka 4
+main_bar_5	Glavna traka 5
+main_bar_6	Glavna traka 6
+main_bar_7	Glavna traka 7
+main_bar_8	Glavna traka 8
+sub_menu_1	Podmeni 1
+sub_menu_2	Podmeni 2
+sub_menu_3	Podmeni 3
+sub_menu_4	Podmeni 4
+sub_menu_5	Podmeni 5
+sub_menu_6	Podmeni 6
+content_btn	Pozicija: Kontrola 'Sadržaj'
+content_btn.h	Određuje poziciju kontrole 'Sadržaj' na bočnoj traci.
+search_btn	Pozicija: Kontrola 'Traži'
+search_btn.h	Određuje poziciju kontrole 'Traži' na bočnoj traci.
+orCenter	Centar
+orNorth	Sever
+orWest	Zapad
+orNortWest	Severozapad
+orEast	Istok
+orNortEast	Severoistok
+orSouth	Jug
+orSouthWest	Jugozapad
+orSoutEast	Jugoistok
+screen_tolerence	Dopušteno odstupanje ekrana (%)
+screen_tolerence.h	Ovaj parametar definiše potrebno poklapanje grafika između prikazane stranice ekrana i zabeleženog snimka ekrana u procentima za povezane informacije o kontekstu koje treba prikazati. Ako je grafičko odstupanje iznad definisane vrednosti, @{NAVIGATOR} će uporediti ključ zabeležene stranice sa stranicom ekrana i prikazati odgovarajući sadržaj za različitu stranicu aplikacije.
+video_folder	Folder video snimaka
+video_folder.h	Određuje folder za čuvanje video snimaka. \nBeleška: Video snimci nisu sačuvani u folderu skrivene memorije @{NAVIGATOR} zbog veličine.
+allow_video_rec	Dozvoli sminaje videa
+allow_video_rec.h	Dozvoljava korisnicima da snime video sadržaj.
+hide_da_on_web_assistant	Sakrij @{NAVIGATOR} pri izvođenju @{XRAY}
+hide_da_on_web_assistant.h	Određuje da se prozori @{NAVIGATOR} sakrivaju kada se @{XRAY} izvodi u prednjem planu.
+show_web_assistant_msg	Pokaži poruku @{XRAY}
+show_web_assistant_msg.h	Određuje da se poruka prikazuje kada se @{XRAY} izvodi u prednjem planu ili izlazi iz načina u prednjem planu.
+bmain_height	Visina
+bmain_height.h	Definiše visinu glavnog elementa za informacije u pikselima. Ako veličina teksta prekoračuje raspoloživi prostor u elementu za informacije, on će se prema visini prilagoditi zahtevanom prostoru.
+bmain_style	Stil
+bmain_style.h	Ovo podešavanje definiše koji tip elementa za informacije treba koristiti za prikaz glavnog elementa za informacije. Tipovi elementa za informacije su definisani pomoću 'Uređivača tipa elementa za informacije', koji se može pokrenuti iz menija 'Alati' -> 'Uredi tipove elementa za informacije'. Tipovi elementa za informacije su uvek dostupni za celu radnu oblast.
+bmain_width	Širina
+bmain_width.h	Definiše širinu glavnog elementa za informacije u pikselima.
+bottom_dock	Dno pričvršćeno
+cache_stale_interval	Interval zastarelosti (minuti)
+cache_stale_interval.h	Aktivira upotrebu @{NAVIGATOR} skrivene memorije i definiše vremenski okvir za ažuriranje sadržaja u folderu skrivene memorije. Vrednost je definisana u minutima. \nZa deaktiviranje skrivene memorije promenite vrednost u '0'.
+centered	Centrirano
+close_details	Zatvori prozor sadržaja
+close_details.h	Definiše funkcijski taster za zatvaranje prozora sadržaja za odabrani projekat.
+confirmation_hotkey	Prečica za potvrdu koraka
+confirmation_hotkey.h	Definiše prečicu za potvrdu koraka tokom reprodukcije asistenta procesa.
+detail_positioning	Poravnanje prozora sadržaja
+detail_positioning.h	Definiše poravnanje prozora sadržaja na ekranu. Osim poravnanja 'Centrirano', prozor sadržaja biće pričvršćen za glavni prozor.
+detail_size	Veličina prozora sadržaja
+detail_size.h	Definiše veličinu (širinu, visinu) prozora sadržaja u pikselima.
+enable_search	Aktiviraj karticu Traži
+enable_search.h	Aktivira funkcionalnost traženja u okviru sadržaja asistenta radne površine
+h_dock	Horizontalno usidreno
+leaves_page	Napušta ekran
+leaves_page.h	Ova opcija usmeravanju nagoveštava da zahtevana radnja za ovaj objekat vodi do učitavanja nove stranice. Analiza nove stranice izvodi se čim se izvede radnja na objektu i stranica završi učitavanje.
+left_dock	Levo pričvršćeno
+maximize_details	Maksimiziraj prozor sadržaja
+maximize_details.h	Definiše funkcijski taster za maksimiziranje prozora sadržaja.
+next_doc	Odaberi sledeći dokument
+next_doc.h	Definiše funkcijski taster za odabir sledećeg dokumenta u prozoru sadržaja.
+next_project	Odaberi sledeći projekat
+next_project.h	Definiše funkcijski taster za odabir sledećeg projekta u glavnom prozoru.
+open_content	Otvori sadržaj
+open_content.h	Definiše funkcijski taster za otvaranje odabranog objekta sadržaja.
+open_details	Otvori prozor sadržaja
+open_details.h	Definiše funkcijski taster za otvaranje prozora sadržaja za odabrani projekat.
+prev_doc	Odaberi prethodni dokument
+prev_doc.h	Definiše funkcijski taster za odabir prethodnog dokumenta u prozoru sadržaja.
+prev_project	Odaberi prethodni projekat
+prev_project.h	Definiše funkcijski taster za odabir prethodnog projekta u glavnom prozoru.
+right_dock	Desno pričvršćeno
+show_execute	Pokaži dugme Izvrši
+show_execute.h	Definiše da li je dugme izvršenja pokazano u elementu za informacije objekta tokom reprodukcije. Dugme dozvoljava korisniku izvršenje radnje u aplikaciji nakon toga se pokazuje sledeći korak.
+show_icon_on_start	Prikaži ikonu statusa na početku
+show_icon_on_start.h	Za pokretanje asistenta radne površine definiše da li će biti prikazana ikona statusa umesto glavnog prozora.
+start_doc	Otvori dokument
+start_doc.h	Definiše funkcijski taster za otvaranje odabranog dokumenta iz prozora sadržaja.
+step_on_same_page	Korak na istoj stranici
+top_dock	Gore pričvršćeno
+v_dock	Vertikalno usidreno

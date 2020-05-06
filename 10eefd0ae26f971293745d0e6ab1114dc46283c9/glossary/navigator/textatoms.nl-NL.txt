@@ -1,0 +1,313 @@
+﻿#	Engelse tekstfragmenten
+BULLET	&#149;
+NEWLINE	\r\n
+TOK_COMPANY	SAP
+TOK_LIB	Cursus
+TOK_TOUR	Cursusmodule
+TOK_TRAINER	Desktop Assistant
+TOK_AUTOMATION	epo
+NAVIGATOR	Desktop Assistant
+NAV_LIBRARY	Library
+BTN_ABORT	Afsluiten
+BTN_CLOSE	Afsluiten
+BTN_OK	OK
+BTN_CLOSE_DLG	Sluiten
+BTN_CONTINUE	Doorgaan
+BTN_PREVIEW	Preview
+BTN_PROCEED	Doorgaan
+BTN_RESTART	Opnieuw starten
+BTN_SKIP	Stap overslaan
+BTN_START	Starten
+BTN_STOP	Stoppen
+BTN_EXECUTE	Uitvoeren
+CA_SWITCH	Contexthelp
+CONTENT_CAP	Content
+MAIL_SUBJECT	Contentaanvraag voor desktophelp
+MAIL_HEADER	Geachte auteur,\n\nik wil graag content aanvragen voor:
+MAIL_FOOTER	- Proces/transactie: beschrijf het applicatieproces dat u momenteel gebruikt. \n\n- Omschrijving: omschrijf de informatie die u nodig hebt. \n\nMet vriendelijke groet,
+MAIL_DATA	- Applicatienaam:
+MAIL_TOOLTIP	Content aanvragen
+SHARE_TOOLTIP	Content delen
+REQUEST_TEXT	Klik op %s om content op te vragen
+REQUEST_LINK	hier
+SEARCH_CAP	Zoeken
+INFO_CAP	Info
+SETTINGS_CAP	Instellingen
+BACK_TOOLTIP	Terug
+SHARE_CONTENT_TOOLTIP	Content delen
+CB_HIDE_OPTION	Niet meer weergeven
+MY_ROLES	Mijn rollen
+EDIT_ROLES	Rollen wijzigen
+NO_ROLES	Content zonder rollen weergeven
+SELECT_ALL_CAPTION	Alles selecteren
+USER_CAPTION	Gebruikersgebied
+READ_MORE	Meer informatie...
+NO_CATEGORY_CAPTION	Geen
+DELETE_FAILED	Verwijderen mislukt.
+RENAME_FAILED	Hernoemen mislukt.
+FILE_EXISTS	Er bestaat al een bestand met dezelfde naam. Voer een andere naam in.
+LBL_YES	Ja
+LBL_DELETE	Verwijderen
+LBL_NO	Nee
+LBL_OK	OK
+DELETE_DLG_TEXT	Wilt u %N document(en) verwijderen?
+LBL_CONCURRENT	Praktijkmodus starten
+LBL_DA	Desktophelp
+LBL_SIM	Simulatie starten
+LBL_CDOC	Open
+LBL_DEMO	Demomodus starten
+LBL_NAVI	Rondleiding starten
+LBL_BOOK	Boek afspelen
+LBL_GROUP	Openen in bibliotheek
+LBL_NAVIGATION	Desktophelp
+LBL_PA	Rondleiding
+LBL_PRACTICE	Oefenmodus starten
+LBL_SIMULATION	Simulatie
+LBL_BOOKPAGE	Boekpagina weergeven
+LBL_TEST	Testmodus starten
+LBL_RECORD_DOCUMENT	Document opnemen
+MSG_AUTOMATION_FINISHED	Automatisering beëindigd
+MSG_AUTOMATION_FINISHED_2	Klik op 'Opnieuw starten' om het automatische proces opnieuw te starten.
+MSG_AUTOMATION_START	Invoerwaarden bewerken
+MSG_AUTOMATION_START_2	Controleer of bewerk de volgende waarden. Deze worden tijdens het proces automatisch ingevoerd.
+MSG_EPO_DIALOG	Optimalisatie elektronisch proces
+MSG_NAVI_LIBRARY_NO_APP	Er is geen informatie beschikbaar.
+LBL_NAVI_NO_MATCH	Geen resultaten voor uw zoekactie.
+NO_RECORDS	Er zijn geen documenten beschikbaar.
+MSG_NAVI_LIBRARY_SUBTITLE	Beschikbare content:
+MSG_NAVI_LIBRARY_TITLE	Desktophelp
+MSG_NOT_APPLICABLE	Niet bewerkbaar
+MSG_PA_CONTROL_STEP	Vereiste actie voor stap:
+MSG_PA_EXPLANATION_STEP	Navigeer naar het onderstaande scherm.
+MSG_PA_FORM_STEP	In het formulier in te vullen verplichte velden:
+MSG_PA_DIALOG	Rondleiding
+MSG_PA_START_SCREEN	Open het startscherm.
+MSG_PA_STEP_NOT_FOUND	Ga naar het vereiste scherm
+MSG_PA_STEP_NOT_FOUND1	Zorg ervoor dat de doelapplicatie (@{TARGETAPPNAME}) geopend is.
+MSG_PA_STEP_NOT_FOUND2	Navigeer naar het scherm met het hieronder afgebeelde gemarkeerde besturingselement.
+MSG_STEP_LIGHT	Stappreview
+MSG_STEP_NOT_FOUND	Stap in rondleiding niet gevonden.
+MSG_STEP_NOT_FOUND_2	Klik in de titelbalk van de doelapplicatie of navigeer naar het juiste scherm.<br><br>Klik op "Preview" om het benodigde scherm weer te geven.
+PA_FINISHED	Rondleiding beëindigd.
+PROJECT_TITLE	Projecttitel
+TRAY_INFO_BUBBLE_HEADING	Rondleiding
+TRAY_INFO_BUBBLE_TEXT	De huidige processtap kan niet worden weergegeven. Klik hier voor meer informatie.
+RESTRICTED_BUBBLE_HEADING	Actie geblokkeerd
+RESTRICTED_BUBBLE_TEXT	U kunt geen acties uitvoeren totdat de huidige stap is bevestigd.
+HELP_TITLE	Help
+HELP_INTRO	De help geeft u een overzicht van de hoofdonderdelen en -functies van de @{NAVIGATOR}.</br></br><b>Opmerking:</b> de beschikbare functies zijn afhankelijk van de configuratie van @{NAVIGATOR}.</br>
+HELP_TITLE_DA	Zijbalk en vensters
+HELP_SIDEBAR_T	Zijbalk
+HELP_SIDEBAR_H	Via de zijbalk kunt u de hoofdfuncties van @{NAVIGATOR} starten. Voor elke functie wordt een knop weergegeven. De zijbalk kan worden verplaatst via slepen en neerzetten en kan door te klikken op de rand van de zijbalk worden geminimaliseerd en gemaximaliseerd.
+HELP_CONTENT_CONTROL_T	Content
+HELP_CONTENT_CONTROL_H	Geeft aan of content beschikbaar is. Opent het hoofdvenster met de content.
+HELP_SEARCH_CONTROL_T	Zoeken
+HELP_SEARCH_CONTROL_H	Hiermee kunt u naar content zoeken.
+HELP_EXTSEARCH_CONTROL_T	Extern zoeken
+HELP_EXTSEARCH_CONTROL_H	Hiermee wordt de externe zoekfunctie geopend voor het zoeken naar content.
+HELP_STICKY_CONTROL_T	Schermnotitie toevoegen
+HELP_STICKY_CONTROL_H	Voegt een schermnotitie toe voor het huidige applicatievenster. U kunt een tekst voor uw schermnotitie invoeren.
+HELP_RECORDING_CONTROL_T	Opname beginnen
+HELP_RECORDING_CONTROL_H	Hiermee wordt de opname van een proces gestart. Het opgenomen proces wordt opgeslagen als een document in het Gebruikersgebied.
+HELP_MAIN_WINDOW_T	Hoofdvenster
+HELP_MAIN_WINDOW_H	Het hoofdvenster geeft de voor een specifieke paginacontext beschikbare content weer.</br>Tijdens het afspelen van een rondleiding, geeft het venster de lijst met stappen weer.
+HELP_HEADER_T	Kop
+HELP_HEADER_H	Het statuspictogram in de kop geeft aan of er content beschikbaar is voor de huidige context.
+HELP_CONTENT_TAB_T	Tabblad Content
+HELP_CONTENT_TAB_H	Op het tabblad wordt de beschikbare content voor de huidige applicatie weergegeven.
+HELP_CONTENT_VIEW_T	Contentview
+HELP_CONTENT_VIEW_H	In de contentview worden de beschikbare informatie, modi en documentatie voor de geselecteerde content weergegeven.</br>U kunt de "Terug"-knop gebruiken om terug te keren naar de contentlijst.
+HELP_SEARCH_TAB_T	Tabblad Zoeken
+HELP_SEARCH_TAB_H	Op het tabblad kunt u zoeken naar specifieke content voor uw huidige context.
+HELP_INFO_TAB_T	Infotabblad
+HELP_INFO_TAB_H	Het tabblad geeft algemene informatie weer over @{NAVIGATOR}.
+HELP_USERAREA_TAB_T	Tabblad Gebruikersgebied
+HELP_USERAREA_TAB_H	Het tabblad bevat de opgenomen procesdocumenten. U kunt een document openen, delen of verwijderen. U kunt nog meer processen opnemen.
+HELP_INSTANT_T	Help
+HELP_INSTANT_H	Als deze instelling is geactiveerd, wordt de aanvullende contextinformatie rechts op het huidige applicatiescherm weergegeven. Standaard is deze instelling geactiveerd.
+HELP_REQCONTENT_T	Content aanvragen
+HELP_REQCONTENT_H	Hiermee wordt een e-mailvenster geopend om ontbrekende content bij de auteur aan te vragen.
+HELP_SETTINGS_T	Instellingen
+HELP_SETTINGS_H	De view bevat instellingen voor het weergeven van de @{NAVIGATOR}-content.
+HELP_MYROLES_T	Mijn rollen
+HELP_MYROLES_H	Bij deze instelling wordt content voor de toegewezen rol weergegeven.
+HELP_WITHOUTROLES_T	Content zonder rollen weergeven
+HELP_WITHOUTROLES_H	Met deze instelling wordt content zonder toegewezen rollen weergegeven.
+HELP_EDITROLES_T	Rollen
+HELP_EDITROLES_H	Alle rollen die voor de content worden gebruikt, worden weergegeven en kunnen worden geactiveeerd of gedeactiveerd om de content weer te geven.
+HELP_SHARECONTENT_T	Content delen
+HELP_SHARECONTENT_H	Opent dialoogvenster met link naar content. Link kan met andere gebruikers worden gedeeld
+HELP_REQUESTCONTENT_T	Content aanvragen
+HELP_REQUESTCONTENT_H	Opent vooraf gedefinieerde e-mail om content voor specifiek geval aan te vragen
+HELP_PLAYBACK_CONTENT_T	Content afspelen
+HELP_PLAYBACK_CONTENT_H	Beschikbare content kan worden gestart of geopend met de knoppen in het contentvenster
+HELP_MINIMIZED_STATUS_T	Geminimaliseerde status
+HELP_MINIMIZED_STATUS_H	Als u het hoofdvenster sluit, geeft een zwevend statuspictogram nog steeds aan of er content beschikbaar is voor de huidige context. Klik op het pictogram om het hoofdvenster te herstellen.
+HELP_MINIMIZED_MENU_T	Contextmenu
+HELP_MINIMIZED_MENU_H	Het contextmenu (rechtermuisklik op pictogram) heeft functies om het hoofdvenster en de contexthelp weer te geven.
+HELP_BOOK_WINDOW_T	Boekvenster
+HELP_BOOK_WINDOW_H	Boekvenster is geopend bij weergeven van een boek; hoofdvenster en contentvenster zijn verborgen
+HELP_GOTOTOP	Naar boven
+HELP_CAPTION	@{NAVIGATOR}-help
+NAVHELP_TITLE	Statuspictogram en Contextmenu
+NAVHELP_INTRO	</br>De help geeft u een overzicht van de statuspictogrammen en contextmenuopties.
+NAVHELP_STATUS_ICON_T	Statuspictogram (taakbalk)
+NAVHELP_STATUS_ICON_H	Het statuspictogram staat in de taakbalk en geeft de huidige activiteiten van @{NAVIGATOR} weer. De volgende statussen zijn beschikbaar:
+NAVHELP_STATUS_FOUND_T	Content beschikbaar (groen pictogram)
+NAVHELP_STATUS_FOUND_H	Content is beschikbaar voor huidige context en wordt weergegeven
+NAVHELP_STATUS_CHECK_T	Bezig met laden van content (geel pictogram)
+NAVHELP_STATUS_CHECK_H	@{NAVIGATOR} controleert de huidige context voor beschikbare content en laadt de content.
+NAVHELP_STATUS_NOFOUND_T	Geen content beschikbaar (rood pictogram)
+NAVHELP_STATUS_NOFOUND_H	Content is niet beschikbaar voor huidige context.
+NAVHELP_STANDBY_T	Uitgeschakeld
+NAVHELP_STANDBY_H	@{NAVIGATOR} is uitgeschakeld. Door te klikken op het statuspictogram (<i>CTRL + F11</i>) wordt @{NAVIGATOR} uit- of ingeschakeld.
+NAVHELP_STATUS_MIN_T	Geminimaliseerd
+NAVHELP_STATUS_MIN_H	Vensters en zijbalk zijn geminimaliseerd.
+NAVHELP_STATUS_MENU_T	Contextmenu
+NAVHELP_STATUS_MENU_H	Het contextmenu (rechtermuisklik op het pictogram) bevat algemene functies van de @{NAVIGATOR}.
+NAVHELP_VERSION_T	Versie weergeven
+NAVHELP_VERSION_H	Geeft het versienummer van de geïnstalleerde @{NAVIGATOR} weer. Dit is nodig voor contact met de ondersteuning in het geval van problemen.
+NAVHELP_JSCONSOLE_T	JavaScript-console
+NAVHELP_JSCONSOLE_H	Geeft de JavaScript-console weer voor het verschaffen van gedetailleerde foutmeldingen. Dit is nodig voor contact met de ondersteuning in het geval van problemen.
+NAVHELP_NAV_CACHE_T	Lokale cache verwijderen
+NAVHELP_NAV_CACHE_H	Hiermee wordt de lokale cache van de @{NAVIGATOR}-content verwijderd.
+NAVHELP_RESET_HIDDEN_T	Alle onderdrukte helpinformatie opnieuw weergeven
+NAVHELP_RESET_HIDDEN_H	Hiermee worden helpelementen gereset die tijdens het afspelen op "Verborgen" waren ingesteld.
+NAVHELP_EXIT_T	Afsluiten
+NAVHELP_EXIT_H	Stopt het afspelen en sluit @{NAVIGATOR}.
+IDS_NAVP_ABOUT	Versie weergeven...
+IDS_NAVP_CONSOLE	JavaScript-console...
+IDS_NAVP_DELETE_CACHE	Lokale cache verwijderen
+IDS_NAVP_HOOKER	Hooker
+IDS_SEARCH_INPUT	Helpcontent zoeken
+IDS_CLEAR_SEARCH	Zoekactie wissen
+IDS_NAVP_CLOSE	Afsluiten
+IDS_RESET_CURRENT	Verborgen Helpelement opnieuw weergeven
+IDS_RESET_ALL	Alle onderdrukte helpinformatie opnieuw weergeven
+IDS_RESET_ALL_TIP	Alle uitgeschakelde aanwijzingen opnieuw weergeven bij eerste keer openen van scherm.
+IDS_OPEN_RECORD_LBL	Open
+IDS_EDIT_RECORD_LBL	Hernoemen
+IDS_DELETE_RECORD_LBL	Verwijderen
+IDS_SHARE_RECORD_LBL	Delen
+IDS_EXTERNAL_SEARCH_BTN	Extern zoeken
+IDS_EXTERNAL_SEARCH_SUB_MENU	Extern zoeken
+IDS_SHOW_SCREEN_ICON	Desktophelp weergeven
+IDS_SHOW_DA	Hoofdvenster weergeven
+IDS_SHOW_CONTENT	Content weergeven
+IDS_HIDE_CONTENT	Content verbergen
+IDS_SEARCH_BTN	Zoeken
+IDS_REQUEST_CONTENT_BTN	Content aanvragen
+IDS_RECORDING_BTN	Opname beginnen
+IDS_SHOW_CA_SWITCH	Contexthelp weergeven
+IDS_HIDE_CA_SWITCH	Contexthelp verbergen
+IDS_CA_SWITCH_INACTIVE_BTN	Geen contexthelp beschikbaar
+IDS_DO_CTX_RECOGNITION	Contexthelp weergeven
+IDS_NAV_STANDBY	@{NAVIGATOR} is uitgeschakeld.
+IDS_NAV_NO_STANDBY	@{NAVIGATOR} is ingeschakeld.
+IDS_SHOW_DA_PANELS	@{NAVIGATOR} is nu weer beschikbaar. U kunt @{NAVIGATOR} gebruiken als u ondersteuning nodig hebt.
+IDS_HIDE_DA_PANELS	@{NAVIGATOR} is automatisch verdwenen omdat geschikte hulp beschikbaar is in de applicatie die u zojuist hebt geopend. Open de help in de applicatie als  u meer ondersteuning nodig hebt.
+IDS_ADD_STICKY_NOTES_BTN	Schermnotitie toevoegen
+IDS_ADD_STICKY_NOTES_INACTIVE_BTN	U kunt slechts één schermnotitie voor deze applicatie toevoegen.
+IDS_EXIT_DA	Afsluiten
+IDS_EXIT_DA_BTN	Afsluiten
+IDS_EXIT_DA_SUB_MENU	Afsluiten
+IDS_SHOW_MORE	Meer weergeven
+IDS_HIDE_MORE	Meer verbergen
+IDS_REQUEST_CONTENT_SUB_MENU	Content aanvragen
+IDS_SHOW_CA_SUB_MENU	Contexthelp weergeven
+IDS_HIDE_CA_SUB_MENU	Contexthelp verbergen
+IDS_ADD_STICKY_NOTE_SUB_MENU	Schermnotitie toevoegen
+IDS_RECORDING_SUB_MENU	Opname beginnen
+IDS_CA_SWITCH_SUB_MENU	Contexthelp
+IDS_SHARE_DLG_CAPTION	Document delen
+IDS_DELETE_FRAMES	Bezig met verwijderen van frames
+OPEN_FOLDER	Map openen
+SHARE_DOC	Delen via e-mail
+IDS_SHARE_DLG_TEXT	Hoe wilt u doorgaan?
+IDS_SEARCH_BTN_SUB_MENU	Content zoeken
+IDS_LIBRARY_SEARCH_BTN_SUB_MENU	Content zoeken in library
+GRACEFUL_DEGRADATION	Deze functie is tijdelijk niet beschikbaar vanwege netwerkproblemen.\n\nProbeer het later opnieuw.
+SHARE_BTN	Delen via e-mail
+COPY_BTN	Link kopiëren
+SHARE_MAIL_SUBJECT	Aanbevolen content
+SHARE_MAIL_HEADER	Beste gebruiker,\n\nDeze content vindt u misschien interessant. \n\n
+SHARE_MAIL_FOOTER	Met vriendelijke groet,
+SHARE_MAIL_LINK	Link:\t
+SHARE_MAIL_CAPTION	Bijschrift:\t
+SHARE_TITLE	Content delen
+SELECT_ASSET	Selecteer onderdeel om te starten.
+ENTER_NAME	Voer naam in
+DELETE_RECORD_WRN	Belangrijk: deze actie kan niet ongedaan worden gemaakt.
+MSG_PA_NEXT_LBL	Volgende
+MSG_PA_STEP_LBL	Stappenlijst
+TOGGLE_STEPLIST_TOOLTIP	Step list weergeven/verbergen
+PREVIEW_STEP_TOOLTIP	Stappreview
+NEXT_STEP_TOOLTIP	Ga naar volgende stap
+PREV_STEP_TOOLTIP	Ga naar vorige stap
+ROLES_TITLE	Rollen desktophelp
+ROLES_LBL	Helpcontent op rol filteren
+OK_CAPTION	OK
+CANCEL_CAPTION	Annuleren
+BTN_YES	Ja
+BTN_NO	Nee
+DELETE_CONFIRM	Wilt u deze schermnotitie echt verwijderen?
+EXIT_CONFIRM	Wilt u @{NAVIGATOR} echt afsluiten?
+sticky_notes	Schermnotities
+exit_da	Afsluiten @{NAVIGATOR}
+STICKY_NOTE_DEFAULT_TEXT	Voeg hier uw tekst toe.
+SEARCH_BTN_TOOLTIP	Zoeken
+NEXT_BTN_TOOLTIP	Volgende
+PREV_BTN_TOOLTIP	Vorige
+HIDE_BTN_TOOLTIP	Carrousel verbergen
+IDS_PRJ_NAME	Naam invoeren:
+IDS_APPLICATIONS	Venster selecteren:
+IDS_PRJ_LANGUAGE	Taal selecteren:
+IDS_FULL_SCREEN	Volledig scherm
+IDS_CHOOSE_APP_CAPTION	Applicatie selecteren
+IDS_RECORD_BTN	Opnemen
+IDS_ANALYZE_ACTIONS	Acties worden geanalyseerd
+IDS_PARSE_PROJECT	Project wordt geparseerd...
+IDS_REGION	Regio
+IDS_AREA_HELP	Wijzig de regiogrootte door hieronder een sjabloon te selecteren. Wijzig de schaal van de rode rechthoek om de regio te selecteren of selecteer het volledige scherm.
+IDS_CHOOSE_SIZE	Grootte selecteren:
+IDS_DEFINE_REC_AREA	Opnamegebied
+IDS_DEFINE_NAME_LANG	Content genereren
+PLEASE_SELECT	Selecteer
+quick_recorder.help_caption	Tip
+quick_recorder.help	Gebruik de "PAUZE"-toets om te pauzeren of door te gaan. \nGebruik de "EINDE"-toets om te beëindigen. \n\nKlik op "OK" om de opname te starten.
+quick_recorder.audio_help	Gebruik de "PAUZE"-toets om te pauzeren of door te gaan. \nGebruik de "EINDE"-toets om te beëindigen. \n\nAudio:\nuw audio wordt niet opgenomen tijdens een klik. Spreek uw tekst voordat u een besturingselement selecteert. \n\nKlik op "OK" om de opname te starten.
+FILE_EXISTS	Er bestaat al een bestand met dezelfde naam. Voer een andere naam in.
+HELP_EXIT_CONTROL_H	Stopt het afspelen en sluit @{NAVIGATOR}.
+HELP_EXIT_CONTROL_T	Afsluiten
+BTN_CLOSE_DLG	Sluiten
+DELETE_RECORD_WRN	Belangrijk: deze actie kan niet ongedaan worden gemaakt.
+ENTER_NAME	Voer naam in
+IDS_CLEAR_SEARCH	Zoekactie wissen
+IDS_RESET_ALL_TIP	Alle uitgeschakelde aanwijzingen opnieuw weergeven bij eerste keer openen van scherm.
+IDS_SEARCH_INPUT	Helpcontent zoeken
+LBL_DELETE	Verwijderen
+LBL_NAVI_NO_MATCH	Geen resultaten voor uw zoekactie.
+LBL_TU	Open
+MSG_PA_NEXT_LBL	Volgende
+MSG_PA_STEP_LBL	Stappenlijst
+RENAME_FAILED	Hernoemen mislukt.
+ROLES_LBL	Helpcontent op rol filteren
+SELECT_ASSET	Selecteer onderdeel om te starten.
+LBL_CDOC	Open
+LBL_RECORD_DOCUMENT	Document opnemen
+QR_CAPTION	Opname-uitvoer selecteren
+QR_WELCOME	Wat wilt u creëren?
+QR_DOC_CAP	Document
+QR_DOC_TXT	Creëert een Microsoft Word-document met een screenshot en een instructietekst voor elke actie die u opneemt.
+QR_VIDEO_CAP	Video
+QR_VIDEO_TXT	Creëert een video van hoge kwaliteit voor uw opname.
+QR_DOC_VIDEO_CAP	Document en video
+QR_DOC_VIDEO_TXT	Creëert een document en een video.
+SHARE_ERR_CAP	Opname kan niet worden gedeeld
+SHARE_ERR_TXT	Deze opname is te groot en kan niet via e-mail worden gedeeld.\nWilt u in plaats daarvan een bestandslocatie openen?
+HELP_CONTENT_WINDOW_H	Het contentvenster geeft de beschikbare informatie, modi en documentatie weer voor de geselecteerde content van het hoofdvenster.</br>Het contentvenster kan worden gedokt aan het hoofdvenster zodat u beide vensters samen op het scherm kunt verplaatsen.
+HELP_CONTENT_WINDOW_T	Contentvenster
+IDS_CONTENT_BTN	Content
+MSG_PA_STEP_NOT_FOUND_NUMERAL_1	1.
+MSG_PA_STEP_NOT_FOUND_NUMERAL_2	2.
+SHARE_URL	URL huidige pagina:

@@ -1,0 +1,313 @@
+﻿#	English text atoms
+BULLET	&#149;
+NEWLINE	\r\n
+TOK_COMPANY	SAP
+TOK_LIB	Kurss
+TOK_TOUR	Nodarbība
+TOK_TRAINER	Desktop Assistant
+TOK_AUTOMATION	epo
+NAVIGATOR	Desktop Assistant
+NAV_LIBRARY	bibliotēka
+BTN_ABORT	Iziet
+BTN_CLOSE	Iziet
+BTN_OK	Labi
+BTN_CLOSE_DLG	Aizvērt
+BTN_CONTINUE	Turpināt
+BTN_PREVIEW	Priekšskatījums
+BTN_PROCEED	Turpināt
+BTN_RESTART	Restartēt
+BTN_SKIP	Izlaist soli
+BTN_START	Sākt
+BTN_STOP	Beigt
+BTN_EXECUTE	Izpildīt
+CA_SWITCH	Konteksta palīdzība
+CONTENT_CAP	Saturs
+MAIL_SUBJECT	Darbvirsmas palīga satura pieprasījums
+MAIL_HEADER	Godātais autor!\n\nVēlos ieteikt saturu šādiem vienumiem:
+MAIL_FOOTER	- Process/transakcija: lūdzu, aprakstiet lietojumprogrammas procesu, kas pašlaik tiek izmantots. \n\n- Apraksts: lūdzu, aprakstiet jums nepieciešamo informāciju. \n\n Ar cieņu
+MAIL_DATA	- Lietojumprogrammas nosaukums:
+MAIL_TOOLTIP	Pieprasīt saturu
+SHARE_TOOLTIP	Kopīgot saturu
+REQUEST_TEXT	Noklikšķiniet %s, lai pieprasītu saturu
+REQUEST_LINK	šeit
+SEARCH_CAP	Meklēt
+INFO_CAP	Informācija
+SETTINGS_CAP	Iestatījumi
+BACK_TOOLTIP	Atpakaļ
+SHARE_CONTENT_TOOLTIP	Kopīgot saturu
+CB_HIDE_OPTION	Turpmāk nerādīt
+MY_ROLES	Manas lomas
+EDIT_ROLES	Mainīt lomas
+NO_ROLES	Rādīt saturu bez lomām
+SELECT_ALL_CAPTION	Atlasīt visu
+USER_CAPTION	Lietotāja apgabals
+READ_MORE	Lasīt vairāk...
+NO_CATEGORY_CAPTION	Cits saturs
+DELETE_FAILED	Dzēšanas darbība neizdevās.
+RENAME_FAILED	Pārdēvēšanas darbība neizdevās.
+FILE_EXISTS	Jau pastāv fails ar tādu pašu nosaukumu. Ievadiet citu nosaukumu.
+LBL_YES	Jā
+LBL_DELETE	Dzēst
+LBL_NO	Nē
+LBL_OK	Labi
+DELETE_DLG_TEXT	Vai tiešām vēlaties dzēst atlasītos dokumentus (%N)?
+LBL_CONCURRENT	Sākt vienlaicīgo režīmu
+LBL_DA	Darbvirsmas palīgs
+LBL_SIM	Sākt simulāciju
+LBL_CDOC	Atvērts
+LBL_DEMO	Sākt demonstrācijas režīmu
+LBL_NAVI	Sākt vadītās norādes
+LBL_BOOK	Atskaņot grāmatu
+LBL_GROUP	Atvērt bibliotēkā
+LBL_NAVIGATION	Darbvirsmas palīgs
+LBL_PA	Vadītās norādes
+LBL_PRACTICE	Sākt vingrināšanās režīmu
+LBL_SIMULATION	Simulācija
+LBL_BOOKPAGE	Rādīt grāmatas lapu
+LBL_TEST	Sākt testa režīmu
+LBL_RECORD_DOCUMENT	Ierakstīt dokumentu
+MSG_AUTOMATION_FINISHED	Automatizācija ir pabeigta
+MSG_AUTOMATION_FINISHED_2	Noklikšķiniet uz "Atkārtot", lai automatizēto procesu sāktu vēlreiz.
+MSG_AUTOMATION_START	Rediģēt ievades vērtības
+MSG_AUTOMATION_START_2	Pārbaudiet vai rediģējiet šādas vērtības. Tās tiek automātiski ievadītas procesa norises laikā.
+MSG_EPO_DIALOG	Elektronisko procesu optimizētājs
+MSG_NAVI_LIBRARY_NO_APP	Nav pieejamas informācijas.
+LBL_NAVI_NO_MATCH	Jūsu meklēšanai nav rezultātu.
+NO_RECORDS	Nav pieejams neviens dokuments.
+MSG_NAVI_LIBRARY_SUBTITLE	Pieejamais saturs:
+MSG_NAVI_LIBRARY_TITLE	Darbvirsmas palīgs
+MSG_NOT_APPLICABLE	nav rediģējams
+MSG_PA_CONTROL_STEP	Solim nepieciešamā darbība:
+MSG_PA_EXPLANATION_STEP	Naviģējiet uz tālāk parādīto ekrānu.
+MSG_PA_FORM_STEP	Veidlapā obligāti aizpildāmie lauki:
+MSG_PA_DIALOG	Vadītās norādes
+MSG_PA_START_SCREEN	Atveriet sākuma ekrānu.
+MSG_PA_STEP_NOT_FOUND	Pārslēdziet uz vajadzīgo ekrānu
+MSG_PA_STEP_NOT_FOUND1	Pārliecinieties, vai mērķa lietojumprogramma (@{TARGETAPPNAME}) ir atvērta.
+MSG_PA_STEP_NOT_FOUND2	Naviģējiet uz ekrānu izcelto vadīklu, kas parādīta tālāk.
+MSG_STEP_LIGHT	Soļa priekšskatījums
+MSG_STEP_NOT_FOUND	Vadītas norādes solis nav atrasts.
+MSG_STEP_NOT_FOUND_2	Virsrakstjoslā noklikšķiniet uz mērķa lietojumprogrammas vai naviģējiet uz īsto ekrānu.<br><br>Lai skatītu vajadzīgo ekrānu, noklikšķiniet uz Priekšskatīt.
+PA_FINISHED	Vadītās norādes ir pabeigtas.
+PROJECT_TITLE	Projekta virsraksts
+TRAY_INFO_BUBBLE_HEADING	Vadītās norādes
+TRAY_INFO_BUBBLE_TEXT	Pašreizējo soli nevar parādīt. Noklikšķiniet šeit, lai saņemtu papildinformāciju.
+RESTRICTED_BUBBLE_HEADING	Darbība bloķēta
+RESTRICTED_BUBBLE_TEXT	Jūs nevarat veikt darbības, kamēr pašreizējais solis nav apstiprināts.
+HELP_TITLE	Palīdzība
+HELP_INTRO	Palīdzībā tiek sniegts @{NAVIGATOR} galveno daļu un funkciju apskats.</br></br><b>Piezīme.</b> Pieejamās funkcijas ir atkarīgas no @{NAVIGATOR} konfigurācijas.</br>
+HELP_TITLE_DA	Sānjosla un Windows
+HELP_SIDEBAR_T	Sānjosla
+HELP_SIDEBAR_H	Sānjosla ļauj sākt @{NAVIGATOR} galvenās funkcijas. Katrai funkcijai ir parādīta poga. Sānjoslu var pārvietot, izmantojot vilkšanu un nomešanu, un var minimizēt un maksimizēt, veicot klikšķi uz sānjoslas apmales.
+HELP_CONTENT_CONTROL_T	Saturs
+HELP_CONTENT_CONTROL_H	Norāda, vai saturs ir pieejams. Atver galveno logu ar saturu.
+HELP_SEARCH_CONTROL_T	Meklēt
+HELP_SEARCH_CONTROL_H	Atver meklēšanu, lai meklētu saturu.
+HELP_EXTSEARCH_CONTROL_T	Ārējā meklēšana
+HELP_EXTSEARCH_CONTROL_H	Atver ārējo meklēšanu, lai meklētu saturu.
+HELP_STICKY_CONTROL_T	Pievienot piezīmju lapiņu
+HELP_STICKY_CONTROL_H	Ievieto pašreizējā lietojumprogrammas loga piezīmju lapiņu. Varat ievadīt savas piezīmju lapiņas tekstu.
+HELP_RECORDING_CONTROL_T	Sākt ierakstīšanu
+HELP_RECORDING_CONTROL_H	Sāk procesa ierakstīšanu. Ierakstītais process tiks saglabāts kā dokuments lietotāja apgabalā.
+HELP_MAIN_WINDOW_T	Galvenais logs
+HELP_MAIN_WINDOW_H	Galvenajā logā tiek rādīts konkrētās lapas kontekstam pieejamais saturs.</br>Vadīto norāžu atskaņošanas laikā logā tiek rādīts soļu saraksts.
+HELP_HEADER_T	Galvene
+HELP_HEADER_H	Statusa ikona galvenē norāda, vai pašreizējam kontekstam ir pieejams saturs.
+HELP_CONTENT_TAB_T	Satura cilne
+HELP_CONTENT_TAB_H	Cilnē tiek rādīts pašreizējai lietojumprogrammai pieejamais saturs.
+HELP_CONTENT_VIEW_T	Satura skats
+HELP_CONTENT_VIEW_H	Satura skatā tiek rādīta pieejamā informācija, režīmi un dokumentācija atlasītajam saturam.</br>Lai satura sarakstā pārietu atpakaļ, varat izmantot vadīklu "Atpakaļ".
+HELP_SEARCH_TAB_T	Meklēšanas cilne
+HELP_SEARCH_TAB_H	Cilnes lapā varat meklēt specifisku sava pašreizējā konteksta saturu.
+HELP_INFO_TAB_T	Informācijas cilnes lapa
+HELP_INFO_TAB_H	Cilnē tiek rādīta vispārīga informācija par @{NAVIGATOR}.
+HELP_USERAREA_TAB_T	Lietotāja apgabala cilne
+HELP_USERAREA_TAB_H	Cilne satur ierakstīto procesu dokumentus. Varat atvērt, kopīgot vai dzēst dokumentu. Varat ierakstīt turpmākos procesus.
+HELP_INSTANT_T	Tūlītēja palīdzība
+HELP_INSTANT_H	Ja ir aktivizēts iestatījums, konteksta papildinformācija tiek rādīta tieši pašreizējā lietojumprogrammas ekrānā. Iestatījums tiek iespējots pēc noklusējuma.
+HELP_REQCONTENT_T	Pieprasīt saturu
+HELP_REQCONTENT_H	Atver e-pasta logu, lai autoram pieprasītu trūkstošo saturu.
+HELP_SETTINGS_T	Iestatījumi
+HELP_SETTINGS_H	Skatā ietilpst iestatījumi @{NAVIGATOR} satura attēlojumam.
+HELP_MYROLES_T	Manas lomas
+HELP_MYROLES_H	Šis iestatījums parāda piešķirtās lomas saturu.
+HELP_WITHOUTROLES_T	Rādīt saturu bez lomām
+HELP_WITHOUTROLES_H	Šis iestatījums parāda saturu bez piešķirtajām lomām.
+HELP_EDITROLES_T	Lomas
+HELP_EDITROLES_H	Visam saturam izmantotās lomas ir norādītas, un tās var aktivizēt vai deaktivizēt, lai parādītu saturu.
+HELP_SHARECONTENT_T	Kopīgot saturu
+HELP_SHARECONTENT_H	Atver dialoglodziņu ar saiti uz saturu. Saiti var kopīgot ar citiem lietotājiem.
+HELP_REQUESTCONTENT_T	Pieprasīt saturu
+HELP_REQUESTCONTENT_H	Atver iepriekš definētu e-pastu, lai pieprasītu konkrētā gadījuma saturu.
+HELP_PLAYBACK_CONTENT_T	Reproducēšanas saturs
+HELP_PLAYBACK_CONTENT_H	Pieejamo saturu var sākt vai atvērt, izmantojot pogas satura logā.
+HELP_MINIMIZED_STATUS_T	Minimizēts statuss
+HELP_MINIMIZED_STATUS_H	Ja aizvērsit galveno logu, peldošā statusa ikona joprojām norādīs, vai pašreizējam kontekstam ir pieejams saturs. Noklikšķiniet uz ikonas, lai atjaunotu galveno logu.
+HELP_MINIMIZED_MENU_T	Kontekstizvēlne
+HELP_MINIMIZED_MENU_H	Kontekstizvēlnē (klikšķis ar peles labo pogu uz ikonas) ietilpst funkcijas, lai parādītu galveno logu un konteksta palīdzību.
+HELP_BOOK_WINDOW_T	Grāmatas logs
+HELP_BOOK_WINDOW_H	Atskaņojot grāmatu, grāmatas logs ir atvērts. Galvenais logs un satura logs ir paslēpti.
+HELP_GOTOTOP	Doties uz augšu
+HELP_CAPTION	@{NAVIGATOR} palīdzība
+NAVHELP_TITLE	Statusa ikona un kontekstizvēlne
+NAVHELP_INTRO	</br>Palīdzībā tiek sniegts apskats par statusa ikonu un kontekstizvēlnes ierakstiem.
+NAVHELP_STATUS_ICON_T	Statusa ikona (uzdevumjosla)
+NAVHELP_STATUS_ICON_H	Statusa ikona atrodas uzdevumu joslā un rāda @{NAVIGATOR} pašreizējās aktivitātes. Ikonai ir trīs dažādi statusi:
+NAVHELP_STATUS_FOUND_T	Saturs ir pieejams (zaļā ikona)
+NAVHELP_STATUS_FOUND_H	Pašreizējam kontekstam saturs ir pieejams un tiek parādīts.
+NAVHELP_STATUS_CHECK_T	Notiek satura ielāde (dzeltenā ikona)
+NAVHELP_STATUS_CHECK_H	@{NAVIGATOR} pārbauda pieejamā satura pašreizējo kontekstu un ielādē saturu.
+NAVHELP_STATUS_NOFOUND_T	Nav pieejams nekāds saturs (sarkanā ikona)
+NAVHELP_STATUS_NOFOUND_H	Pašreizējā konteksta saturs nav pieejams.
+NAVHELP_STANDBY_T	Atspējots
+NAVHELP_STANDBY_H	@{NAVIGATOR} ir atspējots. Noklikšķinot uz statusa ikonas (<i>CTRL+F11</i>), tiek atspējots vai iespējots @{NAVIGATOR}.
+NAVHELP_STATUS_MIN_T	Minimizēts
+NAVHELP_STATUS_MIN_H	Logi un pušu josla ir minimizētas.
+NAVHELP_STATUS_MENU_T	Kontekstizvēlne
+NAVHELP_STATUS_MENU_H	Kontekstizvēlnē (peles labais klikšķis uz ikonas) ietilpst @{NAVIGATOR} vispārīgās funkcijas.
+NAVHELP_VERSION_T	Rādīt versiju
+NAVHELP_VERSION_H	Rāda instalētā @{NAVIGATOR} versijas numuru. Tas ir nepieciešams, ja kādas kļūdas gadījumā ir jāsazinās ar atbalsta dienestu.
+NAVHELP_JSCONSOLE_T	JavaScript konsole
+NAVHELP_JSCONSOLE_H	Rāda JavaScript konsoli, lai nodrošinātu detalizētu informāciju par kļūdu ziņojumiem. Tas ir nepieciešams, ja kādas kļūdas gadījumā ir jāsazinās ar atbalsta dienestu.
+NAVHELP_NAV_CACHE_T	Dzēst lokālo kešatmiņu
+NAVHELP_NAV_CACHE_H	Dzēš @{NAVIGATOR} satura lokālo kešatmiņu.
+NAVHELP_RESET_HIDDEN_T	Atkal rādīt visu paslēpto palīdzību
+NAVHELP_RESET_HIDDEN_H	Atiestata palīdzības elementus, kas atskaņošanas laikā tika iestatīti uz "Paslēpts".
+NAVHELP_EXIT_T	Iziet
+NAVHELP_EXIT_H	Aptur atskaņošanu un aizver @{NAVIGATOR}.
+IDS_NAVP_ABOUT	Rādīt versiju...
+IDS_NAVP_CONSOLE	JavaScript konsole...
+IDS_NAVP_DELETE_CACHE	Dzēst lokālo kešatmiņu
+IDS_NAVP_HOOKER	Hooker
+IDS_SEARCH_INPUT	Meklēšanas palīdzības saturs
+IDS_CLEAR_SEARCH	Notīrīt meklēšanu
+IDS_NAVP_CLOSE	Iziet
+IDS_RESET_CURRENT	Vēlreiz rādīt paslēptos palīdzības elementus
+IDS_RESET_ALL	Atkal rādīt visu paslēpto palīdzību
+IDS_RESET_ALL_TIP	Atverot ekrānu pirmoreiz, atkal rādīt visus atspējotos padomus.
+IDS_OPEN_RECORD_LBL	Atvērt
+IDS_EDIT_RECORD_LBL	Pārdēvēt
+IDS_DELETE_RECORD_LBL	Dzēst
+IDS_SHARE_RECORD_LBL	Kopīgot
+IDS_EXTERNAL_SEARCH_BTN	Ārējā meklēšana
+IDS_EXTERNAL_SEARCH_SUB_MENU	Ārējā meklēšana
+IDS_SHOW_SCREEN_ICON	Rādīt darbvirsmas palīgu
+IDS_SHOW_DA	Rādīt galveno logu
+IDS_SHOW_CONTENT	Rādīt saturu
+IDS_HIDE_CONTENT	Paslēpt saturu
+IDS_SEARCH_BTN	Meklēt
+IDS_REQUEST_CONTENT_BTN	Pieprasīt saturu
+IDS_RECORDING_BTN	Sākt ierakstīšanu
+IDS_SHOW_CA_SWITCH	Rādīt konteksta palīdzību
+IDS_HIDE_CA_SWITCH	Paslēpt konteksta palīdzību
+IDS_CA_SWITCH_INACTIVE_BTN	Konteksta palīdzība nav pieejama
+IDS_DO_CTX_RECOGNITION	Rādīt konteksta palīdzību
+IDS_NAV_STANDBY	@{NAVIGATOR} ir atspējots.
+IDS_NAV_NO_STANDBY	@{NAVIGATOR} ir iespējots.
+IDS_SHOW_DA_PANELS	@{NAVIGATOR} tagad atkal ir pieejams. Ja vajadzīga palīdzība, varat izmantot @{NAVIGATOR} .
+IDS_HIDE_DA_PANELS	@{NAVIGATOR} ir automātiski pazudis, jo lietojumprogrammā, ko pašlaik esat atvēris, ir pieejama piemērota palīdzība. Ja vajadzīga papildu palīdzība, lietojumprogrammā atveriet palīdzību.
+IDS_ADD_STICKY_NOTES_BTN	Pievienot piezīmju lapiņu
+IDS_ADD_STICKY_NOTES_INACTIVE_BTN	Šai lietojumprogrammai varat pievienot tikai vienu piezīmju lapiņu.
+IDS_EXIT_DA	Iziet
+IDS_EXIT_DA_BTN	Iziet
+IDS_EXIT_DA_SUB_MENU	Iziet
+IDS_SHOW_MORE	Rādīt vairāk
+IDS_HIDE_MORE	Paslēpt vairāk
+IDS_REQUEST_CONTENT_SUB_MENU	Pieprasīt saturu
+IDS_SHOW_CA_SUB_MENU	Rādīt konteksta palīdzību
+IDS_HIDE_CA_SUB_MENU	Paslēpt konteksta palīdzību
+IDS_ADD_STICKY_NOTE_SUB_MENU	Pievienot piezīmju lapiņu
+IDS_RECORDING_SUB_MENU	Sākt ierakstīšanu
+IDS_CA_SWITCH_SUB_MENU	Konteksta palīdzība
+IDS_SHARE_DLG_CAPTION	Kopīgot dokumentu
+IDS_DELETE_FRAMES	Ietvaru dzēšana
+OPEN_FOLDER	Atvērt mapi
+SHARE_DOC	Kopīgot, izmantojot e-pastu
+IDS_SHARE_DLG_TEXT	Ko vēlaties darīt?
+IDS_SEARCH_BTN_SUB_MENU	Meklēt saturu
+IDS_LIBRARY_SEARCH_BTN_SUB_MENU	Meklēt saturu bibliotēkā
+GRACEFUL_DEGRADATION	Šī funkcija īslaicīgi nav pieejama tīkla problēmu dēļ. \n\nVēlāk mēģiniet vēlreiz.
+SHARE_BTN	Kopīgot, izmantojot e-pastu
+COPY_BTN	Kopēt saiti
+SHARE_MAIL_SUBJECT	Ieteiktais saturs
+SHARE_MAIL_HEADER	Godātais lietotāj!\n\nIespējams, jūs varētu interesēt šis saturs. \n\n
+SHARE_MAIL_FOOTER	Ar cieņu
+SHARE_MAIL_LINK	Saite:\t
+SHARE_MAIL_CAPTION	Paraksts:\t
+SHARE_TITLE	Kopīgot saturu
+SELECT_ASSET	Lai sāktu, atlasiet pamatlīdzekli.
+ENTER_NAME	Ievadiet vārdu
+DELETE_RECORD_WRN	Svarīgi! Šo darbību nevar atsaukt.
+MSG_PA_NEXT_LBL	Tālāk
+MSG_PA_STEP_LBL	Soļu saraksts
+TOGGLE_STEPLIST_TOOLTIP	Rādīt/paslēpt soļu sarakstu
+PREVIEW_STEP_TOOLTIP	Priekšskatīt soli
+NEXT_STEP_TOOLTIP	Doties uz nākamo soli
+PREV_STEP_TOOLTIP	Doties uz iepriekšējo soli
+ROLES_TITLE	Darbvirsmas palīga lomas
+ROLES_LBL	Filtrēt palīdzības saturu pēc lomas
+OK_CAPTION	Labi
+CANCEL_CAPTION	Atcelt
+BTN_YES	Jā
+BTN_NO	Nē
+DELETE_CONFIRM	Vai tiešām vēlaties dzēst šo piezīmju lapiņu?
+EXIT_CONFIRM	Vai tiešām vēlaties iziet no @{NAVIGATOR}?
+sticky_notes	Piezīmju lapiņas
+exit_da	Iziet no @{NAVIGATOR}
+STICKY_NOTE_DEFAULT_TEXT	Pievienojiet savu tekstu šeit.
+SEARCH_BTN_TOOLTIP	Meklēt
+NEXT_BTN_TOOLTIP	Nākamais
+PREV_BTN_TOOLTIP	Iepriekšējais
+HIDE_BTN_TOOLTIP	Paslēpt karuseli
+IDS_PRJ_NAME	Ievadīt nosaukumu:
+IDS_APPLICATIONS	Izvēlēties logu:
+IDS_PRJ_LANGUAGE	Izvēlēties valodu:
+IDS_FULL_SCREEN	Pilnekrāna režīms
+IDS_CHOOSE_APP_CAPTION	Izvēlēties lietojumprogrammu
+IDS_RECORD_BTN	Ieraksts
+IDS_ANALYZE_ACTIONS	Darbību analizēšana...
+IDS_PARSE_PROJECT	Notiek projekta parsēšana...
+IDS_REGION	Reģions
+IDS_AREA_HELP	Mainiet reģiona lielumu, atlasot veidni tālāk. Mērogojiet sarkano taisnstūri, lai atlasītu reģionu vai atlasītu pilnekrāna režīmu.
+IDS_CHOOSE_SIZE	Izvēlēties lielumu:
+IDS_DEFINE_REC_AREA	Ierakstīšanas apgabals
+IDS_DEFINE_NAME_LANG	Ģenerēt saturu
+PLEASE_SELECT	Lūdzu, atlasiet
+quick_recorder.help_caption	Padoms
+quick_recorder.help	Izmantojiet taustiņu "PAUSE", lai pauzētu vai turpinātu. \nIzmantojiet taustiņu "END", lai pabeigtu. \n\nAtlasiet "Labi", lai sāktu ierakstīšanu.
+quick_recorder.audio_help	Izmantojiet taustiņu "PAUSE", lai pauzētu vai turpinātu. \nIzmantojiet taustiņu "END", lai pabeigtu. \n\nAudio:\njūsu audio netiek ierakstīts klikšķa laikā. Ierunājiet tekstu, pirms atlasāt vadīklu. \n\nAtlasiet "Labi", lai sāktu ierakstīšanu.
+FILE_EXISTS	Jau pastāv fails ar tādu pašu nosaukumu. Ievadiet citu nosaukumu.
+HELP_EXIT_CONTROL_H	Aptur atskaņošanu un aizver @{NAVIGATOR}.
+HELP_EXIT_CONTROL_T	Iziet
+BTN_CLOSE_DLG	Aizvērt
+DELETE_RECORD_WRN	Svarīgi! Šo darbību nevar atsaukt.
+ENTER_NAME	Ievadiet vārdu
+IDS_CLEAR_SEARCH	Notīrīt meklēšanu
+IDS_RESET_ALL_TIP	Atverot ekrānu pirmoreiz, atkal rādīt visus atspējotos padomus.
+IDS_SEARCH_INPUT	Meklēšanas palīdzības saturs
+LBL_DELETE	Dzēst
+LBL_NAVI_NO_MATCH	Jūsu meklēšanai nav rezultātu.
+LBL_TU	Atvērts
+MSG_PA_NEXT_LBL	Tālāk
+MSG_PA_STEP_LBL	Soļu saraksts
+RENAME_FAILED	Pārdēvēšanas darbība neizdevās.
+ROLES_LBL	Filtrēt palīdzības saturu pēc lomas
+SELECT_ASSET	Lai sāktu, atlasiet pamatlīdzekli.
+LBL_CDOC	Atvērts
+LBL_RECORD_DOCUMENT	Ierakstīt dokumentu
+QR_CAPTION	Atlasīt ierakstīšanas izvadi
+QR_WELCOME	Ko vēlaties izveidot?
+QR_DOC_CAP	Dokuments
+QR_DOC_TXT	Tiek izveidots Microsoft Word dokuments, kurā parādīts katras jūsu ierakstītās darbības ekrānuzņēmums un instrukcijas teksts.
+QR_VIDEO_CAP	Video
+QR_VIDEO_TXT	Tiek izveidots ļoti kvalitatīvs jūsu ieraksta video.
+QR_DOC_VIDEO_CAP	Dokuments un video
+QR_DOC_VIDEO_TXT	Tiek izveidots dokuments un video.
+SHARE_ERR_CAP	Nevar kopīgot ierakstīšanu
+SHARE_ERR_TXT	Šis ieraksts ir pārāk liels, lai to kopīgotu e-pastā.\nVai tā vietā vēlaties atvērt faila atrašanās vietu?
+HELP_CONTENT_WINDOW_H	Satura logā tiek rādīta pieejamā informācija, režīmi un dokumentācija atlasītajam galvenā loga saturam.</br>Satura logu var dokot galvenajā logā, kas sniedz iespēju pārvietot abus logus ekrānā kopā.
+HELP_CONTENT_WINDOW_T	Satura logs
+IDS_CONTENT_BTN	Saturs
+MSG_PA_STEP_NOT_FOUND_NUMERAL_1	1.
+MSG_PA_STEP_NOT_FOUND_NUMERAL_2	2.
+SHARE_URL	Pašreizējās lapas URL:

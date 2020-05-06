@@ -1,0 +1,313 @@
+﻿#	Token-uri de bază
+BULLET	&#149;
+NEWLINE	\r\n
+TOK_COMPANY	SAP
+TOK_LIB	Curs
+TOK_TOUR	Lecţie
+TOK_TRAINER	Desktop Assistant
+TOK_AUTOMATION	epo
+NAVIGATOR	Desktop Assistant
+NAV_LIBRARY	bibliotecă
+BTN_ABORT	Terminare
+BTN_CLOSE	Terminare
+BTN_OK	OK
+BTN_CLOSE_DLG	Închidere
+BTN_CONTINUE	Continuare
+BTN_PREVIEW	Previzualizare
+BTN_PROCEED	Continuare
+BTN_RESTART	Relansare
+BTN_SKIP	Omitere etapă
+BTN_START	Lansare
+BTN_STOP	Oprire
+BTN_EXECUTE	Executare
+CA_SWITCH	Ajutor context
+CONTENT_CAP	Conţinut
+MAIL_SUBJECT	Solicitare conţinut pt.asistent desktop
+MAIL_HEADER	Stimate autor,\n\naş dori să solicit conţinutul pt.:
+MAIL_FOOTER	Proces/tranzacţie: descrieţi procesul de aplicaţie utilizat în prezent. \n\n- Descriere: descrieţi informaţiile de care aveţi nevoie. \n\nCu stimă,
+MAIL_DATA	- Nume aplicaţie:
+MAIL_TOOLTIP	Solicitare conţinut
+SHARE_TOOLTIP	Partajare conţinut
+REQUEST_TEXT	Click pe %spt. a solicita conţinut
+REQUEST_LINK	aici
+SEARCH_CAP	Căutare
+INFO_CAP	Informaţii
+SETTINGS_CAP	Setări
+BACK_TOOLTIP	Înapoi
+SHARE_CONTENT_TOOLTIP	Partajare conţinut
+CB_HIDE_OPTION	Nu se mai afişează
+MY_ROLES	Rolurile mele
+EDIT_ROLES	Modificare roluri
+NO_ROLES	Afişare conţinut fără roluri
+SELECT_ALL_CAPTION	Selectare tot
+USER_CAPTION	Zonă utilizator
+READ_MORE	Citire mai mult...
+NO_CATEGORY_CAPTION	Alt conţinut
+DELETE_FAILED	Operaţie de ştergere nereuşită.
+RENAME_FAILED	Operație de redenumire nereușită.
+FILE_EXISTS	Fișier cu un nume identic există deja. Introduceți un nume diferit.
+LBL_YES	Da
+LBL_DELETE	Ştergere
+LBL_NO	Nu
+LBL_OK	OK
+DELETE_DLG_TEXT	Sigur doriţi să ştergeţi documentele selectate (%N)?
+LBL_CONCURRENT	Lansare mod simultan
+LBL_DA	Asistent desktop
+LBL_SIM	Lansare simulare
+LBL_CDOC	Deschidere
+LBL_DEMO	Lansare mod demo
+LBL_NAVI	Lansare tur ghidat
+LBL_BOOK	Reproducere carte
+LBL_GROUP	Deschidere în bibliotecă
+LBL_NAVIGATION	Asistent desktop
+LBL_PA	Tur ghidat
+LBL_PRACTICE	Lansare mod de exerciţiu
+LBL_SIMULATION	Simulare
+LBL_BOOKPAGE	Afişare pagină registru
+LBL_TEST	Lansare mod de test
+LBL_RECORD_DOCUMENT	Înregistrare document
+MSG_AUTOMATION_FINISHED	Automatizare terminată
+MSG_AUTOMATION_FINISHED_2	Clic pe 'Relansare' pt.a relansa procesul automat.
+MSG_AUTOMATION_START	Editaţi valorile de intrare
+MSG_AUTOMATION_START_2	Verificaţi sau editaţi următoarele valori. Acestea au fost introduse automat în timpul procesului.
+MSG_EPO_DIALOG	Optimizator proces electronic
+MSG_NAVI_LIBRARY_NO_APP	Nu există informații disponibile.
+LBL_NAVI_NO_MATCH	Nu există niciun rezultat pentru căutarea dvs.
+NO_RECORDS	Nu sunt disponibile documente.
+MSG_NAVI_LIBRARY_SUBTITLE	Conţinuturi disponibile:
+MSG_NAVI_LIBRARY_TITLE	Asistent desktop
+MSG_NOT_APPLICABLE	needitabil
+MSG_PA_CONTROL_STEP	Acţiune necesară pt.etapă:
+MSG_PA_EXPLANATION_STEP	Navigaţi la ecranul reprezentat mai jos.
+MSG_PA_FORM_STEP	Câmpuri de intrare obligatorie de completat în formular:
+MSG_PA_DIALOG	Tur ghidat
+MSG_PA_START_SCREEN	Deschideţi ecranul iniţial.
+MSG_PA_STEP_NOT_FOUND	Comutaţi la ecranul necesar
+MSG_PA_STEP_NOT_FOUND1	Asiguraţi-vă că aplicaţia ţintă (@{TARGETAPPNAME}) este deschisă.
+MSG_PA_STEP_NOT_FOUND2	Navigaţi la ecranul cu controlul evidenţiat reprezentat mai jos.
+MSG_STEP_LIGHT	Previzualizare etapă
+MSG_STEP_NOT_FOUND	Etapă de tur ghidat negăsită.
+MSG_STEP_NOT_FOUND_2	Click pe bara de titlu a aplicaţiei ţintă sau navigaţi până la ecranul corect.<br><br>Click pe 'Previzualizare' pentru a afişa ecranul dorit.
+PA_FINISHED	Tur ghidat terminat.
+PROJECT_TITLE	Titlu proiect
+TRAY_INFO_BUBBLE_HEADING	Tur ghidat
+TRAY_INFO_BUBBLE_TEXT	Etapa curentă nu poate fi afişată. Click aici pt. mai multe informaţii.
+RESTRICTED_BUBBLE_HEADING	Acţiune blocată
+RESTRICTED_BUBBLE_TEXT	Nu puteţi executa acţiuni pănă nu este confirmată etapa curentă.
+HELP_TITLE	Ajutor
+HELP_INTRO	Ajutorul vă oferă o imagine generală despre principalele părţi şi funcţii ale asistentului de desktop.@{NAVIGATOR}.</br></br><b>Notă:</b> funcţiile disponibile depind de configurarea @{NAVIGATOR}.</br>
+HELP_TITLE_DA	Bară laterală şi ferestre
+HELP_SIDEBAR_T	Bară laterală
+HELP_SIDEBAR_H	Bara laterală vă permite să lansaţi funcţiile principale ale @{NAVIGATOR}. Pt. fiecare funcţie este afişat un buton. Bara laterală poate fi mutată via drag and drop şi poate fi minimizată şi maximizată cu un click pe chenarul barei laterale.
+HELP_CONTENT_CONTROL_T	Conţinut
+HELP_CONTENT_CONTROL_H	Indică dacă este disponibil conţinut. Deschide fereastra principală cu conţinutul.
+HELP_SEARCH_CONTROL_T	Căutare
+HELP_SEARCH_CONTROL_H	Deschide căutarea pt.căutare conţinut.
+HELP_EXTSEARCH_CONTROL_T	Căutare externă
+HELP_EXTSEARCH_CONTROL_H	Deschide căutarea externă pt. căutare conţinut.
+HELP_STICKY_CONTROL_T	Adăugare notă adezivă
+HELP_STICKY_CONTROL_H	Inserează o notă adezivă pt.fereastra de aplicaţie curentă. Puteţi introduce un text pt.nota dvs.adezivă.
+HELP_RECORDING_CONTROL_T	Lansare înregistrare
+HELP_RECORDING_CONTROL_H	Lansează înregistrarea unui proces. Procesul înregistrat va fi salvat ca document în Zona de utilizator.
+HELP_MAIN_WINDOW_T	Fereastră principală
+HELP_MAIN_WINDOW_H	Fereastra principală afişează conţinuturile disponibile pentru un context de pagină specific.</br>În timpul reproducerii unui tur ghidat, fereastra afişează lista de etape.
+HELP_HEADER_T	Antet
+HELP_HEADER_H	Icon-ul de stare din antet indică dacă este disponibil conţinutul pt.contextul curent.
+HELP_CONTENT_TAB_T	Tab de conţinut
+HELP_CONTENT_TAB_H	Tab-ul afişează conţinutul disponibil pt. aplicaţia curentă.
+HELP_CONTENT_VIEW_T	Imagine conţinut
+HELP_CONTENT_VIEW_H	Imaginea de conţinut afişează informaţiile disponibile, modurile şi documentaţia pt. conţinutul selectat.</br>Puteţi utiliza controlul 'Înapoi' pt. a reveni la lista de conţinuturi.
+HELP_SEARCH_TAB_T	Tab de căutare
+HELP_SEARCH_TAB_H	Pe tab puteţi căuta conţinut specific pt.contextul dvs.curent.
+HELP_INFO_TAB_T	Tab info
+HELP_INFO_TAB_H	Tab-ul afişează informaţii generale despre @{NAVIGATOR}.
+HELP_USERAREA_TAB_T	Tab Zonă de utilizator
+HELP_USERAREA_TAB_H	Tab-ul conţine documentele de proces înregistrate. Puteţi deschide, partaja sau şterge un document. Puteţi înregistra alte procese.
+HELP_INSTANT_T	Ajutor instantaneu
+HELP_INSTANT_H	Cu setarea activată, sunt afişate informaţiile de context suplimentare chiar pe ecranul de aplicaţie curent. Setarea este activată în mod implicit.
+HELP_REQCONTENT_T	Solicitare conţinut
+HELP_REQCONTENT_H	Deschide o fereastră de e-mail pt.solicitare conţinut lipsă de la autor.
+HELP_SETTINGS_T	Setări
+HELP_SETTINGS_H	Imaginea conţine setări pt.afişarea de conţinut @{NAVIGATOR}.
+HELP_MYROLES_T	Rolurile mele
+HELP_MYROLES_H	Această setare afişează conţinut pt.rolul alocat.
+HELP_WITHOUTROLES_T	Afişare conţinut fără roluri
+HELP_WITHOUTROLES_H	Această setare afişează conţinut fără roluri alocate.
+HELP_EDITROLES_T	Roluri
+HELP_EDITROLES_H	Toate rolurile utilizate pt.conţinut sunt listate şi pot fi activate sau dezactivate pt.a afişa conţinutul.
+HELP_SHARECONTENT_T	Partajare conţinut
+HELP_SHARECONTENT_H	Deschide o casetă de dialog cu legătura la conţinut. Legătura poate fi partajată cu alţi utilizatori.
+HELP_REQUESTCONTENT_T	Solicitare conţinut
+HELP_REQUESTCONTENT_H	Deschide un e-mail predefinit pt.solicitare conţinut pt.un caz specific.
+HELP_PLAYBACK_CONTENT_T	Conţinut playback
+HELP_PLAYBACK_CONTENT_H	Conţinutul disponibil poate fi lansat sau deschis via butoanele din fereastra de conţinut.
+HELP_MINIMIZED_STATUS_T	Stare minimizată
+HELP_MINIMIZED_STATUS_H	În cazul în care închideţi fereastra principală, un icon de stare variabil va indica în continuare dacă este disponibil conţinutul pt. contextul curent. Click pe icon pt. a restaura fereastra principală.
+HELP_MINIMIZED_MENU_T	Meniu de context
+HELP_MINIMIZED_MENU_H	Meniul de context (click dreapta mouse pe icon) include funcţii pt.afişare fereastră principală şi ajutor de context.
+HELP_BOOK_WINDOW_T	Fereastră de registru
+HELP_BOOK_WINDOW_H	Fereastra de registru este deschisă la reproducere registru. Fereastra principală şi fereastra de conţinut sunt mascate.
+HELP_GOTOTOP	Salt sus
+HELP_CAPTION	@{NAVIGATOR} Ajutor
+NAVHELP_TITLE	Icon de stare și meniu de context
+NAVHELP_INTRO	</br>Ajutorul vă oferă o imagine generală despre intrările de icon de stare și meniu de context.
+NAVHELP_STATUS_ICON_T	Icon de stare (bară de sarcini)
+NAVHELP_STATUS_ICON_H	Icon-ul de stare este poziționat în bara de sarcini și afișează activitățile curente ale @{NAVIGATOR}. Există următoarele stări:
+NAVHELP_STATUS_FOUND_T	Conţinut disponibil (icon verde)
+NAVHELP_STATUS_FOUND_H	Conţinutul este disponibil pt.contextul curent şi este afişat.
+NAVHELP_STATUS_CHECK_T	Verificare conținut (icon galben)
+NAVHELP_STATUS_CHECK_H	@{NAVIGATOR} verifică contextul curent pentru conținutul disponibil și încarcă conținutul.
+NAVHELP_STATUS_NOFOUND_T	Niciun conţinut disponibil (icon roşu)
+NAVHELP_STATUS_NOFOUND_H	Conţinutul nu este disponibil pt.contextul curent.
+NAVHELP_STANDBY_T	Dezactivat
+NAVHELP_STANDBY_H	@{NAVIGATOR} este dezactivat. Un click pe icon-ul de stare (<i>CTRL + F11</i>) dezactivează sau activează @{NAVIGATOR}.
+NAVHELP_STATUS_MIN_T	Minimizate
+NAVHELP_STATUS_MIN_H	Ferestrele și bară laterală sunt minimizate.
+NAVHELP_STATUS_MENU_T	Meniu de context
+NAVHELP_STATUS_MENU_H	Meniul de context (click dreapta mouse pe icon) include funcţiile generale ale @{NAVIGATOR}.
+NAVHELP_VERSION_T	Afişare versiune
+NAVHELP_VERSION_H	Afişează numărul de versiune pentru @{NAVIGATOR} instalat. Aceasta este necesară pt. orice contact cu suportul în caz de probleme.
+NAVHELP_JSCONSOLE_T	Consolă JavaScript
+NAVHELP_JSCONSOLE_H	Afişează Consola JavaScript pt. a furniza mesaje de eroare detaliate. Aceasta este necesară pt. orice contact cu suportul în caz de probleme.
+NAVHELP_NAV_CACHE_T	Ştergere cache local
+NAVHELP_NAV_CACHE_H	Şterge cache-ul local pt. conţinut @{NAVIGATOR}.
+NAVHELP_RESET_HIDDEN_T	Afişați din nou toate ajutoarele suprimate
+NAVHELP_RESET_HIDDEN_H	Resetează elementele de ajutor care au fost setate la 'Mascat' la reproducere.
+NAVHELP_EXIT_T	Terminare
+NAVHELP_EXIT_H	Opreşte redarea şi închide @{NAVIGATOR}.
+IDS_NAVP_ABOUT	Afişare versiune...
+IDS_NAVP_CONSOLE	Consolă JavaScript...
+IDS_NAVP_DELETE_CACHE	Ştergere cache local
+IDS_NAVP_HOOKER	Hooker
+IDS_SEARCH_INPUT	Conţinut ajutor de căutare
+IDS_CLEAR_SEARCH	Resetare căutare
+IDS_NAVP_CLOSE	Terminare
+IDS_RESET_CURRENT	Reafişare element de ajutor mascat
+IDS_RESET_ALL	Afişați din nou toate ajutoarele suprimate
+IDS_RESET_ALL_TIP	Afișați din nou toate sugestiile dezactivate la prima intrare într-un ecran.
+IDS_OPEN_RECORD_LBL	Deschidere
+IDS_EDIT_RECORD_LBL	Redenumire
+IDS_DELETE_RECORD_LBL	Ştergere
+IDS_SHARE_RECORD_LBL	Partajare
+IDS_EXTERNAL_SEARCH_BTN	Căutare externă
+IDS_EXTERNAL_SEARCH_SUB_MENU	Căutare externă
+IDS_SHOW_SCREEN_ICON	Afişare asistent desktop
+IDS_SHOW_DA	Afişare fereastră principală
+IDS_SHOW_CONTENT	Afişare conţinut
+IDS_HIDE_CONTENT	Mascare conţinut
+IDS_SEARCH_BTN	Căutare
+IDS_REQUEST_CONTENT_BTN	Solicitare conţinut
+IDS_RECORDING_BTN	Lansare înregistrare
+IDS_SHOW_CA_SWITCH	Afişare ajutor de context
+IDS_HIDE_CA_SWITCH	Mascare ajutor de context
+IDS_CA_SWITCH_INACTIVE_BTN	Niciun ajutor de context disponibil
+IDS_DO_CTX_RECOGNITION	Afişare ajutor de context
+IDS_NAV_STANDBY	@{NAVIGATOR} este dezactivat.
+IDS_NAV_NO_STANDBY	@{NAVIGATOR} este activat.
+IDS_SHOW_DA_PANELS	@{NAVIGATOR} este acum disponibil din nou. Puteți utiliza @{NAVIGATOR} dacă aveți nevoie de asistență.
+IDS_HIDE_DA_PANELS	@{NAVIGATOR} a dispărut automat deoarece ajutorul corespunzător este disponibil în aplicația pe care ați deschis-o în prezent. Deschideți ajutorul în aplicație dacă aveți nevoie de asistență suplimentară.
+IDS_ADD_STICKY_NOTES_BTN	Adăugare notă adezivă
+IDS_ADD_STICKY_NOTES_INACTIVE_BTN	Puteţi să adăugaţi doar o notă adezivă pt.această aplicaţie.
+IDS_EXIT_DA	Terminare
+IDS_EXIT_DA_BTN	Terminare
+IDS_EXIT_DA_SUB_MENU	Terminare
+IDS_SHOW_MORE	Afişare mai mult
+IDS_HIDE_MORE	Mascare mai mult
+IDS_REQUEST_CONTENT_SUB_MENU	Solicitare conţinut
+IDS_SHOW_CA_SUB_MENU	Afişare ajutor de context
+IDS_HIDE_CA_SUB_MENU	Mascare ajutor de context
+IDS_ADD_STICKY_NOTE_SUB_MENU	Adăugare notă adezivă
+IDS_RECORDING_SUB_MENU	Lansare înregistrare
+IDS_CA_SWITCH_SUB_MENU	Ajutor context
+IDS_SHARE_DLG_CAPTION	Partajare document
+IDS_DELETE_FRAMES	Ștergere cadre
+OPEN_FOLDER	Deschidere folder
+SHARE_DOC	Partajare via e-mail
+IDS_SHARE_DLG_TEXT	Ce doriţi să faceţi?
+IDS_SEARCH_BTN_SUB_MENU	Căutare conţinut
+IDS_LIBRARY_SEARCH_BTN_SUB_MENU	Căutare conţinut în bibliotecă
+GRACEFUL_DEGRADATION	Această caracteristică este indisponibilă temporar din cauza problemelor de reţea. \n\nÎncercaţi din nou mai târziu.
+SHARE_BTN	Partajare via e-mail
+COPY_BTN	Copiere legătură
+SHARE_MAIL_SUBJECT	Conţinut recomandat
+SHARE_MAIL_HEADER	Stimate utilizator,\n\nAcest context s-ar putea să vă intereseze. \n\n
+SHARE_MAIL_FOOTER	Cu stimă,
+SHARE_MAIL_LINK	Legătură:\t
+SHARE_MAIL_CAPTION	Legendă imagine:\t
+SHARE_TITLE	Partajare conţinut
+SELECT_ASSET	Selectați un mijloc fix pentru lansare.
+ENTER_NAME	Introduceți un nume
+DELETE_RECORD_WRN	Important: această acțiune nu poate fi anulată.
+MSG_PA_NEXT_LBL	Următor
+MSG_PA_STEP_LBL	Listă de etape
+TOGGLE_STEPLIST_TOOLTIP	Afişare/mascare listă de etape
+PREVIEW_STEP_TOOLTIP	Previzualizare etapă
+NEXT_STEP_TOOLTIP	Salt la etapă următoare
+PREV_STEP_TOOLTIP	Salt la etapă anterioară
+ROLES_TITLE	Roluri asistent desktop
+ROLES_LBL	Filtrare conţinut ajutor după rol
+OK_CAPTION	OK
+CANCEL_CAPTION	Anulare
+BTN_YES	Da
+BTN_NO	Nu
+DELETE_CONFIRM	Sigur doriţi să ştergeţi această notă adezivă?
+EXIT_CONFIRM	Sigur doriţi să părăsiţi @{NAVIGATOR}?
+sticky_notes	Note adezive
+exit_da	Terminare @{NAVIGATOR}
+STICKY_NOTE_DEFAULT_TEXT	Adăugaţi aici textul dvs.
+SEARCH_BTN_TOOLTIP	Căutare
+NEXT_BTN_TOOLTIP	Următor
+PREV_BTN_TOOLTIP	Anterior
+HIDE_BTN_TOOLTIP	Mascare carusel
+IDS_PRJ_NAME	Introducere nume:
+IDS_APPLICATIONS	Alegere fereastră:
+IDS_PRJ_LANGUAGE	Alegere limbă:
+IDS_FULL_SCREEN	Ecran întreg
+IDS_CHOOSE_APP_CAPTION	Alegere aplicaţie
+IDS_RECORD_BTN	Înregistrare
+IDS_ANALYZE_ACTIONS	Analizare acţiuni...
+IDS_PARSE_PROJECT	Analiză sintactică proiect...
+IDS_REGION	Regiune
+IDS_AREA_HELP	Modificaţi mărimea de regiune selectând un şablon de mai jos. Reprezentaţi pe scală dreptunghiul roşu pentru a selecta o regiune sau selectaţi ecran întreg.
+IDS_CHOOSE_SIZE	Alegere mărime:
+IDS_DEFINE_REC_AREA	Domeniu de înregistrare
+IDS_DEFINE_NAME_LANG	Generare conținut
+PLEASE_SELECT	Selectaţi
+quick_recorder.help_caption	Sugestie
+quick_recorder.help	Utilizați tasta "PAUSE" pt. pauză sau continuare. \nUtilizați tasta "END" pt. terminare. \n\nSelectați "OK" pt. a lansa înregistrarea.
+quick_recorder.audio_help	Utilizați tasta "PAUSE" pt. pauză sau continuare. \nUtilizați tasta "END" pt. terminare. \n\nAudio:\nConținutul dvs. audio nu este înregistrat la un click. Rostiți textul dvs. înainte de a selecta un control. \n\nSelectați "OK" pt. a lansa înregistrarea.
+FILE_EXISTS	Fișier cu un nume identic există deja. Introduceți un nume diferit.
+HELP_EXIT_CONTROL_H	Opreşte redarea şi închide @{NAVIGATOR}.
+HELP_EXIT_CONTROL_T	Terminare
+BTN_CLOSE_DLG	Închidere
+DELETE_RECORD_WRN	Important: această acțiune nu poate fi anulată.
+ENTER_NAME	Introduceți un nume
+IDS_CLEAR_SEARCH	Resetare căutare
+IDS_RESET_ALL_TIP	Afișați din nou toate sugestiile dezactivate la prima intrare într-un ecran.
+IDS_SEARCH_INPUT	Conţinut ajutor de căutare
+LBL_DELETE	Ştergere
+LBL_NAVI_NO_MATCH	Nu există niciun rezultat pentru căutarea dvs.
+LBL_TU	Deschidere
+MSG_PA_NEXT_LBL	Următor
+MSG_PA_STEP_LBL	Listă de etape
+RENAME_FAILED	Operație de redenumire nereușită.
+ROLES_LBL	Filtrare conţinut ajutor după rol
+SELECT_ASSET	Selectați un mijloc fix pentru lansare.
+LBL_CDOC	Deschidere
+LBL_RECORD_DOCUMENT	Înregistrare document
+QR_CAPTION	Selectare ieșire înregistrare
+QR_WELCOME	Ce doriţi să creați?
+QR_DOC_CAP	Document
+QR_DOC_TXT	Creează un document Microsoft Word care arată o captură de ecran și un text de instrucțiuni pentru fiecare acțiune pe care o înregistrați.
+QR_VIDEO_CAP	Video
+QR_VIDEO_TXT	Creează un video de calitate înaltă pentru înregistrarea dvs.
+QR_DOC_VIDEO_CAP	Document și video
+QR_DOC_VIDEO_TXT	Creează un document și un video.
+SHARE_ERR_CAP	Imposibil de partajat înregistrare
+SHARE_ERR_TXT	Această înregistrare este prea mare pentru partajare pe e-mail.\nDoriți să deschideți în schimb locație fișier?
+HELP_CONTENT_WINDOW_H	Fereastra de conţinut afişează informaţiile disponibile, modurile şi documentaţia pt. conţinutul selectat al ferestrei principale.</br>Pt. fereastra de conţinut poate fi efectuat dock în fereastra principală, ceea ce vă permite să deplasaţi împreună ambele ferestre pe ecran.
+HELP_CONTENT_WINDOW_T	Fereastră de conţinut
+IDS_CONTENT_BTN	Conţinut
+MSG_PA_STEP_NOT_FOUND_NUMERAL_1	1.
+MSG_PA_STEP_NOT_FOUND_NUMERAL_2	2.
+SHARE_URL	URL pagină curentă:

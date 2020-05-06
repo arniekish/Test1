@@ -1,0 +1,323 @@
+<DASettings>
+    <ParamSet name="global">
+	<ParamGroup name="content_library_window">
+        <ParamInfo name="style" text_key = "da_style" type="SHELF">
+            <Properties rclass="adaptable" type="navigation_style"/>
+        </ParamInfo>
+        <ParamInfo type="BOOL_0_1" name="show_only_bar"/>
+		<ParamInfo type="ENUM" name="bar_positioning" textkey="bar_positioning">
+            <EnumValue key="left_top" textkey="left_top"/>
+            <EnumValue key="left_center" textkey="left_center"/>
+            <EnumValue key="left_bottom" textkey="left_bottom"/>
+            <EnumValue key="top_center" textkey="top_center"/>
+            <EnumValue key="right_top" textkey="right_top"/>
+            <EnumValue key="right_center" textkey="right_center"/>
+            <EnumValue key="right_bottom" textkey="right_bottom"/>
+        </ParamInfo>
+        <ParamInfo type="ENUM" name="da_positioning" textkey="da_positioning">
+            <EnumValue key="left_top" textkey="left_top"/>
+            <EnumValue key="left_center" textkey="left_center"/>
+            <EnumValue key="left_bottom" textkey="left_bottom"/>
+            <EnumValue key="right_top" textkey="right_top"/>
+            <EnumValue key="right_center" textkey="right_center"/>
+            <EnumValue key="right_bottom" textkey="right_bottom"/>
+            <EnumValue key="center" textkey="center"/>
+            <EnumValue key="free" textkey="free"/>
+        </ParamInfo>
+        <ParamInfo type="POSITION" name="library_position" trigger_disabled="da_positioning" 
+        trigger_value="left_top|left_center|left_bottom|right_top|right_center|right_bottom|center"/>
+        <ParamInfo type="SIZE" name="library_size"/>
+        
+        <ParamInfo type="ENUM" name="book_win_positioning" textkey="book_win_positioning">
+            <EnumValue key="left_top" textkey="left_top"/>
+            <EnumValue key="left_center" textkey="left_center"/>
+            <EnumValue key="left_bottom" textkey="left_bottom"/>
+            <EnumValue key="right_top" textkey="right_top"/>
+            <EnumValue key="right_center" textkey="right_center"/>
+            <EnumValue key="right_bottom" textkey="right_bottom"/>
+            <EnumValue key="center" textkey="center"/>
+            <EnumValue key="free" textkey="free"/>
+        </ParamInfo>
+        <ParamInfo type="POSITION" name="book_win_position" trigger_disabled="book_win_positioning" 
+        trigger_value="left_top|left_center|left_bottom|right_top|right_center|right_bottom|center"/>
+        <ParamInfo type="SIZE" name="book_win_size"/>
+        <!--<ParamInfo type="BOOL_0_1" name="show_carousel"/>-->
+    </ParamGroup>
+	
+    <ParamGroup name="content_library_sidebar">
+        <ParamInfo type="ENUM" name="content_btn" textkey="content_btn">
+            <EnumValue key="m_1" textkey="main_bar_1"/>
+            <EnumValue key="m_2" textkey="main_bar_2"/>
+            <EnumValue key="m_3" textkey="main_bar_3"/>
+            <EnumValue key="m_4" textkey="main_bar_4"/>
+            <EnumValue key="m_5" textkey="main_bar_5"/>
+            <EnumValue key="m_6" textkey="main_bar_6"/>
+            <EnumValue key="m_7" textkey="main_bar_7"/>
+            <EnumValue key="m_8" textkey="main_bar_8"/>
+        </ParamInfo>
+        <ParamInfo type="ENUM" name="search_type" textkey="search_type">
+			<EnumValue key="none" textkey="none"/>
+            <EnumValue key="search_in_lib" textkey="search_in_lib"/>
+            <EnumValue key="search_in_da" textkey="search_in_da"/>
+		</ParamInfo>
+        <ParamInfo type="LINK" name="search_url" text_key= "search_url" trigger_visible="search_type"  trigger_value="search_in_lib">
+            <Properties src="cur-,trainer-,import-" type="group" style="edit-"/>
+        </ParamInfo>
+        <ParamInfo type="ENUM" name="search_btn" textkey="search_btn" trigger_hidden="search_type"  trigger_value="none">
+			<EnumValue key="m_1" textkey="main_bar_1"/>
+			<EnumValue key="m_2" textkey="main_bar_2"/>
+			<EnumValue key="m_3" textkey="main_bar_3"/>
+			<EnumValue key="m_4" textkey="main_bar_4"/>
+			<EnumValue key="m_5" textkey="main_bar_5"/>
+			<EnumValue key="m_6" textkey="main_bar_6"/>
+            <EnumValue key="m_7" textkey="main_bar_7"/>
+            <EnumValue key="m_8" textkey="main_bar_8"/>
+			<EnumValue key="s_1" textkey="sub_menu_1"/>
+			<EnumValue key="s_2" textkey="sub_menu_2"/>
+			<EnumValue key="s_3" textkey="sub_menu_3"/>
+			<EnumValue key="s_4" textkey="sub_menu_4"/>
+			<EnumValue key="s_5" textkey="sub_menu_5"/>
+            <EnumValue key="s_6" textkey="sub_menu_6"/>
+		</ParamInfo>
+        <ParamInfo type="ENUM" name="enable_external_search">
+            <EnumValue key="o" textkey="off"/>
+            <EnumValue key="m_1" textkey="main_bar_1"/>
+			<EnumValue key="m_2" textkey="main_bar_2"/>
+			<EnumValue key="m_3" textkey="main_bar_3"/>
+			<EnumValue key="m_4" textkey="main_bar_4"/>
+			<EnumValue key="m_5" textkey="main_bar_5"/>
+			<EnumValue key="m_6" textkey="main_bar_6"/>
+            <EnumValue key="m_7" textkey="main_bar_7"/>
+            <EnumValue key="m_8" textkey="main_bar_8"/>
+		</ParamInfo>
+        <ParamInfo type="TEXT" name="external_search_url" text_key= "external_search_url" trigger_hidden="enable_external_search" trigger_value="o"/>
+        <ParamInfo type="BOOL_0_1" name="enable_external_search_ctx"  trigger_hidden="enable_external_search" trigger_value="o"/>
+        <ParamInfo type="TEXT" name="external_search_ctx" text_key= "external_search_ctx" trigger_visible="enable_external_search_ctx" trigger_value="1"/>
+		<ParamInfo type="ENUM" name="show_instant_help_btn">
+            <EnumValue key="o" textkey="off"/>
+            <EnumValue key="m_1" textkey="main_bar_1"/>
+			<EnumValue key="m_2" textkey="main_bar_2"/>
+			<EnumValue key="m_3" textkey="main_bar_3"/>
+			<EnumValue key="m_4" textkey="main_bar_4"/>
+			<EnumValue key="m_5" textkey="main_bar_5"/>
+			<EnumValue key="m_6" textkey="main_bar_6"/>
+            <EnumValue key="m_7" textkey="main_bar_7"/>
+            <EnumValue key="m_8" textkey="main_bar_8"/>
+			<EnumValue key="s_1" textkey="sub_menu_1"/>
+			<EnumValue key="s_2" textkey="sub_menu_2"/>
+			<EnumValue key="s_3" textkey="sub_menu_3"/>
+			<EnumValue key="s_4" textkey="sub_menu_4"/>
+			<EnumValue key="s_5" textkey="sub_menu_5"/>
+            <EnumValue key="s_6" textkey="sub_menu_6"/>
+		</ParamInfo>
+        <ParamInfo type="ENUM" name="add_sticky_notes">
+            <EnumValue key="o" textkey="off"/>
+            <EnumValue key="m_1" textkey="main_bar_1"/>
+			<EnumValue key="m_2" textkey="main_bar_2"/>
+			<EnumValue key="m_3" textkey="main_bar_3"/>
+			<EnumValue key="m_4" textkey="main_bar_4"/>
+			<EnumValue key="m_5" textkey="main_bar_5"/>
+			<EnumValue key="m_6" textkey="main_bar_6"/>
+            <EnumValue key="m_7" textkey="main_bar_7"/>
+            <EnumValue key="m_8" textkey="main_bar_8"/>
+			<EnumValue key="s_1" textkey="sub_menu_1"/>
+			<EnumValue key="s_2" textkey="sub_menu_2"/>
+			<EnumValue key="s_3" textkey="sub_menu_3"/>
+			<EnumValue key="s_4" textkey="sub_menu_4"/>
+			<EnumValue key="s_5" textkey="sub_menu_5"/>
+            <EnumValue key="s_6" textkey="sub_menu_6"/>
+		</ParamInfo>
+        <ParamInfo type="ENUM" name="request_content_type" textkey="request_content_type">
+            <EnumValue key="none" textkey="none"/>
+            <EnumValue key="email" textkey="email"/>
+            <EnumValue key="url" textkey="url"/>
+		</ParamInfo>
+        <ParamInfo type="TEXT" name="author_email" text_key= "author_email" trigger_visible="request_content_type" trigger_value="email"/>
+        <ParamInfo type="TEXT" name="author_url" text_key= "author_url" trigger_visible="request_content_type" trigger_value="url"/>
+        <ParamInfo type="TEXT" name="author_url_params" text_key= "author_url_params" trigger_visible="request_content_type" trigger_value="url"/>
+        <ParamInfo type="ENUM" name="enable_request_content" trigger_hidden="request_content_type" trigger_value="none">
+            <EnumValue key="m_1" textkey="main_bar_1"/>
+			<EnumValue key="m_2" textkey="main_bar_2"/>
+			<EnumValue key="m_3" textkey="main_bar_3"/>
+			<EnumValue key="m_4" textkey="main_bar_4"/>
+			<EnumValue key="m_5" textkey="main_bar_5"/>
+			<EnumValue key="m_6" textkey="main_bar_6"/>
+            <EnumValue key="m_7" textkey="main_bar_7"/>
+            <EnumValue key="m_8" textkey="main_bar_8"/>
+			<EnumValue key="s_1" textkey="sub_menu_1"/>
+			<EnumValue key="s_2" textkey="sub_menu_2"/>
+			<EnumValue key="s_3" textkey="sub_menu_3"/>
+			<EnumValue key="s_4" textkey="sub_menu_4"/>
+			<EnumValue key="s_5" textkey="sub_menu_5"/>
+            <EnumValue key="s_6" textkey="sub_menu_6"/>
+		</ParamInfo>
+        <ParamInfo type="ENUM" name="enable_recording">
+            <EnumValue key="o" textkey="off"/>
+            <EnumValue key="m_1" textkey="main_bar_1"/>
+			<EnumValue key="m_2" textkey="main_bar_2"/>
+			<EnumValue key="m_3" textkey="main_bar_3"/>
+			<EnumValue key="m_4" textkey="main_bar_4"/>
+			<EnumValue key="m_5" textkey="main_bar_5"/>
+			<EnumValue key="m_6" textkey="main_bar_6"/>
+            <EnumValue key="m_7" textkey="main_bar_7"/>
+            <EnumValue key="m_8" textkey="main_bar_8"/>
+			<EnumValue key="s_1" textkey="sub_menu_1"/>
+			<EnumValue key="s_2" textkey="sub_menu_2"/>
+			<EnumValue key="s_3" textkey="sub_menu_3"/>
+			<EnumValue key="s_4" textkey="sub_menu_4"/>
+			<EnumValue key="s_5" textkey="sub_menu_5"/>
+            <EnumValue key="s_6" textkey="sub_menu_6"/>
+		</ParamInfo>
+        <ParamInfo type="BOOL_0_1" name="allow_video_rec" text_key="allow_video_rec" trigger_hidden="enable_recording" trigger_value="o"/>
+        <ParamInfo type="TEXT" name="video_folder" text_key="video_folder" trigger_hidden="enable_recording" trigger_value="o"/>
+        <ParamInfo type="ENUM" name="enable_exit_da">
+            <EnumValue key="o" textkey="off"/>
+            <EnumValue key="m_1" textkey="main_bar_1"/>
+			<EnumValue key="m_2" textkey="main_bar_2"/>
+			<EnumValue key="m_3" textkey="main_bar_3"/>
+			<EnumValue key="m_4" textkey="main_bar_4"/>
+			<EnumValue key="m_5" textkey="main_bar_5"/>
+			<EnumValue key="m_6" textkey="main_bar_6"/>
+            <EnumValue key="m_7" textkey="main_bar_7"/>
+            <EnumValue key="m_8" textkey="main_bar_8"/>
+			<EnumValue key="s_1" textkey="sub_menu_1"/>
+			<EnumValue key="s_2" textkey="sub_menu_2"/>
+			<EnumValue key="s_3" textkey="sub_menu_3"/>
+			<EnumValue key="s_4" textkey="sub_menu_4"/>
+			<EnumValue key="s_5" textkey="sub_menu_5"/>
+            <EnumValue key="s_6" textkey="sub_menu_6"/>
+		</ParamInfo>
+		</ParamGroup>
+
+		<ParamGroup name="content_library">
+        <ParamInfo type="ENUM" name="all_as_descr" textkey="all_as_descr">
+			<EnumValue key="shrt_desc" textkey="shrt_desc"/>
+            <EnumValue key="full_desc" textkey="full_desc"/>
+		</ParamInfo>
+        <ParamInfo type="ENUM" name="default_start_mode" textkey="default_start_mode">
+            <EnumValue key="demo" textkey="demo"/>
+            <EnumValue key="uebung" textkey="uebung"/>
+            <EnumValue key="test" textkey="test"/>
+            <EnumValue key="praxis" textkey="praxis"/>
+            <EnumValue key="doc" textkey="doc"/>
+            <EnumValue key="pdf" textkey="pdf"/>
+            <EnumValue key="html" textkey="html"/>
+            <EnumValue key="ppt" textkey="ppt"/>
+        </ParamInfo>
+        <ParamInfo type="SHELF" name="default_start_doc" textkey="default_start_doc" trigger_enabled="default_start_mode" trigger_value="doc|pdf|html">
+            <Properties rclass="doc_settings" kind="project"/>
+        </ParamInfo>
+        <ParamInfo type="BOOL_0_1" name="enable_info"/>
+        <ParamInfo type="BOOL_0_1" name="enable_share_content"/>
+        <ParamInfo type="BOOL_0_1" name="consider_roles"/>
+        <ParamInfo type="BOOL_0_1" name="consider_categories"/>
+        <ParamInfo type="ENUM" name="list_order" textkey="list_order">
+            <EnumValue key="by_default" textkey="by_default"/>
+            <EnumValue key="by_name" textkey="by_name"/>
+            <EnumValue key="by_type" textkey="by_type"/>
+        </ParamInfo>
+        <ParamInfo type="BOOL_0_1" name="disable_ca_in_pa"/>
+        <ParamInfo type="BOOL_0_1" name="enable_fuzzy_match"/>
+        <ParamInfo type="BOOL_0_1" name="enable_ident_filter"/>
+        <ParamInfo type="BOOL_0_1" name="clear_on_mismatch"/>
+        <ParamInfo type="BOOL_0_1" name="hide_da_on_web_assistant"/>
+        <ParamInfo type="BOOL_0_1" name="show_web_assistant_msg" trigger_visible="hide_da_on_web_assistant" 
+        trigger_value="1"/>
+     </ParamGroup>
+    
+     <ParamGroup name="function_keys">
+         <ParamInfo type="TEXT" name="minimize_da" text_key= "minimize_da"/>
+         <ParamInfo type="TEXT" name="abort" text_key= "abort"/>
+         <ParamInfo type="TEXT" name="restart" text_key= "restart"/>
+         <ParamInfo type="TEXT" name="next_tab" text_key= "next_tab"/>
+         <ParamInfo type="TEXT" name="next_screen" text_key= "next_screen"/>
+         <ParamInfo type="TEXT" name="back" text_key= "back"/>
+         <ParamInfo type="TEXT" name="start_pa" text_key= "start_pa"/>
+         <ParamInfo type="TEXT" name="execute_step" text_key= "execute_step"/>
+         <ParamInfo type="TEXT" name="start_demo" text_key= "start_demo"/>
+         <ParamInfo type="TEXT" name="start_prac" text_key= "start_prac"/>
+         <ParamInfo type="TEXT" name="start_test" text_key= "start_test"/>
+         <ParamInfo type="TEXT" name="start_concur" text_key= "start_concur"/>
+         <ParamInfo type="TEXT" name="start_book" text_key= "start_book"/>
+         <ParamInfo type="TEXT" name="start_group" text_key= "start_group"/>
+         <ParamInfo type="TEXT" name="select_next" text_key= "select_next"/>
+         <ParamInfo type="TEXT" name="select_prev" text_key= "select_prev"/>
+         <ParamInfo type="TEXT" name="toggle_warning" text_key= "toggle_warning"/>
+         <ParamInfo type="TEXT" name="toggle_ctx_rec" text_key= "toggle_ctx_rec"/>
+         <ParamInfo type="TEXT" name="toggle_standby" text_key= "toggle_standby"/>
+         <ParamInfo type="TEXT" name="copy_link" text_key= "copy_link"/>
+         <ParamInfo type="TEXT" name="share_email" text_key= "share_email"/>
+         <ParamInfo type="TEXT" name="start_default" text_key= "start_default"/>
+         <ParamInfo type="TEXT" name="show_da_help" text_key= "show_da_help"/>
+         <ParamInfo type="TEXT" name="request_content" text_key= "request_content"/>
+         <ParamInfo type="TEXT" name="search_content" text_key= "search_content"/>
+         <ParamInfo type="TEXT" name="show_hidden_elems" text_key= "show_hidden_elems"/>
+         <ParamInfo type="TEXT" name="toggle_side_bar" text_key= "toggle_side_bar"/>
+         <ParamInfo type="TEXT" name="maximize_trainer" text_key= "maximize_trainer"/>
+    </ParamGroup>
+    
+    <ParamGroup name="cache_properties">
+        <ParamInfo type="BOOL_0_1" name="use_caching"/>
+        <ParamInfo type="TEXT" name="cache_folder"/>
+    </ParamGroup>
+
+    <ParamGroup name="gloss_bubble">
+        <ParamInfo type="SHELF" name="gloss_bubble_style">
+            <Properties rclass="bubble" specified=""/>
+        </ParamInfo>
+        <ParamInfo type="SIZE" name="gloss_bubble_size"/>
+    </ParamGroup>
+    </ParamSet>
+    <Default
+        minimize_da = "ctrl f12"
+        next_screen = "ctrl alt right"
+        back = "ctrl alt left"
+        abort = "ctrl alt a"
+        restart = "ctrl alt r"
+        start_pa = "ctrl alt n"
+        start_demo = "ctrl alt d"
+        start_prac = "ctrl alt p"
+        start_test = "ctrl alt t"
+        start_concur = "ctrl alt c"
+        start_book = "ctrl alt b"
+        start_group = "ctrl alt g"
+        toggle_ctx_rec = "ctrl alt s"
+        select_next = "ctrl alt pgdown"
+        select_prev = "ctrl alt pgup"
+        toggle_warning = "ctrl alt w"
+        execute_step = "ctrl alt space"  
+        next_tab = "ctrl alt end"
+        toggle_standby = "ctrl f11"  
+        copy_link = "ctrl alt f"
+        share_email = "ctrl alt i"
+        start_default = "ctrl alt j"
+        show_da_help = "ctrl alt h"
+        request_content = "ctrl alt k"
+        search_content = "ctrl alt m"
+        show_hidden_elems = "ctrl alt o"
+        toggle_side_bar = "ctrl alt u"
+        maximize_trainer = "ctrl alt home"
+        bcontent_style = "small" da_positioning="right_bottom" bar_positioning="right_center" book_win_positioning="right_bottom" enable_external_search="o" external_search_url="https://search.int.sap/#t=$#{SEARCHTERM}" external_search_ctx="&amp;executable=$#{EXE}&amp;pagekey=$#{PAGEKEY}" enable_info="true" all_as_descr="shrt_desc" search_type="none" enable_fuzzy_match="false" enable_request_content="o" 
+        enable_recording="o" enable_exit_da="o" enable_share_content="false"
+        show_only_bar="false" style="navi_style" clear_on_mismatch="true" hide_da_on_web_assistant="false" show_web_assistant_msg="true"
+        list_order="by_default" gloss_bubble_style="white_island" request_content_type="none" author_email=""
+        use_caching="true"
+        cache_folder="%localappdata%"
+        allow_video_rec="true"
+        video_folder="%userprofile%\Videos\Desktop Assistant Videos"
+        consider_roles="false" consider_categories="false" default_start_mode="praxis" add_sticky_notes="o" disable_ca_in_pa="false"
+		show_instant_help_btn="o" 
+        author_url_params="application=$#{APPNAME}&amp;executable=$#{EXE}" 
+        show_carousel="0"
+        content_btn="m_1"
+        search_btn="m_2"
+        >
+        <library_position x="300" y="200"/>
+        <book_win_position x="300" y="200"/>
+        <book_win_size x="600" y="500"/>
+        <library_size x="300" y="389"/>
+        <gloss_bubble_size x="350" y="40"/>
+        >
+    </Default>
+    
+</DASettings>

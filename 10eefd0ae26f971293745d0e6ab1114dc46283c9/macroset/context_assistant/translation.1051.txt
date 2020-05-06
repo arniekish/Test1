@@ -1,0 +1,710 @@
+﻿NAVIGATOR	Desktop Assistant
+XRAY	Web Assistant
+LIBRARY	library
+MANAGER	Manager
+form_bubble	Bublina formulára
+bform_height	Výška
+bform_height.h	Definuje výšku bubliny formulára, ktorá sa má zobraziť, v pixeloch.
+bform_width	Šírka
+bform_width.h	Definuje šírku bubliny formulára, ktorá sa má zobraziť, v pixeloch.
+bform_position	Pozícia
+bform_position.h	Definuje pozíciu bubliny formulára (vľavo hore) pre ‘Voľné‘ zarovnanie na obrazovke. Hodnoty sa zadávajú v pixeloch.
+paramAutoMergeComplete	Zlučovanie obrazoviek bolo dokončené
+form	Formulár
+application_contexts	Aplikácia
+﻿Application	Aplikácia
+highlight_offset	Posunutie
+AutoBarChooseApp	Vybrať aplikáciu
+AutoBarReRecManual	Kliknúť na objekt
+BubbleOnActivate	Zobraziť bublinu priamo
+ClickOnAAPosition	Kliknúť do aplikácie na definovanie obdĺžnika.
+ClickOnPosition	Kliknúť na pozíciu v aplikácii.
+EnabledOnPgLoad	Aktivovať
+HighlightOnActivate	Zobraziť zvýraznenie priamo
+start_from_arbitrary	Spustiť z ľubovoľného kroku
+focus_step	Vrstva fókusu
+focus_step.h	Len prehliadka s výkladom\nZobrazuje šedú vrstvu na zvýraznenie ovládacieho prvku, ktorý je požadovaný v aktuálnom kroku.
+yes	Áno
+no	Nie
+light_mode	Interaktívny režim
+light_mode.h	Zadáva, že používateľ musí v bubline objektu prejsť k ďalšiemu kroku. Počas prehrávania sa nevykonáva rozpoznávanie stránky.
+restricted_mode	Obmedzený režim
+restricted_mode.h	Špecifikuje, že je možné vykonať len aktuálnu akciu. Ostatné ovládacie prvky stránky aplikácie sú blokované. \nNastavenie je možné použiť, ak bola aktivovaná „Vrstva fókusu“.
+show_highlight	Zvýraznenia
+action	Akcia
+active_area	Aktívna oblasť
+add_application_expl	Vložiť vysvetlenie
+adv	Rozšírené
+display_behavior	Zobrazenie - správanie
+all_values	Všetky hodnoty
+anim_steps	Kroky animácie
+application_context	Aplikácia
+area	Oblasť
+auto_merge	Zlúčiť makrá obrazovky
+b_height	Výška
+form_on	Režim formulára
+b_percent	Bublina viditeľná (%)
+b_hide_option	Možnosť skrytia
+b_minimizable	Možné minimalizovať
+b_closable	Možné zatvoriť
+b_minimized	Minimalizované
+b_width	Šírka
+b_width.h	Definuje šírku bubliny objektu v pixeloch.
+bmain_minimizable	Možné minimalizovať
+bmain_position	Pozícia
+bmain_win_style	Štýl
+bmain_size	Veľkosť
+bmain_alignment	Zarovnanie
+bubble	Bublina objektu
+bubble_offset	Posunutie
+bubblestyle_d	Štýl
+bubblestyle_init	Štýl bubliny
+choose_appl_template	Vybrať profil aplikácie
+choose_bool	Vybratá hodnota
+choose_nr	Vybratý index
+choose_text	Vybratá hodnota
+target_static_text	je zaznamenané ako „Špecifikátor stránky“.
+target_spec_warning	Upozornenie: Pre tento ovládací prvok nie sú k dispozícii žiadne informácie o novom zázname.
+prev_step	Predchádzajúci krok
+next_step	Ďalší krok
+click	Akcia myši
+click_pos	Pozícia kliknutia
+click_pos_rel	Pozícia bubliny
+config_file	Profil aplikácie
+define_target	Obrazovka
+display	Upraviť hlavnú bublinu
+display_name	Zobraziť názov
+drag	Presunúť
+drop	Pustiť
+dump_page	Snímka obrazovky
+elem_bubble	Bublina objektu
+element_type	Typ objektu
+enabled	Povolené
+optional	Voliteľné
+enter	Zadanie myšou
+executable	Aplikácia
+explanation_d	Text
+explanation_d_modified	Preložiť manuálne
+explanation_long	Vysvetlenie
+fh_mouseover	Nápoveď pri prejdení myšou
+fh_onelem	Ikona
+fh_tooltip	Názov tlačidla
+fh_bubble	Bublina
+step_list	Zoznam krokov
+fieldicon	Obrázok objektu
+fieldname	Názov objektu
+find	Hľadať
+AutoBarChooseScn	Kliknúť na príslušnú obrazovku
+frame	Rámček
+g_highlight_bgr	Farba
+g_highlight_border	Okraj
+g_highlight_effect	Efekt
+global	Globálne
+hide_on_focuslost	Skryť pri strate fókusu
+hilight	Zvýraznenie
+input_radio	Prepínač/začiarkavacie pole
+input_text	Vstupný text
+init	Inicializácia
+key	Kľúč
+key_desc	Klávesová skratka
+key_name	Kód klávesu
+key_press	Stlačenie klávesu
+lclick	Kliknutie ľavým tlačidlom myši
+ldblclick	Dvojité kliknutie ľavým tlačidlom myši
+force_display	Vynútiť zobrazenie
+auto_execute	Automaticky vykonať
+show_confirmation	Zobraziť tlačidlo potvrdenia
+show_confirmation.h	Definuje, či sa v bubline objektu pri prehrávaní zobrazí tlačidlo potvrdenia. Tlačidlo používateľovi umožňuje potvrdiť vykonanú akciu a následne sa zobrazí ďalší krok.
+link_to_sim	Vložiť prepojenie simulácie
+macro_comment	Komentár
+main_bubble	Okno
+match_value	Porovnať hodnotu
+mini_on_focuslost	Minimalizovať pri strate fókusu
+enable_tincan	Sledovanie @{NAVIGATOR} 
+nav_check_freq	Frekvencia aktualizácie (min.)
+navigation	Asistent pracovnej plochy
+new_screen_context	Nová obrazovka
+no_spike	Žiadny hrot
+pa_caption	Prehliadka s výkladom
+none	Žiadne
+objname	Názov objektu
+orientation	Orientácia
+path	Cestu k objektu 
+position	Pozícia
+rclick	Kliknutie pravým tlačidlom myši
+rdblclick	Dvojité kliknutie pravým tlačidlom myši
+record_activearea	Zaznamenať aktívnu oblasť
+record_application_context	Zaznamenať aplikáciu
+no_control	V pozícii kliknutia nie je k dispozícii žiadny objekt.
+record_control	Zaznamenať objekt
+record_control_pa	Zaznamenať krok prehliadky s výkladom
+record_define_target	Zaznamenať obrazovku
+record_display	Upraviť hlavnú bublinu
+record_end_display	Upraviť bublinu
+record_explanation	Pridať vysvetlenie
+record_object_context	Zaznamenať objekt
+record_screen_context	Zaznamenať obrazovku
+record_target_specializer	Zaznamenať špecifikátor stránky
+record_compatible_application	Zaznamenať kompatibilnú aplikáciu
+reference	Zdroj
+regexp	Regulárny výraz
+replace	Nahradiť
+replace_continue	Nahradiť a pokračovať...
+replace_pgkey_attr	Nahradiť atribúty kľúča stránky
+error_regexp	Neplatný regulárny výraz. Opravte svoje zadanie.
+resize	Zmeniť veľkosť okna
+revision	Revízia
+sc_config_header	Informácie profilu
+screen	Obrazovka
+screenhelp	Pomocník obrazovky
+screenshot_rect	Pozícia snímky obrazovky
+select_single	Vybrať jeden
+selected_merge	Zlúčiť vybraté makrá obrazovky
+show_bubble	Zobraziť priamo
+show_hilight	Zobraziť zvýraznenie
+show_on_focus	Zobraziť pri fókuse
+source	Zdroj
+start_unit	Štýl kontextového pomocníka
+subkey	Povolené ako podkľúč
+script	Skript
+target_name	Názov
+target_specializer	Špecifikátor stránky
+text_d	Vstupný text
+text_d_specializer	Vstupný text
+tolerance	Tolerancia pre zlúčenie makier obrazovky
+translate	Automatický preklad
+autoTranslate	Preložiť projekt
+paramReRecordLanguage	Jazyk
+merge_critical_macros	Automaticky zlúčiť makrá
+merge_critical_macros.h	Ak konvertujete simulácie na navigácie, môžete automaticky zlúčiť vytvorené obrazovky. Zlúčia sa pomocou hodnoty tolerancie určenej v parametri „Tolerancia zlúčenia makier obrazovky“.
+uid	UID
+underline	Podčiarknuť
+update_control	Aktualizovať objekt
+update_target	Aktualizovať obrazovku
+variant	Variant
+win_rect	Veľkosť okna
+wizCancel	Zrušiť
+wizFinish	Dokončiť
+wizNext	Nasledujúce
+wizOk	OK
+wizExplanation	Vysvetlenie
+wizContinue	Pokračovať
+app_info	Zobraziť aplikáciu
+app_link_to_sim	Vložiť prepojenie simulácie pre aplikáciu
+screen_info	Zobraziť obrazovku
+screen_link_to_sim	Vložiť prepojenie simulácie pre obrazovku
+object_info	Zobraziť variant
+object_link_to_sim	Vložiť prepojenie simulácie
+disabled	Neaktívne
+record_context_assistant_include	Zahrnúť projekt @{NAVIGATOR}
+project_id	Názov projektu
+project_id.h	Parameter obsahuje vložený projekt. Tlačidlo „Upraviť prepojenie“ umožňuje vybrať projekt v pracovnej oblasti.
+project	Projekt
+context_assistant_include	Projekt asistenta pracovnej plochy
+open_expanded	Zobraziť rozšírenú hlavnú bublinu
+restart_option	Tlačidlo Reštart
+next_project_id	Ďalší projekt
+next_project_id.h	Táto možnosť definuje projekt, ktorý sa spustí po dokončení aktuálneho procesu. Nový proces sa spustí priamo a nezobrazí sa žiadna koncová bublina.
+end_unit	Koniec prehliadky
+add_end_unit	Pridať koniec procesu
+demo	Demonštračný režim
+uebung	Cvičný režim
+praxis	Súbežný režim
+test	Testovací režim
+doc	Dokument Word
+pdf	Dokument programu PDF
+html	Dokument HTML
+ppt	Dokument PowerPoint
+explanation_type	Ikona
+note	Poznámka
+info	Informácie
+tipp	Tip
+warnung	Upozornenie
+no_image	Žiadna ikona
+display_on	Zobraziť hlavnú bublinu pre
+nav_start	Spustenie navigácie
+app_focus	Zameranie aplikácie
+screen_focus	Fókus obrazovky
+never	Nezobrazovať
+list_type	Typ zoznamu pre obrazovku
+list_type.h	Tento parameter určuje typ zoznamu objektov na obrazovke, ak je povolená možnosť „Zobraziť všetky informácie o objekte“.
+unordered_list	Odrážky
+ordered_list	Číslovanie
+convert_sn	Generovať asistenta pracovnej plochy
+Application	Aplikácia
+obj_context	Objekt
+expl_context	Vysvetlenie
+record_cntrl_type	Typ
+disable_standby	Deaktivovať úsporný stav (@{NAVIGATOR})
+disable_standby.h	Zadáva, že úsporný stav @{NAVIGATOR} nie je možné nastaviť. Ak je táto možnosť deaktivovaná, môžete úsporný stav nastaviť skratkou „CTRL + F11“ alebo kliknutím na ikonu stavu.
+disable_exit	Skryť záznam Skončiť (@{NAVIGATOR})
+disable_exit.h	Zadáva, že záznam Skončiť je v kontextovom menu ikony stavu @{NAVIGATOR}skrytý.
+bcontent_style	Štýl bubliny
+bcontent_style.h	Toto nastavenie definuje, ktorý štýl bubliny sa má použiť pre zobrazenie bubliny.
+cache_properties	Vyrovnávacia pamäť
+cache_folder	Umiestnenie zložky
+cache_folder.h	Určuje umiestnenie zložky vyrovnávacej pamäte 'NavigatorCache'. Predvolené umiestnenie je '%localappdata%'. Môžete zadať vlastné umiestnenie. \nPoznámka: Názov zložky vyrovnávacej pamäte nie je možné zmeniť.
+use_caching	Použiť ukladanie do vyrovnávacej pamäte
+use_caching.h	Aktivuje použitie @{NAVIGATOR} vyrovnávacej pamäte.
+function_keys	Funkčné klávesy
+minimize_da	Minimalizovať
+minimize_da.h	Definuje funkčný kláves pre minimalizáciu hlavného okna.
+next_tab	Vybrať ďalšiu kartu
+next_tab.h	Definuje funkčný kláves pre výber ďalšej karty v hlavnom okne.
+next_screen	Prejsť na ďalšiu obrazovku
+next_screen.h	Definuje funkčný kláves pre prechod na ďalšiu obrazovku pre vybratý projekt.
+back	Prejsť späť
+back.h	Definuje funkčný kláves pre prechod na predchádzajúcu obrazovku.
+toggle_standby	Prepnúť úsporný režim
+toggle_standby.h	Definuje funkčný kláves pre prepnutie úsporného režimu.
+abort	Prerušiť
+abort.h	Definuje funkčný kláves na prerušenie asistenta pracovnej plochy.
+restart	Reštartovať
+restart.h	Definuje funkčný kláves na reštartovanie asistenta pracovnej plochy.
+start_pa	Spustiť projekt asistenta pracovnej plochy
+start_pa.h	Definuje funkčný kláves pre spustenie vybratého projektu.
+start_demo	Spustiť predvádzací režim
+start_demo.h	Definuje funkčný kláves pre spustenie vybratého predvádzacieho režimu.
+start_prac	Spustiť cvičný režim
+start_prac.h	Definuje funkčný kláves pre spustenie vybratého cvičného režimu.
+start_test	Spustiť testovací režim
+start_test.h	Definuje funkčný kláves pre spustenie vybratého testovacieho režimu.
+start_concur	Spustiť súbežný režim
+start_concur.h	Definuje funkčný kláves pre spustenie vybratého súbežného režimu.
+start_book	Spustiť knihu
+start_book.h	Definuje funkčný kláves pre spustenie vybratej knihy.
+start_group	Otvoriť v library
+start_group.h	Definuje funkčný kláves pre otvorenie skupiny v library.
+toggle_ctx_rec	Prepnúť rozpoznávanie kontextu
+toggle_ctx_rec.h	Definuje funkčný kláves prepnutie rozpoznávania kontextu asistenta pracovnej plochy.
+select_next	Vybrať nasledujúci záznam
+select_next.h	Definuje funkčný kláves pre výber nasledujúceho záznamu v aktuálnom okne.
+select_prev	Vybrať predchádzajúci záznam
+select_prev.h	Definuje funkčný kláves pre výber predchádzajúceho záznamu v aktuálnom okne.
+toggle_warning	Zobraziť dialóg upozornenia
+toggle_warning.h	Definuje funkčný kláves pre zobrazenie dialógu upozornenia asistenta pracovnej plochy.
+execute_step	Vykonať krok
+execute_step.h	Definuje funkčný kláves pre vykonanie kroku pri prehrávaní prehliadky s výkladom.
+copy_link	Kopírovať prepojenie
+copy_link.h	Definuje funkčný kláves pre kopírovanie prepojenia vybratej entity.
+maximize_trainer	Maximalizovať okno obsahu
+maximize_trainer.h	Definuje funkčný kláves pre maximalizáciu okna obsahu.
+share_email	Zdieľať prostredníctvom e-mailu.
+share_email.h	Definuje funkčný kláves pre zdieľanie obsahu vybratej entity prostredníctvom e-mailu.
+start_default	Spustiť predvolený obsah
+start_default.h	Definuje funkčný kláves pre spustenie predvoleného režimu alebo vybratého dokumentu.
+show_da_help	Zobraziť pomocníka pre asistenta pracovnej plochy
+show_da_help.h	Definuje funkčný kláves pre otvorenie pomocníka pre asistenta pracovnej plochy.
+request_content	Vyžiadať obsah
+request_content.h	Definuje funkčný kláves pre požadovanie obsahu pre stránku aplikácie.
+search_content	Vyhľadať obsah
+search_content.h	Definuje funkčný kláves pre hľadanie obsahu v závislosti od vybratého typu hľadania.
+show_hidden_elems	Zobraziť skryté prvky pomocníka
+show_hidden_elems.h	Definuje funkčný kláves pre zobrazenie skrytých prvkov pomocníka.
+toggle_side_bar	Zobraziť / skryť bočný panel
+toggle_side_bar.h	Definuje funkčný kláves pre zobrazenie alebo skrytie bočného panela.
+content_library	Asistent pracovnej plochy - obsah a správanie sa
+content_library_window	Asistent pracovnej plochy - štýl a okná
+content_library_sidebar	Asistent pracovnej plochy - bočný panel
+style	Štýl
+style.h	Definuje vzhľad komponentov asistenta pracovnej plochy (hlavné okno, okno s obsahom, ikona statusu). Vyberte zdroj štýlu zo zoznamu.
+show_only_bar	Zobraziť pri spustení len bočný panel
+show_only_bar.h	Definuje, či sa pri spustení asistenta pracovnej plochy zobrazí len bočný panel alebo aj hlavné okno.
+clear_on_mismatch	Vymazať zoznam obsahu pri nezhode kontextu.
+clear_on_mismatch.h	Definuje, že zoznam obsahu sa vymaže, ak sa nenašiel žiadny kontext. S deaktivovaným nastavením sa zobrazí obsah posledného rozpoznaného objektu.
+da_positioning	Zarovnanie hlavného okna
+da_positioning.h	Definuje zarovnanie hlavného okna na obrazovke. Možnosť ‘Voľné‘ umožňuje definovať pozíciu v parametri ‘Pozícia hlavného okna‘.
+bar_positioning	Zarovnanie bočného panela
+bar_positioning.h	Definuje zarovnanie bočného panela na obrazovke.
+left_top	Ľavý horný roh
+left_center	Vľavo na stred
+left_bottom	Ľavý dolný roh
+right_top	Pravý horný roh
+right_center	Pravý stred
+top_center	Hore v strede
+right_bottom	Pravý dolný roh
+center	Stred
+free	Voľné
+list_order	Zoradenie obsahu
+list_order.h	Definuje zoradenie dostupného obsahu v zozname.
+by_default	Štruktúra prieskumníka
+by_name	Podľa abecedy
+by_type	Abecedne podľa typu
+library_position	Pozícia hlavného okna (voľné)
+library_position.h	Definuje pozíciu hlavného okna (vľavo hore) pre ‘Voľné‘ zarovnanie na obrazovke. Hodnoty sa zadávajú v pixeloch.
+search_url	Skupina pre hľadanie
+search_url.h	Umožňuje zadať skupinu pracovnej oblasti pre hľadanie obsahu v @{LIBRARY}.
+enable_recording	Pozícia: Ovládací prvok 'Záznam‘
+enable_recording.h	Umožňuje zobraziť ovládací prvok pre procesy záznamu. Môžete zadať pozíciu ovládacieho prvku v bočnom paneli. \nZáznam umožňuje používateľovi zaznamenávať procesy ako dokumenty Microsoft Word alebo ako videá. Zaznamenané súbory sa zobrazia v hlavnom okne na karte Oblasť používateľa.
+enable_exit_da	Pozícia: Ovládací prvok 'Exit'
+enable_exit_da.h	Umožňuje zobraziť ovládací prvok pre ukončenie @{NAVIGATOR}. Môžete zadať pozíciu ovládacieho prvku v bočnom paneli.
+enable_info	Zobraziť kartu ‘Informácie‘
+enable_info.h	Povoľuje kartu ‘Informácie‘ pre hlavné okno asistenta pracovnej plochy. Vložte text informácie do krátkeho popisu skupiny asistenta pracovnej plochy.
+request_content_type	Druh požadovania obsahu
+request_content_type.h	Určuje funkcie pre požadovanie obsahu. Vyberte typ z rozbaľovacieho zoznamu. \nE-mail: Umožňuje zadať e-mailovú adresu pre požiadavky. \nURL: Umožňuje zadať URL pre otvorenie webovej stránky. \nOvládací prvok 'Požadovať obsah‘ sa zobrazí v bočnom paneli. Ak sa obsah nenájde, prepojenie 'Požadovať obsah' sa zobrazí v hlavnom okne.
+email	E-mail
+url	URL
+enable_request_content	Pozícia: Ovládací prvok ‘Požadovať obsah‘
+enable_request_content.h	Určuje pozíciu ovládacieho prvku ‘Požadovať obsah‘ v bočnom paneli.
+enable_external_search_ctx	Zadať kontextové informácie
+enable_external_search_ctx.h	Poskytuje doplňujúce kontextové informácie používateľa s URL hľadania počas vyhľadávania. Kontextové informácie sa použijú pre hľadanie. Toto nastavenie aktivujte, ak sa majú pri zadanom hľadaní používať kontextové informácie. \nKontextové informácie sa zadávajú v parametri 'Kontextové informácie'.
+external_search_ctx	Informácie kontextu
+external_search_ctx.h	Zadáva kontextové informácie, ak bolo aktivované nastavenie 'Zadať kontextové informácie'. Zadať je možné tieto kontextové informácie: EXE aktuálnej aplikácie (&executable=$#{EXE}), kľúč stránky aktuálnej stránky aplikácie (&pagekey=$#{PAGEKEY})\nPoznámka: Nemeňte štruktúru reťazca kontextových informácií.
+enable_external_search	Pozícia: Ovládací prvok 'Externé hľadanie‘
+enable_external_search.h	Umožňuje aktivovať stránku externého hľadania pre hľadanie obsahu alebo ďalších informácií. Ak je toto nastavenie aktivované, zobrazí sa v bočnom paneli ovládací prvok 'Externé hľadanie'. Môžete zadať pozíciu ovládacieho prvku v bočnom paneli. \nTlačidlo otvorí pole pre hľadanie, do ktorého môžete zadať hľadaný pojem. Výsledky hľadania sa zobrazia na stránke externého hľadania. Pre externé hľadanie musíte zadať URL hľadania v parametri 'URL externého hľadania'.
+external_search_url	URL
+external_search_url.h	Umožňuje zadať URL pre externé hľadanie. Zadané URL by malo mať nasledujúcu štruktúru:\nhttps://www.google.com/#q=$#{SEARCHTERM}\nhttps://www.bing.com/search?q=$#{SEARCHTERM}\nhttps://search.yahoo.com/search?p=$#{SEARCHTERM}\n https://www.wolframalpha.com/input/?i=$#{SEARCHTERM}\n\nPoznámka: Nevymazávajte ani nemeňte '=$#{SEARCHTERM}' parametra URL.
+enable_share_content	Zobraziť ovládací prvok 'Zdieľať obsah‘ 
+enable_share_content.h	Zobrazuje tlačidlo 'Zdieľať obsah‘ v pätičke hlavného okna. Toto tlačidlo otvorí dialógové okno s prepojením na vybratý obsah.
+author_email	E-mail
+author_email.h	Umožňuje zadať e-mailovú adresu pre požadovanie obsahu. E-mailová adresa sa používa pre funkciu ‘Požadovať obsah‘.
+author_url	URL
+author_url.h	Umožňuje zadať URL pre požadovanie obsahu. URL sa používa pre funkciu ‘Požadovať obsah‘.
+author_url_params	Parametre URL
+author_url_params.h	Umožňuje zadať parametre pre URL autora. \nMôžete zadať názov aplikácie a súbor programov. Nahraďte hodnotu ‘aplikácia‘ alebo ‘súbor programov‘ požadovaným názvom.
+enable_fuzzy_match	Povoliť približnú zhodu
+enable_fuzzy_match.h	Definuje, či sa má použiť približná zhoda, aby kontext obsahu zodpovedal stránke aplikácie.
+enable_ident_filter	Povoliť rozšírenú identifikáciu aplikácie
+enable_ident_filter.h	Určuje, že sa na prehrávanie @{NAVIGATOR} použijú len relevantné informácie o aplikácii. To vám umožní optimalizovať výkon @{NAVIGATOR}.\nPoznámka: Voľba môže viesť k nesprávnemu rozpoznaniu objektov. Pred publikovaním obsahu sa odporúča otestovať prehrávanie.
+library_size	Veľkosť hlavného okna
+library_size.h	Definuje veľkosť (šírku, výšku) hlavného okna v pixeloch.
+book_win_position	Pozícia okna obsahu (voľná)
+book_win_position.h	Definuje pozíciu okna obsahu (vľavo, hore) pre  zarovnanie 'Voľné' na obrazovke. Hodnoty sa zadávajú v pixeloch.
+book_win_size	Veľkosť okna obsahu
+book_win_size.h	Definuje veľkosť (šírku, výšku) okna obsahu v pixeloch.
+book_win_positioning	Zarovnanie okna obsahu
+book_win_positioning.h	Definuje zarovnanie okna obsahu na obrazovke. Možnosť 'Voľné' umožňuje definovať pozíciu v parametri 'Pozícia okna obsahu'.
+errNoApplicationContext	Aktuálne makro nie je kontext aplikácie.
+errNoTargetDefinition	Makro nekorešponduje s cieľovou definíciou.
+errExtractPagekey	Nie je možné extrahovať kľúč stránky s profilom:
+errScreenshot	Nie je možné vytvoriť snímok obrazovky. Skúste znova.
+errLoadTemplate	Nie je možné načítať profil:
+errRecordProcessStep	Kroky prehliadky s výkladom nie je možné zaznamenať pre projekty ‘kontextového pomocníka‘.
+errLanguageSelection	Nevybraný žiadny jazyk.
+errNoWriteToken	Pre vybraný objekt nemáte povolenie na zápis.
+errMacroSelection	Nevybrané žiadne makro.
+errObjectInformation	Žiadne informácie o objekte v danej pozícii.
+errSpecializedInformation	Žiadne špecializované informácie v danej pozícii.
+errPosition	Pozícia nie je v oblasti okna.
+errActionMacroSelection	Nevybraté žiadne makro akcie.
+errUpdateObject	Vybratý typ objektu nie je možné aktualizovať.
+errInsertExplanation	Nie je možné vložiť voľné vysvetlenie pre vybraté makro.
+action.h	Prehliadka s výkladom len\nTáto možnosť definuje akciu, ktorú pravdepodobne používateľ vykoná u objektu.
+all_values.h	V niektorých prípadoch objekt aplikácie drží voľby pre hodnoty, ktoré nie je možné pokryť štandardným ovládacím prvkom HTML. Vtedy sa použije ovládací prvok, ktorý je najbližší k objektu v aplikácii. Toto pole okrem toho drží všetky hodnoty, ktoré objekt drží ako voľby.
+anim_steps.h	Hodnota definuje, v koľkých krokoch sa animuje zvolený efekt zvýraznenia. Nízke hodnoty animáciu zrýchľujú, ale spôsobujú prerušovanie. Pri vysokých hodnotách je animácia plynulejšia, ale celková rýchlosť animácie je tiež pomalšia.
+auto_execute.h	Nastavenie definuje, že akcia sa vykoná automaticky počas prehrávania navigácie.
+b_height.h	Definuje výšku bubliny objektu v pixeloch. Ak množstvo textu presahuje disponibilný priestor v bubline, prispôsobí sa podľa výšky automaticky požadovanému priestoru.
+b_hide_option.h	Len kontextový pomocník\nAktivovaním tejto možnosti sa objaví nastavenie v bubline objektu alebo vysvetlenia, kde informáciu o objekte (bublina a zvýraznenie) môžu deaktivovať koncoví používatelia. Toto používateľom umožní skryť akúkoľvek informáciu, ktorú už nepotrebujú.
+b_minimizable.h	Táto možnosť definuje, či je možné bublinu počas prehrávania minimalizovať. S aktivovanou možnosťou sa v hlavičke bubliny zobrazí tlačidlo 'Minimalizovať'.
+b_closable.h	Len kontextový pomocník\nTáto možnosť definuje, či je možné bublinu počas prehrávania zatvoriť. S aktivovanou možnosťou sa v hlavičke bubliny zobrazí tlačidlo 'Zatvoriť'.
+b_minimized.h	Len kontextový pomocník\nTáto možnosť definuje, či sa bublina objektu zobrazí pri načítaní stránky ako minimalizovaná.
+bmain_size.h	Definuje veľkosť (šírku, výšku) hlavného okna v pixeloch.
+bmain_minimizable.h	Táto možnosť definuje, či je hlavné okno možné minimalizovať alebo nie.
+bmain_position.h	Tu zadané hodnoty definujú pozíciu hlavného okna na obrazovke. Čísla popisujú vzdialenosť od ľavého horného rohu obrazovky v pixeloch.
+bmain_win_style.h	Definuje vzhľad hlavného okna. Vyberte zdroj štýlu zo zoznamu.
+bmain_alignment.h	Definuje zarovnanie hlavného okna na obrazovke. Možnosť ‘Voľné‘ umožňuje definovať pozíciu v parametri ‘Pozícia okna‘.
+bubble_offset.h	Táto možnosť definuje posunutie v pixeloch, v akom sa zobrazí bublina k objektu.
+bubblestyle_d.h	Zadáva zdroj štýlu bubliny pre zobrazenie bublín objektov v projekte.
+bubblestyle_d.h	Zadáva zdroj štýlu bubliny pre zobrazenie bublín objektov v projekte.
+choose_bool.h	Toto pole obsahuje hodnotu, ktorá určuje, či je prepínač alebo začiarkavacie pole zapnuté alebo vypnuté. Hodnota pre prepínač je vždy „1“ (zap.). Hodnota pre začiarkavacie pole môže byť „0“ (vypnuté) alebo „1“ (zapnuté).
+choose_text.h	Tento parameter obsahuje znakový reťazec, ktorý sa našiel pre vybratý záznam v menu automaticky otváraného okna alebo poli zoznamu počas procesu automatického záznamu. Tento reťazec sa vkladá do vysvetľovacích textov bublín v rôznych režimoch namiesto zástupného znaku „${choose_text}“ (pozri textový režim v editore HTML). Používa sa ako textový modul pre automaticky generovaný text bubliny pri automatickom generovaní obsahu bubliny s textovými modulmi počas záznamu.
+click_pos.h	Popisuje pozíciu v okne aplikácie, na ktorú klikol autor pri zázname objektu. Pozícia sa zadáva v pixeloch a odkazuje na ľavý horný roh obsahu okna aplikácie.
+click_pos_rel.h	Popisuje pozíciu v okne aplikácie. Hodnota v percentách (%) poskytuje pozíciu, ktorá je relatívna k celkovej šírke a výške okna aplikácie, pričom ľavý a horný okraj sú referenčné body.
+config_file.h	Obsahuje názov profilu aplikácie, ktorý sa použil na vytvorenie a neskoršiu interpretáciu kľúča.
+display_name.h	Zadáva názov aplikácie. Tento názov sa zobrazí v okne výnimiek prehliadky s výkladom.
+dump_page.h	Obsahuje zaznamenanú obrazovku. \nObrázok môžete zmeniť pomocou funkcie 'Nahradiť obrázok'.
+element_type.h	Popisuje triedu objektu, ktorú rozpoznal mechanizmus rozpoznania.
+enabled.h	Len kontextový pomocník\nTáto možnosť definuje, či je makro zahrnuté to analýzy stránky. Ak je táto možnosť deaktivovaná, objekt nápovede sa nezobrazí, aj keď príslušný objekt na stránke existuje.
+optional.h	Len prehliadka s výkladom\nMožnosť definuje, či je krok prehliadky s výkladom voliteľný pre používateľa v procese. \nPri prehrávaní sa v zozname krokov zobrazí iná ikona. Ak ovládací prvok nie je viditeľný na stránke alebo ak je stránka chybná, krok sa preskočí.
+executable.h	Obsahuje názov spustiteľného súboru aplikácie, ako ho používa operačný systém.
+explanation_d.h	Obsahuje informácie o zodpovedajúcom kontexte (text, prepojenia, obrázky atď.). Zabezpečte optimálne zobrazenie informácií v hlavnej bubline.
+explanation_d_modified.h	Ak je táto možnosť aktivovaná, kontextové informácie sa v prípade automatického prekladu už automaticky nevygenerujú, ale musia sa namiesto toho upraviť manuálne. Pomáha to zachovať manuálne zmeny obsahu bubliny.
+fieldname.h	Obsahuje názov zaznamenaného ovládacieho prvku, ktorý sa vloží do textov v bublinách. \nNázov objektu môžete zmeniť v textovom poli. Názov objektu má zástupný symbol '$#{fieldname}'.
+fieldicon.h	Obsahuje obrázok zaznamenaného tlačidla alebo ikony, ktorý sa vloží do textov bublín. \nObrázok objektu môžete zmeniť pomocou funkcie 'Nahradiť obrázok'. Obrázok má zástupný symbol '$I{fieldicon}'.
+g_highlight_bgr.h	Definuje štandardnú farbu okrajov zvýraznenia v navigácii. Farba sa môže zadať priamo ako hodnota RBG vo formáte HEX, alebo vybrať v dialógovom okne Výber farby.
+g_highlight_border.h	Tento parameter definuje všeobecnú hrúbku rámčeka zvýraznenia objektu v pixeloch. Šírky v pixeloch sú dostupné od '1' do '10'.
+g_highlight_effect.h	Táto možnosť stanovuje druh efektu zvýraznenia použitého pre objekty v navigácii.
+hide_on_focuslost.h	Táto možnosť definuje, či sa bublina skryje, keď sa fókus na obrazovke presunie mimo príslušný objekt.
+highlight_offset.h	Tento parameter v pixeloch definuje pridaný posun pre obdĺžnik zvýraznenia, ktorý obklopuje označený prvok.
+key.h	Obsahuje všetky kritériá na identifikáciu okna aplikácie a určitej stránky v aplikácii. Kľúč zodpovedá len v prípade, že stránka v cieľovej aplikácii spĺňa všetky kritériá definované v kľúči. Ak chcete zmierniť definíciu kritérií jedného kľúča, môžete použiť regulárne výrazy.
+key_name.h	Tento parameter určuje použitý kláves alebo skratku. Názvy klávesov musia byť oddelené medzerami, napríklad: 'ctrl + k'.
+key_desc.h	Tento parameter určuje použitý kláves alebo skratku. Názvy klávesov musia byť oddelené medzerami, napríklad: 'ctrl + k'.
+force_display.h	Len kontextový pomocník\nUrčuje, že sa obsah makra vždy zobrazí ako okamžitá nápoveď, aj keď je okamžitá nápoveď pri prehrávaní asistenta pracovnej plochy neaktívna.
+link_to_sim.h	Táto možnosť zahrnie prepojenie simulácie do hlavnej bubliny. Táto možnosť sa vzťahuje na navigáciu, ktorá bola vytvorená na základe projektu simulácie (konverziou).
+macro_comment.h	Všeobecný komentár. Zobrazí sa ako miniatúra.
+match_value.h	Táto možnosť zadáva, či sa má indikovaná hodnota porovnať so skutočnou hodnotou objektu v produktívnej aplikácii.
+mini_on_focuslost.h	Táto možnosť definuje, či sa bublina minimalizuje, keď sa fókus na obrazovke presunie mimo príslušný objekt.
+nav_check_freq.h	Definuje, v akej frekvencii @{NAVIGATOR} kontroluje aktualizovaný obsah. Ak je k dispozícii aktualizovaný obsah, @{NAVIGATOR} spustí obsah automaticky. To je dôležité hlavne pre procesy správy zmien.
+enable_tincan.h	Aktivuje sledovanie pre obsah @{NAVIGATOR}. Obsah sa musí spustiť z pracovnej oblasti @{MANAGER}.
+no_spike.h	Táto možnosť definuje, či sa bublina objektu zobrazí s hrotom alebo bez.
+objname.h	Každý objekt v navigácii vyžaduje jedinečný názov pre účely identifikácie, keď používa správanie a priradenia správania.
+orientation.h	Tento parameter definuje orientáciu bubliny objektu vo vzťahu k odkazovanému objektu. Šípka bubliny ukazuje na pozíciu odkazovanú na stránke, zatiaľ čo samotné zobrazenie bubliny sa posunie vo vybratom smere, podľa pokynov. Ak sa vyberie orientácia „Stred“, bublina sa zobrazí bez šípky a vystredí sa v definovanej pozícii.
+path.h	Cesta k objektu popisuje vlastnosti objektu na základe použitého profilu aplikácie. Cesta k objektu sa používa na identifikáciu objektu v produktívnej aplikácii. Toto pole obvykle nie je potrebné upravovať manuálne.
+position.h	Tu zadané hodnoty definujú pozíciu hlavnej bubliny na obrazovke. Čísla popisujú vzdialenosť od ľavého horného rohu obrazovky v pixeloch.
+reference.h	Ak bola navigácia skonvertovaná zo simulácie, má sa tu zadať zdroj príslušného kroku.
+resize.h	Táto možnosť definuje, či sa má veľkosť okna cieľovej aplikácie zmeniť automaticky na veľkosť, ktorá bola použitá pri vytvorení navigácie. Môže to byť užitočné pre aktívne oblasti, ktoré sa zobrazia na základe pozície.
+revision.h	Zobrazí verziu profilu aplikácie použitú na vytvorenie kľúča pri zázname obrazovky aplikácie.
+sc_config_header.h	V tomto poli sú uložené informácie z profilu aplikácie. Navigácii tieto informácie umožnia správne rozpoznať aplikáciu a jej objekty pri prehrávaní.
+screenshot_rect.h	Zobrazuje, ktorá oblasť pôvodnej obrazovky bola použitá pre snímku obrazovky objektu. Obvykle nie sú potrebné manuálne úpravy.
+show_bubble.h	Táto možnosť definuje, či sa bublina zobrazí hneď po úplnom načítaní stránky.
+start_from_arbitrary.h	Táto možnosť definuje, že prehliadku s výkladom je možné spustiť z ľubovoľného kroku a nie od začiatku procesu.
+show_hilight.h	Určuje, či sa pre objekt zobrazí zvýraznenie.
+show_highlight.h	Určuje, či sa pre objekty zobrazia zvýraznenia.
+show_on_focus.h	Táto možnosť definuje, či sa bublina zobrazí, keď sa fókus na obrazovke zmení na príslušný objekt.
+source.h	Ak bola navigácia skonvertovaná zo simulácie, parameter určuje pôvodnú učebnú jednotku.
+subkey.h	V niektorých prípadoch pomôže, ak sa niektoré časti pôvodnej časti kľúča ignorujú, napr. pretože varianty určitej stránky sú nerelevantné a so všetkými by sa malo v navigácii zaobchádzať podľa rovnakého kľúča a kroku. Táto možnosť núti mechanizmus rozpoznávania, aby považoval kľúč za zhodu, aj keď rozpoznávanie pre stránku nahlásilo viac kritérií kľúča, ako je v kľúči definované. Kľúč stránky je preto možné skrátiť, aby sa jedným kľúčom pokryla viac ako jedna stránka.
+target_name.h	Obsahuje názov okna aplikácie.
+text_d.h	Tento parameter obsahuje znakový reťazec, ktorý sa má zadať v odkazovanom vstupnom poli. Obsahuje hodnotu zadanú počas procesu automatického záznamu. Tento reťazec sa vkladá do vysvetľovacích textov bublín v rôznych režimoch namiesto zástupného symbolu „${text_d}“ (pozri textový režim v editore HTML) pri automatickom generovaní obsahu bubliny s textovými modulmi počas záznamu.
+text_d_specializer.h	Tento parameter obsahuje znakový reťazec, ktorý sa má zadať v odkazovanom vstupnom poli. Obsahuje hodnotu zadanú počas procesu automatického záznamu. Tento reťazec sa vkladá do vysvetľovacích textov bublín v rôznych režimoch namiesto zástupného symbolu „${text_d}“ (pozri textový režim v editore HTML) pri automatickom generovaní obsahu bubliny s textovými modulmi počas záznamu.
+tolerance.h	Hodnota definuje toleranciu pre stupeň zhody pri zlučovaní makier „Obrazovka“. Toto nastavenie sa vzťahuje na funkciu „Zlúčiť makrá obrazovky“, ktorú spustíte z menu „Nástroje -> Hromadné zmeny“. Zvýšenie hodnoty zvýši prah tolerancie. V tomto prípade je možné zlúčiť aj snímky obrazovky, na ktorých sa zobrazujú rôzne objekty. Hodnota sa zadáva v percentách.
+uid.h	Obsahuje jedinečný identifikátor makra, pod ktorým sa spravuje v projekte.
+win_rect.h	Definuje veľkosť okna pri vytváraní projektu.
+explanation_type.h	Táto možnosť stanoví typ poznámky. V závislosti od nastavenia typu sa zobrazí piktogram spolu s textom, aby sa pomocný text zvýraznil.
+app_info.h	Nastavenie definuje, či sa aplikácia zobrazí v kontextovom pomocníkovi. Ak sa aplikácia nemá zobraziť, nastavenie sa musí deaktivovať.
+app_link_to_sim.h	Tento parameter je možné použiť na zobrazenie prepojenia k simulácii zadaného v parametri ‘Zdroj‘ okrem  typu kontextu. V procese je možné vybrať rôzne režimy.
+screen_info.h	Nastavenie definuje, či sa stránka zobrazí v kontextovom pomocníkovi. Ak sa obrazovka nemá zobraziť, nastavenie sa musí deaktivovať.
+screen_link_to_sim.h	Tento parameter je možné použiť na zobrazenie prepojenia k simulácii zadaného v parametri ‘Zdroj‘ okrem  typu kontextu. V procese je možné vybrať rôzne režimy.
+object_info.h	Len kontextový pomocník\nNastavenie definuje variant, ktorý sa má zobraziť pre objekt.
+open_expanded.h	Ak je táto možnosť aktivovaná, hlavná bublina sa zobrazí s otvoreným zoznamom objektov a stránok.
+display_on.h	Tento parameter definuje, v akej situácii sa má zobraziť hlavná bublina navigácie. Pri spustení navigácie, pri zobrazení aplikácie alebo pri zobrazení zodpovedajúcej stránky aplikácie.
+area.h	Parameter definuje pozíciu a veľkosť ovládacieho prvku. Prvé dve čísla indikujú pozíciu objektu od ľavého horného rohu obrazovky. Posledné dve čísla definujú šírku a výšku objektu. Tlačidlo vedľa vstupného poľa otvorí dialógové okno úprav umožňujúce prispôsobiť pozíciu a veľkosť objektu.
+form_on.h	Definuje, že krok je formulár. Všetky akcie kroku sa pri prehrávaní zobrazia v jednej bubline.
+transition	Ďalší krok prehliadky s výkladom
+transition_info	Ďalší krok prehliadky s výkladom
+action_pa	Akcia
+trans_action	Akcia
+step_name1	Ďalší krok
+step_name2	Alternatívny krok 1
+step_name3	Alternatívny krok 2
+step_name4	Alternatívny krok 3
+LClick	Kliknutie ľavým tlačidlom myši
+RClick	Kliknutie pravým tlačidlom myši
+LDblClick	Dvojité kliknutie ľavým tlačidlom myši
+RDblClick	Dvojité kliknutie pravým tlačidlom myši
+Focus	Fókus
+FocusLost	Fókus stratený
+step	Krok prehliadky s výkladom
+name	Názov
+end_message	Text
+show_end_window	Okno na konci
+show_end_window.h	Určuje, že sa na konci prehliadky s výkladom zobrazí okno. Okno používateľovi umožní zatvoriť prehliadku s výkladom manuálne. Ak je táto možnosť deaktivovaná, okno sa nezobrazí a prehliadka s výkladom sa zatvorí automaticky.
+trans_action.h	Len prehliadka s výkladom\nUrčuje akciu, ktorá spustí prechod na ďalší krok prehliadky s výkladom.
+action_pa.h	Toto nastavenie špecifikuje, ktorá akcia používateľa spustí skok do nasledujúceho kroku prehliadky s výkladom.
+step_name1.h	Len prehliadka s výkladom\nDefinuje ďalší krok toku procesu.
+step_name2.h	Len prehliadka s výkladom\nDefinuje alternatívny krok prehliadky s výkladom, ak definovaný krok prehliadky s výkladom nie je možné zobraziť.
+step_name3.h	Len prehliadka s výkladom\nDefinuje alternatívny krok prehliadky s výkladom, ak definovaný alternatívny krok prehliadky s výkladom 1 nie je možné zobraziť.
+step_name4.h	Len prehliadka s výkladom\nDefinuje alternatívny krok prehliadky s výkladom, ak definovaný alternatívny krok prehliadky s výkladom 2 nie je možné zobraziť.
+step_on_same_page.h	Len prehliadka s výkladom\nToto nastavenie by sa malo aktivovať, ak je ďalší krok prehliadky s výkladom na rovnakej stránke aplikácie. Zabráni sa tak rozpoznávaniu stránky.
+name.h	Definuje názov kroku prehliadky s výkladom. Názov sa zobrazuje v nastaveniach ‘Ďalší krok prehliadky s výkladom' makra 'Objekt' pre daný výber.
+set_value	Nastaviť hodnotu automaticky
+set_value.h	Nastavenie definuje, či sa hodnota makra nastaví automaticky pri prehrávaní navigácie.
+end_message	Text
+end_message.h	Do tohto textového poľa môžete zadať text, ktorý sa v bubline zobrazí na konci procesu. V textovom poli je vopred vyplnený predvolený text.
+restart_option	Tlačidlo Reštart
+restart_option.h	Keď je táto možnosť aktivovaná, v bubline sa zobrazí tlačidlo, ktoré používateľovi umožní opakovať proces. Proces je tak možné vykonať znovu s inými záznamami.
+record_end_display	Upraviť bublinu
+end_bubble	Bublina - koniec procesu
+bend_position	Pozícia
+bend_position.h	Tu zadané hodnoty určujú pozíciu bubliny na obrazovke. Hodnoty sa zadávajú v pixeloch a vzťahujú sa k ľavému hornému rohu obrazovky.
+bend_style	Štýl
+bend_style.h	Toto nastavenie definuje, ktorý štýl bubliny sa má použiť na zobrazenie bubliny. Štýly bubliny sa definujú pomocou editora štýlu bubliny, ktorý je možné otvoriť z menu ‘Nástroje -> Upraviť štýly bubliny‘. Štýly bubliny sú vždy k dispozícii pre celú pracovnú oblasť.
+bend_width	Šírka
+bend_width.h	Toto definuje šírku bubliny, ktorá sa má zobraziť, v pixeloch.
+bend_height	Výška
+bend_height.h	Toto definuje výšku bubliny, ktorá sa má zobraziť, v pixeloch.
+process_start_unit	Štýl prehliadky s výkladom
+record_pa_control	Zaznamenať krok prehliadky s výkladom
+prev_step	Predchádzajúci krok
+next_step	Ďalší krok
+disqualifier	Vylúčiť obrazovku
+disqualifier.h	‘Špecifikátor stránky‘ umožňuje rozlíšiť podobné stránky aplikácie podľa určitého objektu. Táto možnosť určuje, či sa rozpoznaná stránka aplikácie zobrazí alebo vylúči, ak je dostupný ‘Špecifikátor stránky‘. \nZobrazenie miniatúry zobrazuje stav možnosti: plus (nevylúčiť) alebo mínus (vylúčiť).
+exception_bubble	Bublina - spracovanie výnimky
+bexp_position	Pozícia
+bexp_position.h	Tu zadaná hodnota definuje pozíciu bubliny na obrazovke. Hodnoty sa zadávajú v pixeloch. Bublina sa objaví v ľavom hornom rohu obrazovky.
+bexp_style	Štýl
+bexp_style.h	Tu môžete zvoliť typ bubliny, ktorý chcete použiť. Štýly bubliny je možné definovať v editore štýlu bubliny, ktorý je možný otvoriť z menu:  Nástroje -> Upraviť štýl bubliny.  Rôzne štýly bubliny sú vždy k dispozícii pre celú pracovnú oblasť.
+content_demo	Demonštračný režim
+content_demo.h	S touto možnosťou sa demonštračné režimy skupiny zobrazia v asistente pracovnej plochy.
+content_practice	Cvičný režim
+content_practice.h	S touto možnosťou sa cvičné režimy skupiny zobrazia v asistente pracovnej plochy.
+content_test	Testovací režim
+content_test.h	S touto možnosťou sa testovacie režimy skupiny zobrazia v asistente pracovnej plochy.
+content_concurrent	Súbežný režim
+content_concurrent.h	S touto možnosťou sa súbežné režimy skupiny zobrazia v asistente pracovnej plochy.
+content_navi	Navigácia
+content_navi.h	S touto možnosťou sa navigácie skupiny zobrazia v asistente pracovnej plochy.
+content_documentation	Dokumentácia
+content_documentation.h	S touto možnosťou sa dokumentácie skupiny zobrazia v asistente pracovnej plochy.
+content_externals	Externé súbory
+content_externals.h	S touto možnosťou sa externé súbory skupiny zobrazia v asistente pracovnej plochy.
+navi_style	Štýl
+navi_style.h	Definuje vzhľad okna navigácie. Vyberte zdroj štýlu zo zoznamu.
+menu_path:/record	Záznam
+F1HELPNAME	Nápoveď
+alignment	Zarovnanie bubliny
+alignment.h	Špecifikuje zarovnanie okna bubliny na obrazovke. Možnosť ‘Voľné‘ umožňuje definovať pozíciu v parametri ‘Pozícia bubliny‘.
+bform_alignment	Zarovnanie
+bform_alignment.h	Definuje zarovnanie okna bubliny formulára na obrazovke. Možnosť ‘Voľné‘ umožňuje definovať pozíciu v parametri ‘Pozícia bubliny formulára‘.
+gloss_bubble	Bublina glosára
+gloss_bubble_style	Štýl
+gloss_bubble_style.h	Definuje vzhľad bubliny glosára. Vyberte zdroj štýlu zo zoznamu.
+ellipse	Kruh
+gloss_bubble_size	Veľkosť
+gloss_bubble_size.h	Definuje veľkosť (šírku, výšku) bubliny glosára v pixeloch.
+Navi	Asistent pracovnej plochy
+exclude_from_da	Vylúčiť z asistenta pracovnej plochy
+exclude_from_da.h	Špecifikuje, že sa kľúč stránky nezohľadní pre rozpoznanie kontextu v asistente pracovnej plochy.
+all_as_descr	Použiť text z
+all_as_descr.h	Definuje typ textu pre @{NAVIGATOR}. Predvolené je ‘Krátky popis‘.
+consider_roles	Zohľadniť roly
+consider_roles.h	Aktivuje použitie rolí pre zobrazenie obsahu počas prehrávania.
+consider_categories	Zohľadniť kategórie obsahu
+consider_categories.h	Aktivuje použitie kategórií obsahu pre zoradenie obsahu v hlavnom okne @{NAVIGATOR}.
+disable_ca_in_pa	Skryť okamžitú nápoveď v prehliadke s výkladom
+disable_ca_in_pa.h	Zadáva, či sú všetky informácie okamžitej nápovede počas prehrávania prehliadky s výkladom skryté. Keď bude prehliadka s výkladom dokončená, okamžitá nápoveď sa opäť zobrazí.
+full_desc	Popis
+shrt_desc	Krátky popis
+wrong_position	Chyba pozície
+help	Pomocník
+warning	Upozornenie
+maintenance	Údržba
+update	Aktualizovať
+new	Nové
+training	Školenie
+attachment	Príloha
+link	Prepojenie
+tip	Tip
+note	Poznámka
+compliance	Zhoda
+mini_bubble_style	Štýl malých ikon
+mini_bubble_style.h	Definuje zdroj štýlov pre malé ikony použité pre projekt. Typ zdroja malých ikon patrí do prispôsobiteľných zdrojov. \nIkonu je možné nastaviť v každom makre akcie a vysvetlenia pomocou parametra 'Typ malej ikony' v časti 'Rozšírené'.
+mini_bubble	Typ malej ikony
+mini_bubble.h	Len kontextový pomocník\nDefinuje typ pre malú ikonu objektu. Ikona je založená na definovanom ‘Štýle malých ikon' makra ‘Štýl' .
+NavRecMouseWheel	Na pokračovanie použite koliesko myši. Stlačte ESC na skončenie posúvania myši.
+search_type	Typ hľadania
+none	Žiadne
+search_in_da	Skupina asistenta pracovnej plochy
+search_type.h	Určuje funkcie pre hľadanie obsahu. Vyberte typ z rozbaľovacieho zoznamu. \nNič: Deaktivuje funkcie hľadania. \nV @{LIBRARY}: Otvorí @{LIBRARY} pre hľadanie v obsahu @{LIBRARY}. \nV skupine asistenta pracovnej plochy: Zobrazuje kartu 'Hľadať' v hlavnom okne pre hľadanie v obsahu asistenta pracovnej plochy.
+errObjectUpdate	Objekt nie je možné aktualizovať. Aktualizujte objekt podobným typom.
+config_headers_differ1	Informácia o profile je zastaraná. Aktualizujte projekt kliknutím na ‘Pokračovať‘.
+config_headers_differ2	Pred aktualizáciou sa odporúča vytvoriť archív.
+default_start_mode	Predvolený počiatočný obsah
+default_start_mode.h	Definuje režim alebo formát dokumentu, ktorý sa má predvolene spustiť zo zoznamu obsahov.
+default_start_doc	Predvolený počiatočný dokument
+default_start_doc.h	Definuje typ dokumentu, ak je dokument nastavený v nastavení ‘Predvolený počiatočný obsah‘.
+show_next_btn	Tlačidlo Nasledujúce
+show_next_btn.h	Len prehliadka s výkladom\nUrčuje, že sa v bubline objektu zobrazí tlačidlo „Prejsť na ďalší krok“.
+condition	Podmienka
+condition.h	Pri prehrávaní musí hodnota zadaná používateľom zodpovedať podmienke, aby ste mohli prejsť do ďalšieho kroku alebo na konkrétny krok. \nAk chcete vytvoriť alebo upraviť podmienku, zvoľte ‘Úprava podmienky‘.
+errDuplicateContext	Táto aplikácia je už zaznamenaná.
+add_sticky_notes	Pozícia: Ovládací prvok 'Pridať rýchlu poznámku'
+add_sticky_notes.h	Umožňuje zobraziť ovládací prvok na pridanie rýchlej poznámky na stránke. Môžete špecifikovať pozíciu ovládacieho prvku v bočnom paneli.
+show_instant_help_btn	Pozícia: Ovládací prvok „Okamžitý pomocník“
+show_instant_help_btn.h	Umožňuje zobraziť ovládací prvok pre aktiváciu okamžitého pomocníka. Môžete zadať pozíciu ovládacieho prvku v bočnom paneli.
+show_carousel	Zobraziť karusel
+show_carousel.h	Táto možnosť zobrazuje asistent pracovnej plochy v režime karusela.
+condition_pattern	Vzor podmienky
+condition_pattern.h	Zadáva vzor použitý pre podmienku.
+condition_value	Hodnota podmienky
+condition_value.h	Obsahuje hodnotu použitú pre podmienku. Zadajte text alebo číslo založené na vybratom vzore.
+condition_jump_target	Cieľ skoku
+condition_jump_target.h	Len prehliadka s výkladom\nUrčuje cieľ skoku pre podmienku. Vyberte krok z rozbaľovacieho zoznamu. Navigácia prejde na zadaný krok, ak podmienka zodpovedá.
+condition_text	Text podmienky
+condition_text.h	Obsahuje text, ktorý sa má zobraziť, ak podmienka nie je splnená.
+condition_case_sensitive	Rozlišovanie veľkých a malých písmen
+condition_case_sensitive.h	Zadáva, podmienka rozlišuje veľké a malé písmená.
+condition_ignore_on_load	Ignorovať pri načítaní stránky
+condition_ignore_on_load.h	Len kontextový pomocník\nUrčuje, že sa podmienka pri načítavaní stránky neskontroluje. Podmienka sa skontroluje, keď sa používa zodpovedajúci ovládací prvok. Zabráni to tomu, aby sa bublina podmienky zobrazila priamo.
+c_equals	Rovná sa
+c_not_equals	Nerovná sa
+c_greater	Je väčšie ako
+c_greater_equals	Je väčšie ako alebo sa rovná
+c_less	Je menšie ako
+c_less_equals	Je menšie ako alebo sa rovná
+c_min_char	Minimálny počet znakov
+c_max_char	Maximálny počet znakov
+c_num_char	Počet znakov sa rovná
+c_reg_exp	Regulárny výraz
+vertical	Zvislé
+horizontal	Vodorovné
+AutoBarReady	Nečinný
+AutoBarExplanation	Vložiť vysvetlenie
+AutoBarChooseApp	Vybrať aplikáciu
+AutoBarRecord	Záznam
+AutoBarBusy	Zaneprázdnené
+AutoBarPause	Pozastaviť
+AutoBarReRecManualHotspot	Upraviť ovládací prvok: Stlačte Ctrl + Enter, ak chcete pokračovať so zmenami. Stlačte Esc, ak chcete zmeny zahodiť.
+wizAddExplanation	Pridať vysvetlenie
+AutoBarNoRecognition	Nerozpoznané žiadne ovládacie prvky
+AutoBarDiagnosis	Diagnóza
+condition_bubblestyle	Štýl bubliny
+condition_bubblestyle.h	Definuje, ktorý zdroj štýlu bubliny sa má použiť na zobrazenie textu podmienky.
+condition_highlight_bgr	Farba zvýraznenia
+condition_highlight_bgr.h	Definuje farbu zvýraznenia pre ovládací prvok.
+IDS_MPI_TOURSTOP_LABEL	Názov
+IDS_MPI_TOURSTOP_LABEL_MODIFIED	Preložiť manuálne
+IDS_MPI_TOURSTOP_NAME	UID
+IDS_MPI_TOURSTOP_SHOW	Zobraziť v zobrazení priebehu
+IDS_MPI_TOURSTOP_JUMP	Cieľ skoku
+IDS_MPI_TOURSTOP_CALLABLE	Je podrutina
+basic_info	Základné vlastnosti
+IDS_NO_IMAGE_SELECT	Nevybratý žiadny obrázok
+IDS_NO_IMAGE	Obrázok sa nenašiel
+ID_INSERT_TAKE	Pridať krok
+ID_PRJ_LAYOUT_HORZ	Horizontálne rozloženie
+ID_PRJ_LAYOUT_VERT	Vertikálne rozloženie
+ID_PRJ_LAYOUT_DIV	Rozdelené rozloženie - 1
+ID_PRJ_LAYOUT_4	Rozdelené rozloženie - 2
+ID_PRJ_LAYOUT_5	Rozdelené rozloženie - 3
+IDS_UNTITLED	(bez názvu)
+docTableHeaderStep	Krok
+layout_advanced	Spresnenie rozloženia
+showEditorHelp	Zobraziť pomocník webového editora
+slide:insert_tb	Vložiť
+slide:action_tb	Akcia
+slide:structure_tb	Štruktúra
+slide:view_tb	Zobraziť
+existing_scrs_in_prj	Aktuálna obrazovka sa už vo vašom projekte používa viac ako raz. \nVyberte obrazovku, na ktorú chcete pridať zaznamenané objekty.
+start_topic	Spustiť
+guided_tour	Prehliadka s výkladom
+context_help	Kontextová nápoveď
+off	Vyp.
+main_bar_1	Hlavný panel 1
+main_bar_2	Hlavný panel 2
+main_bar_3	Hlavný panel 3
+main_bar_4	Hlavný panel 4
+main_bar_5	Hlavný panel 5
+main_bar_6	Hlavný panel 6
+main_bar_7	Hlavný panel 7
+main_bar_8	Hlavný panel 8
+sub_menu_1	Podmenu 1
+sub_menu_2	Podmenu 2
+sub_menu_3	Podmenu 3
+sub_menu_4	Podmenu 4
+sub_menu_5	Podmenu 5
+sub_menu_6	Podmenu 6
+content_btn	Pozícia: Ovládací prvok 'Obsah‘
+content_btn.h	Určuje pozíciu ovládacieho prvku 'Obsah‘ v bočnom paneli.
+search_btn	Pozícia: Ovládací prvok 'Hľadať‘
+search_btn.h	Zadáva pozíciu ovládacieho prvku 'Hľadať‘ v bočnom paneli.
+orCenter	Stred
+orNorth	Sever
+orWest	Západ
+orNortWest	Severozápad
+orEast	Východ
+orNortEast	Severovýchod
+orSouth	Juh
+orSouthWest	Juhozápad
+orSoutEast	Juhovýchod
+screen_tolerence	Tolerovaný rozdiel obrazovky (%)
+screen_tolerence.h	Tento parameter definuje potrebnú grafickú zhodu zobrazenej stránky obrazovky a zaznamenanej snímky obrazovky v percentách pre príslušné kontextové informácie na zobrazenie. Ak grafická nezhoda prekračuje definovanú hodnotu, @{NAVIGATOR} porovná zaznamenaný kľúč stránky so stránkou obrazovky a zobrazí príslušný obsah pre inú stránku aplikácie.
+video_folder	Zložka videozáznamov
+video_folder.h	Určuje zložku na ukladanie videozáznamov. \nPoznámka: Videozáznamy sa neuložia do priečinka vyrovnávacej pamäte @{NAVIGATOR} z dôvodu veľkosti ich súborov.
+allow_video_rec	Povoliť zaznamenanie videa
+allow_video_rec.h	Povoľuje používateľom zaznamenať videá 
+hide_da_on_web_assistant	Skryť @{NAVIGATOR} pri spustení @{XRAY}
+hide_da_on_web_assistant.h	Určuje, že okná @{NAVIGATOR} sú skryté, keď @{XRAY} beží v popredí.
+show_web_assistant_msg	Zobraziť správu @{XRAY}
+show_web_assistant_msg.h	Určuje, že sa správa zobrazí, ked @{XRAY} beží v popredí alebo opustí režim v popredí.
+open_content	Otvoriť obsah
+open_content.h	Definuje funkčný kláves pre otvorenie vybratého objektu obsahu.

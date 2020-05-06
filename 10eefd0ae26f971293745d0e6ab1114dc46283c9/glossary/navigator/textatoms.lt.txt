@@ -1,0 +1,313 @@
+﻿#	Angliško teksto atvaizdas
+BULLET	&#149;
+NEWLINE	\r\n
+TOK_COMPANY	SAP
+TOK_LIB	kursas
+TOK_TOUR	Pamoka
+TOK_TRAINER	Desktop Assistant
+TOK_AUTOMATION	epo
+NAVIGATOR	Desktop Assistant
+NAV_LIBRARY	biblioteka
+BTN_ABORT	Uždaryti
+BTN_CLOSE	Uždaryti
+BTN_OK	Gerai
+BTN_CLOSE_DLG	Uždaryti
+BTN_CONTINUE	Tęsti
+BTN_PREVIEW	Peržiūra
+BTN_PROCEED	Tęsti
+BTN_RESTART	Paleisti iš naujo
+BTN_SKIP	Praleisti veiksmą
+BTN_START	Pradėti
+BTN_STOP	Stabdyti
+BTN_EXECUTE	Vykdyti
+CA_SWITCH	Kontekstinis žinynas
+CONTENT_CAP	Turinys
+MAIL_SUBJECT	Darbalaukio asistento turinio užklausa
+MAIL_HEADER	Gerb. autoriau,\n\nnorėčiau paprašyti šio turinio:
+MAIL_FOOTER	- Procesas / operacija: apibūdinkite šiuo metu naudojamą programos procesą. \n\n- Aprašas: apibūdinkite, kokios jums reikia informacijos. \n\nPagarbiai
+MAIL_DATA	- Taikomosios programos pavadinimas:
+MAIL_TOOLTIP	Pateikti turinio užklausą
+SHARE_TOOLTIP	Dalytis turiniu
+REQUEST_TEXT	Spustelėkite %s, jei norite pateikti turinio užklausą
+REQUEST_LINK	čia
+SEARCH_CAP	Ieškoti
+INFO_CAP	Informacija
+SETTINGS_CAP	Parametrai
+BACK_TOOLTIP	Atgal
+SHARE_CONTENT_TOOLTIP	Dalytis turiniu
+CB_HIDE_OPTION	Neberodyti
+MY_ROLES	Mano vaidmenys
+EDIT_ROLES	Keisti vaidmenis
+NO_ROLES	Rodyti turinį be vaidmenų
+SELECT_ALL_CAPTION	Žymėti viską
+USER_CAPTION	Vartotojo sritis
+READ_MORE	Skaityti daugiau...
+NO_CATEGORY_CAPTION	Kitas turinys
+DELETE_FAILED	Naikinimo operacija nepavyko.
+RENAME_FAILED	Pervardijimo operacija nepavyko.
+FILE_EXISTS	Failas tokiu vardu jau yra. Įveskite kitokį vardą.
+LBL_YES	Taip
+LBL_DELETE	Naikinti
+LBL_NO	Ne
+LBL_OK	Gerai
+DELETE_DLG_TEXT	Ar tikrai norite panaikinti pasirinktus dokumentus (%N)?
+LBL_CONCURRENT	Paleisti lygiagretų režimą
+LBL_DA	Darbalaukio pagalba
+LBL_SIM	Pradėti modeliavimą
+LBL_CDOC	Atidaryti
+LBL_DEMO	Paleisti demonstracinę versiją
+LBL_NAVI	Paleisti interaktyvųjį žinyną
+LBL_BOOK	Leisti knygą
+LBL_GROUP	Atidaryti bibliotekoje
+LBL_NAVIGATION	Darbalaukio asistentas
+LBL_PA	Interaktyvusis žinynas
+LBL_PRACTICE	Paleisti praktikos režimą
+LBL_SIMULATION	Modeliavimas
+LBL_BOOKPAGE	Rodyti knygos puslapį
+LBL_TEST	Paleisti testinį režimą
+LBL_RECORD_DOCUMENT	Užregistruoti dokumentą
+MSG_AUTOMATION_FINISHED	Automatizavimas baigtas
+MSG_AUTOMATION_FINISHED_2	Norėdami iš naujo pradėti automatinį procesą, spustelėkite „Kartoti“.
+MSG_AUTOMATION_START	Redaguoti įvesties reikšmes
+MSG_AUTOMATION_START_2	Patikrinkite arba redaguokite šias vertes. Jos įvedamos automatiškai per procesą.
+MSG_EPO_DIALOG	Elektroninis procesų optimizatorius
+MSG_NAVI_LIBRARY_NO_APP	Informacijos nėra.
+LBL_NAVI_NO_MATCH	Jūsų ieška nepateikė jokių rezultatų.
+NO_RECORDS	Nėra dokumentų.
+MSG_NAVI_LIBRARY_SUBTITLE	Pasiekiamas turinys:
+MSG_NAVI_LIBRARY_TITLE	Darbalaukio pagalba
+MSG_NOT_APPLICABLE	neredaguojama
+MSG_PA_CONTROL_STEP	Žingsniui būtinas veiksmas:
+MSG_PA_EXPLANATION_STEP	Eikite į toliau rodomą ekraną.
+MSG_PA_FORM_STEP	Laukai, kuriuos būtina užpildyti formoje:
+MSG_PA_DIALOG	Interaktyvusis žinynas
+MSG_PA_START_SCREEN	Atidarykite pradžios ekraną.
+MSG_PA_STEP_NOT_FOUND	Pereikite prie reikiamo ekrano
+MSG_PA_STEP_NOT_FOUND1	Įsitikinkite, kad tikslinė taikomoji programa (@{TARGETAPPNAME}) yra atidaryta.
+MSG_PA_STEP_NOT_FOUND2	Preikite į apačioje pavaizduotą ekraną su paryškintu valdikliu.
+MSG_STEP_LIGHT	Žingsnio peržiūra
+MSG_STEP_NOT_FOUND	Interaktyviojo žinyno žingsnis nerastas.
+MSG_STEP_NOT_FOUND_2	Spustelėkite ant paskirties programos pavadinimo juostos arba pereikite į tinkamą puslapį.<br><br>Norėdami peržiūrėti reikalingą puslapį, spragtelėkite ant „Peržiūra“.
+PA_FINISHED	Interaktyviojo žinyno rodymas baigtas.
+PROJECT_TITLE	Projekto pavadinimas
+TRAY_INFO_BUBBLE_HEADING	Interaktyvusis žinynas
+TRAY_INFO_BUBBLE_TEXT	Esamo žingsnio parodyti nepavyko. Spustelėkite čia, norėdami gauti daugiau informacijos.
+RESTRICTED_BUBBLE_HEADING	Veiksmas užblokuotas
+RESTRICTED_BUBBLE_TEXT	Kol nepatvirtintas esamas žingsnis, kitų veiksmų atlikti negalima.
+HELP_TITLE	Žinynas
+HELP_INTRO	Žinyne pateikta pagrindinių @{NAVIGATOR}.</br></br><b> dalių ir funkcijų apžvalga. Pastaba:</b> galimos funkcijos priklauso nuo @{NAVIGATOR}.</br>
+HELP_TITLE_DA	Šoninė juosta ir „Windows“
+HELP_SIDEBAR_T	Šoninė juosta
+HELP_SIDEBAR_H	Šoninė juosta leidžia paleisti pagrindines @{NAVIGATOR} funkcijas. Rodomas kiekvienos funkcijos mygtukas. Šoninę juostą galima perkelti naudojant vilkimo ir numetimo funkciją, taip pat sumažinti ir padidinti spustelėjus šoninės juostos kraštinę.
+HELP_CONTENT_CONTROL_T	Turinys
+HELP_CONTENT_CONTROL_H	Nurtodo, ar turinys pasiekiamas. Atidaro pagrindinį langą su turiniu.
+HELP_SEARCH_CONTROL_T	Ieškoti
+HELP_SEARCH_CONTROL_H	Atidaro ieškomo turinio ieškos langą.
+HELP_EXTSEARCH_CONTROL_T	Išorinė ieška
+HELP_EXTSEARCH_CONTROL_H	Atidaro ieškomo turinio ieškos langą.
+HELP_STICKY_CONTROL_T	Įtraukti klijuojamą pastabą
+HELP_STICKY_CONTROL_H	Įterpia klijuojamą pastabą iš dabartinės taikomosios programos lango. Galite įvesti klijuojamos pastabos tekstą.
+HELP_RECORDING_CONTROL_T	Pradėti įrašymą
+HELP_RECORDING_CONTROL_H	Pradedamas proceso įrašymas. Įrašytas procesas vartotojo srityje bus įrašytas kaip dokumentas.
+HELP_MAIN_WINDOW_T	Pagrindinis langas
+HELP_MAIN_WINDOW_H	Šiame pagrindiniame lange rodomas konkretaus puslapio konteksto turinys.</br>Atkuriant interaktyvųjį žinyną, lange rodomas žingsnių sąrašas.
+HELP_HEADER_T	Antraštė
+HELP_HEADER_H	Būsenos piktograma antraštėje nurodo, ar pasiekiamas dabartinio konteksto turinys.
+HELP_CONTENT_TAB_T	Turinio skirtukas
+HELP_CONTENT_TAB_H	Skirtuke rodomas esamos programos turinys.
+HELP_CONTENT_VIEW_T	Turinio rakursas
+HELP_CONTENT_VIEW_H	Turinio rakurse rodoma galima informacija, režimai ir pasirinkto turinio dokumentacija.</br>Norėdami grįžti į turinio sąrašą, galite naudoti valdiklį „Atgal“.
+HELP_SEARCH_TAB_T	Ieška skirtukas
+HELP_SEARCH_TAB_H	Skirtuke galite ieškoti konkretaus dabartinio konteksto turinio.
+HELP_INFO_TAB_T	Informacijos skirtukas
+HELP_INFO_TAB_H	Skirtuke rodoma bendroji informacija apie @{NAVIGATOR}.
+HELP_USERAREA_TAB_T	Vartotojo srities skirtukas
+HELP_USERAREA_TAB_H	Skirtuke pateikiami įrašyti proceso dokumentai. Dokumentą galite atidaryti, bendrinti ar panaikinti. Galite įrašyti ir kitus procesus.
+HELP_INSTANT_T	Spartusis žinynas
+HELP_INSTANT_H	Esant suaktyvintam parametrui, papildoma konteksto informacija rodoma tiesiogiai dabartinės taikomosios programos ekrane. Pagal numatytuosius parametrus, šis parametras yra įjungtas.
+HELP_REQCONTENT_T	Pateikti turinio užklausą
+HELP_REQCONTENT_H	Atidaro el. laiško langą, kad būtų galima autoriui pateikti užklausą dėl trūkstamo turinio.
+HELP_SETTINGS_T	Parametrai
+HELP_SETTINGS_H	Rakurse yra @{NAVIGATOR} turinio ekrano parametrai.
+HELP_MYROLES_T	Mano vaidmenys
+HELP_MYROLES_H	Šis parametras rodo rodomą priskirto vaidmens turinį.
+HELP_WITHOUTROLES_T	Rodyti turinį be vaidmenų
+HELP_WITHOUTROLES_H	Šis pametras rodo turinį be priskirtų vaidmenų.
+HELP_EDITROLES_T	Vaidmenys
+HELP_EDITROLES_H	Išvardyti visi turinyje naudojami vaidmenys ir jie gali būti aktyvinti/deaktyvinti norint rodyti turinį.
+HELP_SHARECONTENT_T	Dalytis turiniu
+HELP_SHARECONTENT_H	Atidaro dialogo langą kartu su turinio saitu. Saitą galima dalytis su kitais vartotojais.
+HELP_REQUESTCONTENT_T	Pateikti turinio užklausą
+HELP_REQUESTCONTENT_H	Atidaro iš anksto apibrėžtą el. laišką, specifiniu atveju pageidaujantį turinio.
+HELP_PLAYBACK_CONTENT_T	Atkurti turinį
+HELP_PLAYBACK_CONTENT_H	Prieinamą turinį galima paleisti arba atidaryti naudojant turinio lango mygtukus.
+HELP_MINIMIZED_STATUS_T	Minimizuota būsena
+HELP_MINIMIZED_STATUS_H	Jei pagrindinį langą uždarysite, kintanti būsenos piktograma vis tiek nurodys, ar yra dabartinio konteksto turinys. Spustelėkite šią piktogramą, kad atkurtumėte pagrindinį langą.
+HELP_MINIMIZED_MENU_T	Kontekstinis meniu
+HELP_MINIMIZED_MENU_H	Kontekstinis meniu (spustelėjus piktogramą dešiniuoju pelės mygtuku) apima pagrindinio lango ir kontekstinio žinyno rodymo funkcijas.
+HELP_BOOK_WINDOW_T	Knygos langas
+HELP_BOOK_WINDOW_H	Knygos langas atidarytas atkuriant knygą. Pagrindinis langas ir turinio langas paslėpti.
+HELP_GOTOTOP	Eiti į viršų
+HELP_CAPTION	@{NAVIGATOR} Žinynas
+NAVHELP_TITLE	Būsenos piktograma ir kontekstinis meniu
+NAVHELP_INTRO	</br>Žinyne pateikta pagrindinių būsenos piktogramos ir kontekstinio meniu įrašų apžvalga.
+NAVHELP_STATUS_ICON_T	Būsenos piktograma (užduočių juosta)
+NAVHELP_STATUS_ICON_H	Būsenos piktograma yra užduočių juostoje ir rodo dabartinę @{NAVIGATOR} veiklą. Galimos būsenos:
+NAVHELP_STATUS_FOUND_T	Yra turinys (žalia piktograma)
+NAVHELP_STATUS_FOUND_H	Yra dabartinio konteksto turinys ir jis rodomas.
+NAVHELP_STATUS_CHECK_T	Įkeliamas turinys (geltona piktograma)
+NAVHELP_STATUS_CHECK_H	@{NAVIGATOR} tikrina dabartinį kontekstą ir įkelia turinį.
+NAVHELP_STATUS_NOFOUND_T	Turinio nėra (raudona piktograma)
+NAVHELP_STATUS_NOFOUND_H	Dabartinio konteksto turinio nėra.
+NAVHELP_STANDBY_T	Išjungta
+NAVHELP_STANDBY_H	@{NAVIGATOR} išjungtas. Spustelėjus būsenos piktogramą (<i>CTRL + F11</i>), @{NAVIGATOR} įjungiamas arba išjungiamas.
+NAVHELP_STATUS_MIN_T	Minimizuota
+NAVHELP_STATUS_MIN_H	Langai ir šoninė juosta minimizuoti.
+NAVHELP_STATUS_MENU_T	Kontekstinis meniu
+NAVHELP_STATUS_MENU_H	Kontekstinis meniu (dešiniuoju pelės mygtuku spustelėti piktogramą) apima bendrąsias @{NAVIGATOR} funkcijas.
+NAVHELP_VERSION_T	Rodyti versiją
+NAVHELP_VERSION_H	Rodomas įdiegtos @{NAVIGATOR} versijos numeris. Jis būtinas kreipiantis į techninės pagalbos tarnybą, jei iškyla problemų.
+NAVHELP_JSCONSOLE_T	„JavaScript“ konsolė
+NAVHELP_JSCONSOLE_H	Rodoma „JavaScript“ konsolė, kurioje pateikiami išsamūs klaidų pranešimai. Jis būtinas kreipiantis į techninės pagalbos tarnybą, jei iškyla problemų.
+NAVHELP_NAV_CACHE_T	Naikinti vietinę talpyklą
+NAVHELP_NAV_CACHE_H	Panaikina @{NAVIGATOR} turinio vietinę talpyklą.
+NAVHELP_RESET_HIDDEN_T	Dar kartą parodyti visą paslėptą žinyną
+NAVHELP_RESET_HIDDEN_H	Iš naujo nustato elementus, kurie atkūrimo metu buvo nustatyti kaip paslėpti.
+NAVHELP_EXIT_T	Išeiti
+NAVHELP_EXIT_H	Sustabdo atkūrimą ir uždaro @{NAVIGATOR}.
+IDS_NAVP_ABOUT	Rodyti versiją...
+IDS_NAVP_CONSOLE	„JavaScript“ konsolė...
+IDS_NAVP_DELETE_CACHE	Naikinti vietinę talpyklą
+IDS_NAVP_HOOKER	Hooker
+IDS_SEARCH_INPUT	Ieškos žinyno turinys
+IDS_CLEAR_SEARCH	Valyti iešką
+IDS_NAVP_CLOSE	Išeiti
+IDS_RESET_CURRENT	Vėl rodyti paslėptus žiniatinklio elementus
+IDS_RESET_ALL	Dar kartą parodyti visą paslėptą žinyną
+IDS_RESET_ALL_TIP	Įvedant ekraną pirmą kartą, dar kartą parodyti visas išjungtas užuominas.
+IDS_OPEN_RECORD_LBL	Atidaryti
+IDS_EDIT_RECORD_LBL	Pervardyti
+IDS_DELETE_RECORD_LBL	Naikinti
+IDS_SHARE_RECORD_LBL	Bendrinti
+IDS_EXTERNAL_SEARCH_BTN	Išorinė ieška
+IDS_EXTERNAL_SEARCH_SUB_MENU	Išorinė ieška
+IDS_SHOW_SCREEN_ICON	Rodyti darbalaukio asistentą
+IDS_SHOW_DA	Rodyti pagrindinį langą
+IDS_SHOW_CONTENT	Rodyti turinį
+IDS_HIDE_CONTENT	Slėpti turinį
+IDS_SEARCH_BTN	Ieškoti
+IDS_REQUEST_CONTENT_BTN	Pateikti turinio užklausą
+IDS_RECORDING_BTN	Pradėti įrašymą
+IDS_SHOW_CA_SWITCH	Rodyti kontekstinį žinyną
+IDS_HIDE_CA_SWITCH	Slėpti kontekstinį žinyną
+IDS_CA_SWITCH_INACTIVE_BTN	Nėra kontekstinio žinyno
+IDS_DO_CTX_RECOGNITION	Rodyti kontekstinį žinyną
+IDS_NAV_STANDBY	@{NAVIGATOR} išjungtas.
+IDS_NAV_NO_STANDBY	@{NAVIGATOR} įjungtas.
+IDS_SHOW_DA_PANELS	@{NAVIGATOR} vėl veikia. Jei reikia pagalbos, naudokite @{NAVIGATOR}.
+IDS_HIDE_DA_PANELS	@{NAVIGATOR} neberodomas automatiškai, nes šiuo metu atidarytoje programoje veikia atitinkamas žinynas. Jei reikia pagalbos, tiesiog atidarykite programos žinyną.
+IDS_ADD_STICKY_NOTES_BTN	Įtraukti klijuojamą pastabą
+IDS_ADD_STICKY_NOTES_INACTIVE_BTN	Prieš šios taikomosios programos galite pridėti tik vieną klijuojamą pastabą.
+IDS_EXIT_DA	Išeiti
+IDS_EXIT_DA_BTN	Išeiti
+IDS_EXIT_DA_SUB_MENU	Išeiti
+IDS_SHOW_MORE	Rodyti daugiau
+IDS_HIDE_MORE	Slėpti daugiau
+IDS_REQUEST_CONTENT_SUB_MENU	Pateikti turinio užklausą
+IDS_SHOW_CA_SUB_MENU	Rodyti kontekstinį žinyną
+IDS_HIDE_CA_SUB_MENU	Slėpti kontekstinį žinyną
+IDS_ADD_STICKY_NOTE_SUB_MENU	Įtraukti klijuojamą pastabą
+IDS_RECORDING_SUB_MENU	Pradėti įrašymą
+IDS_CA_SWITCH_SUB_MENU	Kontekstinis žinynas
+IDS_SHARE_DLG_CAPTION	Bendrinti dokumentą
+IDS_DELETE_FRAMES	Naikinamas rėmelis
+OPEN_FOLDER	Atidaryti aplanką
+SHARE_DOC	Bendrinti el. paštu
+IDS_SHARE_DLG_TEXT	Ką norite padaryti?
+IDS_SEARCH_BTN_SUB_MENU	Ieškoti turinio
+IDS_LIBRARY_SEARCH_BTN_SUB_MENU	Ieškoti turinio bibliotekoje
+GRACEFUL_DEGRADATION	Ši funkcija laikinai negalima dėl tinklo trikčių.\n\nPabandykite dar kartą vėliau.
+SHARE_BTN	Dalytis el. paštu
+COPY_BTN	Kopijuoti saitą
+SHARE_MAIL_SUBJECT	Rekomenduojamas turinys
+SHARE_MAIL_HEADER	Gerb. vartotojau,\n\nŠis turinys gali jus sudominti. \n\n
+SHARE_MAIL_FOOTER	Linkėjimai,
+SHARE_MAIL_LINK	Saitas:\t
+SHARE_MAIL_CAPTION	Antraštė:\t
+SHARE_TITLE	Dalytis turiniu
+SELECT_ASSET	Pasirinkite objektą, nuo kurio pradėsite.
+ENTER_NAME	Įveskite pavadinimą
+DELETE_RECORD_WRN	Svarbu: šio veiksmo atšaukti negalima.
+MSG_PA_NEXT_LBL	Paskesnis
+MSG_PA_STEP_LBL	Žingsnių sąrašas
+TOGGLE_STEPLIST_TOOLTIP	Rodyti / slėpti žingsnių sąrašą
+PREVIEW_STEP_TOOLTIP	Peržiūros žingsnis
+NEXT_STEP_TOOLTIP	Eiti į paskesnį žingsnį
+PREV_STEP_TOOLTIP	Eiti į ankstesnį žingsnį
+ROLES_TITLE	Darbalaukio asistento vaidmenys
+ROLES_LBL	Filtruoti žinyno turinį pagal vaidmenį
+OK_CAPTION	Gerai
+CANCEL_CAPTION	Atšaukti
+BTN_YES	Taip
+BTN_NO	Ne
+DELETE_CONFIRM	Ar tikrai norite norite panaikinti šį lipnų lapelį?
+EXIT_CONFIRM	Ar tikrai norite išeiti iš @{NAVIGATOR}?
+sticky_notes	Klijuojamos pastabos
+exit_da	Išeiti @{NAVIGATOR}
+STICKY_NOTE_DEFAULT_TEXT	Tekstą įtraukite čia.
+SEARCH_BTN_TOOLTIP	Ieškoti
+NEXT_BTN_TOOLTIP	Paskesnis
+PREV_BTN_TOOLTIP	Ankstesnis
+HIDE_BTN_TOOLTIP	Slėpti karuselę
+IDS_PRJ_NAME	Įvesti pavadinimą:
+IDS_APPLICATIONS	Pasirinkti langą:
+IDS_PRJ_LANGUAGE	Pasirinkti kalbą:
+IDS_FULL_SCREEN	Visas ekranas
+IDS_CHOOSE_APP_CAPTION	Pasirinkti programą
+IDS_RECORD_BTN	Įrašyti
+IDS_ANALYZE_ACTIONS	Analizuojami veiksmai...
+IDS_PARSE_PROJECT	Analizuojamas projektas...
+IDS_REGION	Regionas
+IDS_AREA_HELP	Pakeiskite regiono dydį pasirinkdami toliau pateiktą šabloną. Norėdami pasirinkti regioną, nustatykite raudonąjį stačiakampį arba pasirinkite visą ekraną.
+IDS_CHOOSE_SIZE	Pasirinkti dydį:
+IDS_DEFINE_REC_AREA	Įrašoma sritis
+IDS_DEFINE_NAME_LANG	Generuoti turinį
+PLEASE_SELECT	Pasirinkite
+quick_recorder.help_caption	Patarimas
+quick_recorder.help	Norėdami pristabdyti arba tęsti, paspauskite mygtuką „PRISTABDYTI“. \nNorėdami baigti, paspauskite mygtuką „BAIGTI“. \n\nNorėdami pradėti įrašymą, paspauskite „GERAI“.
+quick_recorder.audio_help	Norėdami pristabdyti arba tęsti, paspauskite mygtuką „PRISTABDYTI“. \nNorėdami baigti, paspauskite mygtuką „BAIGTI“. \n\nGarsas:\nspustelint garsas nėra įrašomas. Kalbėkite prieš spustelėdami valdiklį. \n\nNorėdami pradėti įrašymą, paspauskite „GERAI“.
+FILE_EXISTS	Failas tokiu vardu jau yra. Įveskite kitokį vardą.
+HELP_EXIT_CONTROL_H	Sustabdo atkūrimą ir uždaro @{NAVIGATOR}.
+HELP_EXIT_CONTROL_T	Išeiti
+BTN_CLOSE_DLG	Uždaryti
+DELETE_RECORD_WRN	Svarbu: šio veiksmo atšaukti negalima.
+ENTER_NAME	Įveskite pavadinimą
+IDS_CLEAR_SEARCH	Valyti iešką
+IDS_RESET_ALL_TIP	Įvedant ekraną pirmą kartą, dar kartą parodyti visas išjungtas užuominas.
+IDS_SEARCH_INPUT	Ieškos žinyno turinys
+LBL_DELETE	Naikinti
+LBL_NAVI_NO_MATCH	Jūsų ieška nepateikė jokių rezultatų.
+LBL_TU	Atidaryti
+MSG_PA_NEXT_LBL	Paskesnis
+MSG_PA_STEP_LBL	Žingsnių sąrašas
+RENAME_FAILED	Pervardijimo operacija nepavyko.
+ROLES_LBL	Filtruoti žinyno turinį pagal vaidmenį
+SELECT_ASSET	Pasirinkite objektą, nuo kurio pradėsite.
+LBL_CDOC	Atidaryti
+LBL_RECORD_DOCUMENT	Užregistruoti dokumentą
+QR_CAPTION	Pasirinkti įrašo išvestį
+QR_WELCOME	Ką norite sukurti?
+QR_DOC_CAP	Dokumentas
+QR_DOC_TXT	Sukuria „Microsoft Word“ dokumentą, kuriame pateikiama ekrano kopija ir instrukcijų tekstas apie kiekvieną įrašomą veiksmą.
+QR_VIDEO_CAP	Vaizdo įrašas
+QR_VIDEO_TXT	Sukuria jūsų įrašo aukštos kokybės vaizdo įrašą.
+QR_DOC_VIDEO_CAP	Dokumentas ir vaizdo įrašas
+QR_DOC_VIDEO_TXT	Sukuria dokumentą ir vaizdo įrašą
+SHARE_ERR_CAP	Įrašo bendrinti nepavyko
+SHARE_ERR_TXT	Šis įrašas per didelis, kad būtų bendrinamas el. paštu.\nAr norėtumėte vietoje šio veiksmo nurodyti failo vietą?
+HELP_CONTENT_WINDOW_H	Turinio lange rodoma pagrindinio lango pasirinkto turinio esama informacija, režimai ir dokumentacija.</br>Turinio langą galima prijungti prie pagrindinio lango, tada abu langus galėsite vilkti ekrane vienu metu.
+HELP_CONTENT_WINDOW_T	Turinio langas
+IDS_CONTENT_BTN	Turinys
+MSG_PA_STEP_NOT_FOUND_NUMERAL_1	1.
+MSG_PA_STEP_NOT_FOUND_NUMERAL_2	2.
+SHARE_URL	Dabartinio turinio URL:

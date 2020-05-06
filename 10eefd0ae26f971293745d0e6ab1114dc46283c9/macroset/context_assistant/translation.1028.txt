@@ -1,0 +1,765 @@
+﻿NAVIGATOR	Desktop Assistant
+XRAY	Web Assistant
+LIBRARY	library
+MANAGER	Manager
+form_bubble	表單氣泡框
+bform_height	高度
+bform_height.h	定義要顯示的表單氣泡框高度 (像素)。
+bform_width	寬度
+bform_width.h	定義要顯示表單氣泡框的寬度 (像素)
+bform_position	位置
+bform_position.h	針對畫面上的 '任意' 對齊定義表單氣泡框的位置 (左、上)。值以像素表示。
+paramAutoMergeComplete	已完成合併畫面
+form	表單
+application_contexts	應用程式
+﻿Application	應用程式
+highlight_offset	反白間距
+AutoBarChooseApp	選擇應用程式
+AutoBarReRecManual	按一下物件。
+BubbleOnActivate	直接顯示氣泡框
+ClickOnAAPosition	按一下應用程式以定義矩形。
+ClickOnPosition	按一下應用程式中的位置。
+EnabledOnPgLoad	啟用
+HighlightOnActivate	直接顯示反白
+start_from_arbitrary	自隨意步驟啟動
+focus_step	焦點層
+focus_step.h	僅導覽\n顯示灰層以反白目前步驟的所需控制。
+yes	是
+no	否
+light_mode	互動式模式
+light_mode.h	指定使用者必須於物件氣泡框中瀏覽以前往下個步驟。於錄放期間不進行頁面辨識。
+restricted_mode	限制模式
+restricted_mode.h	指定僅可執行目前動作。將封鎖應用程式頁面的其他控制項。\n若啟用 '焦點層’，則可使用該設定。
+show_highlight	反白
+action	動作
+active_area	啟用中區域
+add_application_expl	插入解說
+adv	進階
+display_behavior	顯示行為
+all_values	所有數值
+anim_steps	動畫步驟
+application_context	應用程式
+area	區域
+auto_merge	合併畫面巨集
+b_height	高度
+form_on	表單模式
+b_percent	氣泡框可見 (%)
+b_hide_option	隱藏選項
+b_minimizable	可最小化
+b_closable	可關閉
+b_minimized	已最小化
+b_width	寬度
+b_width.h	定義物件氣泡框的寬度 (像素)
+bmain_minimizable	可最小化
+bmain_position	位置
+bmain_win_style	樣式
+bmain_size	大小
+bmain_alignment	對齊
+bubble	物件氣泡框
+bubble_offset	反白間距
+bubblestyle_d	樣式
+bubblestyle_init	氣泡框樣式
+choose_appl_template	選擇應用程式設定檔
+choose_bool	所選值
+choose_nr	選擇的索引
+choose_text	所選值
+target_static_text	錄製為 '頁面說明符'。
+target_spec_warning	警告：此控制沒有重新錄製資訊。
+prev_step	上一個步驟
+next_step	下一個步驟
+click	滑鼠動作
+click_pos	按一下位置
+click_pos_rel	氣泡框位置
+config_file	應用程式設定檔
+define_target	畫面
+display	編輯主要氣泡框
+display_name	顯示名稱
+drag	拖曳
+drop	放下
+dump_page	擷取畫面
+elem_bubble	物件氣泡框
+element_type	物件類型
+enabled	已啟用
+optional	選擇性
+enter	滑鼠移入
+executable	應用程式
+explanation_d	內文
+explanation_d_modified	手動翻譯
+explanation_long	解說
+fh_mouseover	滑鼠游標暫留時的輔助說明
+fh_onelem	圖示
+fh_tooltip	工具秘訣
+fh_bubble	氣泡框
+step_list	步驟清單
+fieldicon	物件圖像
+fieldname	物件名稱
+find	尋找
+AutoBarChooseScn	按一下各畫面
+frame	框架
+g_highlight_bgr	色彩
+g_highlight_border	框線
+g_highlight_effect	效果
+global	通用
+hide_on_focuslost	失去焦點時隱藏
+hilight	反白
+input_radio	選項圓鈕/核取方塊
+input_text	輸入文字
+init	初始
+key	鍵值
+key_desc	快速鍵
+key_name	鍵值代碼
+key_press	按鍵
+lclick	按一下左鍵
+ldblclick	按兩下左鍵
+force_display	強制顯示
+auto_execute	自動執行
+show_confirmation	顯示確認按鈕
+show_confirmation.h	定義錄放期間物件氣泡框中是否顯示確認按鈕。按鈕允許使用者確認執行的動作並於隨後顯示下一步。
+link_to_sim	插入模擬連結
+macro_comment	備註
+main_bubble	視窗
+match_value	符合數值
+mini_on_focuslost	失去焦點時最小化
+enable_tincan	@{NAVIGATOR} 追蹤
+nav_check_freq	更新頻率 (分鐘)
+navigation	桌面助理
+new_screen_context	新畫面
+no_spike	無尖端
+pa_caption	導覽
+none	無
+objname	物件名稱
+orientation	方向
+path	物件路徑
+position	位置
+rclick	按一下滑鼠右鍵
+rdblclick	按兩下右鍵
+record_activearea	錄製啟用中區域
+record_application_context	錄製應用程式
+no_control	按一下的位置沒有物件。
+record_control	錄製物件
+record_control_pa	錄製導覽步驟
+record_define_target	錄製畫面
+record_display	編輯主要氣泡框
+record_end_display	編輯氣泡框
+record_explanation	新增解說
+record_object_context	錄製物件
+record_screen_context	錄製畫面
+record_target_specializer	錄製頁面說明符
+record_compatible_application	錄製相容應用程式
+reference	來源
+regexp	規則運算式
+replace	替代
+replace_continue	替代並繼續...
+replace_pgkey_attr	替代頁面關鍵屬性
+error_regexp	無效規則運算式。請修正您的輸入。
+resize	調整視窗大小
+revision	修改
+sc_config_header	設定檔資訊
+screen	畫面
+screenhelp	畫面輔助說明
+screenshot_rect	擷取畫面位置
+select_single	單選
+selected_merge	合併所選畫面巨集
+show_bubble	直接顯示
+show_hilight	顯示反白
+show_on_focus	找到焦點時顯示
+source	來源
+start_unit	內容輔助說明樣式
+subkey	允許作為子鍵值
+script	指令碼
+target_name	標題
+target_specializer	頁面說明符
+text_d	輸入內文
+text_d_specializer	輸入文字
+tolerance	合併畫面巨集允差
+translate	自動翻譯
+autoTranslate	翻譯專案
+paramReRecordLanguage	語言
+merge_critical_macros	自動合併巨集
+merge_critical_macros.h	若要將模擬轉換為瀏覽，則可自動合併所建立的畫面。系統會使用您在 '合併畫面巨集允差' 參數中決定的允差值合併這些畫面。
+uid	UID
+underline	底線
+update_control	更新物件
+update_target	更新畫面
+variant	變式
+win_rect	視窗大小
+wizCancel	取消
+wizFinish	完成
+wizNext	下一步
+wizOk	確定
+wizExplanation	解說
+wizContinue	繼續
+app_info	顯示應用程式
+app_link_to_sim	插入應用程式的模擬連結
+screen_info	顯示畫面
+screen_link_to_sim	插入畫面的模擬連結
+object_info	顯示變式
+object_link_to_sim	插入模擬連結
+disabled	已停用
+record_context_assistant_include	包含 @{NAVIGATOR} 專案
+project_id	專案標題
+project_id.h	此參數包含插入的專案。'編輯連結' 按鈕可讓您在工作區域中選擇專案。
+project	專案
+context_assistant_include	桌面助理專案
+open_expanded	顯示進階主要氣泡框
+restart_option	重新啟動按鈕
+next_project_id	下一個專案
+next_project_id.h	此選項代表將在完成目前程序後啟動的專案。新程序會直接啟動且不會顯示結束氣泡框。
+end_unit	導覽結束
+add_end_unit	新增程序結尾
+demo	示範模式
+uebung	練習模式
+praxis	並行模式
+test	測試模式
+doc	Word 文件
+pdf	PDF 文件
+html	HTML 文件
+ppt	PowerPoint 文件
+explanation_type	圖示
+note	註記
+info	資訊
+tipp	秘訣
+warnung	警告
+no_image	無圖示
+display_on	主要氣泡框的顯示時機
+nav_start	瀏覽開始
+app_focus	應用程式焦點
+screen_focus	畫面焦點
+never	不顯示
+list_type	畫面的清單類型
+list_type.h	若已啟用 [顯示所有物件資訊] 選項，則可使用此參數決定畫面中物件清單的類型。
+unordered_list	項目符號
+ordered_list	編號
+convert_sn	產生桌面助理
+Application	應用程式
+obj_context	物件
+expl_context	解說
+record_cntrl_type	類型
+disable_standby	停用預備狀態 (@{NAVIGATOR})
+disable_standby.h	指定無法設定 @{NAVIGATOR} 的預備狀態。若已停用選項，您可以使用捷徑 'CTRL + F11' 或按一下狀態圖示來設定預備狀態。
+disable_exit	隱藏跳出輸入項 (@{NAVIGATOR})
+disable_exit.h	指定 @{NAVIGATOR} 的狀態圖示內容功能表中的 '跳出' 輸入項為隱藏。
+bcontent_style	氣泡框樣式
+bcontent_style.h	此設定定義顯示氣泡框所用的氣泡框樣式。
+cache_properties	快取
+cache_folder	資料夾位置
+cache_folder.h	指定快取資料夾 'NavigatorCache' 位置。預設位置為 '%localappdata%'。您可輸入自訂位置。\n請注意：無法更改快取資料夾名稱。
+use_caching	使用快取
+use_caching.h	啟用使用 @{NAVIGATOR} 快取。
+function_keys	功能鍵
+minimize_da	最小化
+minimize_da.h	定義用於最小化主視窗的功能鍵
+next_tab	選擇下一個標籤
+next_tab.h	定義用於在主視窗中選擇下一個標籤的功能鍵。
+next_screen	轉到下一個畫面
+next_screen.h	定義瀏覽至所選專案下一個畫面的功能鍵。
+back	返回
+back.h	定義轉到先前畫面的功能鍵
+toggle_standby	切換預備模式
+toggle_standby.h	定義用於切換預備模式的功能鍵。
+abort	中止
+abort.h	定義用於取消桌面助理的功能鍵。
+restart	重新啟動
+restart.h	定義重新啟動桌面助理的功能鍵
+start_pa	啟動桌面助理專案
+start_pa.h	定義用於啟動所選專案的功能鍵。
+start_demo	啟動示範模式
+start_demo.h	定義用於啟動所選示範模式的功能鍵。
+start_prac	啟動練習模式
+start_prac.h	定義用於啟動所選練習模式的功能鍵。
+start_test	啟動測試模式
+start_test.h	定義用於啟動所選測試模式的功能鍵。
+start_concur	啟動並行模式
+start_concur.h	定義用於啟動所選並行模式的功能鍵。
+start_book	開啟電子書
+start_book.h	定義用於啟動所選電子書的功能鍵。
+start_group	於 library 中開啟
+start_group.h	定義用於開啟 library 中群組的功能鍵。
+toggle_ctx_rec	切換內容辨識
+toggle_ctx_rec.h	定義用於切換桌面助理內容辨識的功能鍵。
+select_next	選擇下一個輸入項
+select_next.h	定義用於選擇目前視窗中下一個輸入項的功能鍵。
+select_prev	選擇上一個輸入項
+select_prev.h	定義用於選擇目前視窗中上一個輸入項的功能鍵。
+toggle_warning	顯示警告對話
+toggle_warning.h	定義用於顯示桌面助理警告對話的功能鍵。
+execute_step	執行步驟
+execute_step.h	定義用於導覽錄放期間執行步驟的功能鍵。
+copy_link	複製連結
+copy_link.h	定義用於所選實體連結的功能鍵
+maximize_trainer	最大化內容視窗
+maximize_trainer.h	定義用於最大化內容視窗的功能鍵。
+share_email	透過電子郵件共享
+share_email.h	定義用於透過電子郵件共享所選實體內容的功能鍵。
+start_default	啟動預設內容
+start_default.h	定義用於啟動預設模式或所選文件的功能鍵。
+show_da_help	顯示桌面助理輔助說明
+show_da_help.h	定義用於桌面助理輔助說明的功能鍵。
+request_content	請求內容
+request_content.h	定義用於請求應用程式頁面內容的功能鍵。
+search_content	搜尋內容
+search_content.h	定義用於根據所選搜尋類型搜尋內容的功能鍵。
+show_hidden_elems	顯示隱藏的輔助說明元素
+show_hidden_elems.h	定義用於顯示隱藏輔助說明元素的功能鍵。
+toggle_side_bar	顯示/隱藏側邊列
+toggle_side_bar.h	定義用於顯示和隱藏側邊列的功能鍵。
+content_library	桌面助理 - 內容和行為
+content_library_window	桌面助理 - 樣式和視窗
+content_library_sidebar	桌面助理 - 側邊列
+style	樣式
+style.h	定義桌面助理元件的外觀 (主視窗、內容視窗、狀態圖示)。請自清單選擇樣式資源。
+show_only_bar	啟動時僅顯示側邊列
+show_only_bar.h	定義啟動桌面助理時是否僅顯示側邊列，或也顯示主視窗。
+clear_on_mismatch	清除不相符內容的內容清單
+clear_on_mismatch.h	定義找不到內容時清除內容清單。停用設定時會顯示辨識的最後一個物件內容。
+da_positioning	主視窗對齊
+da_positioning.h	定義畫面上的主視窗對齊。'可用' 選項可讓您在 '主視窗位置' 參數中定義位置。
+bar_positioning	側邊列對齊
+bar_positioning.h	定義畫面上側邊列的對齊
+left_top	左上角
+left_center	靠左置中
+left_bottom	左下角
+right_top	右上角
+right_center	靠右置中
+top_center	上方置中
+right_bottom	右下角
+center	中央
+free	可用
+list_order	內容排序
+list_order.h	定義清單中可用內容的排序。
+by_default	瀏覽器結構
+by_name	字母順序
+by_type	依類型的字母順序
+library_position	主視窗位置 (任意)
+library_position.h	定義畫面上 '任意' 對齊的主視窗位置 (左、上)。值以像素表示。
+search_url	搜尋群組
+search_url.h	允許您指定工作區域群組，以於 @{LIBRARY} 中搜尋內容。
+enable_recording	位置：‘錄製’ 控制項
+enable_recording.h	允許您顯示錄製程序的控制項。您可以於側邊列指定該控制項的位置，\n錄製功能允許使用者將程序錄製為 Microsoft Word 文件或視訊，錄製的檔案會顯示於 [使用者區域] 標籤的主視窗中。
+enable_exit_da	位置：「跳出」控制項
+enable_exit_da.h	允許您顯示結束 @{NAVIGATOR} 的控制項。您可於側邊列指定該控制項的位置。
+enable_info	顯示 '資訊' 標籤
+enable_info.h	啟用桌面助理主視窗的 '資訊' 標籤。在桌面助理群組的簡短說明中插入資訊內文。
+request_content_type	請求內容類型
+request_content_type.h	指定請求內容的功能。從下拉式清單中選擇一種類型。\n電子郵件：允許您針對請求輸入電子郵件地址。\nURL：允許您輸入 URL 以開啟網頁。\n[請求內容] 控制項會顯示於側邊列，若找不到內容，[請求內容] 連結會顯示於主視窗。
+email	電子郵件
+url	URL
+enable_request_content	位置：‘請求內容’ 控制項
+enable_request_content.h	指定側邊列中 ‘請求內容’ 控制項的位置。
+enable_external_search_ctx	提供內容資訊
+enable_external_search_ctx.h	在搜尋時提供要搜尋的 URL，還有使用者的附加內容資訊，所提供的內容資訊將用於搜尋。若您指定的搜尋可以使用內容資訊，請啟用此設定。\n所提供的內容資訊會在 ‘內容資訊’ 參數中指定。
+external_search_ctx	內容資訊
+external_search_ctx.h	若已啟用 ‘提供內容資訊’ 的設定，請指定內容資訊。可提供以下內容資訊：目前的應用程式的 EXE (&executable=$#{EXE})，目前的應用程式頁面的頁面鍵值 (&pagekey=$#{PAGEKEY})\n註記：請勿更改內容資訊字串的結構。
+enable_external_search	位置：「外部搜尋」控制項
+enable_external_search.h	允許您啟用用於搜尋內容或進一步資訊的外部搜尋頁面。透過已啟用的設定，‘外部搜尋’ 控制項會顯示於側邊列。您可以指定該控制項在側邊列的位置。\n此按鈕會開啟用於輸入搜尋條件的搜尋欄位，搜尋結果會顯示於外部搜尋頁面。針對外部搜尋，您必須於 ‘外部搜尋 URL’ 參數中指定要搜尋的 URL。
+external_search_url	URL
+external_search_url.h	允許您指定用於外部搜尋的 URL。請在以下的結構中輸入 URL：\nhttps://www.google.com/#q=$#{SEARCHTERM}\nhttps://www.bing.com/search?q=$#{SEARCHTERM}\nhttps://search.yahoo.com/search?p=$#{SEARCHTERM}\nhttps://www.wolframalpha.com/input/?i=$#{SEARCHTERM}\n\n註記：請勿刪除或更改 URL 內容參數的 ‘=$#{SEARCHTERM}’。
+enable_share_content	顯示 '共享內容' 控制
+enable_share_content.h	在主視窗的頁尾中顯示 '分享內容' 按鈕。此按鈕會開啟包含所選內容連結的對話方塊。
+author_email	電子郵件
+author_email.h	允許您指定用於請求內容的電子郵件地址。該電子郵件地址用於 '請求內容’ 功能。
+author_url	URL
+author_url.h	允許您指定用於請求內容的 URL。該 URL 用於 '請求內容’ 功能。
+author_url_params	URL 參數
+author_url_params.h	允許您指定作者 URL 的參數。\n您可指定應用程式名稱和可執行檔。以所需名稱替代值 '應用程式' 或 '可執行檔'。
+enable_fuzzy_match	啟用模糊比對
+enable_fuzzy_match.h	定義是否將模糊比對用於比對應用程式頁面的內容。
+enable_ident_filter	啟用進階應用程式識別
+enable_ident_filter.h	指定 @{NAVIGATOR} 錄放僅使用相關應用程式資訊，這可讓您最佳化 the @{NAVIGATOR} 的效能。\n請注意：此選項可導致物件辨識錯誤。建議您先測試錄放再發佈內容。
+library_size	主視窗大小
+library_size.h	定義主視窗的大小 (寬度、高度) (像素)。
+book_win_position	內容視窗位置 (任意)
+book_win_position.h	定義以像素指定畫面上 '任意' 對齊的內容視窗位置 (左、上)。值。
+book_win_size	內容視窗大小
+book_win_size.h	定義內容視窗的大小 (寬度、高度) (像素)。
+book_win_positioning	內容視窗對齊
+book_win_positioning.h	定義畫面上的內容視窗對齊。'任意' 選項可讓您在 '內容視窗位置' 參數中定義位置。
+errNoApplicationContext	目前巨集不是應用程式內容。
+errNoTargetDefinition	巨集未對應至目標定義。
+errExtractPagekey	無法萃取以下設定檔的頁面鍵值：
+errScreenshot	無法擷取畫面。請再試一次。
+errLoadTemplate	無法載入設定檔：
+errRecordProcessStep	無法錄製 '內容輔助說明' 專案的導覽步驟。
+errLanguageSelection	未選擇語言。
+errNoWriteToken	您沒有所選物件的寫入權限。
+errMacroSelection	未選擇巨集。
+errObjectInformation	指定的位置上沒有物件資訊。
+errSpecializedInformation	指定位置沒有專用資訊。
+errPosition	位置不在視窗區域中。
+errActionMacroSelection	未選擇動作巨集。
+errUpdateObject	無法更新所選物件類型。
+errInsertExplanation	無法插入所選巨集的任意解說。
+action.h	僅導覽\n此選項可用於定義使用者應對物件執行的動作。
+all_values.h	在某些情況下，應用程式的物件會具有標準 HTML 控制項無法涵蓋的數值選項，因此會使用最接近應用程式物件的控制項。此欄位另有物件的所有數值選項。
+anim_steps.h	此數值代表要使用多少個步驟來動畫呈現所選的反白效果。數值低可加快動畫速度，但會造成不連貫的印象。數值高可讓動畫更流暢，但也會降低整體動畫速度。
+auto_execute.h	設定定義將在瀏覽錄放期間自動執行動作。
+b_height.h	定義物件氣泡框的高度 (像素)。若文字量超過氣泡框內的可用空間，會自動將高度調整為所需空間。
+b_hide_option.h	僅內容輔助說明\n啟用此選項後，物件或解說氣泡框中會顯示設定，一般使用者可透過此設定來停用物件資訊 (氣泡框和反白)。使用者可藉此隱藏任何不再需要的資訊。
+b_minimizable.h	此選項定義是否要在錄放期間最小化氣泡框。若啟用選項，則會在氣泡框表頭中顯示 '最小化' 按鈕。
+b_closable.h	僅內容輔助說明\n此選項定義是否要在錄放期間關閉氣泡框。若啟用選項，則會在氣泡框表頭中顯示 '關閉' 按鈕。
+b_minimized.h	僅內容輔助說明\n此選項代表載入頁面後，是否要最小化顯示物件氣泡框。
+bmain_size.h	定義主視窗的大小 (寬度、高度) (像素)
+bmain_minimizable.h	此選項定義是否可最小化主視窗。
+bmain_position.h	此處所輸入的值定義畫面上的主視窗位置。數字代表與畫面左上角的距離 (像素)。
+bmain_win_style.h	定義主視窗外觀。請從清單選擇樣式資源。
+bmain_alignment.h	定義畫面上的主視窗對齊。選項 '可用' 允許您在 '視窗位置' 參數中定義位置。
+bubble_offset.h	此選項可用於定義物件氣泡框與物件的間距 (像素)。
+bubblestyle_d.h	指定用於顯示專案的物件氣泡框的氣泡框樣式資源。
+bubblestyle_d.h	指定用於顯示專案的物件氣泡框的氣泡框樣式資源。
+choose_bool.h	此欄位包含的數值可決定選項圓鈕或核取方塊的狀態為開啟或關閉。選項圓鈕的數值一律為 '1' (開啟)。核取方塊的數值可為 '0' (關閉) 或 '1' (開啟)。
+choose_text.h	此參數包含的字元字串是在自動錄製的過程中，在蹦現畫面功能表或清單欄位中針對所選輸入項所找到的。此字串是以多種模式插入說明氣泡框文字中，而非使用 '${choose_text}' 位置保留符號 (請參閱 HTML 編輯器中的文字模式)。在錄製過程中，當要使用文字模組自動產生氣泡框內容時，會將該字串當作文字模組套用於自動產生的氣泡框文字。
+click_pos.h	說明錄製物件時，作者在應用程式視窗中按一下的位置。位置需以像素指定，且在應用程式視窗內容的左上角。
+click_pos_rel.h	說明應用程式視窗中的位置。此百分比值 (%) 使用應用程式視窗的左緣和上緣作為參考點，指出視窗整體寬度和高度的相對位置。
+config_file.h	包含可建立鍵值並進一步解譯鍵值的應用程式設定檔名稱。
+display_name.h	指定應用程式名稱，此名稱將顯示於導覽的異常視窗中。
+dump_page.h	包含錄製畫面，\n您可以使用 ‘替代圖像’ 功能更改圖像。
+element_type.h	說明由辨識機制所辨識的物件類別。
+enabled.h	僅內容輔助說明\n此選項代表是否要將巨集併入頁面分析中。若停用此選項，即使頁面上有相關物件，也不會顯示輔助說明物件。
+optional.h	僅導覽\n該選項定義導覽步驟在程序中對於使用者是否為選擇性。\n錄放期間會在步驟清單中顯示不同圖示。若頁面上未顯示控制或頁面錯誤，則會跳過步驟。
+executable.h	包含作業系統使用的應用程式可執行檔名稱。
+explanation_d.h	包含各內容 (文字、連結、圖像等) 的資訊。請確保會以最佳方式顯示主要氣泡框中的資訊。
+explanation_d_modified.h	若啟用此選項，自動翻譯時將不會再自動產生內容資訊，而必須手動編輯。這有助於保留手動更改的氣泡框內容。
+fieldname.h	包含已錄製控制項的名稱，名稱會插入於氣泡框文字中。\n您可以在文字欄位中更改物件名稱。該物件名稱會有位置保留符號 ‘${fieldicon}’。
+fieldicon.h	包含已錄製按鈕或圖示的圖像，圖像會插入於氣泡框文字中。\n您可以使用 ‘替代圖像’ 功能更改物件圖像。該物件圖像位置會有位置保留符號 ‘${fieldicon}’。
+g_highlight_bgr.h	定義瀏覽中的反白框線標準色彩。可直接以 HEX 格式輸入 RBG 數值色彩，或自色彩選擇器對話方塊中選擇。
+g_highlight_border.h	此參數可用於定義物件反白框架的一般厚度 (像素)。像素寬度可為 '1' 至 '10'。
+g_highlight_effect.h	此選項可用於決定要用於瀏覽中物件的反白效果類型。
+hide_on_focuslost.h	此選項代表當畫面上的焦點離開相關物件時，是否要隱藏氣泡框。
+highlight_offset.h	此參數會針對已標記元素周圍的反白矩形定義新增的像素間距。
+key.h	包含的所有準則可用於辨識應用程式視窗和應用程式中的特定頁面。只有當目標應用程式中的頁面符合在鍵值中定義的所有準則時，才會與鍵值相符。為了能更輕易定義單一鍵值準則，您可以使用規則運算式。
+key_name.h	此參數可用於決定要使用的鍵值或捷徑。您必須使用空格來分隔鍵值名稱，例如：'ctrl + k'。
+key_desc.h	此參數可用於決定要使用的鍵值或捷徑。您必須使用空格來分隔鍵值名稱，例如：'ctrl + k'。
+force_display.h	僅內容輔助說明\n指定將巨集內容一律顯示為立即輔助說明，即使立即輔助說明在桌面助理的錄放期間已停用。
+link_to_sim.h	此選項會將模擬連結加入主要氣泡框中。此選項與根據模擬專案 (透過轉換) 所建立的瀏覽相關。
+macro_comment.h	一般備註，以縮圖檢視顯示。
+match_value.h	此選項代表是否要將指定的數值與即時應用程式的物件實際數值進行比較。
+mini_on_focuslost.h	此選項代表當畫面上的焦點離開相關物件時，是否要最小化氣泡框。
+nav_check_freq.h	定義 @{NAVIGATOR} 檢查更新內容的頻率。若有更新內容，@{NAVIGATOR} 將自動啟動內容。這對更改管理程序格外實用。
+enable_tincan.h	啟用追蹤 @{NAVIGATOR} 內容。內容必須在 @{MANAGER} 工作區域開始。
+no_spike.h	此選項代表是否要顯示物件氣泡框的尖端。
+objname.h	當使用效果和效果指派時，瀏覽中的每個物件皆需要專屬名稱以供識別。
+orientation.h	此參數可用於定義物件氣泡框與參考物件的相對方向。氣泡框箭頭會指向頁面中的參考位置，而氣泡框本身會依指示偏向所選的方向。若選擇 '置中' 方向，則會在定義的位置中央顯示沒有箭頭的氣泡框。
+path.h	物件路徑會根據使用的應用程式設定檔來說明物件的屬性。物件路徑可用於辨識即時應用程式的物件。依規定，您不需手動編輯此欄位。
+position.h	在此輸入的數值代表主要氣泡框在畫面上的位置。數字代表與畫面左上角的距離 (像素)。
+reference.h	若瀏覽由模擬轉換而來，則必須在此指定個別主題的來源。
+resize.h	此選項代表是否要自動將目標應用程式視窗大小更改為建立瀏覽時所使用的大小。由於系統會根據位置顯示啟用中區域，因此啟用此選項將會很有幫助。
+revision.h	顯示錄製應用程式畫面時用於建立鍵值的應用程式設定檔版本。
+sc_config_header.h	應用程式的設定檔資訊會儲存在此欄位中。在播放過程中，瀏覽會使用此資訊以正確辨識應用程式及其物件。
+screenshot_rect.h	顯示在原始畫面中擷取畫面時所使用的區域。依規定，您不需手動編輯此數值。
+show_bubble.h	此選項代表完全載入頁面後，是否要顯示氣泡框。
+start_from_arbitrary.h	此選項代表可從任意步驟啟動導覽，而不需從程序開始時啟動。
+show_hilight.h	指定物件是否顯示反白。
+show_highlight.h	指定物件是否顯示反白。
+show_on_focus.h	此選項代表當畫面上的焦點更改為相關物件時，是否要顯示氣泡框。
+source.h	若瀏覽是自模擬轉換而來，則參數代表原始課程單元。
+subkey.h	在某些情況下，忽略鍵值原始部份的特定部份會有所幫助。例如，由於特定頁面的變式不相關，且應以瀏覽中的相同鍵值和步驟來處理。即使頁面中透過辨識而找出的鍵值準則多於在鍵值中定義的鍵值準則，此選項會強迫辨識機制認定鍵值為相符項目。如此一來可縮短頁面鍵值，以便使用一個鍵值涵蓋多個頁面。
+target_name.h	包含應用程式視窗的名稱。
+text_d.h	此參數包含要在參考輸入項欄位中輸入的字元字串。其包含在自動錄製的過程中輸入的數值。在錄製過程中，當使用文字模組自動產生氣泡框內容時，會將此字串以多種模式插入說明氣泡框文字中，而非使用 '${text_d}' 位置保留符號 (請參閱 HTML 編輯器中的文字模式)。
+text_d_specializer.h	此參數包含要在參考輸入項欄位中輸入的字元字串。其包含在自動錄製的過程中輸入的數值。在錄製過程中，當使用文字模組自動產生氣泡框內容時，會將此字串以多種模式插入說明氣泡框文字中，而非使用 '${text_d}' 位置保留符號 (請參閱 HTML 編輯器中的文字模式)。
+tolerance.h	此值定義合併 '畫面' 巨集時相符程度的允差。此設定與 '合併畫面巨集' 功能相關，可由 '工具 -> 大量更改' 功能表啟動。提高值會增加允差門檻值。請注意，在此情況下也可合併顯示不同物件的擷取畫面。必須以百分比指定值。
+uid.h	包含巨集的專屬識別碼 (在專案中管理)。
+win_rect.h	定義建立專案時的視窗大小。
+explanation_type.h	此選項可用於決定註記類型。根據類型設定，特定象形圖會與文字一同顯示，以反白公告文字。
+app_info.h	此設定定義是否要在內容輔助說明中顯示應用程式。若不要顯示應用程式，則停用此設定。
+app_link_to_sim.h	此參數可針對 '來源' 參數，顯示內容類型的額外模擬連結。您可以在過程中選擇不同的模式。
+screen_info.h	此設定定義是否要在內容輔助說明中顯示頁面。若不要顯示畫面，則停用此設定。
+screen_link_to_sim.h	此參數可針對 '來源' 參數，顯示內容類型的額外模擬連結。您可以在過程中選擇不同的模式。
+object_info.h	僅內容輔助說明\n此設定定義要顯示的物件變式。
+open_expanded.h	若啟用此選項，會在頁面和物件清單開啟的情況下顯示主要氣泡框。
+display_on.h	此參數可用於定義要在哪種情況下顯示瀏覽主要氣泡框。開始瀏覽時，檢視應用程式或檢視對應的應用程式頁面。
+area.h	此參數可用於定義控制項的位置和大小。前兩個數字代表物件與畫面左緣和上緣的位置。最後兩個數字代表物件的寬度和高度。輸入欄位旁的按鈕可開啟編輯對話方塊，供您自訂物件的位置和大小。
+form_on.h	定義步驟為表單。錄放期間該步驟的所有動作會顯示於單一氣泡框。
+transition	下一個導引步驟
+transition_info	下一個導引步驟
+action_pa	動作
+trans_action	動作
+step_name1	下一個步驟
+step_name2	替代步驟 1
+step_name3	替代步驟 2
+step_name4	替代步驟 3
+LClick	按一下左鍵
+RClick	按一下右鍵
+LDblClick	按兩下左鍵
+RDblClick	按兩下右鍵
+Focus	焦點
+FocusLost	失去焦點
+step	導覽步驟
+name	名稱
+end_message	內文
+show_end_window	結束視窗
+show_end_window.h	指定於導覽結束時顯示視窗。視窗允許使用者手動關閉導覽。若停用此選項，則不會顯示視窗且會自動關閉導覽。
+trans_action.h	僅導覽\n指定驅動跳轉至下一個導覽步驟的動作。
+action_pa.h	此設定指定驅動跳轉至下一個導覽步驟的使用者動作。
+step_name1.h	僅導覽\n定義程序流程中的下一個步驟。
+step_name2.h	僅導覽\n定義若無法顯示定義導覽步驟的替代導覽步驟。
+step_name3.h	僅導覽\n定義若無法顯示定義替代導覽步驟 1 的替代導覽步驟。
+step_name4.h	僅導覽\n定義若無法顯示定義替代導覽步驟 2 的替代導覽步驟。
+step_on_same_page.h	僅導覽\n若下一個導覽步驟在相同的應用程式頁面上，則應啟用此設定。這將避免辨識頁面。
+name.h	定義導覽步驟的名稱。該名稱會顯示於 '物件' 巨集的 '下一個導引步驟' 設定以供選擇。
+set_value	自動設定值
+set_value.h	此設定代表在播放瀏覽時，是否要自動設定巨集值。
+end_message	內文
+end_message.h	您可以在此文字欄位中輸入程序結束時要顯示在氣泡框中的文字。文字欄位會預設使用預設文字。
+restart_option	重新啟動按鈕
+restart_option.h	啟用此選項時，氣泡框中會出現按鈕供使用者用於重複程序。如此一來便可使用不同的輸入項來執行程序。
+record_end_display	編輯氣泡框
+end_bubble	氣泡框程序結尾
+bend_position	位置
+bend_position.h	在此輸入的數值代表氣泡框在畫面上的位置。數值需以像素指定，並位於畫面左上角。
+bend_style	樣式
+bend_style.h	此設定定義顯示氣泡框所用的氣泡框樣式。您可在功能表的 '工具' > '編輯氣泡框樣式' 中開啟氣泡框樣式編輯器，並使用該編輯器定義氣泡框樣式。整個工作區域一律可使用氣泡框樣式。
+bend_width	寬度
+bend_width.h	定義要顯示的氣泡框寬度 (像素)。
+bend_height	高度
+bend_height.h	定義要顯示的氣泡框高度 (像素)。
+process_start_unit	導覽樣式
+record_pa_control	錄製導覽步驟
+prev_step	上一個步驟
+next_step	下一個步驟
+disqualifier	排除畫面
+disqualifier.h	透過 '頁面說明符'，您可以使用特定物件來區分相似的應用程式頁面。此選項指定當有 '頁面說明符' 時應顯示或排除辨識的應用程式頁面。\n縮圖檢視會顯示選項的狀態：加號 (未排除) 或減號 (排除)。
+exception_bubble	氣泡框異常處理
+bexp_position	位置
+bexp_position.h	在此輸入的數值代表氣泡框在畫面上的位置。數值需以像素指定。氣泡框將出現在畫面的左上角。
+bexp_style	樣式
+bexp_style.h	您可以在此選擇要使用的氣泡框類型。氣泡框樣式可在氣泡框樣式編輯器中定義，該編輯器可自下列功能表開啟：工具 -> 編輯氣泡框樣式。整個工作區域一律可使用不同的氣泡框樣式。
+content_demo	示範模式
+content_demo.h	啟用此選項時，群組示範模式會顯示在桌面助理中。
+content_practice	練習模式
+content_practice.h	啟用此選項時，群組練習模式會顯示在桌面助理中。
+content_test	測試模式
+content_test.h	啟用此選項時，群組測試模式會顯示在桌面助理中。
+content_concurrent	並行模式
+content_concurrent.h	啟用此選項時，群組並行模式會顯示在桌面助理中。
+content_navi	瀏覽
+content_navi.h	啟用此選項時，群組瀏覽會顯示在桌面助理中。
+content_documentation	紀錄文件
+content_documentation.h	啟用此選項時，群組紀錄文件會顯示在桌面助理中。
+content_externals	外部檔案
+content_externals.h	啟用此選項時，群組外部檔案會顯示在桌面助理中。
+navi_style	樣式
+navi_style.h	定義瀏覽視窗的外觀。請從清單選擇樣式資源。
+menu_path:/record	錄製
+F1HELPNAME	輔助說明
+alignment	氣泡框對齊
+alignment.h	指定畫面上氣泡框視窗的對齊。選項「可用」允許您在「氣泡框位置」參數中定義位置。
+bform_alignment	對齊
+bform_alignment.h	定義畫面上表單氣泡框視窗的對齊。選項 '可用' 允許您在 '表單氣泡框位置' 參數中定義位置。
+gloss_bubble	辭彙說明氣泡框
+gloss_bubble_style	樣式
+gloss_bubble_style.h	定義辭彙說明氣泡框的外觀。請從清單選擇樣式資源。
+ellipse	圓形
+gloss_bubble_size	大小
+gloss_bubble_size.h	定義辭彙說明氣泡框的大小 (寬度、高度) (像素)。
+Navi	桌面助理
+exclude_from_da	自桌面助理排除
+exclude_from_da.h	指定頁面鍵值將不受桌面助理內容辨識所考慮。
+all_as_descr	使用內文，來源：
+all_as_descr.h	定義 @{NAVIGATOR} 的內文類型。預設值為「簡短說明」。
+consider_roles	考慮角色
+consider_roles.h	啟用於錄放期間顯示內容的角色使用。
+consider_categories	考慮內容種類
+consider_categories.h	啟用在 @{NAVIGATOR} 主視窗中用於排序內容的內容種類。
+disable_ca_in_pa	隱藏導覽中的立即輔助說明
+disable_ca_in_pa.h	指定導覽錄放期間是否隱藏所有即時輔助說明資訊。一旦完成導覽，則會再次顯示即時輔助說明。
+full_desc	說明
+shrt_desc	簡短說明
+wrong_position	位置錯誤
+help	輔助說明
+warning	警告
+maintenance	維護
+update	更新
+new	新
+training	訓練
+attachment	附件
+link	連結
+tip	秘訣
+note	註記
+compliance	法規遵循
+mini_bubble_style	迷你圖示樣式
+mini_bubble_style.h	定義用於專案的迷你圖示樣式資源。迷你圖示為適合的資源的資源類型。\n使用 '進階' 區段中的 '迷你圖示類型' 參數，在每一個動作和解說巨集中設定圖示。
+mini_bubble	迷你圖示類型
+mini_bubble.h	僅內容輔助說明\n定義物件迷你圖示的類型。此圖示的依據為 '樣式' 巨集已定義的 '迷你圖示樣式'。
+NavRecMouseWheel	使用滑鼠滾輪以繼續。請按 ESC 結束滑鼠捲動。
+search_type	搜尋類型
+none	無
+search_in_lib	在 @{LIBRARY} 中
+search_in_da	桌面助理群組
+search_type.h	指定搜尋內容的功能。從下拉式清單中選擇一種類型。\n註記：停用搜尋功能。\n在 @{LIBRARY}：開啟 @{LIBRARY} 以在 @{LIBRARY} 內容中搜尋。\n在桌面助理群組：在主視窗中顯示 ‘搜尋’ 標籤以於桌面助理內容搜尋。
+errObjectUpdate	無法更新物件。更新相似類型的物件。
+config_headers_differ1	設定檔資訊已過時。請按一下 '繼續' 更新專案。
+config_headers_differ2	建議先建立歸檔再更新。
+default_start_mode	預設開始內容
+default_start_mode.h	定義依預設要自內容清單開始的模型或文件格式。
+default_start_doc	預設開始文件
+default_start_doc.h	定義文件類型 (若已設定 '預設開始內容' 設定中的文件)。
+show_next_btn	下一步按鈕
+show_next_btn.h	僅導覽\n指定於物件氣泡框中顯示 '移至下一步' 按鈕。
+condition	條件
+condition.h	錄放期間，使用者輸入的值必須符合條件以便移至下一步或跳轉至特定步驟。\n選擇 '編輯條件' 以建立或編輯條件。
+errDuplicateContext	已錄製此應用程式。
+add_sticky_notes	位置：'便利貼’ 控制項
+add_sticky_notes.h	允許您於頁面中顯示新增便利貼的控制項，您可於側邊列指定該控制項的位置。
+show_instant_help_btn	位置：‘立即輔助說明’ 控制項
+show_instant_help_btn.h	允許您顯示啟用立即輔助說明的控制項。您可於側邊列指定該控制項的位置。
+show_carousel	顯示自動轉盤
+show_carousel.h	此選項於自動轉盤模式顯示桌面助理。
+condition_pattern	條件模式
+condition_pattern.h	指定用於條件的模式。
+condition_value	條件值
+condition_value.h	包含用於條件的值。請以所選模式為基礎輸入內文或數字。
+condition_jump_target	跳轉目標
+condition_jump_target.h	僅導覽\n指定條件的跳轉目標。自下拉式清單選擇步驟。若符合條件，則瀏覽跳轉至指定步驟。
+condition_text	條件內文
+condition_text.h	包含要顯示的內文 (若未達成條件)。
+condition_case_sensitive	區分大小寫
+condition_case_sensitive.h	指定條件為大小寫相關。
+condition_ignore_on_load	載入頁面時忽略
+condition_ignore_on_load.h	僅內容輔助說明\n指定頁面載入時不勾選條件。使用對應控制項時勾選條件。這可避免直接顯示條件氣泡框。
+c_equals	等於
+c_not_equals	不等於
+c_greater	大於
+c_greater_equals	大於或等於
+c_less	小於
+c_less_equals	小於或等於
+c_min_char	字元最小數量
+c_max_char	字元最大數量
+c_num_char	字元數量等於
+c_reg_exp	規則運算式
+vertical	垂直
+horizontal	水平
+AutoBarReady	閒置
+AutoBarExplanation	插入解說
+AutoBarChooseApp	選擇應用程式
+AutoBarRecord	錄製
+AutoBarBusy	忙碌
+AutoBarPause	暫停
+AutoBarReRecManualHotspot	編輯控制：按 Ctrl + Enter 繼續更改。按 Esc 捨棄更改。
+wizAddExplanation	新增解說
+AutoBarNoRecognition	未辨識控制
+AutoBarDiagnosis	診斷
+condition_bubblestyle	氣泡框樣式
+condition_bubblestyle.h	定義要用於顯示條件內文的氣泡框樣式資源。
+condition_highlight_bgr	反白色彩
+condition_highlight_bgr.h	定義控制的反白色彩。
+IDS_MPI_TOURSTOP_LABEL	名稱
+IDS_MPI_TOURSTOP_LABEL_MODIFIED	手動翻譯
+IDS_MPI_TOURSTOP_NAME	UID
+IDS_MPI_TOURSTOP_SHOW	顯示於進度顯示
+IDS_MPI_TOURSTOP_JUMP	跳轉目標
+IDS_MPI_TOURSTOP_CALLABLE	是常式
+basic_info	基本屬性
+IDS_NO_IMAGE_SELECT	未選擇圖像
+IDS_NO_IMAGE	找不到圖像
+ID_INSERT_TAKE	新增步驟
+ID_PRJ_LAYOUT_HORZ	水平配置
+ID_PRJ_LAYOUT_VERT	垂直配置
+ID_PRJ_LAYOUT_DIV	分割的配置 - 1
+ID_PRJ_LAYOUT_4	分割的配置 - 2
+ID_PRJ_LAYOUT_5	分割的配置 - 3
+IDS_UNTITLED	(無標題)
+docTableHeaderStep	步驟
+layout_advanced	進階配置
+showEditorHelp	顯示 Web 編輯器輔助說明
+slide:insert_tb	插入
+slide:action_tb	動作
+slide:structure_tb	結構
+slide:view_tb	檢視
+existing_scrs_in_prj	目前畫面在您的專案中已使用多次。\n選擇要新增已錄製物件的畫面。
+start_topic	開始
+guided_tour	導覽
+context_help	內容輔助說明
+off	關閉
+main_bar_1	主橫條列 1
+main_bar_2	主橫條列 2
+main_bar_3	主橫條列 3
+main_bar_4	主橫條列 4
+main_bar_5	主橫條列 5
+main_bar_6	主橫條列 6
+main_bar_7	主橫條列 7
+main_bar_8	主橫條列 8
+sub_menu_1	子功能表 1
+sub_menu_2	子功能表 2
+sub_menu_3	子功能表 3
+sub_menu_4	子功能表 4
+sub_menu_5	子功能表 5
+sub_menu_6	子功能表 6
+content_btn	位置：’內容’ 控制項
+content_btn.h	指定側邊列 ‘內容’ 控制項的位置。
+search_btn	位置：‘搜尋’ 控制項
+search_btn.h	指定側邊列 ‘搜尋’ 控制項的位置。
+orCenter	中央
+orNorth	北
+orWest	西
+orNortWest	西北
+orEast	東
+orNortEast	東北
+orSouth	南
+orSouthWest	西南
+orSoutEast	東南
+screen_tolerence	允許的畫面差異 (%)
+screen_tolerence.h	針對待顯示的相關內容資訊，此參數可用於定義顯示的畫面頁面與錄製的擷取畫面 (百分比) 之間的必要圖形相符項。若圖形差異符合所定義的值，@{NAVIGATOR} 會將錄製的頁面鍵值與畫面頁面進行比較，並顯示不同應用程式頁面的適當內容。
+video_folder	視訊錄製資料夾
+video_folder.h	指定儲存錄製視訊的資料夾。\n請注意：由於檔案大小原因，錄製的視訊不會儲存於 @{NAVIGATOR} 的快取資料夾。
+allow_video_rec	允許錄製視訊
+allow_video_rec.h	允許使用者錄製視訊內容。
+hide_da_on_web_assistant	執行 @{XRAY} 時隱藏 @{NAVIGATOR}
+hide_da_on_web_assistant.h	指定在前景執行時 @{XRAY} 隱藏 @{NAVIGATOR} 視窗
+show_web_assistant_msg	顯示 @{XRAY} 訊息
+show_web_assistant_msg.h	指定在前景執行時 @{XRAY} 顯示訊息或離開前景模式。
+auto_hide	播放動畫後隱藏
+auto_hide.h	若啟用此選項，則當動畫結束後，將會再次自動隱藏反白。
+bmain_height	高度
+bmain_height.h	定義主要氣泡框的高度 (像素)。 若文字量超過氣泡框內的可用空間，會自動將高度調整為所需空間。
+bmain_style	樣式
+bmain_style.h	此設定可用於定義要使用哪一種氣泡框類型來顯示主要氣泡框。 氣泡框類型是使用 '氣泡框類型編輯器' 所定義，該編輯器可在功能表中的 '工具' -> '編輯氣泡框類型' 啟動。 整個工作區域一律可使用氣泡框類型。
+bmain_width	寬度
+bmain_width.h	定義主要氣泡框的寬度 (像素)。
+bottom_dock	底部暫存
+cache_stale_interval	過時間隔〈分鐘〉
+cache_stale_interval.h	啟用 @{NAVIGATOR} 快取的使用並定義更新快取資料夾中內容的期間。 值以秒定義。 \n若要停用快取，請將值更改為 '0'。
+centered	置中
+close_details	關閉內容視窗
+close_details.h	定義用於針對所選物件關閉內容視窗的功能鍵
+confirmation_hotkey	步驟確認熱鍵
+confirmation_hotkey.h	定義程序助理錄放期間的步驟確認熱鍵
+detail_positioning	內容視窗對齊
+detail_positioning.h	定義畫面上的內容視窗對齊。 內容視窗會停駐在主視窗 ('置中' 對齊除外)。
+detail_size	內容視窗大小
+detail_size.h	定義內容視窗的大小 (寬度、高度) (像素)
+enable_search	啟用搜尋標籤
+enable_search.h	啟用桌面助理內容中的搜尋功能
+h_dock	水平停駐
+icon_position	圖示位置
+icon_position.h	在此輸入的數值代表圖示在畫面上的位置。 數值需以像素指定。 圖示將出現在畫面的左上角。
+leaves_page	離開畫面
+leaves_page.h	此選項代表在瀏覽時，執行此物件的必要動作會載入新頁面。 一旦對物件執行動作，並結束載入頁面後，將會立即出現新頁面的分析。
+left_dock	靠左停駐
+library_height	氣泡框高度
+library_height.h	定義氣泡框的高度 (像素)。
+library_width	氣泡框寬度
+library_width.h	定義氣泡框的寬度 (像素)。
+maximize_details	最大化內容視窗
+maximize_details.h	定義用於最大化內容視窗的功能鍵
+next_doc	選擇下一份文件
+next_doc.h	定義用於在內容視窗中選擇下一份文件的功能鍵
+next_project	選擇下一個專案
+next_project.h	定義用於在主視窗中選擇下一個專案的功能鍵
+open_content	開啟內容
+open_content.h	定義用於開啟所選內容物件的功能鍵。
+open_details	開啟內容視窗
+open_details.h	定義用於針對所選專案開啟內容視窗的功能鍵
+prev_doc	選擇前一份文件
+prev_doc.h	定義用於在內容視窗中選擇前一份文件的功能鍵
+prev_project	選擇前一個專案
+prev_project.h	定義用於在主視窗中選擇前一個專案的功能鍵
+right_dock	靠右停駐
+show_execute	顯示執行按鈕
+show_execute.h	定義錄放期間物件氣泡框中是否顯示執行按鈕。 該按鈕允許使用者執行應用程式中的動作，並於隨後顯示下一步。
+show_icon_on_start	於開始時顯示狀態圖示
+show_icon_on_start.h	定義桌面助理啟動時是否將顯示狀態圖示而非主視窗
+start_doc	開啟文件
+start_doc.h	定義用於從內容視窗開啟所選文件的功能鍵
+step_on_same_page	相同頁面步驟
+top_dock	靠上停駐
+v_dock	垂直停駐

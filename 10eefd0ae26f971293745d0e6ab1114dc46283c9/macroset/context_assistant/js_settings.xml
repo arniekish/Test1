@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfg>
+    <Translation basename="translation"/>
+    <!--
+    <ParamSet name="navigation">
+        <ParamInfo type="FLOAT" name="tolerance" default="10.000000" textkey="tolerance"/>
+    </ParamSet>-->
+</cfg>

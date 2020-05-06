@@ -1,0 +1,308 @@
+﻿#	Ағылшын мәтінінің бөлшектері
+BULLET	&#149;
+TOK_COMPANY	SAP
+TOK_LIB	Курс
+TOK_TOUR	Сабақ
+TOK_TRAINER	Desktop Assistant
+TOK_AUTOMATION	epo
+NAVIGATOR	Desktop Assistant
+NAV_LIBRARY	кітапхана
+BTN_ABORT	Шығу
+BTN_CLOSE	Шығу
+BTN_OK	OK
+BTN_CLOSE_DLG	Жабу
+BTN_CONTINUE	Жалғастыру
+BTN_PREVIEW	Алдын ала көру
+BTN_PROCEED	Жалғастыру
+BTN_RESTART	Қайта іске қосу
+BTN_SKIP	Қадамды өткізіп жіберу
+BTN_START	Іске қосу
+BTN_STOP	Тоқтату
+BTN_EXECUTE	Орындау
+CA_SWITCH	Мәнмәтін анықтамасы
+CONTENT_CAP	Мазмұн
+MAIL_SUBJECT	Жұмыс үстелінің көмекшісіне арналған мазмұн сұрауы
+MAIL_HEADER	Құрметті автор,\n\nкелесі мәселе бойынша мазмұн сұрамақпын:
+MAIL_FOOTER	- Процесс/транзакция: ағымдағы уақытта пайдаланылатын қолданба процесін сипаттаңыз. \n\n- Сипаттама: қажетті ақпаратты сипаттаңыз. \n\nҚұрметпен,
+MAIL_DATA	- Қолданба аты:
+MAIL_TOOLTIP	Мазмұнды сұрау
+SHARE_TOOLTIP	Мазмұнды ортақ пайдалану
+REQUEST_TEXT	Мазмұн сұрау үшін %s түймесін басыңыз
+REQUEST_LINK	осы жерде
+SEARCH_CAP	Іздеу
+INFO_CAP	Ақпарат
+SETTINGS_CAP	Параметрлер
+BACK_TOOLTIP	Артқа
+SHARE_CONTENT_TOOLTIP	Мазмұнды ортақ пайдалану
+CB_HIDE_OPTION	Қайта көрсетпеу
+MY_ROLES	Менің рөлдерім
+EDIT_ROLES	Рөлдерді өзгерту
+NO_ROLES	Рөлдері жоқ мазмұнды көрсету
+SELECT_ALL_CAPTION	Барлығын таңдау
+USER_CAPTION	Пайдаланушы аймағы
+READ_MORE	Қосымша ақпарат оқу...
+NO_CATEGORY_CAPTION	Ешқайсысы
+DELETE_FAILED	Операцияны жою сәтсіз аяқталды.
+RENAME_FAILED	Операция атын өзгерту сәтсіз аяқталды.
+FILE_EXISTS	Мұндай файл аты бар. Басқа ат енгізіңіз.
+LBL_YES	Иә
+LBL_DELETE	Жою
+LBL_NO	Жоқ
+LBL_OK	Ok
+DELETE_DLG_TEXT	%N құжат(тар)ын жою қажеттігін растайсыз ба?
+LBL_CONCURRENT	Қатарлас режимді іске қосу
+LBL_DA	Жұмыс үстелінің көмекшісі
+LBL_SIM	Үлгілеуді іске қосу
+LBL_CDOC	Ашу
+LBL_DEMO	Демо режимді іске қосу
+LBL_NAVI	Экскурсияны іске қосу
+LBL_BOOK	Кітапты ойнату
+LBL_GROUP	Кітапханада ашу
+LBL_NAVIGATION	Жұмыс үстелінің көмекшісі
+LBL_PA	Экскурсия
+LBL_PRACTICE	Жаттығу режимін іске қосу
+LBL_SIMULATION	Үлгілеу
+LBL_BOOKPAGE	Кітап бетін көрсету
+LBL_TEST	Сынақ режимін іске қосу
+LBL_RECORD_DOCUMENT	Құжатты жазып алу
+MSG_AUTOMATION_FINISHED	Автоматтандыру аяқталды
+MSG_AUTOMATION_FINISHED_2	Автоматтандырылған процесті қайта іске қосу үшін “Қайта іске қосу” түймесін басыңыз.
+MSG_AUTOMATION_START	Енгізу мәндерін өңдеу
+MSG_AUTOMATION_START_2	Келесі мәндерді тексеріңіз немесе өңдеңіз. Бұл процесс кезінде автоматты түрде енгізіледі.
+MSG_EPO_DIALOG	Электрондық процесс оңтайландырғышы
+MSG_NAVI_LIBRARY_NO_APP	Қолжетімді ақпарат жоқ.
+LBL_NAVI_NO_MATCH	Іздеу параметрлеріне сай ештеңе табылмады.
+NO_RECORDS	Қолжетімді құжат жоқ.
+MSG_NAVI_LIBRARY_SUBTITLE	Қолжетімді мазмұн:
+MSG_NAVI_LIBRARY_TITLE	Жұмыс үстелінің көмекшісі
+MSG_NOT_APPLICABLE	өңделмейді
+MSG_PA_CONTROL_STEP	Қадам үшін талап етілетін әрекет:
+MSG_PA_EXPLANATION_STEP	Төменде көрсетілген экранға өтіңіз.
+MSG_PA_FORM_STEP	Формада толтырылу қажет өрістер:
+MSG_PA_DIALOG	Экскурсия
+MSG_PA_START_SCREEN	Іске қосу экранын ашыңыз.
+MSG_PA_STEP_NOT_FOUND	Қажетті экранға ауысу
+MSG_PA_STEP_NOT_FOUND1	Мақсатты қолданбаның (@{TARGETAPPNAME}) ашық екеніне көз жеткізіңіз.
+MSG_PA_STEP_NOT_FOUND2	Төменде көрсетілген бөлектелген басқару элементі бар экранға өтіңіз.
+MSG_STEP_LIGHT	Қадамды алдын ала көру
+MSG_STEP_NOT_FOUND	Экскурсия қадамы табылмады.
+MSG_STEP_NOT_FOUND_2	Мақсатты қолданбаның тақырып жолағына басыңыз немесе оң жақ экранға өтіңіз.<br><br>Қажетті экранды қарау үшін, “Алдын ала көру” түймесін басыңыз.
+PA_FINISHED	Экскурсия аяқталды.
+PROJECT_TITLE	Жоба тақырыбы
+TRAY_INFO_BUBBLE_HEADING	Экскурсия
+TRAY_INFO_BUBBLE_TEXT	Ағымдағы қадамды көрсету мүмкін емес. Қосымша ақпарат алу үшін осы жерді басыңыз.
+RESTRICTED_BUBBLE_HEADING	Әрекет блокталды
+RESTRICTED_BUBBLE_TEXT	Ағымдағы қадам расталмайынша ешқандай операция орындай алмайсыз.
+HELP_TITLE	Анықтама
+HELP_INTRO	Анықтама @{NAVIGATOR} негізгі бөліктері мен функцияларына жалпы шолуды қамтамасыз етеді.</br></br><b>Ескертпе:</b> қолжетімді функциялар @{NAVIGATOR} конфигурациясына байланысты болады.</br>
+HELP_TITLE_DA	Бүйірлік панель және терезелер
+HELP_SIDEBAR_T	Бүйірлік панель
+HELP_SIDEBAR_H	Бүйірлік панель @{NAVIGATOR} негізгі функцияларын іске қосуға мүмкіндік береді. Әрбір функция үшін түйме көрсетіледі. Бүйірлік панельді апарып тастау элементі арқылы жылжытуға және бүйірлік панель жиегін басу арқылы кішірейтуге және үлкейтуге болады.
+HELP_CONTENT_CONTROL_T	Мазмұн
+HELP_CONTENT_CONTROL_H	Мазмұнның қолжетімділігін көрсетеді. Мазмұны бар негізгі терезені ашады.
+HELP_SEARCH_CONTROL_T	Іздеу
+HELP_SEARCH_CONTROL_H	Мазмұнды іздеу үшін іздеу құралын ашады.
+HELP_EXTSEARCH_CONTROL_T	Сыртқы іздеу құралы
+HELP_EXTSEARCH_CONTROL_H	Мазмұнды іздеу үшін сыртқы іздеу құралын ашады.
+HELP_STICKY_CONTROL_T	Жапсырма қосу
+HELP_STICKY_CONTROL_H	Ағымдағы қолданба терезесіне жапсырма кірістіреді. Жапсырмаға мәтін енгізуге болады.
+HELP_RECORDING_CONTROL_T	Жазуды бастау
+HELP_RECORDING_CONTROL_H	Процестің жазылуын іске қосады. Жазылған процесс пайдаланушы аймағында жазылған процесс ретінде сақталады.
+HELP_MAIN_WINDOW_T	Негізгі терезе
+HELP_MAIN_WINDOW_H	Негізгі терезеде белгілі бір бет мәнмәтіні үшін қолжетімді мазмұндар көрсетіледі.</br>Экскурсияны ойнату кезінде терезеде қадамдар тізімі көрсетіледі.
+HELP_HEADER_T	Тақырып
+HELP_HEADER_H	Тақырыбындағы күй белгішесі мазмұнның ағымдағы мәнмәтін үшін қолжетімділік күйін көрсетеді.
+HELP_CONTENT_TAB_T	Мазмұн қойындысы
+HELP_CONTENT_TAB_H	Қойындыда ағымдағы қолданбадағы қолжетімді мазиұн көрсетілген.
+HELP_CONTENT_VIEW_T	Мазмұн көрінісі
+HELP_CONTENT_VIEW_H	Мазмұн көрінісінде таңдалған мазмұн бойынша қолжетімді ақпарат, режимдер мен құжаттама көрсетіледі.</br>Мазмұн тізіміне оралу үшін, “Артқа” басқару элементін пайдалануға болады.
+HELP_SEARCH_TAB_T	Іздеу қойындысы
+HELP_SEARCH_TAB_H	Қойындыда ағымдағы мәнмәтін бойынша белгілі бір мазмұнды іздей аласыз.
+HELP_INFO_TAB_T	Ақпарат қойындысы
+HELP_INFO_TAB_H	Қойынды @{NAVIGATOR} туралы жалпы ақпаратты көрсетеді.
+HELP_USERAREA_TAB_T	Пайдаланушы аймағы қойындысы
+HELP_USERAREA_TAB_H	Қойындыда жазылған процесс құжаттары қамтылған. Құжатты ашуға, ортақ пайдалануға және жоюға болады. Қосымша процестерді жазуға болады.
+HELP_INSTANT_T	Жедел анықтама
+HELP_INSTANT_H	Белсендірілген параметр арқылы ағымдағы қолданба экранында қосымша мәнмәтін ақпараты көрсетіледі. Параметр әдепкі бойынша іске қосылады.
+HELP_REQCONTENT_T	Мазмұнды сұрау
+HELP_REQCONTENT_H	Автордан жоқ мазмұнды сұрау үшін, электрондық пошта терезесін ашады.
+HELP_SETTINGS_T	Параметрлер
+HELP_SETTINGS_H	Көріністе @{NAVIGATOR} мазмұнын көрсетуге арналған параметрлер қамтылады.
+HELP_MYROLES_T	Менің рөлдерім
+HELP_MYROLES_H	Бұл параметр тағайындалған рөлге арналған мазмұнды көрсетеді.
+HELP_WITHOUTROLES_T	Рөлдері жоқ мазмұнды көрсету
+HELP_WITHOUTROLES_H	Бұл параметр тағайындалған рөлдері жоқ мазмұнды көрсетеді.
+HELP_EDITROLES_T	Рөлдер
+HELP_EDITROLES_H	Мазмұн үшін пайдаланылған барлық рөлдер тізімде беріледі және мазмұнды көрсету үшін белсендіріледі немесе ажыратылады.
+HELP_SHARECONTENT_T	Мазмұнды ортақ пайдалану
+HELP_SHARECONTENT_H	Мазмұнға арналған сілтемесі бар диалогтік терезені ашады. Сілтемені басқа пайдаланушылармен ортақ пайдалануға болады.
+HELP_REQUESTCONTENT_T	Мазмұнды сұрау
+HELP_REQUESTCONTENT_H	Белгілі бір жағдай бойынша мазмұнды сұрау үшін алдын ала белгіленген электрондық поштаны ашады.
+HELP_PLAYBACK_CONTENT_T	Ойнату мазмұны
+HELP_PLAYBACK_CONTENT_H	Қолжетімді мазмұнды мазмұн терезесіндегі түймелерді пайдалану арқылы іске қосуға немесе ашуға болады.
+HELP_MINIMIZED_STATUS_T	Кішірейтілген күйі
+HELP_MINIMIZED_STATUS_H	Негізгі терезені жапқан жағдайда, қалқымалы күй белгішесі мазмұнның ағымдағы мәнмәтін үшін қолжетімділігін әлі де көрсете береді. Негізгі терезені қалпына келтіру үшін, белгішені басыңыз.
+HELP_MINIMIZED_MENU_T	Мәнмәтін мәзірі
+HELP_MINIMIZED_MENU_H	Мәнмәтін мәзірі (белгішені тінтуірдің оң жағымен басу) негізгі терезе мен мәнмәтін анықтамасын көрсететін функциялардан тұрады.
+HELP_BOOK_WINDOW_T	Кітап терезесі
+HELP_BOOK_WINDOW_H	Кітапты ойнату кезінде кітап терезесі ашылады. Негізгі терезе мен мазмұн терезесі жасырын болады.
+HELP_GOTOTOP	Жоғарғы бөлігіне өту
+HELP_CAPTION	@{NAVIGATOR} анықтамасы
+NAVHELP_TITLE	Күй белгішесі мен мәнмәтін мәзірі
+NAVHELP_INTRO	</br>Анықтама күй белгішесі мен мәнмәтін мәзірінің енгізілімдері туралы жалпы шолу береді.
+NAVHELP_STATUS_ICON_T	Күй белгішесі (Тапсырма жолағы)
+NAVHELP_STATUS_ICON_H	Күй белгішесі тапсырма жолағына орналастырылады және @{NAVIGATOR} ағымдағы әрекеттерін көрсетеді. Мына күй бар:
+NAVHELP_STATUS_FOUND_T	Мазмұн қолжетімді (Жасыл белгіше)
+NAVHELP_STATUS_FOUND_H	Мазмұн ағымдағы мәнмәтін үшін қолжетімді және көрсетіледі.
+NAVHELP_STATUS_CHECK_T	Мазмұн жүктелуде (сары белгіше)
+NAVHELP_STATUS_CHECK_H	@{NAVIGATOR} қолжетімді мазмұн бойынша ағымдағы мәнмәтінді тексереді және мазмұнды жүктейді.
+NAVHELP_STATUS_NOFOUND_T	Ешбір мазмұн қолжетімді емес (Қызыл белгіше)
+NAVHELP_STATUS_NOFOUND_H	Мазмұн ағымдағы мәнмәтін үшін қолжетімді емес.
+NAVHELP_STANDBY_T	Өшірулі
+NAVHELP_STANDBY_H	@{NAVIGATOR} өшірулі. Күй белгішесіне басқан жағдайда (<i>CTRL + F11</i>), @{NAVIGATOR} өшіріледі немесе қосылады.
+NAVHELP_STATUS_MIN_T	Кішірейтілген
+NAVHELP_STATUS_MIN_H	Терезелер мен бүйірлік панель кішірейтіледі.
+NAVHELP_STATUS_MENU_T	Мәнмәтін мәзірі
+NAVHELP_STATUS_MENU_H	Мәнмәтін мәзірі (белгішені тінтуірдің оң жағымен басу) @{NAVIGATOR} жалпы функцияларынан тұрады.
+NAVHELP_VERSION_T	Нұсқаны көрсету
+NAVHELP_VERSION_H	Орнатылған @{NAVIGATOR} қолданбасының нұсқа нөмірін көрсетеді. Бұл мәселелер туындаған жағдайда қолдау орталығымен хабарласу үшін қажет.
+NAVHELP_JSCONSOLE_T	JavaScript консолі
+NAVHELP_JSCONSOLE_H	Қате туралы хабарлар жайында толық мәлімет беру үшін, JavaScript консолі көрсетіледі. Бұл мәселелер туындаған жағдайда қолдау орталығымен хабарласу үшін қажет.
+NAVHELP_NAV_CACHE_T	Жергілікті кэшті жою
+NAVHELP_NAV_CACHE_H	@{NAVIGATOR} мазмұнының жергілікті кэшін жояды.
+NAVHELP_RESET_HIDDEN_T	Барлық жасырын анықтаманы қайта көрсету
+NAVHELP_RESET_HIDDEN_H	Ойнату кезінде “Жасырын” күйіне орнатылған анықтама элементтерін қалпына келтіреді.
+NAVHELP_EXIT_T	Шығу
+NAVHELP_EXIT_H	Ойнатуды тоқтатады және @{NAVIGATOR} жабады.
+IDS_NAVP_ABOUT	Нұсқаны көрсету...
+IDS_NAVP_CONSOLE	JavaScript консолі...
+IDS_NAVP_DELETE_CACHE	Жергілікті кэшті жою
+IDS_NAVP_HOOKER	Hooker
+IDS_SEARCH_INPUT	Анықтама мазмұнын іздеу
+IDS_CLEAR_SEARCH	Іздеу өрісін тазалау
+IDS_NAVP_CLOSE	Шығу
+IDS_RESET_CURRENT	Жасырын анықтама элементін қайта көрсету
+IDS_RESET_ALL	Барлық жасырын анықтаманы қайта көрсету
+IDS_RESET_ALL_TIP	Экранға алғаш рет кірген кезде барлық өшірулі сәйкестіктерді көрсетіңіз.
+IDS_OPEN_RECORD_LBL	Ашу
+IDS_EDIT_RECORD_LBL	Атын өзгерту
+IDS_DELETE_RECORD_LBL	Жою
+IDS_SHARE_RECORD_LBL	Бөлісу
+IDS_EXTERNAL_SEARCH_BTN	Сыртқы іздеу құралы
+IDS_EXTERNAL_SEARCH_SUB_MENU	Сыртқы іздеу құралы
+IDS_SHOW_SCREEN_ICON	Жұмыс үстелінің көмекшісін көрсету
+IDS_SHOW_DA	Негізгі терезені көрсету
+IDS_SHOW_CONTENT	Мазмұнды көрсету
+IDS_HIDE_CONTENT	Мазмұнды жасыру
+IDS_SEARCH_BTN	Іздеу
+IDS_REQUEST_CONTENT_BTN	Мазмұнды сұрау
+IDS_RECORDING_BTN	Жазуды бастау
+IDS_SHOW_CA_SWITCH	Мәнмәтін анықтамасын көрсету
+IDS_HIDE_CA_SWITCH	Мәнмәтін анықтамасын жасыру
+IDS_CA_SWITCH_INACTIVE_BTN	Мәнмәтін анықтамасы қолжетімді емес
+IDS_DO_CTX_RECOGNITION	Мәнмәтін анықтамасын көрсету
+IDS_NAV_STANDBY	@{NAVIGATOR} өшірілген.
+IDS_NAV_NO_STANDBY	@{NAVIGATOR} қосылған.
+IDS_SHOW_DA_PANELS	@{NAVIGATOR} қазір қайта қолжетімді. Кез келген көмек қажет болса, @{NAVIGATOR} пайдалануға болады.
+IDS_HIDE_DA_PANELS	Ағымдағы уақытта ашылған қолданбада жарамды анықтама бар болғандықтан, @{NAVIGATOR} автоматты түрде жойылды. Қосымша көмек қажет болса, жай ғана қолданбадағы анықтаманы ашыңыз.
+IDS_ADD_STICKY_NOTES_BTN	Жапсырма қосу
+IDS_ADD_STICKY_NOTES_INACTIVE_BTN	Бұл қолданба үшін тек бір ғана жапсырма қосуға болады.
+IDS_EXIT_DA	Шығу
+IDS_EXIT_DA_BTN	Шығу
+IDS_EXIT_DA_SUB_MENU	Шығу
+IDS_SHOW_MORE	Көбірек көрсету
+IDS_HIDE_MORE	Қосымша ақпаратты жасыру
+IDS_REQUEST_CONTENT_SUB_MENU	Мазмұнды сұрау
+IDS_SHOW_CA_SUB_MENU	Мәнмәтін анықтамасын көрсету
+IDS_HIDE_CA_SUB_MENU	Мәнмәтін анықтамасын жасыру
+IDS_ADD_STICKY_NOTE_SUB_MENU	Жапсырма қосу
+IDS_RECORDING_SUB_MENU	Жазуды бастау
+IDS_CA_SWITCH_SUB_MENU	Мәнмәтін анықтамасы
+IDS_SHARE_DLG_CAPTION	Құжатты бөлісу
+IDS_DELETE_FRAMES	Кадрлар жойылуда
+OPEN_FOLDER	Қалтаны ашу
+SHARE_DOC	Электрондық пошта арқылы ортақ пайдалану
+IDS_SHARE_DLG_TEXT	Қандай әрекет орындау қажет?
+IDS_SEARCH_BTN_SUB_MENU	Мазмұнды іздеу
+IDS_LIBRARY_SEARCH_BTN_SUB_MENU	Мазмұнды кітапханада іздеу
+GRACEFUL_DEGRADATION	Желі ақаулықтарына байланысты бұл мүмкіндік уақытша қолжетімді емес.\n\nКейінірек қайталап көріңіз!
+SHARE_BTN	Электрондық пошта арқылы ортақ пайдалану
+COPY_BTN	Сілтемені көшіру
+SHARE_MAIL_SUBJECT	Ұсынылатын мазмұн
+SHARE_MAIL_HEADER	Құрметті пайдаланушы,\n\nБұл мазмұн сізге қызықты болуы мүмкін. \n\n
+SHARE_MAIL_FOOTER	Құрметпен,
+SHARE_MAIL_LINK	Сілтеме:\t
+SHARE_MAIL_CAPTION	Сурет жазуы:\t
+SHARE_TITLE	Мазмұнды ортақ пайдалану
+SELECT_ASSET	Бастау үшін активті таңдаңыз.
+ENTER_NAME	Атты енгізу
+DELETE_RECORD_WRN	Маңызды: бұл операцияны болдырмау мүмкін емес.
+MSG_PA_NEXT_LBL	Келесі
+MSG_PA_STEP_LBL	Қадамдар тізімі
+TOGGLE_STEPLIST_TOOLTIP	Қадамдар тізімін көрсету / жасыру
+PREVIEW_STEP_TOOLTIP	Алды ала қарау қадамы
+NEXT_STEP_TOOLTIP	Келесі қадамға өту
+PREV_STEP_TOOLTIP	Алдыңғы қадамға өту
+ROLES_TITLE	Жұмыс үстелі көмекшісінің рөлдері
+ROLES_LBL	Анықтама мазмұнын рөл бойынша сүзгілеу
+OK_CAPTION	OK
+CANCEL_CAPTION	Болдырмау
+BTN_YES	Иә
+BTN_NO	Жоқ
+DELETE_CONFIRM	Бұл жапсырманы жойғыңыз келетініне сенімдісіз бе?
+EXIT_CONFIRM	@{NAVIGATOR} терезесінен шығуға сенімдісіз бе?
+sticky_notes	Жапсырмалар
+exit_da	@{NAVIGATOR} бағдарламасынан шығу
+STICKY_NOTE_DEFAULT_TEXT	Мәтініңізді осы жерге енгізіңіз.
+SEARCH_BTN_TOOLTIP	Іздеу
+NEXT_BTN_TOOLTIP	Келесі
+PREV_BTN_TOOLTIP	Алдыңғы
+HIDE_BTN_TOOLTIP	Карусельді жасыру
+IDS_PRJ_NAME	Атын енгізу:
+IDS_APPLICATIONS	Терезені таңдау:
+IDS_PRJ_LANGUAGE	Тілді таңдау:
+IDS_FULL_SCREEN	Толық экран
+IDS_CHOOSE_APP_CAPTION	Қолданба таңдау
+IDS_RECORD_BTN	Жазу
+IDS_ANALYZE_ACTIONS	Әрекеттерді талдау
+IDS_PARSE_PROJECT	Жобаға синтаксистік талдау жасау
+IDS_REGION	Аудан
+IDS_AREA_HELP	Аумақ өлшемін төмендегі үлгіні таңдау арқылы өзгертіңіз. Аумақты немесе толық экранды таңдау үшін қызыл тікбұрышты таңдаңыз.
+IDS_CHOOSE_SIZE	Өлшемді таңдау:
+IDS_DEFINE_REC_AREA	Жазу аймағы
+IDS_DEFINE_NAME_LANG	Мазмұнды құру
+PLEASE_SELECT	Келесіні таңдаңыз
+quick_recorder.help_caption	Кеңес
+quick_recorder.help	Кідірту немесе жалғастыру үшін “КІДІРТУ” пернесін пайдаланыңыз. \nАяқтау үшін “АЯҚТАУ” пернесін пайдаланыңыз. \n\nЖазуды бастау үшін “ОК” түймесін таңдаңыз.
+quick_recorder.audio_help	Кідірту немесе жалғастыру үшін “КІДІРТУ” пернесін пайдаланыңыз. \nАяқтау үшін “АЯҚТАУ” пернесін пайдаланыңыз. \n\nДыбыс:\nБасу кезінде дыбыс жазылмайды. Мәтінді басқару элементін таңдамай тұрып айтыңыз. \n\nЖазуды бастау үшін “ОК” түймесін таңдаңыз.
+FILE_EXISTS	Мұндай файл аты бар. Басқа ат енгізіңіз.
+HELP_EXIT_CONTROL_H	Ойнатуды тоқтатады және @{NAVIGATOR} жабады.
+HELP_EXIT_CONTROL_T	Шығу
+BTN_CLOSE_DLG	Жабу
+DELETE_RECORD_WRN	Маңызды: бұл операцияны болдырмау мүмкін емес.
+ENTER_NAME	Атты енгізу
+IDS_CLEAR_SEARCH	Іздеу өрісін тазалау
+IDS_RESET_ALL_TIP	Экранға алғаш рет кірген кезде барлық өшірулі сәйкестіктерді көрсетіңіз.
+IDS_SEARCH_INPUT	Анықтама мазмұнын іздеу
+LBL_DELETE	Жою
+LBL_NAVI_NO_MATCH	Іздеу параметрлеріне сай ештеңе табылмады.
+LBL_TU	Ашу
+MSG_PA_NEXT_LBL	Келесі
+MSG_PA_STEP_LBL	Қадамдар тізімі
+RENAME_FAILED	Операция атын өзгерту сәтсіз аяқталды.
+ROLES_LBL	Анықтама мазмұнын рөл бойынша сүзгілеу
+SELECT_ASSET	Бастау үшін активті таңдаңыз.
+LBL_CDOC	Ашу
+LBL_RECORD_DOCUMENT	Құжатты жазып алу
+QR_CAPTION	Жазу шығысын таңдау
+QR_WELCOME	Не жасау қажет?
+QR_DOC_CAP	Құжат
+QR_DOC_TXT	Скриншотты және әр жазылатын операция үшін нұсқау мәтінін көрсететін Microsoft Word құжатын жасайды.
+QR_VIDEO_CAP	Бейне
+QR_VIDEO_TXT	Жазбаңыздың жоғары сапалы бейнесін жасайды.
+QR_DOC_VIDEO_CAP	Құжат және бейне
+QR_DOC_VIDEO_TXT	Құжат пен бейнені жасайды.
+SHARE_ERR_CAP	Жазбаны бөлісу мүмкін емес
+SHARE_ERR_TXT	Осы жазба электрондық пошта арқылы бөлісу үшін тым үлкен.\nОның орнына файлдың орналасқан жерін ашу қажет пе?
+MSG_PA_STEP_NOT_FOUND_NUMERAL_1	1.
+MSG_PA_STEP_NOT_FOUND_NUMERAL_2	2.

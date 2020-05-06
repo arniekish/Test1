@@ -1,0 +1,745 @@
+﻿NAVIGATOR	Desktop Assistant
+XRAY	Web Assistant
+LIBRARY	library
+MANAGER	Manager
+form_bubble	Form balonu
+bform_height	Yükseklik
+bform_height.h	Görüntülenecek balon formunun yüksekliğini piksel olarak tanımlar.
+bform_width	Genişlik
+bform_width.h	Görüntülenecek form balonunun genişliğini piksel olarak tanımlar.
+bform_position	Konum
+bform_position.h	Ekranda 'serbest' hizalama için form balonunun konumunu (sol, üst) tanımlar. Değerler piksel olarak girilir.
+paramAutoMergeComplete	Ekranları birleştirme sonlandı.
+form	Form
+application_contexts	Uygulama
+﻿Application	Uygulama
+highlight_offset	Kaydırma
+AutoBarChooseApp	Uygulama seç
+AutoBarReRecManual	Nesneye tıklayın.
+BubbleOnActivate	Balonu doğrudan göster
+ClickOnAAPosition	Dikdörtgeni tanımlamak için uygulamaya tıklayın.
+ClickOnPosition	Uygulamada konuma tıklayın.
+EnabledOnPgLoad	Etkinleştir
+HighlightOnActivate	Vurguyu doğrudan göster
+start_from_arbitrary	Rastgele adımdan başlat
+focus_step	Odaklama katmanı
+focus_step.h	Yalnız rehberli tur\nGeçerli adımda gerekli denetimi vurgulamak için gri bir katman görüntüler.
+yes	Evet
+no	Hayır
+light_mode	Etkileşimli mod
+light_mode.h	Kullanıcının nesne balonunda bir sonraki adıma gitmesi gerektiğini belirtir. Kayıttan yürütme sırasında yüz tanıma gerçekleştirilmez.
+restricted_mode	Kısıtlanmış mod
+restricted_mode.h	Yalnızca geçerli eylemin yürütülebileceğini belirtir. Uygulama sayfasının diğer denetimleri engellenir. \nBu ayar 'Odaklama katmanı' etkinleştirildiyse kullanılabilir.
+show_highlight	Vurgular
+action	Eylem
+active_area	Seçili alan
+add_application_expl	Açıklama ekle
+adv	Gelişmiş
+display_behavior	Görüntüleme davranışı
+all_values	Tüm değerler
+anim_steps	Animasyon adımları
+application_context	Uygulama
+area	Alan
+auto_merge	Ekran makrolarını birleştir
+b_height	Yükseklik
+form_on	Form modu
+b_percent	Balon görünür (%)
+b_hide_option	Seçeneği gizle
+b_minimizable	Simge durumuna küçültülebilir
+b_closable	Kapatılabilir
+b_minimized	Simge durumuna küçültüldü
+b_width	Genişlik
+b_width.h	Nesne balonunun genişliğini piksel olarak tanımlar.
+bmain_minimizable	Simge durumuna küçültülebilir
+bmain_position	Konum
+bmain_win_style	Stil
+bmain_size	Boyut
+bmain_alignment	Hizalama
+bubble	Nesne balonu
+bubble_offset	Kaydırma
+bubblestyle_d	Stil
+bubblestyle_init	Balon stili
+choose_appl_template	Uygulama profilini seç
+choose_bool	Seçilen değer
+choose_nr	Seçilen dizin
+choose_text	Seçilen değer
+target_static_text	'Sayfa belirleyici' olarak kaydedildi.
+target_spec_warning	Uyarı: Bu denetim için kullanılabilir yeniden kayıt bilgisi yok.
+prev_step	Önceki adım
+next_step	Sonraki adım
+click	Fare eylemi
+click_pos	Tıklama konumu
+click_pos_rel	Balon konumu
+config_file	Uygulama profili
+define_target	Ekran
+display	Ana balonu düzenle
+display_name	Görüntü adı
+drag	Sürükle
+drop	Bırak
+dump_page	Ekran görüntüsü
+elem_bubble	Nesne balonu
+element_type	Nesne türü
+enabled	Etkinleştirildi
+optional	İsteğe bağlı
+enter	Fare girişi
+executable	Uygulama
+explanation_d	Metin
+explanation_d_modified	Manüel çevir
+explanation_long	Açıklama
+fh_mouseover	MouseOver yardımı
+fh_onelem	İkon
+fh_tooltip	Hızlı bilgi
+fh_bubble	Balon
+step_list	Adım listesi
+fieldicon	Nesne resmi
+fieldname	Nesne adı
+find	Bul
+AutoBarChooseScn	İlgili ekrana tıklayın
+frame	Çerçeve
+g_highlight_bgr	Renk
+g_highlight_border	Kenarlık
+g_highlight_effect	Efekt
+global	Genel
+hide_on_focuslost	Odak kaybında gizle
+hilight	Vurgu
+input_radio	Radyo düğmesi/onay kutusu
+input_text	Giriş metni
+init	Başlat
+key	Tuş
+key_desc	Kısayol tuşu
+key_name	Tuş kodu
+key_press	Tuşa basma
+lclick	Sol tıklama
+ldblclick	Sol çift tıklama
+force_display	Görüntüyü zorla
+auto_execute	Otomatik yürüt
+show_confirmation	Onay düğmesini göster
+show_confirmation.h	Kayıttan yürütme sırasında nesne balonunda bir onay düğmesinin gösterilip gösterilmeyeceğini tanımlar. Bu düğme, kullanıcının yürütülen bir eylemi teyit etmesini sağlar ve ardından bir sonraki adım gösterilir.
+link_to_sim	Simülasyon bağlantısı ekle
+macro_comment	Açıklama
+main_bubble	Pencere
+match_value	Değeri karşılaştır
+mini_on_focuslost	Odak kaybında simge durumuna küçült
+enable_tincan	@{NAVIGATOR} izleme
+nav_check_freq	Güncelleme sıklığı (dk.)
+navigation	Masaüstü yardımcısı
+new_screen_context	Yeni ekran
+no_spike	Spike yok
+pa_caption	Rehberli tur
+none	Hiçbiri
+objname	Nesne adı
+orientation	Yönlendirme
+path	Nesne yolu
+position	Konum
+rclick	Sağ fare tıklatması
+rdblclick	Sağ çift tıklama
+record_activearea	Etkin alanı kaydet
+record_application_context	Uygulamayı kaydet
+no_control	Tıklanan konumda uygun nesne yok.
+record_control	Nesneyi kaydet
+record_control_pa	Rehberli tur adımını kaydet
+record_define_target	Ekranı kaydet
+record_display	Ana balonu düzenle
+record_end_display	Balonu düzenle
+record_explanation	Açıklama ekle
+record_object_context	Nesneyi kaydet
+record_screen_context	Ekranı kaydet
+record_target_specializer	Sayfa belirleyiciyi kaydet
+record_compatible_application	Uyumlu uygulamayı kaydet
+reference	Kaynak
+regexp	Normal ifade
+replace	Değiştir
+replace_continue	Değiştir ve devam et...
+replace_pgkey_attr	Sayfa tuşu niteliklerini değiştir
+error_regexp	Geçersiz normal ifade. Girişinizi düzeltin.
+resize	Pencereyi yeniden boyutlandır
+revision	Revizyon
+sc_config_header	Profil bilgisi
+screen	Ekran
+screenhelp	Ekran yardımı
+screenshot_rect	Ekran görüntüsü konumu
+select_single	Tekli seç
+selected_merge	Seçilen ekran makrolarını birleştir
+show_bubble	Doğrudan göster
+show_hilight	Vurguyu göster
+show_on_focus	Fokusta göster
+source	Kaynak
+start_unit	Bağlam yardımcısı stili
+subkey	Alt tuş olarak izin verildi
+script	Komut dosyası
+target_name	Başlık
+target_specializer	Sayfa belirleyici
+text_d	Giriş metni
+text_d_specializer	Giriş metni
+tolerance	Ekran makroları toleransını birleştir
+translate	Otomatik çeviri
+autoTranslate	Projeyi çevir
+paramReRecordLanguage	Dil
+merge_critical_macros	Makroları otomatik olarak birleştir
+merge_critical_macros.h	Simülasyonları gezintilere dönütürüyorsanız, oluşturulan ekranları otomatik olarak birleştirebilirsiniz. Bunlar, 'Ekran makroları toleransını birleştir' parametresinde belirlenen tolerans değeri kullanılarak birleştirilir.
+uid	UID
+underline	Altı çizili
+update_control	Nesneyi güncelle
+update_target	Ekranı güncelle
+variant	Varyant
+win_rect	Pencere boyutu
+wizCancel	İptal et
+wizFinish	Son
+wizNext	İleri
+wizOk	Tamam
+wizExplanation	Açıklama
+wizContinue	Devam
+app_info	Uygulamayı göster
+app_link_to_sim	Uygulama için simülasyon bağlantısı ekle
+screen_info	Ekranı göster
+screen_link_to_sim	Ekran için simülasyon bağlantısı ekle
+object_info	Görüntü varyantı
+object_link_to_sim	Simülasyon bağlantısı ekle
+disabled	Devre dışı bırakıldı
+record_context_assistant_include	@{NAVIGATOR} projesini dahil et
+project_id	Proje başlığı
+project_id.h	Parametre eklenen projeyi içerir. 'Bağlantıyı düzenle' düğmesi çalışma alanında projeyi seçmenize izin verir.
+project	Proje
+context_assistant_include	Masaüstü yardımcısı projesi
+open_expanded	Gelişmiş ana balonu görüntüle
+restart_option	Yeniden başlatma düğmesi
+next_project_id	Sonraki proje
+next_project_id.h	Bu seçenek, geçerli süreç tamamlandıktan sonra başlatılacak bir projeyi tanımlar. Yeni süreç doğrudan başlar ve bir bitiş balonu görüntülenmez.
+end_unit	Tur bitişi
+add_end_unit	Süreç bitişi ekle
+demo	Demo modu
+uebung	Alıştırma modu
+praxis	Eşzamanlı mod
+test	Test modu
+doc	Word belgesi
+pdf	PDF belgesi
+html	HTML belgesi
+ppt	PowerPoint belgesi
+explanation_type	İkon
+note	Not
+info	Bilgi
+tipp	İpucu
+warnung	Uyarı
+no_image	İkon yok
+display_on	Ana balonu şurada görüntüle:
+nav_start	Gezinti başlangıcı
+app_focus	Uygulama odağı
+screen_focus	Ekran odağı
+never	Gösterme!
+list_type	Ekran için liste türü
+list_type.h	Bu parametre, bunun için 'Tüm nesne bilgilerini görüntüle' seçeneği etkinleştirildiyse, ekrandaki nesnelerin listelenmesine yönelik türü belirler.
+unordered_list	Madde imleri
+ordered_list	Numaralama
+convert_sn	Masaüstü yardımcısı oluştur
+Application	Uygulama
+obj_context	Nesne
+expl_context	Açıklama
+record_cntrl_type	Tür
+disable_standby	Bekleme durumunu devre dışı bırak (@{NAVIGATOR})
+disable_standby.h	@{NAVIGATOR} bekleme durumunun ayarlanamayacağını belirtir. Bu seçenek devre dışı bırakıldığında, 'CTRL + F11' kısayolu ile veya durum ikonuna tıklayarak bekleme durumunu ayarlayabilirsiniz.
+disable_exit	Çıkış girişini gizle (@{NAVIGATOR})
+disable_exit.h	@{NAVIGATOR} durum ikonunun bağlam menüsündeki 'Çıkış' girişinin gizleneceğini belirtir.
+bcontent_style	Balon stili
+bcontent_style.h	Bu ayar hangi balon stilinin balon görüntüleme için kullanılacağını tanımlar.
+cache_properties	Önbellek
+cache_folder	Klasör konumu
+cache_folder.h	'NavigatorCache' klasörünün konumunu belirtir. Varsayılan konum: '%localappdata%'. Özel bir konum girebilirsiniz.\nNot: Önbellek klasörünün adı değiştirilemez.
+use_caching	Önbelleği kullan
+use_caching.h	@{NAVIGATOR} önbellek kullanımını etkinleştirir.
+function_keys	İşlev tuşları
+minimize_da	Simge durumuna küçült
+minimize_da.h	Ana pencereyi simge durumuna küçültmek için işlev tuşunu tanımlar.
+next_tab	Sonraki sekmeyi seç
+next_tab.h	Sonraki sekmenin ana pencerede seçilmesi için işlev tuşunu tanımlar.
+next_screen	Sonraki ekrana git
+next_screen.h	Seçilen projeye ilişkin sonraki ekrana gitmek için işlev tuşu tanımlar.
+back	Geri dön
+back.h	Önceki ekrana gitmek için işlev tuşu tanımlar.
+toggle_standby	Bekleme konumu modunu değiştir
+toggle_standby.h	Bekleme konumu modunu değiştirmek için işlev tuşunu tanımlar.
+abort	İptal et
+abort.h	Masaüstü yardımcısının iptali için işlev tuşunu belirler.
+restart	Yeniden başlat
+restart.h	Masaüstü yardımcısını yeniden başlatmak için işlev tuşunu tanımlar.
+start_pa	Masaüstü yardımcısı projesini başlat
+start_pa.h	Seçilen projeyi başlatmak için işlev tuşunu tanımlar.
+start_demo	Demo modunu başlat
+start_demo.h	Seçilen demo modunu başlatmak için işlev tuşunu tanımlar.
+start_prac	Alıştırma modunu başlat
+start_prac.h	Seçilen alıştırma modunu başlatmak için işlev tuşunu tanımlar.
+start_test	Test modunu başlat
+start_test.h	Seçilen test modunu başlatmak için işlev tuşunu tanımlar.
+start_concur	Eşzamanlı modu başlat
+start_concur.h	Seçilen eşzamanlı modu başlatmak için işlev tuşunu tanımlar.
+start_book	Kitabı başlat
+start_book.h	Seçilen kitabı başlatmak için işlev tuşunu tanımlar.
+start_group	library içinde aç
+start_group.h	Kitaplıkta grubu açmak için işlev tuşu tanımlar.
+toggle_ctx_rec	Bağlam tanımayı değiştir
+toggle_ctx_rec.h	Masaüstü yardımcısı bağlam tanımasını değiştirmek için işlev tuşunu tanımlar.
+select_next	Sonraki girişi seç
+select_next.h	Geçerli pencerede sonraki girişi seçme için işlev tuşu tanımlar.
+select_prev	Önceki girişi seç
+select_prev.h	Geçerli pencerede önceki girişi seçme için işlev tuşu tanımlar.
+toggle_warning	Uyarı diyaloğunu göster
+toggle_warning.h	Masaüstü yardımcısı uyarı diyaloğunu göstermek için işlev tuşunu tanımlar.
+execute_step	Adımı yürüt
+execute_step.h	Rehberli tur kayıttan yürütülürken bir adımın yürütülmesi için işlev tuşunu tanımlar.
+copy_link	Bağlantıyı kopyala
+copy_link.h	Seçilen birimin kopyalama bağlantısı için işlev tuşunu tanımlar.
+maximize_trainer	İçerik penceresini ekran boyutuna getir
+maximize_trainer.h	İçerik penceresini ekran boyutuna getirmek için işlev tuşunu tanımlar.
+share_email	E-posta yoluyla paylaş
+share_email.h	E-posta yoluyla seçilen birimin paylaşılan içeriği için işlev tuşu tanımlar.
+start_default	Varsayılan içeriği başlat
+start_default.h	Varsayılan mod veya seçilen belgeyi başlatma için işlev tuşu tanımlar.
+show_da_help	Masaüstü yardımcısı yardımını göster
+show_da_help.h	Açılan masaüstü yardımcısı yardımı için işlev tuşu tanımlar.
+request_content	İçerik talep et
+request_content.h	Uygulama sayfasına ilişkin talep edilen içerik için işlev tuşu tanımlar.
+search_content	İçerik ara
+search_content.h	Seçilen arama türüne bağlı olarak arama içeriği için işlev tuşu tanımlar.
+show_hidden_elems	Gizli yardım öğelerini göster
+show_hidden_elems.h	Gizli yardım öğelerini göstermek için işlev tuşunu tanımlar.
+toggle_side_bar	Kenar çubuğunu göster / gizle
+toggle_side_bar.h	Kenar çubuğunu göstermek ve gizlemek için işlev tuşu tanımlar.
+content_library	Masaüstü yardımcısı - içerik ve davranış
+content_library_window	Masaüstü yardımcısı - stil ve pencereler
+content_library_sidebar	Masaüstü yardımcısı - kenar çubuğu
+style	Stil
+style.h	Masaüstü yardımcısı bileşenlerinin (ana pencere, içerik penceresi, durum ikonu) görünümünü tanımlar. Listeden bir stil kaynağı seçin.
+show_only_bar	Başlatırken yalnızca kenar çubuğunu göster
+show_only_bar.h	Masaüstü yardımcısı başlatıldığında kenar çubuğunun tek başına mı yoksa ana pencere ile birlikte gösterilip gösterilmeyeceğini belirler.
+clear_on_mismatch	Bağlam uyuşmazlığı olduğunda içerik listesini temizle
+clear_on_mismatch.h	Bir içerik bulunmazsa içerik listesinin temizleneceğini tanımlar. Ayarın etkinliği kaldırıldığında, son tanınan nesnenin içeriği gösterilir.
+da_positioning	Ana pencere hizalama
+da_positioning.h	Ekranda ana pencerenin hizalamasını tanımlar. 'Serbest' seçeneği, 'Ana pencere konumu' parametresinde bir konum tanımlanmasını sağlar.
+bar_positioning	Kenar çubuğu hizalaması
+bar_positioning.h	Ekrandaki kenar çubuğunun hizalamasını belirler.
+left_top	Sol üst köşe
+left_center	Sola ortala
+left_bottom	Sol alt köşe
+right_top	Sağ üst köşe
+right_center	Sağa ortala
+top_center	Üst orta
+right_bottom	Sağ alt köşe
+center	Orta
+free	Serbest
+list_order	İçerik sıralama
+list_order.h	Kullanılabilir içeriğin listedeki sıralanmasını tanımlar.
+by_default	Gezgin yapısı
+by_name	Alfabetik
+by_type	Her tür için alfabetik
+library_position	Ana pencere konumu (serbest)
+library_position.h	Ekranda 'Serbest' hizalama için ana pencerenin konumunu (sol, üst) tanımlar. Değerler piksel olarak girilir.
+search_url	Arama grubu
+search_url.h	@{LIBRARY} içinde içerik aramak için bir çalışma alanı grubu belirtmenizi sağlar.
+enable_recording	Konum: 'Kayıt’ denetimi
+enable_recording.h	Kayıt süreçleri için bir denetim göstermenize izin verir. Denetimin kenar çubuğundaki konumunu belirtebilirsiniz.\nKayıt, kullanıcıların süreçleri Microsoft Word belgesi olarak kaydetmesine olanak sağlar. Kaydedilen dosyalar, ana penceredeki ‘Kullanıcı alanı’ sekmesinde görüntülenir.
+enable_exit_da	Konum: Denetimden 'Çık'
+enable_exit_da.h	@{NAVIGATOR}'dan çıkmaya yönelik bir denetim göstermenize izin verir. Denetimin kenar çubuğundaki konumunu belirtebilirsiniz.
+enable_info	'Bilgi' sekmesini göster
+enable_info.h	Masaüstü yardımcısının ana penceresi için 'Bilgi' sekmesini etkinleştirir. Masaüstü yardımcısı grubunun kısa tanımına bir bilgi metni ekleyin.
+request_content_type	İçerik talep etme türü
+request_content_type.h	İçerik talep etmeye yönelik işlevselliği belirtir. Açılır listeden bir tür seçin.\nE-posta: Talepler için bir e posta girmenize izin verir.\nURL: Bir web sayfasını açmak için URL girmenize izin verir.\n'Kenar çubuğunda ‘İçerik talep et’ denetimi görüntülenir'. İçerik bulunamazsa ana pencerede 'İçerik talep et' bağlantısı görüntülenir.
+email	E-Posta
+url	URL
+enable_request_content	Konum: 'İçerik talep et' denetimi
+enable_request_content.h	‘İçerik talep et’ denetiminin kenar çubuğundaki konumunu belirtir.
+enable_external_search_ctx	Bağlam bilgisi sağla
+enable_external_search_ctx.h	Arama sırasında arama URL’sine sahip olan kullanıcı ile ilgili ek bağlam bilgileri sağlar. Bağlam bilgisi, arama için kullanılır. Belirttiğiniz aramada bağlam bilgisi kullanılabiliyorsa bu ayarı etkinleştirin. \nSağlanan bağlam bilgisi 'Bağlam bilgisi' parametresinde belirtilir.
+external_search_ctx	Bağlam bilgisi
+external_search_ctx.h	'Bağlam bilgisi sağla' etkinleştirilmişse bağlam bilgisini belirtir. Şu bağlam bilgisi sağlanabilir: Geçerli uygulamanın EXE’si (&executable=$#{EXE}), geçerli uygulama sayfasının sayfa anahtarı (&pagekey=$#{PAGEKEY})\nNot: Bağlam bilgisi dizesinin yapısını değiştirmeyin.
+enable_external_search	Konum: ‘Harici Arama’ denetimi
+enable_external_search.h	İçerik veya ek bilgi aramak için harici bir arama sayfası etkinleştirmenize izin verir. Bu ayar etkinleştirildiğinde kenar çubuğunda ‘Harici arama’ denetimi görüntülenir. Denetimin kenar çubuğundaki konumunu belirtebilirsiniz. \nDüğme, aranacak terimin girilmesi için bir arama alanı açar. Arama sonuçları harici arama sayfasında gösterilir. Harici arama yapmak için 'Harici arama URL’si' parametresinde bir arama URL’si belirtmeniz gerekir.
+external_search_url	URL
+external_search_url.h	Harici arama için bir URL belirtmenize izin verir. URL’yi şu yapıda girin:\nhttps://www.google.com/#q=$#{SEARCHTERM}\nhttps://www.bing.com/search?q=$#{SEARCHTERM}\nhttps://search.yahoo.com/search?p=$#{SEARCHTERM}\nhttps://www.wolframalpha.com/input/?i=$#{SEARCHTERM}\n\nNot: URL parametresinin '=$#{SEARCHTERM}' kısmını silmeyin veya değiştirmeyin.
+enable_share_content	'İçeriği paylaş' denetimini göster
+enable_share_content.h	Ana pencerenin alt bilgisinde 'İçeriği paylaş' düğmesini görüntüler. Bu düğme, seçilen içeriğe ilişkin bir bağlantı içeren diyalog kutusu açar.
+author_email	E-Posta
+author_email.h	Talep edilen içerik için bir e-posta adresi belirtmenize izin verir. E-posta adresi 'İçerik talep et' işlevi için kullanılır.
+author_url	URL
+author_url.h	Talep edilen içerik için bir URL belirtmenize izin verir. URL 'İçerik talep et' işlevi için kullanılır.
+author_url_params	URL parametreleri
+author_url_params.h	Yazan URL'si için parametreleri belirlemenizi sağlar. \nUygulama adı ve yürütülebilir birimi belirleyebilirsiniz. 'Uygulama' veya 'yürütülebilir birim' değerini gerekli adla değiştirin.
+enable_fuzzy_match	Kısmi eşleştirmeyi etkinleştir
+enable_fuzzy_match.h	İçerik bağlamının uygulama sayfası ile eşleştirilmesi için kısmi eşleştirmenin kullanılıp kullanılmayacağını belirler.
+enable_ident_filter	Gelişmiş uygulama tanıtıcısını etkinleştir
+enable_ident_filter.h	@{NAVIGATOR} kayıttan yürütmesi için yalnızca ilişkili uygulama bilgilerinin kullanıldığını belirtir. Bu, @{NAVIGATOR} performansını optimize etmenizi sağlar.\nNot: Seçenek, yanlışi nesne tanımaya yol açabilir. İçerik yayımlanmadan önce kayıttan yürütmenin test edilmesi önerilir.
+library_size	Ana pencere boyutu
+library_size.h	Ana pencerenin boyutunu (genişlik, yükseklik) piksel olarak tanımlar.
+book_win_position	İçerik penceresi konumu (serbest)
+book_win_position.h	Ekranda 'Serbest' hizalama için içerik penceresinin konumunu (sol, üst) tanımlar. Değerler piksel olarak girilir.
+book_win_size	İçerik penceresi boyutu
+book_win_size.h	İçerik penceresinin piksel cinsinden boyutunu (genişlik, yükseklik) belirler.
+book_win_positioning	İçerik penceresi hizalaması
+book_win_positioning.h	Ekranda içerik penceresinin hizalamasını tanımlar. 'Serbest' seçeneği, 'Ana pencere konumu' parametresinde bir konum tanımlamanızı sağlar.
+errNoApplicationContext	Geçerli makro bir uygulama bağlamı değil.
+errNoTargetDefinition	Makro, hedef tanıma karşılık gelmiyor.
+errExtractPagekey	Profille sayfa tuşu verisi çekilemez:
+errScreenshot	Ekran görüntüsü alınamıyor. Tekrar deneyin.
+errLoadTemplate	Profil yüklenemiyor:
+errRecordProcessStep	Rehberli tur adımları, 'bağlam yardımcısı' projeleri için kaydedilemez.
+errLanguageSelection	Dil seçilmedi.
+errNoWriteToken	Seçilen nesne için yazma izniniz yok.
+errMacroSelection	Makro seçilmedi.
+errObjectInformation	Girilen konumda nesne bilgisi yok.
+errSpecializedInformation	Girilen konumda özelleştirilmiş bilgi yok.
+errPosition	Konumi pencere alanında değil.
+errActionMacroSelection	Eylem makrosu seçilmedi.
+errUpdateObject	Seçilen nesne türü güncelleştirilemez.
+errInsertExplanation	Serbest açıklama seçilen makro için eklenemez.
+action.h	Rehberli tur yalnız\nBu seçenek kullanıcının nesne üzerinde gerçekleştirmesi gereken işlemi tanımlar.
+all_values.h	Bazı durumlarda bir uygulama nesnesi, standart bir HTML denetimi kapsamında olmayan değerlere yönelik seçimleri tutar. Daha sonra uygulamada nesneye en yakın olan denetim kullanılır. Bu alan ayrıca nesnenin seçim olarak tuttuğu tüm değerleri de tutar.
+anim_steps.h	Değer, seçilen vurgu efektine kaç adımda animasyon uygulandığını tanımlar. Düşük değerler animasyonu hızlandırır, ancak dalgalı bir izlenim yaratır. Yüksek değerler animasyonu daha yumuşak ve kesintisiz hale getirir, ancak genel animasyon hızını da yavaşlatır.
+auto_execute.h	Bu ayar gezintinin kayıttan yürütülmesi sırasında eylemin otomatik olarak yürütüleceğini tanımlar.
+b_height.h	Nesne balonunun piksel cinsinden yüksekliğini tanımlar. Metin miktarı balonda mevcut alanı aşarsa bu otomatik olarak yüksekliği gerekli alana ölçeklendirecektir.
+b_hide_option.h	Yalnız içerik yardımı\nBu seçenek etkinleştirildiğinde, nesnede veya açıklama balonunda, son kullanıcılar tarafından nesne bilgilerinin (balon ve vurgu) etkinliğinin kaldırılabileceği bir ayar görüntülenir. Bu, kullanıcıların artık ihtiyaç duymadıkları bilgileri gizlemesine olanak sağlar.
+b_minimizable.h	Bu seçenek, balonun kayıttan yürütme sırasında simge durumuna küçültülüp küçültülemeyeceğini tanımlar. Seçenek etkinleştirildiğinde, balon başlığında bir 'Simge durumununa küçült' düğmesi görüntülenir.
+b_closable.h	Yalnız içerik yardımı\nBu seçenek, balonun kayıttan yürütme sırasında kapatılıp kapatılamayacağını tanımlar. Seçenek etkinleştirildiğinde, balon başlığında bir 'Kapat' düğmesi görüntülenir.
+b_minimized.h	Yalnız içerik yardımı\nBu seçenek, sayfa yüklendiğinde nesne balonunun simge durumuna küçültülmüş şekilde görüntülenip görüntülenmeyeceğini tanımlar.
+bmain_size.h	Ana pencerenin boyutunu (genişlik, yükseklik) piksel olarak tanımlar.
+bmain_minimizable.h	Bu seçenek ana pencerenin simge durumuna küçültülebilir olup olmadığını tanımlar.
+bmain_position.h	Buraya girilen değerler, ana pencerenin ekrandaki konumunu tanımlar. Sayılar, ekranın sol üst köşesinden piksel cinsinden mesafeyi tanımlar.
+bmain_win_style.h	Ana pencerenin görüntüsünü tanımlar. Listeden bir stil kaynağı seçin.
+bmain_alignment.h	Ekranda ana pencerenin hizalamasını tanımlar. 'Serbest' seçeneği, 'Pencere konumu' parametresinde bir konum tanımlanmasını sağlar.
+bubble_offset.h	Bu seçenek, görüntülenen nesne balonunun nesneye kaydırılmasını piksel olarak tanımlar.
+bubblestyle_d.h	Projenin nesne balonunun görüntülenmesi için kullanılacak balon stili kaynağını belirtir.
+bubblestyle_d.h	Projenin nesne balonunun görüntülenmesi için kullanılacak balon stili kaynağını belirtir.
+choose_bool.h	Bu alan, radyo düğmesi veya onay kutusunun açık ya da kapalı olduğunu belirleyen değeri içerir. Radyo düğmesi için değer her zaman '1' (açık) olur. Onay kutusu için değer '0' (kapalı) veya '1' (açık) olabilir.
+choose_text.h	Bu parametre, otomatik kayıt sürecinde bir açılır menüde veya liste alanında seçilen giriş için bulunan karakter dizesini içerir. Bu dize, '${choose_text}' yer tutucusu yerine çeşitli modlarda açıklayıcı balon metinlerine yerleştirilir (HTML düzenleyicide metin moduna bakın). Bu, kayıt sırasında metin modülleri ile otomatik olarak balon içeriği oluşturulurken otomatik olarak oluşturulan balon metni için bir metin modülü olarak kullanılır.
+click_pos.h	Nesne kaydedilirken yazar tarafından tıklanan uygulama penceresindeki konumu tanımlar. Konum piksel olarak belirtilir ve uygulama penceresi içeriğinin sol üst köşesini referans verir.
+click_pos_rel.h	Uygulama penceresindeki konumu tanımlar. Yüzde (%) cinsinden değer, sol ve üst kenar referans noktası olacak şekilde uygulama penceresinin genel genişlik ve yüksekliğine göre konumu verir.
+config_file.h	Tuşu oluşturmak ve daha sonra onu yorumlamak için kullanılan uygulama profilinin adını içerir.
+display_name.h	Uygulama adını belirtir. Ad, rehberli turun istisna penceresinde görüntülenir.
+dump_page.h	Kaydedilen ekranı içerir. \n'Resmi değiştir' işlevini kullanarak resmi değiştirebilirsiniz.
+element_type.h	Tanıma mekanizması sırasında tanınan nesne sınıfını tanımlar.
+enabled.h	Yalnız bağlam yardımı\nBu seçenek, makronun sayfa analizine eklenip eklenmeyeceğini tanımlar. Bu seçeneğin etkinliği kaldırılırsa, ilişkili nesne sayfada mevcut olsa da yardım nesnesi görüntülenmez.
+optional.h	Yalnız rehberli tur\nBu seçenek, rehberli tur adımının bir süreçteki kullanıcı için isteğe bağlı olup olmadığını tanımlar. \nKayıttan yürütme sırasında adım listesinde farklı bir ikon gösterilir. Denetim sayfada görünür değilse veya sayfa yanlışsa adım atlanır.
+executable.h	Uygulamanın yürütülebilir dosya adını işletim sistemi tarafından kullanıldığı gibi içerir.
+explanation_d.h	İlgili içeriğe (metin, bağlantılar, resimler vb.) yönelik bilgileri içerir. Lütfen ana balonda en iyi bilgi görünümünün olduğundan emin olun.
+explanation_d_modified.h	Bu seçenek etkinleştirilirse, içerik bilgileri artık otomatik çeviri durumunda otomatik olarak oluşturulmaz, bunun yerine manüel olarak düzenlenmesi gerekir. Bu, balon içeriği üzerinde manüel değişikliklerin tutulmasına yardımcı olur.
+fieldname.h	Balon metinlerine eklenen, kaydedilen denetimin adını içerir. \nMetin alanındaki nesne adını değiştirebilirsiniz. Nesne adı, '$#{fieldname}’ yer tutucusuna sahiptir.
+fieldicon.h	Balon metinlerine eklenen, kaydedilen düğmenin veya ikonun resmini içerir. \n'Resmi değiştir' işlevini kullanarak resmi değiştirebilirsiniz. Nesne resmi, '$I{fieldicon}’ yer tutucusuna sahiptir.
+g_highlight_bgr.h	Bu, gezintideki vurgu kenarlıklarının standart rengini tanımlar. Renk, doğrudan HEX biçiminde RGB değeri olarak girilebilir veya Renk seçici diyalog kutusundan seçilebilir.
+g_highlight_border.h	Bu parametre, piksel cinsinden nesne vurgusu çerçevesinin genel kalınlığını tanımlar. Piksel genişlikleri '1' ile '10' arasında kullanılabilir.
+g_highlight_effect.h	Bu seçenek gezintide nesneler için kullanılan vurgu çeşidini belirler.
+hide_on_focuslost.h	Bu seçenek ekrandaki odak ilgili nesneden ayrılırken balonun gizlenip gizlenmeyeceğini tanımlar.
+highlight_offset.h	Bu parametre, işaretli öğeyi çevreleyen dikdörtgen vurgu için eklenen piksel kaydırmayı tanımlar.
+key.h	Uygulama penceresini ve uygulamadaki belirli bir sayfayı tanımlamaya yönelik tüm ölçütleri tutar. Tuş yalnızca hedef uygulamadaki sayfa, tuşta tanımlanan tüm ölçütleri karşılıyorsa eşleşir. Tek bir tuş ölçütünün tanımını yumuşatmak için düzenli ifadelerin kullanılmasına izin verilir.
+key_name.h	Bu parametre, kullanılan anahtarı veya kısayolu belirler. Bu, tuş adlarının boşluklarla ayrılmasını kapsar; örneğin: 'ctrl + k'.
+key_desc.h	Bu parametre, kullanılan anahtarı veya kısayolu belirler. Bu, tuş adlarının boşluklarla ayrılmasını kapsar; örneğin: 'ctrl + k'.
+force_display.h	Yalnız bağlam yardımı\nAnlık yardım masaüstü yardımcısının kayıttan yürütmesi sırasında devre dışı bırakılsa da makro içeriğinin her zaman anlık yardım olarak görüntüleneceğini belirtir.
+link_to_sim.h	Bu seçenek, ana balona simülasyon bağlantısını ekler. Bu seçenek, bir simülasyon projesi temelinde (dönüştürme yoluyla) oluşturulan bir gezintiyle ilgilidir.
+macro_comment.h	Genel açıklama. Küçük görünümde görüntülenir.
+match_value.h	Bu seçenek, belirtilen değerin, canlı uygulamadaki nesnenin gerçek değeriyle karşılaştırılıp karşılaştırılmayacağını belirtir.
+mini_on_focuslost.h	Bu seçenek ekrandaki odak ilgili nesneden ayrılırken balonun simge durumuna küçültülüp küçültülmediğini tanımlar.
+nav_check_freq.h	Güncellenen içerik için ne sıklıkta @{NAVIGATOR} kontrolü yapıldığını tanımlar. Güncellenen içerik kullanılabiliyorsa @{NAVIGATOR} içeriği otomatik olarak başlatacaktır. Bu özellikle değişiklik yönetimi süreçleri için kullanışlıdır.
+enable_tincan.h	@{NAVIGATOR} içeriği için izlemeyi etkinleştirir. İçeriğin@{MANAGER} çalışma alanından başlatılması gerekir.
+no_spike.h	Bu seçenek, nesne balonunun spike ile veya spike'sız görüntülendiğini tanımlar.
+objname.h	Davranışlar ve davranış tayinleri kullanılırken tanımlama amacıyla gezintideki her nesnenin benzersiz bir adının olması gerekir.
+orientation.h	Bu parametre, referans alınan nesneye göre nesne balonunun yönlendirmesini tanımlar. Balonun kendisi talimatta olduğu gibi seçilen yöne kaydırma olarak gösterilirken balon oku sayfada referans alınan konumun üzerine gelir. Yönlendirme 'Merkez' olarak seçilirse, balon ok olmadan tanımlanan konumda ortalanmış olarak görüntülenir.
+path.h	Nesne yolu, kullanılan uygulama profili temelinde nesnenin özelliklerini tanımlar. Canlı uygulamada nesneyi tanımlamak için nesne yolu kullanılır. Kural gereği, bu alanı manüel olarak düzenlemeniz gerekmemelidir.
+position.h	Buraya girilen değerler, ana balonun ekrandaki konumunu tanımlar. Sayılar, ekranın sol üst köşesinden piksel cinsinden mesafeyi tanımlar.
+reference.h	Gezinti, simülasyondan dönüştürüldüğünde ilgili adımın kaynağı burada belirtilecek.
+resize.h	Bu seçenek, hedef uygulama penceresi boyutunun, gezinti oluşturulduğunda kullanılmış olan boyuta otomatik otomatik olarak dönüştürülüp dönüştürülmeyeceğini tanımlar. Bu, konum temelli görüntüleneceğinden etkin alanlar için kullanışlı olabilir.
+revision.h	Uygulama ekranı kaydedilirken tuş oluşturmak için kullanılan uygulama profili versiyonunu gösterir.
+sc_config_header.h	Uygulamanın profilindeki bilgiler bu alana kaydedilir. Gezinti, kayıttan yürütme sırasında uygulamayı ve nesnelerini doğru şekilde tanıyabilmek için bu bilgileri kullanır.
+screenshot_rect.h	Nesnenin ekran görüntüsü için orijinal ekranın hangi alanının kullanıldığını gösterir. Kural gereği, bu değeri manüel olarak düzenlemeniz gerekmemelidir.
+show_bubble.h	Bu seçenek balonunun sayfa tamamen yüklendikten hemen sonra gösterilip gösterilmediğini tanımlar.
+start_from_arbitrary.h	Bu seçenek, rehberli turun, sürecin başından değil, rastgele bir adımdan başlatılabileceğini tanımlar.
+show_hilight.h	Nesne için vurgunun görüntülenip görüntülenmeyeceğini belirtir.
+show_highlight.h	Nesneler için vurgu görüntülenip görüntülenmeyeceğini belirtir.
+show_on_focus.h	Bu seçenek ekrandaki odak ilgili nesneye değişirken balonun görüntülenip görüntülenmediğini tanımlar.
+source.h	Gezinti, simülasyondan dönüştürüldüğünde orijinal dersi parametre belirtir.
+subkey.h	Bazı durumlarda, örneğin, belirli bir sayfanın varyantları ilişkili olmadığından ve tümünün gezintide aynı Tuş ve Adım tarafından işlenmesi gerektiğinden bir tuşun orijinal parçasının belirli bölümleri yoksayılıyorsa bu kullanışlıdır. Bu seçenek, sayfada, tanıma tarafından bildirilen tuş ölçütleri tuşta tanımlanandan daha fazla olsa da, tanıma mekanizmasını bir tuşu eşleşme olarak değerlendirmesi için zorlar. Bu nedenle, bir tuşu içeren birden çok sayfayı kapsamak için sayfa tuşu kısaltılabilir.
+target_name.h	Uygulama penceresinin adını içerir.
+text_d.h	Bu parametre, referans alınan giriş alanına girilecek karakter dizesini içerir. Otomatik kayıt sürecinde girilen değeri içerir. Bu dize, kayıt sırasında metin modülleri ile otomatik olarak balon içeriği oluşturulurken '${text_d}' yer tutucusu yerine çeşitli modlarda açıklayıcı balon metinlerine yerleştirilir (HTML düzenleyicide metin moduna bakın).
+text_d_specializer.h	Bu parametre, referans alınan giriş alanına girilecek karakter dizesini içerir. Otomatik kayıt sürecinde girilen değeri içerir. Bu dize, kayıt sırasında metin modülleri ile otomatik olarak balon içeriği oluşturulurken '${text_d}' yer tutucusu yerine çeşitli modlarda açıklayıcı balon metinlerine yerleştirilir (HTML düzenleyicide metin moduna bakın).
+tolerance.h	Bu değer, 'Ekran' makroları birleştirilirken eşleşme derecesi için toleransı tanımlar. Bu ayar, 'Araçlar -> toplu değişiklikler' menüsünden başlatılabilen 'Ekran makrolarını birleştir' işleviyle ilişkilidir. Değer artırıldığında, tolerans eşiği de artırılır. Bu durumda, üzerinde farklı nesnelerin görüntülendiği ekran görüntülerinin de birleştirilebileceğini unutmayın. Değer yüzde olarak belirtilir.
+uid.h	Projede altında yönetildiği makronun benzersiz tanıtıcısını içerir.
+win_rect.h	Proje oluşturulurken pencere boyutunu tanımlar.
+explanation_type.h	Bu seçenek, not türünü belirler. Tür ayarına bağlı olarak, öneri metni vurgulanacak şekilde metinle birlikte belirli bir resimli şema görüntülenir.
+app_info.h	Bu ayar, uygulamanın bağlam yardımında görüntülenip görüntülenmeyeceğini tanımlar. Uygulama görüntülenmeyecekse ayarın etkinliği kaldırılır.
+app_link_to_sim.h	Bu parametre, bağlam türüne ek olarak 'Kaynak' parametresinde belirtilen simülasyonun bir bağlantısını görüntülemek için kullanılabilir. Süreçte farklı modlar seçilebilir.
+screen_info.h	Bu ayar, sayfanın bağlam yardımında görüntülenip görüntülenmeyeceğini tanımlar. Ekran görüntülenmeyecekse ayarın etkinliği kaldırılır.
+screen_link_to_sim.h	Bu parametre, bağlam türüne ek olarak 'Kaynak' parametresinde belirtilen simülasyonun bir bağlantısını görüntülemek için kullanılabilir. Süreçte farklı modlar seçilebilir.
+object_info.h	Yalnız bağlam yardımı\nAyar nesne için görüntülenecek varyantı tanımlar.
+open_expanded.h	Bu seçenek etkinleştirildiğinde ana balon, açık sayfa ve nesne listesi ile görüntülenir.
+display_on.h	Bu parametre, gezinti ana balonunun görüntüleneceği durumu tanımlar. Gezinti başlatılırken, uygulama görüntülenirken veya ilgili uygulama sayfası görüntülenirken.
+area.h	Bu parametre, denetimin konumunu ve boyutunu tanımlar. İlk iki sayı, bir nesnenin ekranın sol ve üst kenarından konumunu belirtir. Son iki sayı da nesnenin genişliğini ve yüksekliğini tanımlar. Giriş alanının yanındaki düğme, nesnenin konumunun ve boyutunun özelleştirilmesine izin veren bir düzenleme diyalog kutusunu açar.
+form_on.h	Adımın bir biçim olduğunu tanımlar. Adımın tüm eylemleri kayıttan yürütme sırasında bir balonda görüntülenir.
+transition	Sonraki rehberli tur adımı
+transition_info	Sonraki rehberli tur adımı
+action_pa	Eylem
+trans_action	Eylem
+step_name1	Sonraki adım
+step_name2	Alternatif adım 1
+step_name3	Alternatif adım 2
+step_name4	Alternatif adım 3
+LClick	Sol tıklama
+RClick	Sağ tıklama
+LDblClick	Sol çift tıklama
+RDblClick	Sağ çift tıklama
+Focus	Odak
+FocusLost	Odak kaybedildi
+step	Rehberli tur adımı
+name	Ad
+end_message	Metin
+show_end_window	Bitiş penceresi
+show_end_window.h	Rehberli turun sonunda pencerenin görüntülendiğini belirler. Pencere kullanıcının rehberli turu manüel olarak kapatmasını sağlar. Seçeneğin etkinliği kaldırılırsa pencere gösterilmez ve rehberli tur otomatik olarak kapatılır.
+trans_action.h	Yalnız rehberli tur\nİşlemin sonraki rehberli tur adımına atlamasını tetikleyen işlemi belirler.
+action_pa.h	Bu ayar kullanıcının hangi eylemiyle sonraki süreç adımına atlamanın yürütüleceğini tanımlar.
+step_name1.h	Yalnız rehberli tur\nSüreç akışında sonraki adımı tanımlar.
+step_name2.h	Yalnız rehberli tur\nTanımlanan rehberli tur görüntülenemiyorsa alternatif rehberli tur adımını tanımlar.
+step_name3.h	Yalnız rehberli tur\nTanımlanan alternatif rehberli tur adımı 1 görüntülenemiyorsa alternatif rehberli tur adımını tanımlar.
+step_name4.h	Yalnız rehberli tur\nTanımlanan alternatif rehberli tur adımı 2 görüntülenemiyorsa alternatif rehberli tur adımını tanımlar.
+step_on_same_page.h	Yalnız rehberli tur\nSonraki rehberli tur adımı aynı uygulama sayfasındaysa bu ayar etkinleştirilmelidir. Bu, sayfa tanımasını önler.
+name.h	Rehberli tur adımının adını tanımlar. Ad, seçim için 'Nesne' makrosunun 'Sonraki rehberli tur adımı' ayarlarında görüntülenir.
+set_value	Değeri otomatik olarak belirle
+set_value.h	Bu ayar gezintinin kayıttan yürütülmesi sırasında makro değerinin otomatik olarak belirlenip belirlenmeyeceğini tanımlar.
+end_message	Metin
+end_message.h	Sürecin sonunda balonda görüntülenen bu metin kutusuna metin girebilirsiniz. Metin kutusu, varsayılan bir metin ile önceden ayarlanmıştır.
+restart_option	Yeniden başlatma düğmesi
+restart_option.h	Bu seçenek etkinleştirildiğinde, balonda kullanıcının bir süreci yinelemek için kullanabileceği bir düğme görüntülenir. Bu, bir sürecin farklı girişlerle yeniden yürütülmesini mümkün kılar.
+record_end_display	Balonu düzenle
+end_bubble	Süreç bitişi balonu
+bend_position	Konum
+bend_position.h	Buraya girilen değerler, balonun ekrandaki konumunu belirtir. Değerler piksel olarak belirtilir ve ekranın sol üst köşesiyle ilişkilidir.
+bend_style	Stil
+bend_style.h	Bu ayar, balonun görüntülenmesi için hangi balon stilinin kullanılacağını tanımlar. Balon stilleri, 'Araçlar > balon stillerini düzenle' menüsünden açılabilen Balon stili düzenleyicisi kullanılarak tanımlanır. Balon stilleri her zaman çalışma alanının tamamı için kullanılabilir.
+bend_width	Genişlik
+bend_width.h	Bu, görüntülenecek balonun genişliğini piksel olarak tanımlar.
+bend_height	Yükseklik
+bend_height.h	Bu, görüntülenecek balonun yüksekliğini piksel olarak tanımlar.
+process_start_unit	Rehberli tur stili
+record_pa_control	Rehberli tur adımını kaydet
+prev_step	Önceki adım
+next_step	Sonraki adım
+disqualifier	Ekranı hariç tut
+disqualifier.h	'Sayfa belirleyici' ile, benzer uygulama sayfaları arasında belirli bir nesne kullanarak ayrım yapabilirsiniz. Bu seçenek, 'Sayfa belirleyici' kullanılabilir olursa, tanınan uygulama sayfasının görüntüleneceğini mi yoksa hariç mi tutulacağını belirtir. \nKüçük resim görünümü seçenek durumunu görüntüler: artı (hariç tutmama) veya eksi (hariç tutma) sembolü.
+exception_bubble	İstisna işleme balonu
+bexp_position	Konum
+bexp_position.h	Buraya girilen değerler, balonun ekrandaki konumunu tanımlar. Değerler piksel olarak verilir. Balon, ekranın sol üst köşesinde görüntülenir.
+bexp_style	Stil
+bexp_style.h	Burada, kullanmak istediğiniz balonun türünü seçebilirsiniz. Balon stilleri, Araçlar -> balon stilini düzenle menüsünden açılabilen  balon stili düzenleyicisinde tanımlanabilir.  Farklı balon stilleri her zaman çalışma alanının tamamı için kullanılabilir.
+content_demo	Demo modu
+content_demo.h	Bu seçenek ile grubun demo modları masaüstü yardımcısında gösterilecek.
+content_practice	Alıştırma modu
+content_practice.h	Bu seçenek ile bir grubun alıştırma modları masaüstü yardımcısında gösterilecek.
+content_test	Test modu
+content_test.h	Bu seçenek ile bir grubun test modları masaüstü yardımcısında gösterilecek.
+content_concurrent	Eşzamanlı mod
+content_concurrent.h	Bu seçenek ile grubun eşzamanlı modları masaüstü yardımcısında gösterilecek.
+content_navi	Gezinti
+content_navi.h	Bu seçenek ile bir grubun gezintileri masaüstü yardımcısında gösterilecek.
+content_documentation	Dokümantasyon
+content_documentation.h	Bu seçenek ile grup dokümantasyonları masaüstü yardımcısında gösterilecek.
+content_externals	Harici dosyalar
+content_externals.h	Bu seçenek ile grubun harici dosyaları masaüstü yardımcısında gösterilecek.
+navi_style	Stil
+navi_style.h	Gezinti penceresinin görüntüsünü tanımlar. Listeden bir stil kaynağı seçin.
+menu_path:/record	Kayıt
+F1HELPNAME	yardım
+alignment	Balon hizalama
+alignment.h	Ekranda balon penceresinin hizalamasını belirtir. 'Serbest' seçeneği, 'Balon konumu' parametresinde bir konum tanımlamanızı sağlar.
+bform_alignment	Hizalama
+bform_alignment.h	Ekranda form balonu penceresinin hizalamasını tanımlar. 'Serbest' seçeneği, 'Form balonu konumu' parametresinde bir konum tanımlamanızı sağlar.
+gloss_bubble	Sözlük balonu
+gloss_bubble_style	Stil
+gloss_bubble_style.h	Sözlük balonunun görünüşünü tanımlar. Listeden stil kaynağını seçin.
+ellipse	Daire
+gloss_bubble_size	Boyut
+gloss_bubble_size.h	Sözlük balonunun boyutunu (genişlik, yükseklik) piksel olarak tanımlar.
+Navi	Masaüstü yardımcısı
+exclude_from_da	Masaüstü yardımcısından hariç tut
+exclude_from_da.h	Masaüstü yardımcısının bağlam tanıması için sayfa anahtarının dikkate alınmayacağını belirtir.
+all_as_descr	Kullanılacak metnin kaynağı
+all_as_descr.h	@{NAVIGATOR} için metin türünü belirler. Varsayılan tür 'Kısa tanım'dır.
+consider_roles	Rolleri dikkate al
+consider_roles.h	Kayıttan yürütme sırasında içeriğin görüntülenmesi için rollerin kullanımını etkinleştirir.
+consider_categories	İçerik kategorilerini dikkate al
+consider_categories.h	@{NAVIGATOR} ana penceresinde içerik sıralamak için içerik kategorilerinin kullanımını etkinleştirir.
+disable_ca_in_pa	Rehberli turda anlık yardımı gizle
+disable_ca_in_pa.h	Rehberli turun kayıttan yürütülmesi sırasında anlık yardım bilgisinin gizlenip gizlenmediğini belirler. Rehberli tur bitirildiğinde, anlık yardım yeniden gösterilir.
+full_desc	Tanım
+shrt_desc	Kısa tanım
+wrong_position	Konum hatası
+help	Yardım
+warning	Uyarı
+maintenance	Bakım
+update	Güncelle
+new	Yeni
+training	Eğitim
+attachment	Ek
+link	Bağlantı
+tip	İpucu
+note	Not
+compliance	Uygunluk
+mini_bubble_style	Mini ikon stili
+mini_bubble_style.h	Proje için kullanılan mini ikonlarına ilişkin stil kaynağını belirler. Mini ikonlar ayarlanabilir kaynakların kaynak türüdür. \n'Gelişmiş' bölümündeki 'Mini ikon türü' parametresini kullanarak her eylemde ve her açıklama makrosunda bir ikon ayarlanabilir.
+mini_bubble	Mini ikon türü
+mini_bubble.h	Yalnız içerik yardımı\nNesnenin mini ikonu için türü belirler. Bu ikon 'Stil' makrosunun belirlenen 'Mini ikon stili'ni temel alır.
+NavRecMouseWheel	Devam etmek için fare tekerleğini kullan. Fare kaydırmayı sonlandırmak için ESC'ye basın.
+search_type	Arama Türü
+none	Hiçbiri
+search_in_lib	@{LIBRARY} içinde
+search_in_da	Masaüstü yardımcısı grubu
+search_type.h	İçerik arama işlevselliğini belirtir. Açılır listeden bir tür seçin. \nYok: Arama işlevselliğinin etkinliğini kaldırır. \n@{LIBRARY} Kitaplığında: @{LIBRARY} içeriğinde arama yapmak için @{LIBRARY} kitaplığını açar. \nMasaüstü yardımcısı grubunda: Masaüstü yardımcısı içeriğinde arama yapmak için ana pencerede 'Arama' sekmesini gösterir.
+errObjectUpdate	Nesne güncellenemiyor. Benzer türdeki nesneyi güncelleyin.
+config_headers_differ1	Profil bilgileri eskimiş. Projeyi güncellemek için 'Devam'a tıklayın.
+config_headers_differ2	Güncellemeden önce bir arşiv oluşturmanız önerilir.
+default_start_mode	Varsayılan ayar içeriği
+default_start_mode.h	İçerik listesinden varsayılan tarafından başlatılacak mod veya belge biçimini tanımlar.
+default_start_doc	Varsayılan başlangıç belgesi
+default_start_doc.h	Belge 'Varsayılan ayar içeriği' ayarında belirlenirse belge türü tanımlar.
+show_next_btn	‘Sonraki’ düğmesi
+show_next_btn.h	Yalnız rehberli tur\n'Sonraki adıma git' düğmesinin nesne balonunda gösterilip gösterilmeyeceğini belirtir.
+condition	Koşul
+condition.h	Kayıttan yürütme sırasında, kullanıcı tarafından girilen değer sonraki adıma gitmek veya belirli bir adıma atlamak için koşulu karşılamalıdır. \nKoşul oluşturmak veya düzenlemek için 'Koşulu düzenle'yi seçin.
+errDuplicateContext	Bu uygulama zaten kaydedilmiş.
+add_sticky_notes	Konum: 'Yapışkan not ekle' denetimi
+add_sticky_notes.h	Sayfaya yapışkan not eklemeye yönelik bir denetim göstermenize izin verir. Denetimin kenar çubuğundaki konumunu belirtebilirsiniz.
+show_instant_help_btn	Konum: ‘Anlık yardım' denetimi
+show_instant_help_btn.h	Anlık yardımı etkinleştirmeye yönelik bir denetim göstermenize izin verir. Denetimin kenar çubuğundaki konumunu belirtebilirsiniz.
+show_carousel	Karuseli göster
+show_carousel.h	Bu seçenek masaüstü yardımcısını karusel modunda gösterir.
+condition_pattern	Koşul örneği
+condition_pattern.h	Koşul için kullanılan örneği belirler.
+condition_value	Koşul değeri
+condition_value.h	Koşul için kullanılan değeri içerir. Seçilen örneği temel alan metin veya sayı girin.
+condition_jump_target	Atlama hedefi
+condition_jump_target.h	Yalnız rehberli tur\nKoşul için atlama hedefi belirler. Açılır listeden adım seçin. Koşul eşleşirse gezinti belirlenen adıma atlar.
+condition_text	Koşul metni
+condition_text.h	Koşul yerine getirilmediyse gösterilecek metni içerir.
+condition_case_sensitive	Büyük/küçük harfe duyarlı
+condition_case_sensitive.h	Koşulun büyük/küçük harfe duyarlı olduğunu belirler.
+condition_ignore_on_load	Sayfa yüklemesinde yoksay
+condition_ignore_on_load.h	Yalnız bağlam yardımcısı\nKoşulun sayfa yüklemede kontrol edilip edilmediğini belirler. İlişkili denetim kullanıldığında koşul kontrol edilir. Bu, koşul balonunun doğrudan görüntülenmesini engeller.
+c_equals	Eşit
+c_not_equals	Eşit değil
+c_greater	Daha büyük
+c_greater_equals	Daha büyük veya eşit
+c_less	Daha küçük
+c_less_equals	Daha küçük veya eşit
+c_min_char	Karakterlerin asgari sayısı
+c_max_char	Karakterlerin azami sayısı
+c_num_char	Şuna eşit karakter sayısı
+c_reg_exp	Normal ifade
+vertical	Dikey
+horizontal	Yatay
+AutoBarReady	Boş
+AutoBarExplanation	Açıklama ekle
+AutoBarChooseApp	Uygulama seç
+AutoBarRecord	Kaydet
+AutoBarBusy	Meşgul
+AutoBarPause	Duraklat
+AutoBarReRecManualHotspot	Denetimi düzenle: Değişikliklerle ilerlemek için Ctrl + Enter'e basın. Değişiklikleri atmak için Esc tuşuna basın.
+wizAddExplanation	Açıklama ekle
+AutoBarNoRecognition	Denetim tanınmadı
+AutoBarDiagnosis	Tanı
+condition_bubblestyle	Balon stili
+condition_bubblestyle.h	Koşul metnini görüntüleme için hangi balon stili kaynağının kullanılacağını tanımlar.
+condition_highlight_bgr	Vurgu rengi
+condition_highlight_bgr.h	Denetim için vurgulama rengini tanımlar.
+IDS_MPI_TOURSTOP_LABEL	Ad
+IDS_MPI_TOURSTOP_LABEL_MODIFIED	Manüel çevir
+IDS_MPI_TOURSTOP_NAME	UID
+IDS_MPI_TOURSTOP_SHOW	İlerleme görüntüsünde göster
+IDS_MPI_TOURSTOP_JUMP	Atlama hedefi
+IDS_MPI_TOURSTOP_CALLABLE	Alt program
+basic_info	Temel özellikler
+IDS_NO_IMAGE_SELECT	Resim seçilmedi
+IDS_NO_IMAGE	Resim bulunamadı
+ID_INSERT_TAKE	Adım ekle
+ID_PRJ_LAYOUT_HORZ	Yatay düzen
+ID_PRJ_LAYOUT_VERT	Dikey düzen
+ID_PRJ_LAYOUT_DIV	Bölünmüş düzen - 1
+ID_PRJ_LAYOUT_4	Bölünmüş düzen - 2
+ID_PRJ_LAYOUT_5	Bölünmüş düzen - 3
+IDS_UNTITLED	(başlıksız)
+docTableHeaderStep	Adım
+layout_advanced	Gelişmiş düzen
+showEditorHelp	Web düzenleyici yardımını göster
+slide:insert_tb	Ekle
+slide:action_tb	Eylem
+slide:structure_tb	Yapı
+slide:view_tb	Görüntüle
+existing_scrs_in_prj	Geçerli ekran zaten birden fazla projede kullanılıyor. \nKaydedilen nesneleri eklemek istediğiniz ekranı seçin.
+start_topic	Başlangıç
+guided_tour	Rehberli tur
+context_help	Bağlam yardımı
+off	Kapalı
+main_bar_1	Ana çubuk 1
+main_bar_2	Ana çubuk 2
+main_bar_3	Ana çubuk 3
+main_bar_4	Ana çubuk 4
+main_bar_5	Ana çubuk 5
+main_bar_6	Ana çubuk 6
+main_bar_7	Ana çubuk 7
+main_bar_8	Ana çubuk 8
+sub_menu_1	Alt menü 1
+sub_menu_2	Alt menü 2
+sub_menu_3	Alt menü 3
+sub_menu_4	Alt menü 4
+sub_menu_5	Alt menü 5
+sub_menu_6	Alt menü 6
+content_btn	Konum: 'İçerik' denetimi
+content_btn.h	‘İçerik’ denetiminin kenar çubuğundaki konumunu belirtir.
+search_btn	Konum: 'Arama' denetimi
+search_btn.h	‘Arama’ denetiminin kenar çubuğundaki konumunu belirtir.
+orCenter	Orta
+orNorth	Kuzey
+orWest	Batı
+orNortWest	Kuzeybatı
+orEast	Doğu
+orNortEast	Kuzeydoğu
+orSouth	Güney
+orSouthWest	Güneybatı
+orSoutEast	Güneydoğu
+screen_tolerence	Tolere edilen ekran sapması (%)
+screen_tolerence.h	Bu parametre, görüntülenen ekran sayfası ile kayıtlı ekran görüntüsü arasındaki gerekli grafik eşleşmesini, görüntülenecek ilişkili bağlam bilgileri için yüzde olarak tanımlar. Grafik uyuşmazlıkları, tanımlanan değerin yukarısındaysa @{NAVIGATOR}, kayıtlı sayfa tuşunu, ekran sayfası ile karşılaştırır ve farklı bir uygulama sayfası için uygun içerikleri görüntüler.
+video_folder	Video kayıt klasörü
+video_folder.h	Video kayıtlarının saklanacağı klasörü belirtir. \nNot: Sahip oldukları dosya boyutları nedeniyle video kayıtları @{NAVIGATOR} önbellek klasöründe saklanmamaktadır.
+allow_video_rec	Video kaydına izin ver
+allow_video_rec.h	Kullanıcıların video içerikleri kaydetmesine olanak sağlar.
+hide_da_on_web_assistant	@{XRAY} çalıştırırken @{NAVIGATOR} öğesini gizle
+hide_da_on_web_assistant.h	@{XRAY} ön planda çalıştırılırken @{NAVIGATOR} pencerelerinin gizlendiğini belirtir.
+show_web_assistant_msg	@{XRAY} iletisini göster
+show_web_assistant_msg.h	Ön planda @{XRAY} çalıştırılırken veya ön plan modundan çıkarken iletinin görüntülendiğini belirtir.
+cache_stale_interval	Eskime aralığı (dakika)
+cache_stale_interval.h	@{NAVIGATOR} önbelleği kullanımını etkileştirir ve önbellek klasöründeki içeriğin güncellenmesi için zaman çerçevesi belirler. Değer dakika olarak belirlenir. \nÖnbelleği devre dışı bırakmak için değeri '0' olarak değiştirin.
+centered	Ortalanmış
+close_details	İçerik penceresini kapat
+close_details.h	Seçilen bir projeye ilişkin içerik penceresini kapatmak için işlev tuşunu tanımlar.
+detail_positioning	İçerik penceresi hizalama
+detail_positioning.h	Ekranda içerik penceresinin hizalamasını tanımlar. 'Ortalanmış' hizalaması dışında içerik penceresi, ana pencereye sabitlenir.
+detail_size	İçerik penceresi boyutu
+detail_size.h	İçerik penceresinin boyutunu (genişlik, yükseklik) piksel olarak tanımlar.
+enable_search	Arama sekmesini etkinleştir
+enable_search.h	Masaüstü yardımcısı içeriğinde arama işlevselliğini etkinleştirir
+h_dock	Yatay olarak yerleştirildi
+leaves_page	Ekrandan çıkar
+leaves_page.h	Bu seçenek, gezintiye, bu nesne için gerekli eylemin yeni bir sayfanın yüklenmesine neden olacağını belirtir. Nesnede eylem gerçekleştirildiği ve sayfanın yüklemeyi bitirdiği anda yeni bir sayfa analizi yürütülür.
+maximize_details	İçerik penceresini ekran boyutuna getir
+maximize_details.h	İçerik penceresini ekran boyutuna getirmek için işlev tuşunu tanımlar.
+next_doc	Sonraki belgeyi seç
+next_doc.h	Yeni belgenin içerik penceresinde seçilmesi için işlev tuşunu tanımlar.
+next_project	Sonraki projeyi seç
+next_project.h	Yeni belgenin ana pencerede seçilmesi için işlev tuşunu tanımlar.
+open_content	İçerik aç
+open_content.h	Seçilen içerik nesnesini açmak için işlev tuşu tanımlar.
+open_details	İçerik penceresini aç
+open_details.h	Seçilen projeye ilişkin içerik penceresini açmak için işlev tuşunu tanımlar.
+prev_doc	Önceki belgeyi seç
+prev_doc.h	Önceki belgenin ana pencerede seçilmesi için işlev tuşunu tanımlar.
+prev_project	Önceki projeyi seç
+prev_project.h	Önceki projenin ana pencerede seçilmesi için işlev tuşunu tanımlar.
+show_execute	Yürütme düğmesini göster
+show_execute.h	Kayıttan yürütme sırasında nesne balonunda bir yürütme düğmesinin gösterilip gösterilmeyeceğini tanımlar. Bu düğme, kullanıcının uygulamada bir eylemi yürütmesini sağlar ve ardından bir sonraki adım gösterilir.
+show_icon_on_start	Durum ikonunu başlangıçta göster
+show_icon_on_start.h	Masaüstü yardımcısının başlangıcı için durum ikonunun ana pencere yerine görüntülenip görüntülenmeyeceğini belirler.
+start_doc	Belgeyi aç
+start_doc.h	İçerik penceresinden seçilen belgeyi açmak için işlev tuşunu tanımlar.
+step_on_same_page	Aynı sayfada adım
+v_dock	Dikey olarak yerleştirildi

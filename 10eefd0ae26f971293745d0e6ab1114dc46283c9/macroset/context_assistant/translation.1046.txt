@@ -1,0 +1,765 @@
+﻿NAVIGATOR	Desktop Assistant
+XRAY	Web Assistant
+LIBRARY	library
+MANAGER	Manager
+form_bubble	Bolha de formulário
+bform_height	Altura
+bform_height.h	Define a altura da bolha de formulário a ser exibida em pixels.
+bform_width	Largura
+bform_width.h	Define a largura da bolha de formulário a ser exibida em pixels.
+bform_position	Posição
+bform_position.h	Define a posição da bolha do formulário (esquerda, superior) para o alinhamento 'Livre' na tela. Os valores são indicados em pixels.
+paramAutoMergeComplete	A fusão de telas foi concluída.
+form	Formulário
+application_contexts	Utilização
+﻿Application	Aplicação
+highlight_offset	Offset
+AutoBarChooseApp	Selecionar aplicação
+AutoBarReRecManual	Clicar no objeto.
+BubbleOnActivate	Mostrar bolha diretamente
+ClickOnAAPosition	Clicar na aplicação para definir retângulo.
+ClickOnPosition	Clicar em uma posição na aplicação.
+EnabledOnPgLoad	Ativar
+HighlightOnActivate	Mostrar marcação diretamente
+start_from_arbitrary	Início a partir de etapa arbitrária
+focus_step	Camada de foco
+focus_step.h	Somente visita guiada\nExibe uma camada cinza para destacar o controle necessário na etapa atual.
+yes	Sim
+no	Não
+light_mode	Modo interativo
+light_mode.h	Indica que o usuário deve navegar na bolha do objeto até a próxima etapa. Nenhum reconhecimento da página é efetuado durante a reprodução.
+restricted_mode	Modo restrito
+restricted_mode.h	Indica que só a ação atual pode ser executada. Os outros controles da página de aplicação estão bloqueados. \nA configuração pode ser utilizada se a 'Camada de foco’ tiver sido ativada.
+show_highlight	Marcações
+action	Ação
+active_area	Área Ativa
+add_application_expl	Inserir explicação
+adv	Avançado
+display_behavior	Comportamento de exibição
+all_values	Todos os valores
+anim_steps	Etapas de animação
+application_context	Utilização
+area	Área
+auto_merge	Fundir macros de tela
+b_height	Altura
+form_on	Modo de formulário
+b_percent	Bolha visível (%)
+b_hide_option	Opção Ocultar
+b_minimizable	Minimizável
+b_closable	Fechável
+b_minimized	Minimizado
+b_width	Largura
+b_width.h	Define a largura da bolha do objeto em pixels.
+bmain_minimizable	Minimizável
+bmain_position	Posição
+bmain_win_style	Estilo
+bmain_size	Tamanho
+bmain_alignment	Alinhamento
+bubble	Bolha do objeto
+bubble_offset	Offset
+bubblestyle_d	Estilo
+bubblestyle_init	Estilo de bolha
+choose_appl_template	Selecionar perfil de aplicação
+choose_bool	Valor selecionado
+choose_nr	Índice selecionado
+choose_text	Valor selecionado
+target_static_text	está gravado como 'ID de página'.
+target_spec_warning	Advertência: nenhuma informação de regravação disponível para este controle.
+prev_step	Etapa anterior
+next_step	Etapa seguinte
+click	Ação do mouse
+click_pos	Posição do clique
+click_pos_rel	Posição da bolha
+config_file	Perfil de aplicação
+define_target	Tela
+display	Editar bolha principal
+display_name	Nome de exibição
+drag	Arrastar
+drop	Soltar
+dump_page	Captura de tela
+elem_bubble	Bolha do objeto
+element_type	Tipo de objeto
+enabled	Ativado
+optional	Opcional
+enter	Entrada do mouse
+executable	Aplicação
+explanation_d	Texto
+explanation_d_modified	Traduzir manualmente
+explanation_long	Explicação
+fh_mouseover	Ajuda ao passar o mouse
+fh_onelem	Ícone
+fh_tooltip	Informação rápida
+fh_bubble	Bolha
+step_list	Lista de etapas
+fieldicon	Imagem de objeto
+fieldname	Nome do objeto
+find	Procurar
+AutoBarChooseScn	Clicar na respectiva tela
+frame	Quadro
+g_highlight_bgr	Cor
+g_highlight_border	Margem
+g_highlight_effect	Efeito
+global	Global
+hide_on_focuslost	Ocultar ao perder o foco
+hilight	Marcação
+input_radio	Botão de rádio/campo de seleção
+input_text	Texto de entrada
+init	Inicial
+key	Tecla
+key_desc	Tecla de atalho
+key_name	Código de teclas
+key_press	Pressionamento de tecla
+lclick	Clique com o botão esquerdo do mouse
+ldblclick	Clique duplo com o botão esquerdo do mouse
+force_display	Forçar exibição
+auto_execute	Execução automática
+show_confirmation	Mostrar botão de confirmação
+show_confirmation.h	Define se um botão de confirmação é exibido na bolha do objeto durante a reprodução. O botão permite que o usuário confirme uma ação executada e, em seguida, é exibida a etapa seguinte.
+link_to_sim	Inserir link de simulação
+macro_comment	Comentário
+main_bubble	Janela
+match_value	Valor de correspondência
+mini_on_focuslost	Minimizar ao perder o foco
+enable_tincan	Rastreamento de @{NAVIGATOR}
+nav_check_freq	Frequência de atualização (mín.)
+navigation	Assistente de desktop
+new_screen_context	Nova tela
+no_spike	Nenhuma ponta
+pa_caption	Visita guiada
+none	Nenhum
+objname	Nome do objeto
+orientation	Orientação
+path	Caminho do objeto
+position	Posição
+rclick	Clique com o botão direito do mouse
+rdblclick	Clique duplo com o botão direito do mouse
+record_activearea	Gravar área ativa
+record_application_context	Gravar aplicação
+no_control	Nenhum objeto disponível na posição clicada.
+record_control	Gravar objeto
+record_control_pa	Gravar etapa da visita guiada
+record_define_target	Gravar tela
+record_display	Editar bolha principal
+record_end_display	Editar bolha
+record_explanation	Adicionar explicação
+record_object_context	Gravar objeto
+record_screen_context	Gravar tela
+record_target_specializer	Gravar ID de página
+record_compatible_application	Gravar aplicação compatível
+reference	Fonte
+regexp	Expressão regular
+replace	Substituir
+replace_continue	Substituir e continuar...
+replace_pgkey_attr	Substituir atributos de chave de página
+error_regexp	Expressão regular inválida. Corrija sua entrada.
+resize	Redimensionar janela
+revision	Revisão
+sc_config_header	Informação de perfil
+screen	Tela
+screenhelp	Ajuda de tela
+screenshot_rect	Posição da captura de tela
+select_single	Seleção única
+selected_merge	Fundir macros de tela selecionadas
+show_bubble	Mostrar diretamente
+show_hilight	Visualizar marcação
+show_on_focus	Mostrar ao focalizar
+source	Fonte
+start_unit	Estilo da ajuda de contexto
+subkey	Permitido como subchave
+script	Script
+target_name	Título
+target_specializer	ID de página
+text_d	Texto de entrada
+text_d_specializer	Texto de entrada
+tolerance	Fundir tolerância de macros de tela
+translate	Tradução automática
+autoTranslate	Traduzir projeto
+paramReRecordLanguage	Idioma
+merge_critical_macros	Fundir macros automaticamente
+merge_critical_macros.h	Se você estiver convertendo simulações em navegações, pode fundir automaticamente as telas criadas desse modo. Estas são combinadas utilizando o valor de tolerância determinado no parâmetro 'Fundir tolerância de macros de tela'.
+uid	UID
+underline	Sublinha
+update_control	Atualizar objeto
+update_target	Atualizar tela
+variant	Variante
+win_rect	Tamanho da janela
+wizCancel	Cancelar
+wizFinish	Concluir
+wizNext	Seguinte
+wizOk	OK
+wizExplanation	Explicação
+wizContinue	Continuar
+app_info	Exibir aplicação
+app_link_to_sim	Inserir link de simulação para aplicação
+screen_info	Exibir tela
+screen_link_to_sim	Inserir link de simulação para tela
+object_info	Exibir variante
+object_link_to_sim	Inserir link de simulação
+disabled	Desativado
+record_context_assistant_include	Incluir projeto @{NAVIGATOR}
+project_id	Título do projeto
+project_id.h	O parâmetro contém o projeto inserido. O botão 'Editar link' permite que você selecione o projeto na área de trabalho.
+project	Projeto
+context_assistant_include	Projeto de assistente de desktop
+open_expanded	Exibir bolha principal avançada
+restart_option	Botão de reinício
+next_project_id	Projeto seguinte
+next_project_id.h	Esta opção define um projeto que será iniciado após a conclusão do processo atual. O processo novo começa diretamente e não será exibida nenhuma bolha final.
+end_unit	Fim da visita
+add_end_unit	Inserir fim do processo
+demo	Modo de demonstração
+uebung	Modo de exercício
+praxis	Modo concorrente
+test	Modo de teste
+doc	Documento Word
+pdf	Documento PDF
+html	Documento HTML
+ppt	Documento PowerPoint
+explanation_type	Ícone
+note	Nota
+info	Informação
+tipp	Dica
+warnung	Aviso
+no_image	Nenhum ícone
+display_on	Exibir bolha principal em
+nav_start	Início de navegação
+app_focus	Focalização da aplicação
+screen_focus	Focalização da tela
+never	Não mostrar
+list_type	Tipo de lista para tela
+list_type.h	Este parâmetro determina o tipo para a listagem dos objetos na tela, se a opção 'Exibir todas as informações do objeto' estiver ativada para isto.
+unordered_list	Marcadores
+ordered_list	Numeração
+convert_sn	Gerar assistente de desktop
+Application	Aplicação
+obj_context	Objeto
+expl_context	Explicação
+record_cntrl_type	Tipo
+disable_standby	Desativar status de espera (@{NAVIGATOR})
+disable_standby.h	Indica que o status de espera do @{NAVIGATOR} não pode ser definido. Se esta opção estiver desativada, você pode definir o status de espera com o atalho 'CTRL + F11' ou com um clique no ícone de status.
+disable_exit	Ocultar entrada Exit (@{NAVIGATOR})
+disable_exit.h	Indica que a entrada 'Exit' no menu de contexto do ícone de status de @{NAVIGATOR} está oculta.
+bcontent_style	Estilo bolha
+bcontent_style.h	Esta configuração define o estilo de bolha que deve ser utilizado para exibir a bolha.
+cache_properties	Cache
+cache_folder	Localização da pasta
+cache_folder.h	Define a localização da pasta de cache 'NavigatorCache'. A localização padrão é '%localappdata%'. Você pode inserir uma localização personalizada. \nNota: o nome da pasta de cache não pode ser modificado.
+use_caching	Utilizar administração de cache
+use_caching.h	Ativa a utilização do cache @{NAVIGATOR}.
+function_keys	Chaves de função
+minimize_da	Minimizar
+minimize_da.h	Define uma chave de função para minimizar a janela principal.
+next_tab	Selecionar ficha seguinte
+next_tab.h	Define a chave de função para selecionar a ficha seguinte na janela principal.
+next_screen	Ir para tela seguinte
+next_screen.h	Define uma chave de função para navegar para a tela seguinte para um projeto selecionado.
+back	Voltar
+back.h	Define uma chave de função para ir para a tela anterior.
+toggle_standby	Comutar modo de espera
+toggle_standby.h	Define uma chave de função para comutar o modo de espera.
+abort	Cancelar
+abort.h	Define uma chave de função para cancelar o assistente de desktop.
+restart	Reiniciar
+restart.h	Define uma chave de função para reiniciar o assistente de desktop.
+start_pa	Iniciar projeto do assistente de desktop
+start_pa.h	Define uma chave de função para iniciar um projeto selecionado.
+start_demo	Iniciar modo de demonstração
+start_demo.h	Define uma chave de função para iniciar um modo de demonstração selecionado.
+start_prac	Iniciar modo de exercício
+start_prac.h	Define uma chave de função para iniciar um modo de exercício selecionado.
+start_test	Iniciar modo de teste
+start_test.h	Define a chave de função para iniciar um modo de teste selecionado.
+start_concur	Iniciar modo concorrente
+start_concur.h	Define uma chave de função para iniciar um modo concorrente selecionado.
+start_book	Iniciar livro
+start_book.h	Define uma chave de função para iniciar um livro selecionado.
+start_group	Abrir em library
+start_group.h	Define uma chave de função para abrir um grupo na library.
+toggle_ctx_rec	Comutar reconhecimento de contexto
+toggle_ctx_rec.h	Define uma chave de função para comutar o reconhecimento de contexto do assistente de desktop.
+select_next	Selecionar entrada seguinte
+select_next.h	Define uma chave de função para selecionar a entrada seguinte na janela atual.
+select_prev	Selecionar entrada anterior
+select_prev.h	Define uma chave de função para selecionar a entrada anterior na janela atual.
+toggle_warning	Exibir diálogo de advertência
+toggle_warning.h	Define uma chave de função para exibir o diálogo de advertência do assistente de desktop.
+execute_step	Executar etapa
+execute_step.h	Define uma chave de função para executar uma etapa durante a reprodução da visita guiada.
+copy_link	Copiar link
+copy_link.h	Define uma chave de função para copiar o link da entidade selecionada.
+maximize_trainer	Maximizar janela de conteúdo
+maximize_trainer.h	Define uma chave de função para maximizar a janela de conteúdo.
+share_email	Compartilhar via e-mail
+share_email.h	Define uma chave de função para compartilhar conteúdo da entidade selecionada via e-mail.
+start_default	Iniciar conteúdo padrão
+start_default.h	Define uma chave de função para iniciar o modo padrão ou o documento selecionado.
+show_da_help	Visualizar ajuda de assistente de desktop
+show_da_help.h	Define uma chave de função para abrir a ajuda de assistente de desktop.
+request_content	Solicitar conteúdo
+request_content.h	Define uma chave de função para solicitar conteúdo para uma página de aplicação.
+search_content	Pesquisar conteúdo
+search_content.h	Define uma chave de função para procurar conteúdo dependendo do tipo de pesquisa selecionado.
+show_hidden_elems	Visualizar elementos de ajuda ocultos
+show_hidden_elems.h	Define uma chave de função para visualizar elementos de ajuda ocultos
+toggle_side_bar	Visualizar/ocultar barra lateral
+toggle_side_bar.h	Define uma chave de função para visualizar e ocultar a barra lateral.
+content_library	Assistente de desktop - Conteúdo e comportamento
+content_library_window	Assistente de desktop - Estilo e janelas
+content_library_sidebar	Assistente de desktop - Barra lateral
+style	Estilo
+style.h	Define a aparência dos componentes de assistente de desktop (janela principal, janela de conteúdo, ícone de status). Selecione um estilo de recurso da lista.
+show_only_bar	Visualizar somente barra lateral no início
+show_only_bar.h	Define se somente a barra lateral será exibida no início do assistente de desktop ou também a janela principal.
+clear_on_mismatch	Anular lista de conteúdo em incompatibilidade de contexto
+clear_on_mismatch.h	Define que a lista de conteúdos é eliminada caso não tenha sido encontrado um contexto. Com a configuração desativada é visualizado o conteúdo do último objeto reconhecido.
+da_positioning	Alinhamento de janela principal
+da_positioning.h	Define o alinhamento da janela principal na tela. A opção 'Livre' permite a definição de uma posição no parâmetro 'Posição de janela principal'.
+bar_positioning	Alinhamento de barra lateral
+bar_positioning.h	Define o alinhamento da barra lateral na tela.
+left_top	Canto superior esquerdo
+left_center	Esquerdo centrado
+left_bottom	Canto inferior esquerdo
+right_top	Canto superior direito
+right_center	Direito centrado
+top_center	Superior centro
+right_bottom	Canto inferior direito
+center	Centro
+free	Livre
+list_order	Ordenação de conteúdo
+list_order.h	Define a ordenação do conteúdo disponível na lista.
+by_default	Estrutura de explorador
+by_name	Alfabética
+by_type	Alfabético por tipo
+library_position	Posição da janela principal (livre)
+library_position.h	Define a posição da janela principal (esquerda, superior) para o alinhamento 'Livre' na tela. Os valores são indicados em pixels.
+search_url	Grupo de pesquisa
+search_url.h	Permite que você defina um grupo da área de trabalho para procurar conteúdo na @{LIBRARY}.
+enable_recording	Posição: controle ‘Gravação’
+enable_recording.h	Permite a você exibir um controle para processos de gravação. Você pode indicar a posição do controle na barra lateral.\nA gravação permite ao usuário gravar processos, como documentos do Microsoft Word ou como vídeos. Os arquivos gravados são exibidos na janela principal na ficha Área do usuário.
+enable_exit_da	Posição: controle ‘Sair’
+enable_exit_da.h	Permite a você visualizar um controle para sair do @{NAVIGATOR}. Você pode indicar a posição do controle na barra lateral.
+enable_info	Visualizar ficha 'Info'
+enable_info.h	Ativa a ficha 'Info' para a janela principal do assistente de desktop. Inserir um texto de informação na descrição breve do grupo de assistentes de desktop.
+request_content_type	Tipo de solicitação de conteúdo
+request_content_type.h	Indica a funcionalidade para solicitar conteúdo. Selecione um tipo da lista drop-down. \nE-mail: permite a você inserir um endereço de e-mail para as solicitações. \nURL: permite a você inserir um URL para abrir uma página da Web. \nÉ exibido um controle ‘Solicitar conteúdo’ na barra lateral. Se não for encontrado nenhum conteúdo, o link ‘Solicitar conteúdo’ é exibido na janela principal.
+email	E-mail
+url	URL
+enable_request_content	Posição: controle 'Solicitar conteúdo'
+enable_request_content.h	Indica a posição do controle ‘Solicitar conteúdo’ na barra lateral.
+enable_external_search_ctx	Fornecer informações de contexto
+enable_external_search_ctx.h	Fornece informações de contexto adicionais do usuário com o URL de pesquisa durante a pesquisa. As informações de contexto serão utilizadas para a pesquisa. Ative a configuração, se sua pesquisa indicada puder utilizar as informações de contexto. \nAs informações de contexto fornecidas são indicadas no parâmetro ‘Informações de contexto’.
+external_search_ctx	Informações de contexto
+external_search_ctx.h	Indica as informações de contexto, se a configuração ‘Fornecer informações de contexto’ tiver sido ativada. Podem ser fornecidas as seguintes informações de contexto: EXE da aplicação atual (&executable=$#{EXE}), chave de página da página de aplicação atual (&pagekey=$#{PAGEKEY})\nNota: Não modifique a estrutura da cadeia das informações de contexto.
+enable_external_search	Posição: controle ‘Pesquisa externa’
+enable_external_search.h	Permite a você ativar uma página de pesquisa externa para procurar conteúdo ou mais informações. Com a configuração ativada, o controle ‘Pesquisa externa’ é exibido na barra lateral. Você pode indicar a posição do controle na barra lateral. \nO botão abre um campo de pesquisa para a entrada de um critério de pesquisa. Os resultados da pesquisa são exibidos na página de pesquisa externa. Para a pesquisa externa, você deve indicar um URL de pesquisa no parâmetro ‘URL de pesquisa externa’.
+external_search_url	URL
+external_search_url.h	Permite a você indicar um URL para a pesquisa externa. Insira o URL na estrutura seguinte:\nhttps://www.google.com/#q=$#{SEARCHTERM}\nhttps://www.bing.com/search?q=$#{SEARCHTERM}\nhttps://search.yahoo.com/search?p=$#{SEARCHTERM}\nhttps://www.wolframalpha.com/input/?i=$#{SEARCHTERM}\n\nNota: Não elimine ou modifique '=$#{SEARCHTERM}' do parâmetro de URL.
+enable_share_content	Visualizar controle 'Compartilhar conteúdo'
+enable_share_content.h	Exibe um botão 'Compartilhar conteúdo' no rodapé da janela principal. O botão abre uma caixa de diálogo com o link para o conteúdo selecionado.
+author_email	E-mail
+author_email.h	Permite que você indique um endereço de e-mail para solicitar conteúdo. O endereço de e-mail é utilizado para a função 'Solicitar conteúdo'.
+author_url	URL
+author_url.h	Permite que você indique um URL para solicitar conteúdo. O URL é utilizado para a função 'Solicitar conteúdo'.
+author_url_params	Parâmetros de URL
+author_url_params.h	Permite que você especifique os parâmetros para o URL de autor. \nVocê pode indicar o nome da aplicação e o executável Substitua o valor 'aplicação' ou 'executável' com o nome necessário.
+enable_fuzzy_match	Ativar correspondência fuzzy
+enable_fuzzy_match.h	Define se a correspondência fuzzy é utilizada para a correspondência do contexto com uma página de aplicação.
+enable_ident_filter	Ativar identificação avançada da aplicação
+enable_ident_filter.h	Indica que só a informação da aplicação relevante é utilizada para a reprodução de @{NAVIGATOR}. Isso permite que você otimize a performance de @{NAVIGATOR}.\nNota: a opção pode levar a um reconhecimento do objeto incorreto. Recomenda-se que a reprodução seja testada antes de se publicar o conteúdo.
+library_size	Tamanho da janela principal
+library_size.h	Define o tamanho (largura, altura) da janela principal em pixels.
+book_win_position	Posição da janela de conteúdo (livre)
+book_win_position.h	Define a posição da janela de conteúdo (esquerda, superior) para o alinhamento 'Livre' na tela. Os valores são indicados em pixels.
+book_win_size	Tamanho da janela de conteúdo
+book_win_size.h	Define o tamanho (largura, altura) da janela de conteúdo em pixels.
+book_win_positioning	Alinhamento de janela de conteúdo
+book_win_positioning.h	Define o alinhamento da janela de conteúdo na tela. A opção 'Livre' permite a definição de uma posição no parâmetro 'Posição de janela de conteúdo'.
+errNoApplicationContext	A macro atual não é um contexto de aplicação.
+errNoTargetDefinition	A macro não corresponde à definição final.
+errExtractPagekey	Não é possível extrair a chave da página com o perfil:
+errScreenshot	Não é possível efetuar a captura de tela. Tente novamente.
+errLoadTemplate	Não é possível carregar o perfil:
+errRecordProcessStep	As etapas da visita guiada não podem ser gravadas para projetos de 'ajuda de contexto'.
+errLanguageSelection	Nenhum idioma selecionado.
+errNoWriteToken	Você não tem autorização para escrever para o objeto selecionado.
+errMacroSelection	Nenhuma macro selecionada.
+errObjectInformation	Nenhuma informação do objeto na posição indicada.
+errSpecializedInformation	Nenhuma informação especializada na posição indicada.
+errPosition	A posição não está na área da janela.
+errActionMacroSelection	Nenhuma macro de ação selecionada.
+errUpdateObject	O tipo de objeto selecionado não pode ser atualizado.
+errInsertExplanation	A explicação livre não pode ser inserida para a macro selecionada.
+action.h	Somente visita guiada\nEsta opção define a ação que o usuário deve executar no objeto.
+all_values.h	Em alguns casos, o objeto de uma aplicação tem escolhas para valores que não podem ser abrangidos por um controle HTML padrão. Nesse caso é utilizado um controle que esteja o mais próximo possível do objeto na aplicação. Além disso, este campo mantém todos os valores que o objeto tem como escolhas.
+anim_steps.h	O valor define em quantas etapas é animado o efeito de marcação selecionado. Os valores baixos aceleram a animação mas causam uma impressão entrecortada. Os valores altos tornam a animação mais consistente, mas também reduzem a velocidade global da animação.
+auto_execute.h	A configuração define que a ação será executada automaticamente durante a reprodução da navegação.
+b_height.h	Define a altura da bolha do objeto em pixels. Se a quantidade de texto exceder o espaço disponível na bolha, esta será dimensionada automaticamente, em termos de altura, para o espaço necessário.
+b_hide_option.h	Somente ajuda de contexto\nCom a ativação desta opção irá aparecer uma configuração no objeto ou bolha de explicação no qual os usuários finais podem desativar a informação do objeto (bolha e marcação). Isto permite que os usuários ocultem informações já não necessárias.
+b_minimizable.h	Esta opção define se a bolha pode ser minimizada durante a reprodução. Com a opção ativada, é exibido um botão 'Minimizar' no cabeçalho da bolha.
+b_closable.h	Somente ajuda de contexto\nEsta opção define se a bolha pode ser fechada durante a reprodução. Com a opção ativada, é exibido um botão 'Fechar' no cabeçalho da bolha.
+b_minimized.h	Somente ajuda de contexto\nEsta opção define se a bolha do objeto é exibida de modo minimizado quando a página é carregada.
+bmain_size.h	Define o tamanho (largura, altura) da janela principal em pixels.
+bmain_minimizable.h	Esta opção define se a janela principal é minimizável ou não.
+bmain_position.h	Os valores inseridos aqui definem a posição da janela principal na tela. Os números descrevem a distância do canto superior esquerdo em pixels.
+bmain_win_style.h	Define o aspecto da janela principal. Selecionar um recursos de estilo a partir da lista.
+bmain_alignment.h	Define o alinhamento da janela principal na tela. A opção 'Livre' permite a definição de uma posição no parâmetro 'Posição de janela'.
+bubble_offset.h	Esta opção define o offset em pixels no qual a bolha do objeto é exibida para o objeto.
+bubblestyle_d.h	Indica o recurso de estilo de bolha para exibir as bolhas do objeto do projeto.
+bubblestyle_d.h	Indica o recurso de estilo de bolha para exibir as bolhas do objeto do projeto.
+choose_bool.h	Este campo contém o valor que determina se o botão de rádio ou o campo de seleção está ativado ou desativado. O valor para um botão de rádio é sempre '1' (ativado). O valor para um campo de seleção pode ser '0' (desativado) ou '1' (ativado).
+choose_text.h	Este parâmetro contém a cadeia de caracteres encontrada para a entrada selecionada em um menu popup ou campo de lista durante o processo de gravação automático. Esta cadeia é inserida nos textos da bolha explicativos nos diversos modos em vez do caractere de preenchimento '${choose_text}' (consulte o modo de texto no editor HTML). Esta é utilizada como um módulo de texto para o texto da bolha gerado automaticamente na geração automática de conteúdo da bolha com módulos de texto ao gravar.
+click_pos.h	Descreve a posição na janela de aplicação que foi clicada pelo autor quando o objeto foi gravado. A posição é especificada em pixels e é referente ao canto superior esquerdo do conteúdo da janela de aplicação.
+click_pos_rel.h	Descreve a posição na janela de aplicação. O valor em porcentagem (%) indica a posição relativamente à largura e à altura globais da janela de aplicação, tendo a aresta superior esquerda como ponto de referência.
+config_file.h	Contém o nome do perfil de aplicação utilizado para criar a chave e também para interpretar a chave posteriormente.
+display_name.h	Indica o nome da aplicação. O nome será exibido na janela de exceção de uma visita guiada.
+dump_page.h	Contém a tela gravada. \nVocê pode modificar a imagem utilizando a função ‘Substituir imagem’.
+element_type.h	Descreve a classe do objeto que foi reconhecida pelo mecanismo de reconhecimento.
+enabled.h	Somente ajuda de contexto\nEsta opção define se a macro é incorporada na análise da página ou não. Se esta opção for desativada, o objeto de ajuda não é exibido, mesmo que o objeto associado exista na página.
+optional.h	Somente visita guiada\nA opção define se a etapa da visita guiada é opcional para o usuário em um processo. \nDurante a reprodução será exibido um ícone diferente na lista de etapas. Se o controle não estiver visível na página ou se a página estiver incorreta, a etapa será ignorada.
+executable.h	Contém o nome executável da aplicação, tal como utilizado pelo sistema operacional.
+explanation_d.h	Contém a informação do respectivo contexto (texto, links, imagens, etc.). Assegure uma exibição perfeita da informação dentro da bolha principal.
+explanation_d_modified.h	Se esta opção for ativada, as informações de contexto já não são geradas automaticamente no caso de tradução automática, tendo antes que ser editadas manualmente. Isso ajuda a manter modificações manuais do conteúdo da bolha.
+fieldname.h	Contém o nome do controle gravado, que é inserido nos textos de bolha. \nVocê pode modificar o nome do objeto no campo de texto. O nome do objeto tem o caractere de preenchimento '$#{fieldname}'.
+fieldicon.h	Contém a imagem de um botão ou ícone gravado, que é inserida nos textos de bolha. \nVocê pode modificar a imagem do objeto utilizando a função ‘Substituir imagem’. A imagem de objeto tem o caractere de preenchimento '$I{fieldicon}'.
+g_highlight_bgr.h	Isto define a cor padrão das margens da marcação na navegação. A cor pode ser inserida diretamente como um valor RBG no formato HEX ou selecionada a partir da caixa de diálogo Seleção de cores.
+g_highlight_border.h	Este parâmetro define a espessura geral em pixels do quadro de marcação do objeto. As larguras em pixels estão disponíveis de '1' a '10'.
+g_highlight_effect.h	Esta opção determina o tipo de efeito de marcação utilizado para os objetos na navegação.
+hide_on_focuslost.h	Esta opção define se a bolha será ocultada quando o foco na tela deixar o respectivo objeto.
+highlight_offset.h	Este parâmetro define o offset de pixel inserido para o retângulo de marcação que envolve o elemento marcado.
+key.h	Contém todos os critérios para identificar a janela de aplicação e uma determinada página na aplicação. A chave só será correspondente se a página na aplicação de destino preencher todos os critérios definidos na chave. Para simplificar a definição dos critérios da chave única, é permitida a utilização de expressões regulares.
+key_name.h	Este parâmetro determina a tecla ou o atalho utilizado. Isto envolve a separação dos nomes das teclas por espaços, por exemplo: 'ctrl + k'.
+key_desc.h	Este parâmetro determina a tecla ou o atalho utilizado. Isto envolve a separação dos nomes das teclas por espaços, por exemplo: 'ctrl + k'.
+force_display.h	Somente ajuda de contexto\nIndica que o conteúdo de macro é sempre exibido como ajuda instantânea, mesmo se a ajuda instantânea estiver desativada durante a reprodução do assistente de desktop.
+link_to_sim.h	Esta opção irá inserir o link de simulação na bolha principal. Esta opção está relacionada a uma navegação criada com base em um projeto de simulação (por conversão).
+macro_comment.h	Comentário geral. Este é exibido na visão em miniatura.
+match_value.h	Esta opção especifica se o valor indicado deve ser comparado com o valor real do objeto na aplicação ao vivo.
+mini_on_focuslost.h	Esta opção define se a bolha é minimizada quando o foco na tela deixar o respectivo objeto.
+nav_check_freq.h	Define com que frequência @{NAVIGATOR} verifica se existe conteúdo atualizado. Se o conteúdo atualizado estiver disponível, o @{NAVIGATOR} iniciará o conteúdo automaticamente. Isto é especialmente útil para os processos de administração de modificações.
+enable_tincan.h	Ativa o rastreamento para o conteúdo do @{NAVIGATOR}. O conteúdo deve ser iniciado a partir de uma área de trabalho @{MANAGER}.
+no_spike.h	Esta opção define se a bolha do objeto é exibida com ou sem uma ponta.
+objname.h	Todos os objetos em uma navegação necessitam de um nome único para fins de identificação quando são utilizados comportamentos ou atribuições de comportamento.
+orientation.h	Este parâmetro define a orientação da bolha do objeto relativamente ao objeto referenciado. A seta da bolha aponta para a posição referenciada na página, enquanto a própria bolha é exibida de modo deslocado relativamente à direção selecionada, tal como determinado. Se estiver selecionada a orientação 'Centro', a bolha é exibida sem uma seta, centrado na posição definida.
+path.h	O caminho do objeto descreve as propriedades do objeto com base no perfil de aplicação utilizado. O caminho do objeto é utilizado para identificar o objeto na aplicação ao vivo. Por regra, não deve ser necessário editar este campo manualmente.
+position.h	Os valores inseridos aqui definem a posição da bolha principal na tela. Os números descrevem a distância do canto superior esquerdo em pixels.
+reference.h	Se a navegação tiver sido convertida a partir de uma simulação, a fonte da respectiva etapa deve ser especificada aqui.
+resize.h	Esta opção define se o tamanho da janela de aplicação de destino deve ser modificado automaticamente para o tamanho que foi utilizado quando a navegação foi criada. Isto pode ser útil para áreas ativas, uma vez que essas serão exibidas com base na posição.
+revision.h	Mostra a versão do perfil de aplicação utilizado para criar a chave ao gravar a tela de aplicação.
+sc_config_header.h	A informação do perfil de aplicação é gravada neste campo. A navegação utiliza esta informação para poder reconhecer corretamente a aplicação e os respectivos objetos durante a reprodução.
+screenshot_rect.h	Exibe a área da tela original que foi utilizada para a captura de tela do objeto. Por regra, não deve ser necessário editar este valor manualmente.
+show_bubble.h	Esta opção define se a bolha é mostrada imediatamente após a página ser carregada por completo.
+start_from_arbitrary.h	Esta opção define que a visita guiada pode ser iniciada a partir de uma etapa arbitrária e não a partir do início do processo.
+show_hilight.h	Indica se uma marcação é exibida para o objeto.
+show_highlight.h	Indica se as marcações são exibidas para os objetos.
+show_on_focus.h	Esta opção define se a bolha é exibida quando o foco na tela é modificado em relação ao respectivo objeto.
+source.h	Se uma navegação tiver sido convertida a partir de uma simulação, o parâmetro especifica a lição original.
+subkey.h	Em alguns casos, é útil se determinadas partes da parte original de uma chave forem ignoradas, por exemplo porque as variantes de uma determinada página não são relevantes e devem ser tratadas pela mesma chave e etapa na navegação. Esta opção força o mecanismo de reconhecimento a considerar a chave como uma correspondência, mesmo que a página tenha tido mais critérios de chave notificados pelo reconhecimento do que os definidos na chave. Por isso, a chave de página pode ser reduzida para abranger mais do que uma página com uma chave.
+target_name.h	Contém o nome da janela de aplicação.
+text_d.h	Este parâmetro contém a cadeia de caracteres a ser inserida no campo de entrada referenciado. Este contém o valor inserido durante o processo de gravação automático. Esta cadeia é inserida nos textos da bolha explicativos nos diversos modos em vez do caractere de preenchimento '${text_d}' (consulte o modo de texto no editor HTML) na geração automática de conteúdo da bolha com módulos de texto ao gravar.
+text_d_specializer.h	Este parâmetro contém a cadeia de caracteres a ser inserida no campo de entrada referenciado. Este contém o valor inserido durante o processo de gravação automático. Esta cadeia é inserida nos textos da bolha explicativa nos diversos modos em vez do caractere de preenchimento '${text_d}' (consulte o modo de texto no editor HTML) na geração automática de conteúdo da bolha com módulos de texto ao gravar.
+tolerance.h	O valor define a tolerância para o grau de correspondência ao fundir macros 'Tela'. Esta configuração está relacionada à função 'Fundir macros de tela' que pode ser iniciada a partir do menu 'Ferramentas -> Modificações em massa'. O aumento do valor aumenta o limite da tolerância. Considere que neste caso também podem ser fundidas as capturas de tela onde são exibidos diferentes objetos. O valor é especificado em porcentagem.
+uid.h	Contém um identificador único da macro segundo o qual são administrados no projeto.
+win_rect.h	Define o tamanho da janela ao criar um projeto.
+explanation_type.h	Esta opção determina o tipo de nota. Dependendo da configuração do tipo, é exibido um pictograma juntamente com o texto para marcar o texto de consulta.
+app_info.h	A configuração define se a aplicação é exibida na ajuda de contexto. Caso a aplicação não deva ser exibida, a configuração deve ser desativada.
+app_link_to_sim.h	Este parâmetro pode ser utilizado para exibir um link para a simulação especificada no parâmetro 'Fonte', além do tipo de contexto. É possível selecionar diferentes modos no processo.
+screen_info.h	A configuração define se a página é exibida na ajuda de contexto. Caso a tela não deva ser exibida, a configuração deve ser desativada.
+screen_link_to_sim.h	Este parâmetro pode ser utilizado para exibir um link para a simulação especificada no parâmetro 'Fonte', além do tipo de contexto. É possível selecionar diferentes modos no processo.
+object_info.h	Somente ajuda de contexto\nA configuração define a variante a ser exibida para o objeto.
+open_expanded.h	Se esta opção for ativada, a bolha principal é exibida com página e lista de objetos abertas.
+display_on.h	Este parâmetro define em que situação deve ser exibida a bolha principal da navegação. Ao iniciar a navegação, visualizar a aplicação ou visualizar a página de aplicação correspondente.
+area.h	O parâmetro define a posição e o tamanho do controle. Os primeiros dois números indicam a posição de um objeto a partir da borda superior esquerda da tela. Os últimos dois números definem a largura e a altura do objeto. O botão junto ao campo de entrada abre uma caixa de diálogo de edição que permite que a posição e o tamanho do objeto sejam personalizados.
+form_on.h	Define que a etapa é um formulário. Todas as ações da etapa são exibidas em uma bolha durante a reprodução.
+transition	Etapa seguinte da visita guiada
+transition_info	Etapa seguinte da visita guiada
+action_pa	Ação
+trans_action	Ação
+step_name1	Etapa seguinte
+step_name2	Etapa alternativa 1
+step_name3	Etapa alternativa 2
+step_name4	Etapa alternativa 3
+LClick	Clique com o botão esquerdo do mouse
+RClick	Clique com o botão direito do mouse
+LDblClick	Clique duplo com o botão esquerdo do mouse
+RDblClick	Clique duplo com o botão direito do mouse
+Focus	Foco
+FocusLost	Foco perdido
+step	Etapa da visita guiada
+name	Nome
+end_message	Texto
+show_end_window	Janela final
+show_end_window.h	Indica que uma janela é exibida no fim da visita guiada. A janela permite que o usuário feche a visita guiada manualmente. Se esta opção estiver desativada, a janela não é exibida e a visita guiada é fechada automaticamente.
+trans_action.h	Somente visita guiada\nEspecifica a ação que aciona o salto para a etapa da visita guiada seguinte.
+action_pa.h	Esta configuração indica que ação do usuário aciona o salto para a etapa seguinte da visita guiada.
+step_name1.h	Somente visita guiada\nDefine a etapa seguinte no fluxo do processo.
+step_name2.h	Somente visita guiada\nDefine uma etapa de visita guiada alternativa, caso a etapa da visita guiada definida não possa ser exibida.
+step_name3.h	Somente visita guiada\nDefine uma etapa de visita guiada alternativa, caso a etapa 1 da visita guiada altenativa definida não possa ser exibida.
+step_name4.h	Somente visita guiada\nDefine uma etapa de visita guiada alternativa, caso a etapa 2 da visita guiada altenativa definida não possa ser exibida.
+step_on_same_page.h	Somente visita guiada\nEsta configuração deve ser ativada se a etapa seguinte da visita guiada estiver na mesma página de aplicação. Isto evitará um reconhecimento da página.
+name.h	Define o nome da etapa da visita guiada. O nome é exibido nas configurações 'Próxima etapa da visita guiada' de uma macro 'Objeto' para a seleção.
+set_value	Definir valor automaticamente
+set_value.h	A configuração define se o valor da macro será definido automaticamente durante a reprodução da navegação.
+end_message	Texto
+end_message.h	Você pode inserir texto neste campo de texto que é exibido na bolha no fim do processo. O campo de texto é predefinido com um texto padrão
+restart_option	Botão de reinício
+restart_option.h	Se esta opção for ativada, aparece um botão na bolha que o usuário pode utilizar para repetir um processo. Isto permite executar novamente um processo com entradas diferentes.
+record_end_display	Editar bolha
+end_bubble	Fim do processo da bolha
+bend_position	Posição
+bend_position.h	Os valores inseridos aqui indicam a posição da bolha na tela. Os valores são especificados em pixels e são referentes ao canto superior esquerdo da tela.
+bend_style	Estilo
+bend_style.h	Esta configuração define o estilo de bolha que deve ser utilizado para exibir a bolha. Os estilos de bolha são definidos utilizando o editor de estilo de bolha que pode ser aberto a partir do menu 'Ferramentas' -> 'Editar estilos de bolha'. Os estilos de bolha estão sempre disponíveis para toda a área de trabalho.
+bend_width	Largura
+bend_width.h	Isto define a largura da bolha a ser exibida em pixels.
+bend_height	Altura
+bend_height.h	Isto define a altura da bolha a ser exibida em pixels.
+process_start_unit	Estilo da visita guiada
+record_pa_control	Gravar etapa da visita guiada
+prev_step	Etapa anterior
+next_step	Etapa seguinte
+disqualifier	Excluir tela
+disqualifier.h	Com o 'ID de página', você pode diferenciar páginas de aplicação semelhantes utilizando um objeto específico. Esta opção indica se a página de aplicação reconhecida deve ser exibida ou excluída, caso o 'ID de página' esteja disponível. \nA exibição em miniatura exibe o status da opção: um símbolo de mais (não excluir) ou menos (excluir).
+exception_bubble	Tratamento de exceções da bolha
+bexp_position	Posição
+bexp_position.h	Os valores inseridos aqui definirão a posição da bolha na tela. Os valores são indicados em pixels. A bolha irá aparecer no canto superior esquerdo da tela.
+bexp_style	Estilo
+bexp_style.h	Aqui você pode selecionar o tipo de bolha que gostaria de utilizar. Os estilos de bolha podem ser definidos no editor de estilo de bolha que pode ser aberto a partir do menu:  Ferramentas -> Editar estilo de bolha.  Os diferentes estilos de bolha estão sempre disponíveis para toda a área de trabalho.
+content_demo	Modo de demonstração
+content_demo.h	Com esta opção, os modos de demonstração de um grupo serão mostrados no assistente de desktop.
+content_practice	Modo de exercício
+content_practice.h	Com esta opção, os modos de exercício de um grupo serão mostrados no assistente de desktop.
+content_test	Modo de teste
+content_test.h	Com esta opção, os modos de teste de um grupo serão mostrados no assistente de desktop.
+content_concurrent	Modo concorrente
+content_concurrent.h	Com esta opção, os modos concorrentes de um grupo serão mostrados no assistente de desktop.
+content_navi	Navegação
+content_navi.h	Com esta opção, as navegações de um grupo serão mostradas no assistente de desktop.
+content_documentation	Documentação
+content_documentation.h	Com esta opção, as documentações de um grupo serão mostradas no assistente de desktop.
+content_externals	Arquivos externos
+content_externals.h	Com esta opção, os arquivos externos de um grupo serão mostrados no assistente de desktop.
+navi_style	Estilo
+navi_style.h	Define o aspecto da janela de navegação. Seelecionar um recurso de estilo da lista.
+menu_path:/record	Gravação
+F1HELPNAME	ajuda
+alignment	Alinhamento de bolha
+alignment.h	Indica o alinhamento da janela de bolha na tela. A opção 'Livre' permite a definição de uma posição no parâmetro 'Posição da bolha'.
+bform_alignment	Alinhamento
+bform_alignment.h	Define o alinhamento da janela de bolha de formulário na tela. A opção 'Livre' permite a definição de uma posição no parâmetro 'Posição da bolha de formulário'.
+gloss_bubble	Bolha de glossário
+gloss_bubble_style	Estilo
+gloss_bubble_style.h	Define o aspecto da bolha de glossário. Selecionar um recurso de estilo a partir da lista.
+ellipse	Círculo
+gloss_bubble_size	Tamanho
+gloss_bubble_size.h	Define o tamanho (largura, altura) da bolha do glossário em pixels.
+Navi	Assistente de desktop
+exclude_from_da	Excluir do assistente de desktop
+exclude_from_da.h	Indica que a chave de página não será considerada para o reconhecimento do contexto do assistente de desktop.
+all_as_descr	Utilizar texto de
+all_as_descr.h	Define o tipo de texto para o @{NAVIGATOR}. O padrão é 'Descrição breve'.
+consider_roles	Considerar funções
+consider_roles.h	Ativa a utilização de funções para exibir conteúdo durante a reprodução.
+consider_categories	Considerar categorias de conteúdo
+consider_categories.h	Ativa a utilização de categorias de conteúdo para ordenar conteúdo na janela principal do @{NAVIGATOR}.
+disable_ca_in_pa	Ocultar ajuda instantânea em visita guiada
+disable_ca_in_pa.h	Especifica se todas as informações de ajuda instantâneas são ocultas durante a reprodução da visita guiada. Depois da conclusão da visita guiada, a ajuda instantânea é exibida de novo.
+full_desc	Descrição
+shrt_desc	Descrição breve
+wrong_position	Erro de posição
+help	Ajuda
+warning	Advertência
+maintenance	Atualização
+update	Atualizar
+new	Nova
+training	Treinamento
+attachment	Anexo
+link	Link
+tip	Dica
+note	Nota
+compliance	Conformidade
+mini_bubble_style	Estilo de mini-ícones
+mini_bubble_style.h	Define um recurso de estilo para os mini-ícones utilizados para o projeto. Os mini-ícones são um tipo de recurso dos recursos adaptáveis. \nÉ possível definir um ícone em cada macro de ação e de explicação utilizando o parâmetro 'Tipo de mini-ícone' na seção 'Avançado'.
+mini_bubble	Tipo de mini-ícone
+mini_bubble.h	Somente ajuda de contexto\nDefine um tipo para o mini-ícone do objeto. O ícone é baseado no 'Estilo de mini-ícones' definido da macro 'Estilo'.
+NavRecMouseWheel	Utilizar a roda do mouse para continuar. Pressionar ESC para concluir a rolagem do mouse.
+search_type	Tipo de pesquisa
+none	Nenhum
+search_in_lib	Em @{LIBRARY}
+search_in_da	Grupo de assistentes de desktop
+search_type.h	Indica a funcionalidade para procurar conteúdo. Selecione um tipo da lista drop-down.\nNenhum: desativa a funcionalidade de pesquisa. \nEm @{LIBRARY}: abre a @{LIBRARY} para procurar no conteúdo da @{LIBRARY}. \nNo grupo de assistentes de desktop: exibe a ficha 'Pesquisa' na janela principal para procurar no conteúdo do assistente de desktop.
+errObjectUpdate	O objeto não pode ser atualizado. Atualizar o objeto com tipo idêntico.
+config_headers_differ1	As informações de perfil estão obsoletas. Clicar em 'Continuar' para atualizar o projeto.
+config_headers_differ2	É recomendado criar um arquivo antes da atualização.
+default_start_mode	Conteúdo inicial padrão
+default_start_mode.h	Define o modo ou formato de documento a ser iniciado por padrão a partir da lista de conteúdos.
+default_start_doc	Documento inicial padrão
+default_start_doc.h	Define o tipo de documento se um documento estiver definido na configuração 'Conteúdo inicial padrão'.
+show_next_btn	Botão Seguinte
+show_next_btn.h	Somente visita guiada\nIndica se o botão 'Ir para etapa seguinte' é exibido na bolha do objeto.
+condition	Condição
+condition.h	Durante a reprodução, o valor inserido pelo usuário deve corresponder à condição para ir para a etapa seguinte ou saltar para uma etapa específica. \nSelecione 'Editar condição' para criar ou editar uma condição.
+errDuplicateContext	Esta aplicação já está gravaa.
+add_sticky_notes	Posição: controle 'Adicionar nota autoadesiva'
+add_sticky_notes.h	Permite a você visualizar um controle para adicionar uma nota autoadesiva em uma página. Você pode indicar a posição do controle na barra lateral.
+show_instant_help_btn	Posição: controle 'Ajuda instantânea'
+show_instant_help_btn.h	Permite a você visualizar um controle para ativar a ajuda instantânea. Você pode indicar a posição do controle na barra lateral.
+show_carousel	Visualizar carrossel
+show_carousel.h	Rsta opção exibe o assistente de desktop no modo de carrossel
+condition_pattern	Padrão de condição
+condition_pattern.h	Indica o padrão utilizado para a condição.
+condition_value	Valor da condição
+condition_value.h	Contém o valor utilizado para a condição. Inserir um texto ou um número baseado no padrão selecionado.
+condition_jump_target	Ir para outra etapa
+condition_jump_target.h	Somente visita guiada\nIndica um destino de salto para a condição. Selecione uma etapa a partir da lista de drop-down. A navegação salta para a etapa específica, se a condição coincidir.
+condition_text	Texto da condição
+condition_text.h	Contém um texto a ser visualizado, se a condição não estiver preenchida.
+condition_case_sensitive	Considerar maiúsculas/minúsculas
+condition_case_sensitive.h	Indica que a condição é dependente de maiúsculas/minúsculas.
+condition_ignore_on_load	Ignorar no carregamento da página
+condition_ignore_on_load.h	Somente ajuda de contexto\nIndica que não é efetuado o check out da condição no carregamento de página. A condição é verificada quando é utilizado um controle correspondente. Isto evita que a bolha de condição seja exibida diretamente.
+c_equals	É igual a
+c_not_equals	Não é igual a
+c_greater	É superior a
+c_greater_equals	É superior ou igual a
+c_less	É inferior a
+c_less_equals	É inferior ou igual a
+c_min_char	Número mínimo de caracteres
+c_max_char	Número máximo de caracteres
+c_num_char	Número de caracteres igual a
+c_reg_exp	Expressão regular
+vertical	Vertical
+horizontal	Horizontal
+AutoBarReady	Inativo
+AutoBarExplanation	Inserir explicação
+AutoBarChooseApp	Selecionar aplicação
+AutoBarRecord	Registrar
+AutoBarBusy	Ocupada
+AutoBarPause	Pausa
+AutoBarReRecManualHotspot	Editar controle: pressionar Ctrl + ENTER para continuar com as modificações. Pressionar Esc para rejeitar as modificações.
+wizAddExplanation	Adicionar explicação
+AutoBarNoRecognition	Nenhum controle reconhecido
+AutoBarDiagnosis	Diagnóstico
+condition_bubblestyle	Estilo bolha
+condition_bubblestyle.h	Define que recurso de estilo da bolha deve ser utilizado para exibir o texto da condição.
+condition_highlight_bgr	Cor da marcação
+condition_highlight_bgr.h	Define a cor da marcação para o controle.
+IDS_MPI_TOURSTOP_LABEL	Nome
+IDS_MPI_TOURSTOP_LABEL_MODIFIED	Traduzir manualmente
+IDS_MPI_TOURSTOP_NAME	UID
+IDS_MPI_TOURSTOP_SHOW	Exibir na barra de progresso
+IDS_MPI_TOURSTOP_JUMP	Ir para outra etapa
+IDS_MPI_TOURSTOP_CALLABLE	É sub-rotina
+basic_info	Propriedades básicas
+IDS_NO_IMAGE_SELECT	Nenhuma imagem selecionada
+IDS_NO_IMAGE	Imagem não encontrada
+ID_INSERT_TAKE	Adicionar etapa
+ID_PRJ_LAYOUT_HORZ	Layout horizontal
+ID_PRJ_LAYOUT_VERT	Layout vertical
+ID_PRJ_LAYOUT_DIV	Layout dividido - 1
+ID_PRJ_LAYOUT_4	Layout dividido - 2
+ID_PRJ_LAYOUT_5	Layout dividido - 3
+IDS_UNTITLED	(sem título)
+docTableHeaderStep	Etapa
+layout_advanced	Layout avançado
+showEditorHelp	Exibir ajuda de editor de Web
+slide:insert_tb	Inserir
+slide:action_tb	Ação
+slide:structure_tb	Estrutura
+slide:view_tb	Visão
+existing_scrs_in_prj	A tela atual já foi utilizada mais do que uma vez no seu projeto. \nSelecione a tela na qual você quer adicionar os objetos registrados.
+start_topic	Iniciar
+guided_tour	Visita guiada
+context_help	Ajuda de contexto
+off	Desativado
+main_bar_1	Barra principal 1
+main_bar_2	Barra principal 2
+main_bar_3	Barra principal 3
+main_bar_4	Barra principal 4
+main_bar_5	Barra principal 5
+main_bar_6	Barra principal 6
+main_bar_7	Barra principal 7
+main_bar_8	Barra principal 8
+sub_menu_1	Submenu 1
+sub_menu_2	Submenu 2
+sub_menu_3	Submenu 3
+sub_menu_4	Submenu 4
+sub_menu_5	Submenu 5
+sub_menu_6	Submenu 6
+content_btn	Posição: controle ‘Conteúdo’
+content_btn.h	Indica a posição do controle ‘Conteúdo’ na barra lateral.
+search_btn	Posição: controle ‘Pesquisa’
+search_btn.h	Indica a posição do controle ‘Pesquisa’ na barra lateral.
+orCenter	Centro
+orNorth	Norte
+orWest	Oeste
+orNortWest	Noroeste
+orEast	Leste
+orNortEast	Nordeste
+orSouth	Sul
+orSouthWest	Sudoeste
+orSoutEast	Sudeste
+screen_tolerence	Diferença de tela tolerada (%)
+screen_tolerence.h	Este parâmetro define a correspondência gráfica necessária entre a página da tela exibida e a captura de tela gravada em porcentagem para a informação de contexto associada a ser exibida. Se as discrepâncias gráficas estiverem acima do valor definido, o @{NAVIGATOR} irá comparar a chave da página gravada com a página da tela e exibir os conteúdos apropriados para uma página de aplicação diferente.
+video_folder	Pasta de gravações de vídeo
+video_folder.h	Indica a pasta para armazenar gravações de vídeo. \nNota: as gravações de vídeo não são armazenadas na pasta do cache de @{NAVIGATOR} devido ao tamanho do arquivo.
+allow_video_rec	Permitir gravação de vídeo
+allow_video_rec.h	Permite que os usuários gravem conteúdo de vídeo.
+hide_da_on_web_assistant	Ocultar @{NAVIGATOR} ao executar @{XRAY}
+hide_da_on_web_assistant.h	Indica que as janelas do @{NAVIGATOR} estão ocultas quando @{XRAY} está sendo executado em primeiro plano.
+show_web_assistant_msg	Exibir mensagem @{XRAY}
+show_web_assistant_msg.h	Indica que uma mensagem é exibida quando @{XRAY} está sendo executado em primeiro plano ou sai do modo em primeiro plano.
+auto_hide	Ocultar após animação
+auto_hide.h	Se esta opção for ativada, a marcação é ocultada automaticamente de novo logo após a animação ser concluída.
+bmain_height	Altura
+bmain_height.h	Define a altura do balão principal em pixels. Se a quantidade de texto exceder o espaço disponível no balão, este será dimensionado automaticamente, em termos de altura, para o espaço necessário.
+bmain_style	Estilo
+bmain_style.h	Esta configuração define o tipo de balão que deve ser utilizado para exibir o balão principal. Os tipos de balão são definidos utilizando o 'Editor de tipo de balão' que pode ser iniciado a partir do menu 'Ferramentas' -> 'Editar tipos de balão'. Os tipos de balão estão sempre disponíveis para toda a área de trabalho.
+bmain_width	Largura
+bmain_width.h	Define a largura do balão principal em pixels.
+bottom_dock	Inferior encaixado
+cache_stale_interval	Intervalo obsoleto (min)
+cache_stale_interval.h	Ativa a utilização do cache @{NAVIGATOR} e define um período para atualizar o conteúdo na pasta de cache. O valor é definido em minutos. \nPara desativar o cache, modifique o valor para '0'.
+centered	Centrado
+close_details	Fechar janela de conteúdo
+close_details.h	Define uma chave de função para fechar a janela de conteúdo para um projeto selecionado.
+confirmation_hotkey	Tecla de atalho de confirmação de etapa
+confirmation_hotkey.h	Define uma tecla de atalho para a confirmação de etapas durante a reprodução do assistente do processo.
+detail_positioning	Alinhamento de janela de conteúdo
+detail_positioning.h	Define o alinhamento da janela de conteúdo na tela. Excetuando o alinhamento 'Centrado', a janela de conteúdo será encaixada na janela principal.
+detail_size	Tamanho de janela de conteúdo
+detail_size.h	Define o tamanho (largura, altura) da janela de conteúdo em pixels.
+enable_search	Ativar ficha de pesquisa
+enable_search.h	Ativa a funcionalidade de pesquisa dentro do conteúdo do assistente de desktop
+h_dock	Encaixado horizontalmente
+icon_position	Posição do ícone
+icon_position.h	Os valores inseridos aqui irão definir a posição do ícone na tela. Os valores são indicados em pixels. O ícone irá aparecer no canto superior esquerdo da tela.
+leaves_page	Deixa a tela
+leaves_page.h	Esta opção indica à navegação que a ação necessária para este objeto leva ao carregamento de uma nova página. Uma análise da nova página é executada assim que a ação for executada no objeto e o carregamento da página for concluído.
+left_dock	Esquerdo encaixado
+library_height	Altura do balão
+library_height.h	Isto define a altura do balão em pixels.
+library_width	Largura do balão
+library_width.h	Isto define a largura do balão em pixels.
+maximize_details	Maximizar janela de conteúdo
+maximize_details.h	Define uma chave de função para maximizar a janela de conteúdo.
+next_doc	Selecionar documento seguinte
+next_doc.h	Define uma chave de função para selecionar o documento seguinte na janela de conteúdo.
+next_project	Selecionar projeto seguinte
+next_project.h	Define a chave de função para selecionar o projeto seguinte na janela principal.
+open_content	Abrir conteúdo
+open_content.h	Define uma chave de função para abrir um objeto de conteúdo selecionado.
+open_details	Abrir janela de conteúdo
+open_details.h	Define uma chave de função para abrir a janela de conteúdo para um projeto selecionado.
+prev_doc	Selecionar documento anterior
+prev_doc.h	Define uma chave de função para selecionar o documento anterior na janela de conteúdo.
+prev_project	Selecionar projeto anterior
+prev_project.h	Define uma chave de função para selecionar o projeto anterior na janela principal.
+right_dock	Direito encaixado
+show_execute	Exibir botão Executar
+show_execute.h	Define se um botão de execução é exibido no balão do objeto durante a reprodução. O botão permite que o usuário execute uma ação na aplicação e, em seguida, é exibida a etapa seguinte.
+show_icon_on_start	Visualizar ícone de status no início
+show_icon_on_start.h	Define, para o início do assistente de desktop, se o ícone de status será exibido em vez da janela principal.
+start_doc	Abrir documento
+start_doc.h	Define uma chave de função para abrir um documento selecionado a partir da janela de conteúdo.
+step_on_same_page	Etapa na mesma página
+top_dock	Superior encaixado
+v_dock	Encaixado verticalmente

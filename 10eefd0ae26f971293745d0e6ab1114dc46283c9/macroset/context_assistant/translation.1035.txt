@@ -1,0 +1,765 @@
+﻿NAVIGATOR	Desktop Assistant
+XRAY	Web Assistant
+LIBRARY	library
+MANAGER	Manager
+form_bubble	Lomakekupla
+bform_height	Korkeus
+bform_height.h	Määrittää näytettävän lomakekuplan korkeuden pikseleinä.
+bform_width	Leveys
+bform_width.h	Määrittää näytettävän lomakekuplan leveyden pikseleinä.
+bform_position	Sijainti
+bform_position.h	Määrittää lomakekuplan sijainnin näytössä (vasen, yläreuna) tasausta 'Vapaa' varten. Arvot annetaan pikseleinä.
+paramAutoMergeComplete	Näyttöjen yhdistäminen on päätetty.
+form	Lomake
+application_contexts	Sovellus
+﻿Application	Sovellus
+highlight_offset	Siirtymä
+AutoBarChooseApp	Valitse sovellus
+AutoBarReRecManual	Napsauta objektia.
+BubbleOnActivate	Näytä kupla suoraan
+ClickOnAAPosition	Voit määrittää suorakulmion napsauttamalla sovellusta.
+ClickOnPosition	Napsauta sovelluksen kohtaa.
+EnabledOnPgLoad	Aktivoi
+HighlightOnActivate	Näytä korostus suoraan
+start_from_arbitrary	Aloita omavalintaisesta askeleesta
+focus_step	Kohdistuskerros
+focus_step.h	Vain opastettu kierros\nNäyttää harmaan kerroksen nykyisessä askeleessa tarvittavan ohjauselementin korostamiseksi.
+yes	Kyllä
+no	Ei
+light_mode	Vuorovaikutteinen tila
+light_mode.h	Määrittää, että käyttäjän on navigoitava objektikuplassa seuraavaan askeleeseen. Sivun tunnistusta ei tehdä toiston aikana.
+restricted_mode	Rajoitettu tila
+restricted_mode.h	Määrittää, että vain nykyinen toimi voidaan suorittaa. Sovellussivun muut ohjauselementit lukitaan. \nAsetusta voidaan käyttää, jos 'Kohdistuskerros' on aktivoitu.
+show_highlight	Korostukset
+action	Toimi
+active_area	Aktiivinen alue
+add_application_expl	Lisää selitys
+adv	Laajennettu
+display_behavior	Näyttökäyttäytyminen
+all_values	Kaikki arvot
+anim_steps	Animaatioaskeleet
+application_context	Sovellus
+area	Alue
+auto_merge	Yhdistä näyttömakrot
+b_height	Korkeus
+form_on	Lomaketila
+b_percent	Näkyvä kupla (%)
+b_hide_option	Piilotusvaihtoehto
+b_minimizable	Pienennettävä
+b_closable	Suljettava
+b_minimized	Pienennetty
+b_width	Leveys
+b_width.h	Määrittää objektikuplan leveyden pikseleinä.
+bmain_minimizable	Pienennettävä
+bmain_position	Sijainti
+bmain_win_style	Tyyli
+bmain_size	Koko
+bmain_alignment	Tasaus
+bubble	Objektikupla
+bubble_offset	Siirtymä
+bubblestyle_d	Tyyli
+bubblestyle_init	Kuplan tyyli
+choose_appl_template	Valitse sovellusprofiili
+choose_bool	Valittu arvo
+choose_nr	Valittu indeksi
+choose_text	Valittu arvo
+target_static_text	tallennetaan 'Page Specifierina'.
+target_spec_warning	Varoitus: Tätä ohjauselementtiä varten ei ole käytettävissä uudelleentallennustietoja.
+prev_step	Edellinen askel
+next_step	Seuraava askel
+click	Hiiren toimi
+click_pos	Napsautuskohta
+click_pos_rel	Kuplan sijainti
+config_file	Sovellusprofiili
+define_target	Näyttö
+display	Muokkaa pääkuplaa
+display_name	Näytä nimi
+drag	Vedä
+drop	Pudota
+dump_page	Näyttökuva
+elem_bubble	Objektikupla
+element_type	Objektityyppi
+enabled	Aktivoitu
+optional	Valinnainen
+enter	Hiirisyöttö
+executable	Sovellus
+explanation_d	Teksti
+explanation_d_modified	Käännä manuaalisesti
+explanation_long	Selitys
+fh_mouseover	Ohje siirrettäessä hiiri kohteen päälle
+fh_onelem	Kuvake
+fh_tooltip	Työkaluvihje
+fh_bubble	Kupla
+step_list	Askelluettelo
+fieldicon	Objektin kuva
+fieldname	Objektin nimi
+find	Hae
+AutoBarChooseScn	Napsauta vastaavaa näyttöä
+frame	Kehys
+g_highlight_bgr	Väri
+g_highlight_border	Reuna
+g_highlight_effect	Tehoste
+global	Globaali
+hide_on_focuslost	Piilota kohdistuksen hävitessä
+hilight	Korostus
+input_radio	Valintanappi/valintaruutu
+input_text	Syöttöteksti
+init	Alusta
+key	Avain
+key_desc	Pikavalintanäppäin
+key_name	Pikanäppäin
+key_press	Näppäimen painallus
+lclick	Napsautus hiiren ykköspainikkeella
+ldblclick	Kaksoisnapsautus hiiren ykköspainikkeella
+force_display	Pakota näyttö
+auto_execute	Suorita automaattisesti
+show_confirmation	Näytä vahvistuspainike
+show_confirmation.h	Määrittää, näytetäänkö objektikuplassa toiston aikana vahvistuspainike. Painikkeen avulla käyttäjä voi vahvistaa suoritetun toimen, minkä jälkeen näytetään seuraava vaihe.
+link_to_sim	Lisää simulointilinkki
+macro_comment	Kommentti
+main_bubble	Ikkuna
+match_value	Täsmäytä arvo
+mini_on_focuslost	Pienennä kohdistuksen hävitessä
+enable_tincan	@{NAVIGATOR} - seuranta
+nav_check_freq	Päivitystiheys (min)
+navigation	Työpöytäavustaja
+new_screen_context	Uusi näyttö
+no_spike	Ei kärkeä
+pa_caption	Opastettu kierros
+none	Ei mitään
+objname	Objektin nimi
+orientation	Suunta
+path	Objektipolku
+position	Sijainti
+rclick	Napsautus hiiren kakkospainikkeella
+rdblclick	Kaksoisnapsautus hiiren kakkospainikkeella
+record_activearea	Tallenna aktiivinen alue
+record_application_context	Tallenna sovellus
+no_control	Objektia ei ole käytettävissä napsautetussa sijainnissa.
+record_control	Tallenna objekti
+record_control_pa	Tallenna opastetun kierroksen vaihe
+record_define_target	Tallenna näyttö
+record_display	Muokkaa pääkuplaa
+record_end_display	Muokkaa kuplaa
+record_explanation	Lisää selitys
+record_object_context	Tallenna objekti
+record_screen_context	Tallenna näyttö
+record_target_specializer	Tallenna Page Specifier
+record_compatible_application	Tallenna yhteensopiva sovellus
+reference	Lähde
+regexp	Säännöllinen lauseke
+replace	Korvaa
+replace_continue	Korvaa ja jatka...
+replace_pgkey_attr	Korvaa sivun avainmääritteet
+error_regexp	Virheellinen säännöllinen lauseke. Korjaa syöttö.
+resize	Muuta ikkunan kokoa
+revision	Revisio
+sc_config_header	Profiilitiedot
+screen	Näyttö
+screenhelp	Näytön ohje
+screenshot_rect	Näyttökuvan sijainti
+select_single	Valitse yksittäinen
+selected_merge	Yhdistä valitut näyttömakrot
+show_bubble	Näytä suoraan
+show_hilight	Näytä korostus
+show_on_focus	Näytä kohdistettaessa
+source	Lähde
+start_unit	Kontekstiohjeen tyyli
+subkey	Sallittu alinäppäimenä
+script	Skripti
+target_name	Otsikko
+target_specializer	Page Specifier
+text_d	Syöttöteksti
+text_d_specializer	Syöttöteksti
+tolerance	Näyttömakrojen yhdistämisen toleranssi
+translate	Automaattinen käännös
+autoTranslate	Käännä projekti
+paramReRecordLanguage	Kieli
+merge_critical_macros	Yhdistä makrot automaattisesti
+merge_critical_macros.h	Jos muunnat simulointeja navigoinneiksi, voit automaattisesti yhdistää tällä tavalla luodut näytöt. Nämä yhdistetään käyttämällä Näyttömakrojen yhdistämisen toleranssi -parametrissa määritettyä toleranssiarvoa.
+uid	UID
+underline	Alleviivaus
+update_control	Päivitä objekti
+update_target	Päivitä näyttö
+variant	Variantti
+win_rect	Ikkunan koko
+wizCancel	Peruuta
+wizFinish	Päätä
+wizNext	Seuraava
+wizOk	OK
+wizExplanation	Selitys
+wizContinue	Jatka
+app_info	Näytä sovellus
+app_link_to_sim	Lisää simulointilinkki sovellusta varten
+screen_info	Näytä näyttö
+screen_link_to_sim	Lisää simulointilinkki näyttöä varten
+object_info	Näyttövariantti
+object_link_to_sim	Lisää simulointilinkki
+disabled	Aktivointi poistettu
+record_context_assistant_include	Sisällytä @{NAVIGATOR}-projekti
+project_id	Projektin otsikko
+project_id.h	Parametri sisältää lisätyn projektin. Painikkeen 'Muokkaa linkkiä' avulla voit valita projektin työalueella.
+project	Projekti
+context_assistant_include	Työpöytäavustajaprojekti
+open_expanded	Näytä laajennettu pääkupla
+restart_option	Uudelleenkäynnistyspainike
+next_project_id	Seuraava projekti
+next_project_id.h	Tämän vaihtoehdon avulla määritetään projekti, joka aloitetaan nykyisen projektin päätöksen jälkeen. Uusi prosessi käynnistyy suoraan, eikä loppukuplaa näytetä.
+end_unit	Kierroksen loppu
+add_end_unit	Lisää prosessin loppu
+demo	Demotila
+uebung	Harjoitustila
+praxis	Rinnakkaistila
+test	Testitila
+doc	Word-asiakirja
+pdf	PDF-asiakirja
+html	HTML-asiakirja
+ppt	PowerPoint-asiakirja
+explanation_type	Kuvake
+note	Huomautus
+info	Info
+tipp	Vihje
+warnung	Varoitus
+no_image	Ei kuvaketta
+display_on	Pääkuplan näyttöpaikka
+nav_start	Navigoinnin aloitus
+app_focus	Sovelluksen kohdistus
+screen_focus	Näytön kohdistus
+never	Älä näytä
+list_type	Näytön luettelotyyppi
+list_type.h	Tämä parametri määrittää tyypin objektien luettelointia varten näyttökontekstissa, jos Näytä kaikki objektitiedot -vaihtoehto on aktivoitu tätä varten.
+unordered_list	Luettelomerkit
+ordered_list	Numerointi
+convert_sn	Generoi työpöytäavustaja
+Application	Sovellus
+obj_context	Objekti
+expl_context	Selitys
+record_cntrl_type	Tyyppi
+disable_standby	Poista valmiustilan aktivointi (@{NAVIGATOR}) 
+disable_standby.h	Määrittää, että @{NAVIGATOR} valmiustilaa ei voi asettaa. Kun vaihtoehdon aktivointi on poistettu, valmiustila voidaan asettaa pikavalinnalla 'Ctrl + F11' tai napsauttamalla tilakuvaketta.
+disable_exit	Piilota lopetusmerkintä (@{NAVIGATOR})
+disable_exit.h	Määrittää, että 'Lopeta'-merkintä @{NAVIGATOR}n tilakuvakkeen kontekstivalikossa on piilotettu.
+bcontent_style	Kuplan tyyli
+bcontent_style.h	Tämä asetus määrittää, mitä kuplan tyyliä on käytettävä kuplan näyttöä varten.
+cache_properties	Välimuisti
+cache_folder	Kansion sijainti
+cache_folder.h	Määrittää välimuistikansion 'NavigatorCache' sijainnin. Oletussijainti on '%localappdata%'. Voit syöttää käyttäjän määrittämän sijainnin. \nHuomautus: Välimuistikansion nimeä ei voi muuttaa.
+use_caching	Käytä välimuistia
+use_caching.h	Aktivoi välimuistin @{NAVIGATOR} käytön.
+function_keys	Toimintonäppäimet
+minimize_da	Pienennä
+minimize_da.h	Määrittää toimintonäppäimen pääikkunan pienentämistä varten.
+next_tab	Valitse seuraava välilehti
+next_tab.h	Määrittää toimintonäppäimen seuraavan välilehden valitsemista varten pääikkunassa.
+next_screen	Siirry seuraavaan näyttöön
+next_screen.h	Määrittää toimintonäppäimen valitun projektin seuraavaan näyttöön navigoimiseksi.
+back	Palaa
+back.h	Määrittää toimintonäppäimen edelliseen näyttöön siirtymiseksi.
+toggle_standby	Vaihda valmiustilaa
+toggle_standby.h	Määrittää toimintonäppäimen valmiustilan vaihtoa varten.
+abort	Keskeytä
+abort.h	Määrittää toimintonäppäimen työpöytäavustajan keskeyttämistä varten.
+restart	Aloita uudelleen
+restart.h	Määrittää toimintonäppäimen työpöytäavustajan uudelleenkäynnistystä varten.
+start_pa	Käynnistä työpöytäavustajaprojekti
+start_pa.h	Määrittää toimintonäppäimen valitun projektin käynnistystä varten.
+start_demo	Käynnistä demotila
+start_demo.h	Määrittää toimintonäppäimen valitun demotilan käynnistystä varten.
+start_prac	Käynnistä harjoitustila
+start_prac.h	Määrittää toimintonäppäimen valitun harjoitustilan käynnistystä varten.
+start_test	Käynnistä testitila
+start_test.h	Määrittää toimintonäppäimen valitun testitilan käynnistystä varten.
+start_concur	Käynnistä rinnakkaistila
+start_concur.h	Määrittää toimintonäppäimen valitun rinnakkaistilan käynnistystä varten.
+start_book	Käynnistä kirja
+start_book.h	Määrittää toimintonäppäimen valitun kirjan käynnistystä varten.
+start_group	Avaa libraryssä
+start_group.h	Määrittää toimintonäppäimen ryhmän avaamiseksi libraryssä.
+toggle_ctx_rec	Vaihda kontekstin tunnistusta
+toggle_ctx_rec.h	Määrittää toimintonäppäimen työpöytäavustajan kontekstin tunnistuksen vaihtoa varten.
+select_next	Valitse seuraava merkintä
+select_next.h	Määrittää toimintonäppäimen seuraavan merkinnän valintaa varten nykyisessä ikkunassa.
+select_prev	Valitse edellinen merkintä
+select_prev.h	Määrittää toimintonäppäimen edellisen merkinnän valintaa varten nykyisessä ikkunassa.
+toggle_warning	Näytä varoitussuorakäyttö
+toggle_warning.h	Määrittää toimintonäppäimen työpöytäavustajan varoitussuorakäytön näyttöä varten.
+execute_step	Suorita askel
+execute_step.h	Määrittää toimintonäppäimen vaiheen suoritusta varten opastetun kierroksen toiston aikana.
+copy_link	Kopioi linkki
+copy_link.h	Määrittää toimintonäppäimen, jota käytetään valitun kohteen linkin kopioinnissa.
+maximize_trainer	Suurenna sisältöikkuna
+maximize_trainer.h	Määrittää toimintonäppäimen sisältöikkunan suurentamista varten.
+share_email	Jaa sähköpostitse
+share_email.h	Määrittää toimintonäppäimen valitun kohteen sisällön jakamista varten sähköpostitse.
+start_default	Käynnistä oletussisältö
+start_default.h	Määrittää toimintonäppäimen oletustilan tai valitun asiakirjan käynnistystä varten.
+show_da_help	Näytä työpöytäavustajan ohje
+show_da_help.h	Määrittää toimintonäppäimen työpöytäavustajan ohjeen avaamista varten.
+request_content	Pyydä sisältöä
+request_content.h	Määrittää toimintonäppäimen sisällön pyyntöä varten sovellussivulle.
+search_content	Hae sisältö
+search_content.h	Määrittää toimintonäppäimen sisällön hakemiseksi valitun hakutyypin mukaisesti.
+show_hidden_elems	Näytä piilotetut apuelementit
+show_hidden_elems.h	Määrittää toimintonäppäimen piilotettujen apuelementtien näyttämiseksi.
+toggle_side_bar	Näytä/piilota sivupalkki
+toggle_side_bar.h	Määrittää toimintonäppäimen sivupalkin näyttämistä ja piilottamista varten.
+content_library	Työpöytäavustaja - sisältö ja käyttäytyminen
+content_library_window	Työpöytäavustaja - tyyli ja ikkunat
+content_library_sidebar	Työpöytäavustaja - sivupalkki
+style	Tyyli
+style.h	Määrittää työpöytäavustajan komponenttien (pääikkunan, sisältöikkunan, tilakuvakkeen) ulkoasun. Valitse tyyliresurssi luettelosta.
+show_only_bar	Näytä vain sivupalkki aloituksen yhteydessä
+show_only_bar.h	Määrittää, näytetäänkö työpöytäavustajan aloituksen yhteydessä vain sivupalkki vai myös pääikkuna.
+clear_on_mismatch	Poista sisältöluettelo, kun sisällöt ovat epäyhtenäisiä
+clear_on_mismatch.h	Määrittää, että sisältöluettelo tyhjennetään, jos kontekstia ei löytynyt. Kun asetuksen aktivointi on poistettu, viimeisen tunnistetun objektin sisältö näytetään.
+da_positioning	Pääikkunan tasaus
+da_positioning.h	Määrittää pääikkunan tasauksen näytössä. Vaihtoehdon 'Vapaa' avulla sijainti voidaan määrittää parametrissa 'Pääikkunan sijainti'.
+bar_positioning	Sivupalkin tasaus
+bar_positioning.h	Määrittää sivupalkin tasauksen näytössä.
+left_top	Vasen yläreuna
+left_center	Keskitys vasemmalle
+left_bottom	Vasen alareuna
+right_top	Oikea yläreuna
+right_center	Keskitys oikealle
+top_center	Ylhäällä keskellä
+right_bottom	Oikea alareuna
+center	Keskikohta
+free	Vapaa
+list_order	Sisältölajittelu
+list_order.h	Määrittää käytettävissä olevan sisällön lajittelun luettelossa.
+by_default	Explorer-rakenne
+by_name	Aakkosellinen
+by_type	Aakkosellinen tyypeittäin
+library_position	Pääikkunan sijainti (vapaa)
+library_position.h	Määrittää pääikkunan sijainnin näytössä (vasen, yläreuna) tasausta 'Vapaa' varten. Arvot annetaan pikseleinä.
+search_url	Hakuryhmä
+search_url.h	Tämän avulla voidaan määrittää työalueryhmä sisällön hakemista varten kohteessa @{LIBRARY}. 
+enable_recording	Sijainti: 'Tallennus'-ohjauselementti
+enable_recording.h	Tämän avulla voidaan näyttää ohjauselementti prosessien tallentamista varten. Voit määrittää ohjauselementin sijainnin sivupalkissa. \nTallennuksen avulla käyttäjä voi tallentaa prosesseja Microsoft Word -asiakirjoina tai videoina. Tallennetut tiedostot näkyvät Käyttäjäalue-välilehden pääikkunassa.
+enable_exit_da	Sijainti: Poistu-ohjaus
+enable_exit_da.h	Tämän avulla saadaan näkyviin ohjauselementti, jolla voidaan sulkea @{NAVIGATOR}. Voit määrittää ohjauselementin sijainnin sivupalkissa.
+enable_info	Näytä välilehti 'Info'
+enable_info.h	Aktivoi työpöytäavustajan pääikkunan infovälilehden. Lisää infoteksti työpöytäavustajaryhmän lyhyeen kuvaukseen.
+request_content_type	Pyydä sisältötyyppiä
+request_content_type.h	Määrittää toiminnon sisällön pyytämistä varten. Valitse tyyppi avattavasta luettelosta. \nSähköposti: Tämän avulla pyynnöille voidaan syöttää sähköpostiosoite. \nURL: Tämän avulla voidaan syöttää URL-osoite WWW-sivun avaamista varten. \nPyydä sisältöä -ohjauselementti näkyy sivupalkissa. Jos sisältöä ei löydy, Pyydä sisältöä -linkki näkyy pääikkunassa.
+email	Sähköposti
+url	URL
+enable_request_content	Sijainti: 'Pyydä sisältöä' -ohjauselementti
+enable_request_content.h	Määrittää 'Pyydä sisältöä'-ohjauselementin sijainnin sivupalkissa.
+enable_external_search_ctx	Anna kontekstitietoja
+enable_external_search_ctx.h	Antaa käyttäjästä lisää kontekstitietoja haun aikana haun URL-osoitetta käyttäen. Kontekstitietoja käytetään haussa. Aktivoi asetus, jos määrittämässäsi haussa voidaan käyttää kontekstitietoja. \nAnnettavat kontekstitiedot määritetään 'Kontekstitiedot'-parametrissa.
+external_search_ctx	Kontekstitiedot
+external_search_ctx.h	Määrittää kontekstitiedot, jos 'Anna kontekstitiedot' -asetus on aktivoitu. Seuraavat kontekstitiedot voidaan antaa: nykyisen sovelluksen EXE (&executable=$#{EXE}), nykyisen sovellussivun sivuavain(&pagekey=$#{PAGEKEY})\nHuomautus: Älä muuta kontekstitietojen merkkijonoa.
+enable_external_search	Sijainti: 'Ulkoinen haku' -ohjauselementti
+enable_external_search.h	Tämän avulla voit aktivoida ulkoisen hakusivun sisällön tai lisätietojen hakemista varten. Kun asetus on aktivoitu, 'Ulkoinen haku' -ohjauselementti näkyy sivupalkissa. Voit määrittää ohjauselementin sijainnin sivupalkissa. \nPainike avaa hakukentän hakuperusteen syöttämistä varten. Hakutulokset näkyvät ulkoisella hakusivulla. Ulkoista hakua varten on määritettävä haun URL-osoite 'Ulkoisen haun URL' -parametrissa.
+external_search_url	URL
+external_search_url.h	Tämä avulla voit määrittää URL-osoitteen ulkoista hakua varten. Syötä URL seuraavaan rakenteeseen:\nhttps://www.google.com/#q=$#{SEARCHTERM}\nhttps://www.bing.com/search?q=$#{SEARCHTERM}\nhttps://search.yahoo.com/search?p=$#{SEARCHTERM}\nhttps://www.wolframalpha.com/input/?i=$#{SEARCHTERM}\n\nHuomautus: Älä poista tai muuta URL-parametrin osaa '=$#{SEARCHTERM}'.
+enable_share_content	Näytä ohjauselementti 'Jaa sisältö'
+enable_share_content.h	Näyttää 'Jaa sisältö' -painikkeen pääikkunan alatunnisteessa . Painike avaa valintaikkunan, jossa on linkki valittuun sisältöön.
+author_email	Sähköposti
+author_email.h	Tämän avulla voidaan määrittää sähköpostiosoite sisällön pyytämiseen. Sähköpostiosoitetta käytetään 'Pyydä sisältöä' -toimintoa varten.
+author_url	URL
+author_url.h	Tämän avulla voidaan määrittää URL sisällön pyytämiseen. URL-osoitetta käytetään 'Pyydä sisältöä' -toimintoa varten.
+author_url_params	URL-parametrit
+author_url_params.h	Tämän avulla voit määrittää tekijä-URL:n parametrit. \nVoit määrittää sovelluksen nimen ja suoritettavan osan. Korvaa arvo 'sovellus' tai 'suoritettava' tarvittavalla nimellä.
+enable_fuzzy_match	Aktivoi sumea yhdenmukaisuus
+enable_fuzzy_match.h	Määrittää, käytetäänkö sumeaa yhdenmukaisuutta sisällön kontekstin täsmäytykseen sovellussivun kanssa.
+enable_ident_filter	Aktivoi laajennettu sovellustunnus
+enable_ident_filter.h	Määrittää, että vain relevantteja sovellustietoja käytetään @{NAVIGATOR}-toistoa varten. Tämän ansiosta voit optimoida @{NAVIGATOR}-toiminnon suorituskyvyn.\nHuomautus: Tämä vaihtoehto voi johtaa väärään objektin tunnistukseen. On suositeltavaa testata toistoa ennen sisällön julkaisemista.
+library_size	Pääikkunan koko
+library_size.h	Määrittää pääikkunan koon (leveyden, korkeuden) pikseleinä.
+book_win_position	Sisältöikkunan sijainti (vapaa)
+book_win_position.h	Määrittää sisältöikkunan sijainnin näytössä (vasen, yläreuna) tasausta 'Vapaa' varten. Arvot annetaan pikseleinä.
+book_win_size	Sisältöikkunan koko
+book_win_size.h	Määrittää sisältöikkunan koon (leveyden, korkeuden) pikseleinä.
+book_win_positioning	Sisältöikkunan tasaus
+book_win_positioning.h	Määrittää sisältöikkunan tasauksen näytössä. Vaihtoehdon 'Vapaa' avulla sijainti voidaan määrittää parametrissa 'Sisältöikkunan sijainti'.
+errNoApplicationContext	Nykyinen makro ei ole sovelluskonteksti.
+errNoTargetDefinition	Makro ei vastaa kohteen määritelmää.
+errExtractPagekey	Sivuavaimen poiminta ei-mahdollinen profiilin kanssa:
+errScreenshot	Näyttökuvan ottaminen ei onnistu. Yritä uudelleen.
+errLoadTemplate	Profiilin lataus ei onnistu:
+errRecordProcessStep	Opastetun kierroksen vaiheita ei voi tallentaa 'kontekstiohje'-projekteja varten.
+errLanguageSelection	Kieltä ei ole valittu.
+errNoWriteToken	Sinulla ei ole kirjoitusoikeutta valittuun objektiin.
+errMacroSelection	Makroa ei ole valittu.
+errObjectInformation	Objektitietoja ei ole ilmoitetussa kohdassa.
+errSpecializedInformation	Määritettyjä tietoja ei ole ilmoitetussa kohdassa.
+errPosition	Sijainti ei ole ikkuna-alueella.
+errActionMacroSelection	Toimimakroa ei ole valittu.
+errUpdateObject	Valittua objektityyppiä ei voi päivittää.
+errInsertExplanation	Vapaata selitystä ei voi lisätä valittua makroa varten.
+action.h	Vain opastettu kierros\nTämä vaihtoehto määrittää toimen, joka käyttäjän tulee suorittaa objektille.
+all_values.h	Joissakin tapauksissa sovelluksen objekti sisältää vaihtoehtoja arvoille, joita ei voida kattaa vakio-HTML-ohjauksella. Silloin käytetään ohjausta, joka on lähimpänä objektia sovelluksessa. Lisäksi tämä kenttä sisältää kaikki arvot, jotka objekti sisältää vaihtoehtoina.
+anim_steps.h	Arvo määrittää, kuinka monessa askeleessa valittu korostustehoste animoidaan. Alhaiset arvot nopeuttavat animaatiota, mutta johtavat rauhattomaan vaikutelmaan. Korkeat arvot tasoittavat animaatiota, mutta myös hidastavat animaation kokonaisnopeutta.
+auto_execute.h	Asetus määrittää, että toimi suoritetaan automaattisesti navigoinnin toiston aikana.
+b_height.h	Määrittää objektikuplan korkeuden pikseleinä. Jos tekstimäärä ylittää kuplassa käytettävissä olevan tilan, se skaalataan automaattisesti korkeussuunnassa vaadittuun kokoon.
+b_hide_option.h	Vain kontekstiohje\nKun tämä vaihtoehto aktivoidaan, objekti- tai selityskuplaan ilmestyy asetus, jossa loppukäyttäjät voivat poistaa objektitietojen (kupla ja korostus) aktivoinnin. Täten käyttäjät voivat piilottaa tiedot, joita he eivät enää tarvitse.
+b_minimizable.h	Tämä vaihtoehto määrittää, voidaanko kupla pienentää toiston aikana. Jos vaihtoehto on aktiivinen, kuplan otsikossa on näkyvissä Pienennä-painike.
+b_closable.h	Vain kontekstiohje\nTämä vaihtoehto määrittää, voidaanko kupla sulkea toiston aikana. Jos vaihtoehto on aktiivinen, kuplan otsikossa on näkyvissä Sulje-painike.
+b_minimized.h	Vain kontekstiohje\nTämä vaihtoehto määrittää, näytetäänkö objektin kupla pienennettynä sivua ladattaessa.
+bmain_size.h	Määrittää pääikkunan koon (leveyden, korkeuden) pikseleinä.
+bmain_minimizable.h	Tämä vaihtoehto määrittää, onko pääikkuna pienennettävä vai ei.
+bmain_position.h	Tähän syötetyt arvot määrittävät pääikkunan sijainnin näytössä. Numerot kuvaavat etäisyyden näytön vasemmasta yläkulmasta pikseleinä.
+bmain_win_style.h	Määrittää pääikkunan ulkoasun. Valitse tyyliresurssi luettelosta.
+bmain_alignment.h	Määrittää pääikkunan tasauksen näytössä. Vaihtoehdon 'Vapaa' avulla sijainti voidaan määrittää Ikkunan sijainti -parametrissa.
+bubble_offset.h	Tämä vaihtoehto määrittää pikseleinä siirtymän, jolla objektikupla näytetään objektissa.
+bubblestyle_d.h	Määrittää kuplan tyyliresurssin projektien objektikuplien näyttämistä varten.
+bubblestyle_d.h	Määrittää kuplan tyyliresurssin projektien objektikuplien näyttämistä varten.
+choose_bool.h	Tämä kenttä sisältää arvon, joka määrittää sen, otetaanko valintanappi tai valintaruutu käyttöön vai poistetaanko se käytöstä. Arvo valintanappia varten on aina '1' (ON). Arvo valintaruutua varten voi olla '0' (EI) tai '1' (ON).
+choose_text.h	Tämä parametri sisältää merkkijonon, joka löytyi valittua merkintää varten kohovalikosta tai luettelokentästä automaattisen tallennusprosessin aikana. Tämä merkkijono lisätään selittäviin kuplan teksteihin eri tiloissa paikanvaraajan '${choose_text}' sijasta (katso tekstitila HTML-editorissa). Sitä käytetään automaattisesti generoidun kuplan tekstin tekstimoduulina, kun kuplan sisältö ja tekstimoduulit generoidaan automaattisesti tallennuksen aikana.
+click_pos.h	Määrittää sovellusikkunan kohdan, jota tekijä napsautti, kun objekti tallennettiin. Kohta määritetään pikseleinä, ja se viittaa sovellusikkunan sisällön vasempaan yläkulmaan.
+click_pos_rel.h	Määrittää kohdan sovellusikkunassa. Arvo prosentteina (%) ilmoittaa kohdan suhteessa sovellusikkunan kokonaiskorkeuteen ja -leveyteen käyttäen vasenta ja yläreunaa viitepisteenä.
+config_file.h	Sisältää sen sovellusprofiilin nimen, jota on käytetty avaimen luontiin ja myöhemmin avaimen tulkintaan.
+display_name.h	Määrittää sovelluksen nimen. Nimi näytetään opastetun kierroksen poikkeusikkunassa.
+dump_page.h	Sisältää tallennetun näytön. \nVoit muuttaa kuvaa 'Korvaa kuva' -toimintoa käyttäen.
+element_type.h	Määrittää objektiluokan, joka tunnistettiin tunnistusmekanismin avulla.
+enabled.h	Vain kontekstiohje\nTämä vaihtoehto määrittää, sisällytetäänkö makro sivun analyysiin vai ei. Jos vaihtoehdon aktivointi on poistettu, ohjeobjektia ei näytetä, vaikka sivulla on asiaankuuluva objekti.
+optional.h	Vain opastettu kierros\nVaihtoehto määrittää, onko opastetun kierroksen askel käyttäjälle prosessissa valinnainen. \nToiston aikana askelluettelossa näytetään eri kuvake. Jos ohjauselementtiä ei näy sivulla tai jos sivu on väärä, askel ohitetaan.
+executable.h	Sisältää sovelluksen suoritettavan nimen, jota käyttöjärjestelmä käyttää.
+explanation_d.h	Sisältää tiedot vastaavasta kontekstista (teksti, linkit, kuvat jne.). Varmista tietojen optimaalinen näyttö pääkuplassa.
+explanation_d_modified.h	Jos tämä vaihtoehto on aktivoitu, kontekstitietoja ei enää generoida automaattisesti automaattisen käännöksen yhteydessä, vaan niitä on sen sijaan muokattava manuaalisesti. Tämän avulla voidaan säilyttää kuplan sisältöön manuaalisesti tehdyt muutokset.
+fieldname.h	Sisältää tallennetun ohjauselementin nimen, joka lisätään kuplan teksteihin. \nVoit muuttaa objektin nimeä tekstikentässä. Objektin nimellä on paikanvaraaja '$#{fieldname}'.
+fieldicon.h	Sisältää kuvan tallennetusta painikkeesta tai kuvakkeesta, joka lisätään kuplan teksteihin. \n Voit muuttaa kuvaa ’Korvaa kuva’ -toimintoa käyttäen. Objektin kuvalla on paikanvaraaja '$I{fieldicon}'.
+g_highlight_bgr.h	Määrittää korostusreunojen vakiovärin navigoinnissa. Arvo voidaan syöttää suoraan RGB-arvona HEX-muodossa tai valita värinvalitsimen valintaikkunasta.
+g_highlight_border.h	Tämä parametri määrittää objektin korostuskehyksen yleisen paksuuden pikseleinä. Käytettävissä ovat pikselileveydet '1'–'10'.
+g_highlight_effect.h	Tämä vaihtoehto määrittää korostustehosteen lajin, jota käytetään objekteja varten navigoinnissa.
+hide_on_focuslost.h	Tämä vaihtoehto määrittää, piilotetaanko kupla, kun näytössä oleva kohdistus poistuu kyseessä olevasta objektista.
+highlight_offset.h	Tämä parametri määrittää lisätyn pikselisiirtymän valittua elementtiä ympäröivää korostussuorakulmiota varten.
+key.h	Sisältää kaikki perusteet, joiden avulla sovellusikkuna ja tietty sivu voidaan tunnistaa sovelluksessa. Avain vastaa vain, kun kohdesovelluksessa oleva sivu täyttää kaikki näppäimessä määritetyt perusteet. Yksittäisen avaimen perusteiden määrityksen pehmennystä varten on sallittua käyttää säännöllisiä lausekkeita.
+key_name.h	Tämä parametri määrittää käytettävän näppäimen tai pikavalinnan. Tällöin näppäinten nimet on erotettava tyhjämerkeillä. Esimerkki: 'ctrl + k'.
+key_desc.h	Tämä parametri määrittää käytettävän näppäimen tai pikavalinnan. Tällöin näppäinten nimet on erotettava tyhjämerkeillä. Esimerkki: 'ctrl + k'.
+force_display.h	Vain kontekstiohje\nMäärittää, että makrosisältö näytetään aina pikaohjeena, vaikka pikaohje ei olisi aktivoituna työpöytäavustajan toiston aikana.
+link_to_sim.h	Tämä vaihtoehto sisällyttää simulointilinkin pääkuplaan. Tämä vaihtoehto liittyy navigointiin, joka on luotu simulointiprojektin perusteella (muunnon avulla).
+macro_comment.h	Yleinen kommentti. Se näytetään pienoisnäkymässä.
+match_value.h	Tämä vaihtoehto määrittää, verrataanko ilmoitettua arvoa objektin todelliseen arvoon käytössä olevassa sovelluksessa.
+mini_on_focuslost.h	Tämä vaihtoehto määrittää, pienennetäänkö kupla, kun näytössä oleva kohdistus poistuu kyseessä olevasta objektista.
+nav_check_freq.h	Määrittää, kuinka usein @{NAVIGATOR} tarkistaa, onko päivitettyä sisältöä saatavissa. Jos päivitettyä sisältöä on saatavissa, @{NAVIGATOR} käynnistää sisällön automaattisesti. Tästä on hyötyä erityisesti muutostenhallintaprosessien kannalta.
+enable_tincan.h	Aktivoi @{NAVIGATOR} sisällön seurannan. Sisältö on käynnistettävä työalueelta @{MANAGER}.
+no_spike.h	Tämä vaihtoehto määrittää, näytetäänkö objektikupla kärjen kanssa vai ilman kärkeä.
+objname.h	Jokainen objekti navigoinnissa tarvitsee yksiselitteisen nimen tunnistustarkoituksia varten, kun käytetään käyttäytymisiä ja käyttäytymiskohdistuksia.
+orientation.h	Tämä parametri määrittää objektikuplan suunnan suhteessa viitattuun objektiin. Kuplan nuoli osoittaa sivulla viitattuun sijaintiin, kun taas kupla itse näytetään valittuun suuntaan siirrettynä ohjeiden mukaisesti. Jos suunnaksi valitaan 'Keskikohta', kupla näytetään keskitettynä määritetyssä kohdassa ilman nuolta.
+path.h	Objektipolku kuvaa objektin ominaisuudet käytetyn sovellusprofiilin perusteella. Objektipolkua käytetään objektin tunnistukseen käytössä olevassa sovelluksessa. Yleensä tätä kenttää ei tarvitse muokata manuaalisesti.
+position.h	Tähän syötetyt arvot määrittävät pääkuplan sijainnin näytössä. Numerot kuvaavat etäisyyden näytön vasemmasta yläkulmasta pikseleinä.
+reference.h	Jos navigointi muunnettiin simuloinnista, vastaavan askeleen lähde on määritettävä tässä.
+resize.h	Tämä vaihtoehto määrittää, muutetaanko kohdesovelluksen ikkunan koko automaattisesti kokoon, jota on käytetty, kun navigointi on luotu. Tästä voi olla apua aktiivisten alueiden kannalta, sillä ne näytetään sijaintiin perustuen.
+revision.h	Näyttää sen sovellusprofiilin version, jota käytettiin näppäimen luontia varten sovellusnäytön tallennuksen yhteydessä.
+sc_config_header.h	Tiedot sovelluksen profiilista tallennetaan tähän kenttään. Navigointi käyttää näitä tietoja, jotta se voi tunnistaa sovelluksen ja sen objektit oikein toiston aikana.
+screenshot_rect.h	Näyttää, mitä alkuperäisen näytön aluetta käytettiin objektin näyttökuvaa varten. Yleensä tätä arvoa ei tarvitse muokata manuaalisesti.
+show_bubble.h	Tämä vaihtoehto määrittää, näytetäänkö kupla heti sen jälkeen, kun sivu on ladattu kokonaan.
+start_from_arbitrary.h	Tämä vaihtoehto määrittää sen, että opastettu kierros voidaan käynnistää vapaasti määritettävästä askeleesta eikä prosessin alusta.
+show_hilight.h	Määrittää, näytetäänkö objekton korostus.
+show_highlight.h	Määrittää, näytetäänkö objektien korostukset.
+show_on_focus.h	Tämä vaihtoehto määrittää, pienennetäänkö kupla, kun näytössä oleva kohdistus siirtyy kyseessä olevaan objektiin.
+source.h	Jos navigointi muunnettiin simuloinnista, parametri määrittää alkuperäisen oppitunnin.
+subkey.h	Jossain tapauksissa on apua, jos avaimen alkuperäisen osan tietyt osat ohitetaan. Näin voidaan toimia esimerkiksi silloin, kun tietyn sivun variantit eivät ole relevantteja ja niitä on kaikkia käsiteltävä käyttämällä samaa avainta ja askelta navigoinnissa. Tämä vaihtoehto pakottaa tunnistusmekanismin käsittelemään avainta täsmäyksenä, vaikka sivulle on tunnistuksessa raportuitu enemmän avainperusteita kuin on määritetty avaimessa. Täten sivuavainta voidaan lyhentää, jolloin yhdellä avaimella voidaan kattaa enemmän kuin yksi sivu.
+target_name.h	Sisältää sovellusikkunan nimen.
+text_d.h	Tämä parametri sisältää merkkijonon, joka on syötettävä viitattuun syöttöruutuun. Se sisältää automaattisen tallennusprosessin aikana syötetyn arvon. Tämä merkkijono lisätään selittäviin kuplan teksteihin eri tiloissa paikanvaraajan '${text_d}' sijasta (katso tekstitila HTML-editorissa), kun kuplan sisältö luodaan automaattisesti tekstimoduulien avulla tallennuksen aikana.
+text_d_specializer.h	Tämä parametri sisältää merkkijonon, joka on syötettävä viitattuun syöttöruutuun. Se sisältää automaattisen tallennusprosessin aikana syötetyn arvon. Tämä merkkijono lisätään selittäviin kuplan teksteihin eri tiloissa paikanvaraajan '${text_d}' sijasta (katso tekstitila HTML-editorissa), kun kuplan sisältö luodaan automaattisesti tekstimoduulien avulla tallennuksen aikana.
+tolerance.h	Arvo määrittää yhteensopivuusasteen toleranssin, kun Näyttö-makroja yhdistetään. Tämä asetus liittyy Yhdistä näyttömakrot -toimintoon, joka voidaan käynnistää kohdasta Työkalut -> Joukkomuutokset. Arvon korotus korottaa toleranssin kynnysarvoa. Ota huomioon tässä tapauksessa, että myös näyttökuvat, joissa näytetään eri objektit, voidaan yhdistää. Arvo määritetään prosentteina.
+uid.h	Sisältää makron yksiselitteisen tunnuksen, jonka avulla sitä hallinnoidaan projektissa.
+win_rect.h	Määrittää ikkunan koon, kun projekti luodaan.
+explanation_type.h	Tämä vaihtoehto määrittää huomautustyypin. Tyypin asetuksesta riippuen näytetään piktogrammi yhdessä tekstin kanssa korostamaan neuvoa-antavaa tekstiä.
+app_info.h	Tämä asetus määrittää, näytetäänkö sovellus kontekstiohjeessa. Jos sovellusta ei haluta näyttää, asetuksen aktivointi on poistettava.
+app_link_to_sim.h	Tämän parametrin avulla voidaan näyttää linkki simulointiin, joka on määritetty 'Lähde'-parametrissa kontekstityypin lisäksi. Eri tilat voidaan valita prosessissa.
+screen_info.h	Tämä asetus määrittää, näytetäänkö sivu kontekstiohjeessa. Jos näyttöä ei haluta näyttää, asetuksen aktivointi on poistettava.
+screen_link_to_sim.h	Tämän parametrin avulla voidaan näyttää linkki simulointiin, joka on määritetty 'Lähde'-parametrissa kontekstityypin lisäksi. Eri tilat voidaan valita prosessissa.
+object_info.h	Vain kontekstiohje\nAsetus määrittää objektia varten näytettävän variantin.
+open_expanded.h	Jos tämä vaihtoehto on aktivoitu, pääkupla näytetään sivun ja objektiluettelon ollessa avoinna.
+display_on.h	Tämä parametri määrittää, missä tilanteessa navigoinnin pääkupla näytetään. Navigoinnin pääkupla voidaan näyttää navigoinnin aloituksen yhteydessä tai sovellusta tai vastaavaa sovellussivua tarkasteltaessa.
+area.h	Parametri määrittää ohjauselementin sijainnin ja koon. Ensimmäiset kaksi numeroa ilmoittavat objektin sijainnin näytön vasemmanpuoleisesta reunasta ja yläreunasta katsottuna. Kaksi viimeistä numeroa määrittävät objektin leveyden ja korkeuden. Syöttökentän vieressä oleva painike avaa muokkauksen valintaikkunan, jossa voidaan mukauttaa objektin kokoa ja sijaintia.
+form_on.h	Määrittää, että askel on lomake. Kaikki askeleen toimet näytetään yhdessä kuplassa toiston aikana.
+transition	Seuraava opastetun kierroksen askel
+transition_info	Seuraava opastetun kierroksen askel
+action_pa	Toimi
+trans_action	Toimi
+step_name1	Seuraava askel
+step_name2	Vaihtoehtoinen askel 1
+step_name3	Vaihtoehtoinen askel 2
+step_name4	Vaihtoehtoinen askel 3
+LClick	Napsautus hiiren ykköspainikkeella
+RClick	Napsautus hiiren kakkospainikkeella
+LDblClick	Kaksoisnapsautus hiiren ykköspainikkeella
+RDblClick	Kaksoisnapsautus hiiren kakkospainikkeella
+Focus	Kohdistus
+FocusLost	Kohdistus hävinnyt
+step	Opastetun kierroksen vaihe
+name	Nimi
+end_message	Teksti
+show_end_window	Loppuikkuna
+show_end_window.h	Määrittää, että ikkuna näytetään opastetun kierroksen lopussa. Ikkunan avulla käyttäjä voi sulkea opastetun kierroksen manuaalisesti. Jos vaihtoehdon aktivointi on poistettu, ikkunaa ei näytetä, ja opastettu kierros sulkeutuu automaattisesti.
+trans_action.h	Vain opastettu kierros\nMäärittää toimen, joka käynnistää siirtymisen seuraavaan opastetun kierroksen askeleeseen.
+action_pa.h	Tämä asetus määrittää käyttäjän toimen, joka käynnistää siirtymisen opastetun kierroksen seuraavaan vaiheeseen.
+step_name1.h	Vain opastettu kierros\nMäärittää seuraavan askeleen prosessin kulussa.
+step_name2.h	Vain opastettu kierros\nMäärittää vaihtoehtoisen opastetun kierroksen askeleen, jos määritettyä opastetun kierroksen askelta ei voi näyttää.
+step_name3.h	Vain opastettu kierros\nMäärittää vaihtoehtoisen opastetun kierroksen askeleen, jos määritettyä vaihtoehtoista opastetun kierroksen askelta 1 ei voi näyttää.
+step_name4.h	Vain opastettu kierros\nMäärittää vaihtoehtoisen opastetun kierroksen askeleen, jos määritettyä vaihtoehtoista opastetun kierroksen askelta 2 ei voi näyttää.
+step_on_same_page.h	Vain opastettu kierros\nTämä asetus on aktivoitava, jos seuraava opastetun kierroksen askel on samalla sovellussivulla. Tämä estää sivun tunnistuksen.
+name.h	Määritä opastetun kierroksen askelen nimi. Nimi näytetään valinnan Objekti-makrossa Seuraava opastetun kierroksen askel -asetuksissa.
+set_value	Aseta arvo automaattisesti
+set_value.h	Tämä asetus määrittää, asetetaanko makron arvo automaattisesti navigoinnin toiston aikana.
+end_message	Teksti
+end_message.h	Voit syöttää tähän tekstikenttään tekstin, joka näytetään kuplassa prosessin lopussa. Tekstikenttään on esiasetettu oletusteksti.
+restart_option	Uudelleenkäynnistyspainike
+restart_option.h	Kun tämä vaihtoehto on aktivoitu, kuplaan ilmestyy painike, jota käyttäjä voi käyttää prosessin toistamiseen. Tämän avulla prosessi voidaan suorittaa uudelleen eri merkintöjen kanssa.
+record_end_display	Muokkaa kuplaa
+end_bubble	Kupla - prosessin loppu
+bend_position	Sijainti
+bend_position.h	Tähän syötetyt arvot ilmoittavat kuplan sijainnin näytössä. Arvot määritetään pikseleinä ja viittaavat näytön vasempaan yläkulmaan.
+bend_style	Tyyli
+bend_style.h	Tämä asetus määrittää, mitä kuplan tyyliä käytetään kuplan näyttöä varten. Kuplan tyylit määritetään käyttämällä kuplatyylieditoria, joka voidaan avata valikosta Työkalut -> Muokkaa kuplan tyylejä. Kuplan tyylit ovat aina käytettävissä koko työalueella.
+bend_width	Leveys
+bend_width.h	Tämä määrittää näytettävän kuplan leveyden pikseleinä.
+bend_height	Korkeus
+bend_height.h	Tämä määrittää näytettävän kuplan korkeuden pikseleinä.
+process_start_unit	Opastetun kierroksen tyyli
+record_pa_control	Tallenna opastetun kierroksen vaihe
+prev_step	Edellinen askel
+next_step	Seuraava askel
+disqualifier	Jätä pois näyttö
+disqualifier.h	Page Specifierin avulla voi tehdä eron samanlaisten sovellussivujen välillä käyttämällä tiettyä objektia. Tämä vaihtoehto määrittää, näytetäänkö tunnistettu sovellussivu vai jätetäänkö se pois, jos Page Specifier on käytettävissä. \nPienoiskuvanäkymä näyttää vaihtoehdon tilan: plusmerkin (ei jätetä pois) tai miinusmerkin (jätetään pois).
+exception_bubble	Kuplapoikkeuksen käsittely
+bexp_position	Sijainti
+bexp_position.h	Tähän syötetyt arvot määrittävät kuplan sijainnin näytössä. Arvot ilmoitetaan pikseleinä. Kupla ilmestyy näytön vasempaan yläkulmaan.
+bexp_style	Tyyli
+bexp_style.h	Tässä voit valita kuplan tyypin, jota haluat käyttää. Kuplan tyylit voidaan määrittää kuplatyylieditorissa, joka voidaan avata valikosta:  Työkalut -> Muokkaa kuplan tyyliä.  Eri kuplan tyylit ovat aina käytettävissä koko työalueella.
+content_demo	Demotila
+content_demo.h	Tämän vaihtoehdon avulla ryhmän demotilat näytetään työpöytäavustajassa.
+content_practice	Harjoitustila
+content_practice.h	Tämän vaihtoehdon avulla ryhmän harjoitustilat näytetään työpöytäavustajassa.
+content_test	Testitila
+content_test.h	Tämän vaihtoehdon avulla ryhmän testitilat näytetään työpöytäavustajassa.
+content_concurrent	Rinnakkaistila
+content_concurrent.h	Tämän vaihtoehdon avulla ryhmän rinnakkaistilat näytetään työpöytäavustajassa.
+content_navi	Navigointi
+content_navi.h	Tämän vaihtoehdon avulla ryhmän navigoinnit näytetään työpöytäavustajassa.
+content_documentation	Dokumentaatio
+content_documentation.h	Tämän vaihtoehdon avulla ryhmän dokumentaatiot näytetään työpöytäavustajassa.
+content_externals	Ulkoiset tiedostot
+content_externals.h	Tämän vaihtoehdon avulla ryhmän ulkoiset tiedostot näytetään työpöytäavustajassa.
+navi_style	Tyyli
+navi_style.h	Määrittää navigointi-ikkunan ulkoasun. Valitse tyyliresurssi luettelosta.
+menu_path:/record	Tallennus
+F1HELPNAME	ohje
+alignment	Kuplan tasaus
+alignment.h	Määrittää kuplaikkunan tasauksen näytössä. Vaihtoehdon 'Vapaa' avulla sijainti voidaan määrittää 'Kuplan sijainti' -parametrissa.
+bform_alignment	Tasaus
+bform_alignment.h	Määrittää lomakekuplaikkunan tasauksen näytössä. Vaihtoehdon 'Vapaa' avulla sijainti voidaan määrittää 'Lomakekuplan sijainti' -parametrissa.
+gloss_bubble	Sanastokupla
+gloss_bubble_style	Tyyli
+gloss_bubble_style.h	Määrittää sanastokuplan ulkoasun. Valitse tyyliresurssi luettelosta.
+ellipse	Ympyrä
+gloss_bubble_size	Koko
+gloss_bubble_size.h	Määrittää sanastokuplan koon (leveyden, korkeuden) pikseleinä.
+Navi	Työpöytäavustaja
+exclude_from_da	Jätä pois työpöytäavustajasta
+exclude_from_da.h	Määrittää, että sivuavainta ei oteta huomioon työpöytäavustajan kontekstin tunnistuksessa.
+all_as_descr	Käytä tekstiä
+all_as_descr.h	Määrittää tekstityypin kohteelle @{NAVIGATOR}. Oletus on 'Lyhyt kuvaus'.
+consider_roles	Ota huomioon roolit
+consider_roles.h	Aktivoi roolien käytön sisällön näyttämistä varten toiston aikana.
+consider_categories	Ota huomioon sisältöluokat
+consider_categories.h	Aktivoi sisältöluokkien käytön sisällön lajittelussa @{NAVIGATOR}-pääikkunassa.
+disable_ca_in_pa	Piilota pikaohje opastetulla kierroksella
+disable_ca_in_pa.h	Määrittää, onko kaikki pikaohjetiedot piilotettu opastetun kierroksen toiston aikana. Kun opastettu kierros on päättynyt, pikaohje näytetään taas.
+full_desc	Kuvaus
+shrt_desc	Lyhyt kuvaus
+wrong_position	Sijaintivirhe
+help	Ohje
+warning	Varoitus
+maintenance	Ylläpito
+update	Päivitä
+new	Uusi
+training	Koulutus
+attachment	Liite
+link	Linkki
+tip	Vihje
+note	Huomautus
+compliance	Vaatimustenmukaisuus
+mini_bubble_style	Minikuvaketyyli
+mini_bubble_style.h	Määrittää projektissa käytettävien minikuvakkeiden tyyliresurssin. Minikuvakkeet ovat muokattavien resurssien resurssityyppi. \nKuvake voidaan asettaa jokaisessa toimi- ja selitysmakrossa käyttämällä 'Laajennettu'-osion 'Minikuvaketyyppi'-parametria.
+mini_bubble	Minikuvaketyyppi
+mini_bubble.h	Vain kontekstiohje\nMäärittää objektin minikuvakkeen tyypin. Kuvake perustuu tyylimakron määritettyyn minikuvaketyyliin.
+NavRecMouseWheel	Jatka käyttämällä vieritysrullaa. Voit lopettaa hiiren vierityksen painamalla ESC-näppäintä.
+search_type	Hakulaji
+none	Ei mitään
+search_in_lib	@{LIBRARY}
+search_in_da	Työpöytäavustajaryhmä
+search_type.h	Määrittää toiminnon sisällön hakemista varten. Valitse tyyppi avattavasta luettelosta. \nEi mitään: Poistaa hakutoiminnon aktivoinnin. \nKohteessa @{LIBRARY}: Avaa kohteen @{LIBRARY} hakua varten @{LIBRARY} -sisällössä. \nTyöpöytäavustajaryhmässä: Näyttää 'Haku'-välilehden pääikkunassa työpöytäavustajan sisällössä suoritettavaa hakua varten.
+errObjectUpdate	Objektia ei voi päivittää. Päivitä objekti samankaltaisella tyypillä.
+config_headers_differ1	Profiilitiedot ovat vanhentuneet. Päivitä projekti valitsemalla Jatka.
+config_headers_differ2	On suositeltavaa luoda arkisto ennen päivitystä.
+default_start_mode	Oletusaloitussisältö
+default_start_mode.h	Määrittää tilan tai asiakirjamuodon, joka käynnistetään oletusarvoisesti sisältöluettelosta.
+default_start_doc	Oletusaloitusasiakirja
+default_start_doc.h	Määrittää asiakirjan tyypin, jos asiakirja on määritetty 'Oletusaloitussisällön' asetuksissa.
+show_next_btn	Seuraava-painike
+show_next_btn.h	Vain opastettu kierros\nMäärittää, näkyykö objektikuplassa ''Siirry seuraavaan askeleeseen' -painike.
+condition	Ehto
+condition.h	Toiston aikana käyttäjän syöttämän arvon on vastattava ehtoa, jotta voidaan siirtyä seuraavaan askeleeseen tai johonkin toiseen määritettyyn askeleeseen. \nVoit luoda tai muokata ehtoa valitsemalla 'Muokkaa ehtoa'.
+errDuplicateContext	Tämä sovellus on jo tallennettu.
+add_sticky_notes	Sijainti: 'Lisää muistilappu' -ohjauselementti
+add_sticky_notes.h	Tämän vaihtoehdon avulla saadaan näkyviin ohjauselementti, jolla voi lisätä muistilapun sivulle. Voit määrittää ohjauselementin sijainnin sivupalkissa.
+show_instant_help_btn	Sijainti: 'Pikaohje'-ohjauselementti
+show_instant_help_btn.h	Tämän avulla saadaan näkyviin ohjauselementti, jolla voi aktivoida pikaohjeen. Voit määrittää ohjauselementin sijainnin sivupalkissa.
+show_carousel	Näytä karuselli
+show_carousel.h	Tämä vaihtoehto näyttää työpöytäavustajan karusellitilassa.
+condition_pattern	Ehtomalli
+condition_pattern.h	Määrittää ehtoa varten käytettävän mallin.
+condition_value	Ehdon arvo
+condition_value.h	Sisältää ehtoa varten käytetyn arvon. Syötä teksti tai luku valitun mallin perusteella.
+condition_jump_target	Siirtymiskohde
+condition_jump_target.h	Vain opastettu kierros\nMäärittää siirtymiskohteen ehdolle. Valitse avattavasta luettelosta askel. Navigointi siirtää määritettyyn askeleeseen, jos ehto täytetään.
+condition_text	Ehtoteksti
+condition_text.h	Sisältää näytettävän tekstin, jos ehtoa ei ole täytetty.
+condition_case_sensitive	Kirjainkoko otetaan huomioon
+condition_case_sensitive.h	Määrittää, että ehdossa otetaan kirjainkoko huomioon.
+condition_ignore_on_load	Ohita sivun latauksessa
+condition_ignore_on_load.h	Vain kontekstiohje\nMäärittää, että ehtoa ei tarkisteta sivun latauksen yhteydessä. Ehto tarkistetaan, jos käytetään vastaavaa ohjauselementtiä. Tällä vältetään ehtokuplan näyttäminen suoraan.
+c_equals	On yhtä suuri kuin
+c_not_equals	Ei ole yhtä suuri kuin
+c_greater	On suurempi kuin
+c_greater_equals	On suurempi tai yhtä suuri kuin
+c_less	On pienempi kuin
+c_less_equals	On pienempi tai yhtä suuri kuin
+c_min_char	Merkkien minimilukumäärä
+c_max_char	Merkkien maksimilukumäärä
+c_num_char	Merkkien lukumäärä yhtä suuri kuin
+c_reg_exp	Säännöllinen lauseke
+vertical	Pystysuora
+horizontal	Vaakasuora
+AutoBarReady	Tyhjäkäynti
+AutoBarExplanation	Lisää selitys
+AutoBarChooseApp	Valitse sovellus
+AutoBarRecord	Tallenna
+AutoBarBusy	Varattu
+AutoBarPause	Keskeytä
+AutoBarReRecManualHotspot	Muokkaa ohjauselementtiä: paina Ctrl + Enter, jos haluat tehdä muutoksia. Paina Esc, jos haluat hylätä muutokset.
+wizAddExplanation	Lisää selitys
+AutoBarNoRecognition	Ohjauselementtejä ei tunnistettu
+AutoBarDiagnosis	Diagnoosi
+condition_bubblestyle	Kuplan tyyli
+condition_bubblestyle.h	Määrittää, mitä kuplatyypiresurssia käytetään ehtotekstin näytössä.
+condition_highlight_bgr	Korostusväri
+condition_highlight_bgr.h	Määrittää ohjauselementin korostusvärin.
+IDS_MPI_TOURSTOP_LABEL	Nimi
+IDS_MPI_TOURSTOP_LABEL_MODIFIED	Käännä manuaalisesti
+IDS_MPI_TOURSTOP_NAME	UID
+IDS_MPI_TOURSTOP_SHOW	Näytä etenemisnäytössä
+IDS_MPI_TOURSTOP_JUMP	Siirtymiskohde
+IDS_MPI_TOURSTOP_CALLABLE	On alirutiini
+basic_info	Perusominaisuudet
+IDS_NO_IMAGE_SELECT	Kuvaa ei ole valittu
+IDS_NO_IMAGE	Kuvaa ei löytynyt
+ID_INSERT_TAKE	Lisää askel
+ID_PRJ_LAYOUT_HORZ	Vaakasuora asettelu
+ID_PRJ_LAYOUT_VERT	Pystysuora asettelu
+ID_PRJ_LAYOUT_DIV	Jaettu asettelu - 1
+ID_PRJ_LAYOUT_4	Jaettu asettelu - 2
+ID_PRJ_LAYOUT_5	Jaettu asettelu - 3
+IDS_UNTITLED	(nimetön)
+docTableHeaderStep	Askel
+layout_advanced	Laajennettu asettelu
+showEditorHelp	Näytä WWW-editorin ohje
+slide:insert_tb	Lisää
+slide:action_tb	Toimi
+slide:structure_tb	Rakenne
+slide:view_tb	Näkymä
+existing_scrs_in_prj	Nykyistä sivua käytetään projektissasi jo useamman kerran. \nValitse näyttö, johon haluat lisätä tallennetut objektit.
+start_topic	Käynnistä
+guided_tour	Opastettu kierros
+context_help	Kontekstiohje
+off	EI
+main_bar_1	Pääpalkki 1
+main_bar_2	Pääpalkki 2
+main_bar_3	Pääpalkki 3
+main_bar_4	Pääpalkki 4
+main_bar_5	Pääpalkki 5
+main_bar_6	Pääpalkki 6
+main_bar_7	Pääpalkki 7
+main_bar_8	Pääpalkki 8
+sub_menu_1	Alivalikko 1
+sub_menu_2	Alivalikko 2
+sub_menu_3	Alivalikko 3
+sub_menu_4	Alivalikko 4
+sub_menu_5	Alivalikko 5
+sub_menu_6	Alivalikko 6
+content_btn	Sijainti: 'Sisältö'-ohjauselementti
+content_btn.h	Määrittää 'Sisältö'-ohjauselementin sijainin sivupalkissa.
+search_btn	Sijainti: 'Haku'-ohjauselementti
+search_btn.h	Määrittää 'Haku'-ohjauselementin sijainnin sivupalkissa.
+orCenter	Keskikohta
+orNorth	Pohjoinen
+orWest	Länsi
+orNortWest	Luode
+orEast	Itä
+orNortEast	Koillinen
+orSouth	Etelä
+orSouthWest	Lounas
+orSoutEast	Kaakko
+screen_tolerence	Sallittu näyttöero (%)
+screen_tolerence.h	Tämä parametri määrittää tarvittavan graafisen yhteensopivuuden näytetyn näyttösivun ja tallennetun näyttökuvan välillä prosentteina näytettäviä asiaankuuluvia kontekstitietoja varten. Jos graafisten poikkeamien määrä ylittää määritetyn arvon, @{NAVIGATOR} vertaa tallennettua sivuavainta näyttösivuun ja näyttää sopivat sisällöt eri sovellussivua varten.
+video_folder	Videotallennukset-kansio
+video_folder.h	Määrittää kansion videotallennusten tallentamista varten. \nHuomautus: videotallennuksia ei tallenneta @{NAVIGATOR} -välimuistiin niiden tiedostokoon vuoksi.
+allow_video_rec	Salli videon tallennus
+allow_video_rec.h	Sallii käyttäjien tallentaa videosisältöä.
+hide_da_on_web_assistant	Piilota @{NAVIGATOR}, kun @{XRAY} on käynnissä
+hide_da_on_web_assistant.h	Määittää, että @{NAVIGATOR} -ikkunat ovat piilossa, kun @{XRAY} on käynnissä edustassa.
+show_web_assistant_msg	Näytä @{XRAY} -sanoma
+show_web_assistant_msg.h	Määrittää, että sanoma näytetään, kun @{XRAY} on käynnissä edustassa tai siirtyy pois edustatilasta.
+auto_hide	Piilota animaation jälkeen
+auto_hide.h	Jos tämä vaihtoehto on aktivoitu, korostus piilotetaan automaattisesti uudelleen heti, kun animaatio on päätetty.
+bmain_height	Korkeus
+bmain_height.h	Määrittää pääkuplan korkeuden pikseleinä. Jos tekstimäärä ylittää kuplassa käytettävissä olevan tilan, se skaalataan automaattisesti korkeussuunnassa vaadittuun kokoon.
+bmain_style	Tyyli
+bmain_style.h	Tämä asetus määrittää, mitä kuplan tyyppiä käytetään pääkuplan näyttöä varten. Kuplan tyypit määritetään käyttämällä 'Kuplatyyppieditoria', joka voidaan käynnistää valikosta 'Työkalut' - 'Muokkaa kuplan tyyppejä'. Kuplan tyypit ovat aina käytettävissä koko työalueella.
+bmain_width	Leveys
+bmain_width.h	Määrittää pääkuplan leveyden pikseleinä.
+bottom_dock	Kiinnitetty alhaalla
+cache_stale_interval	Vanhentumisväli (min)
+cache_stale_interval.h	Aktivoi @{NAVIGATOR} välimuistin käytön ja määrittää aikakehyksen välimuistikansion sisällön päivitykseen. Arvo määritetään minuutteina. \nVälimuisti poistetaan käytöstä muuttamalla arvoksi '0'.
+centered	Keskitetty
+close_details	Sulje sisältöikkuna
+close_details.h	Määrittää toimintonäppäimen sisältöikkunan sulkemista varten valitussa projektissa.
+confirmation_hotkey	Askelvahvistuksen pikavalintanäppäin
+confirmation_hotkey.h	Määrittää pikavalintanäppäimen askelten vahvistusta varten prosessiavustajan toiston aikana.
+detail_positioning	Sisältöikkunan tasaus
+detail_positioning.h	Määrittää sisältöikkunan tasauksen näytössä. Sisältöikkuna kiinnitetään pääikkunaan, paitsi jos käytetään tasausta 'Keskitetty'.
+detail_size	Sisältöikkunan koko
+detail_size.h	Määrittää sisältöikkunan koon (leveyden, korkeuden) pikseleinä.
+enable_search	Aktivoi hakuvälilehti
+enable_search.h	Aktivoi hakutoiminnallisuuden työpöytäavustajan sisällössä
+h_dock	Kiinnitetty vaakasuoraan
+icon_position	Kuvakkeen sijainti
+icon_position.h	Tähän syötetyt arvot määrittävät kuvakkeen sijainnin näytössä. Arvo ilmoitetaan pikseleinä. Kuvake ilmestyy näytön vasempaan yläkulmaan.
+leaves_page	Poistuu näytöstä
+leaves_page.h	Tämä vaihtoehto ilmoittaa navigoinnille, että tätä objektia varten vaadittu toimi johtaa uuden sivun lataukseen. Uuden sivun analyysi suoritetaan heti, kun toimi on suoritettu objektissa ja sivun lataus on päättynyt.
+left_dock	Kiinnitys vasemmalle
+library_height	Kuplan korkeus
+library_height.h	Tämä määrittää kuplan korkeuden pikseleinä.
+library_width	Kuplan leveys
+library_width.h	Tämä määrittää kuplan leveyden pikseleinä.
+maximize_details	Suurenna sisältöikkuna
+maximize_details.h	Määrittää toimintonäppäimen sisältöikkunan suurentamista varten.
+next_doc	Valitse seuraava asiakirja
+next_doc.h	Määrittää toimintonäppäimen seuraavan asiakirjan valitsemista varten sisältöikkunassa.
+next_project	Valitse seuraava projekti
+next_project.h	Määrittää toimintonäppäimen seuraavan projektin valitsemista varten pääikkunassa.
+open_content	Avaa sisältö
+open_content.h	Määrittää toimintonäppäimen valitun sisältöobjektin avaamiseksi.
+open_details	Avaa sisältöikkuna
+open_details.h	Määrittää toimintonäppäimen sisältöikkunan avausta varten valitulle projektille.
+prev_doc	Valitse edellinen asiakirja
+prev_doc.h	Määrittää toimintonäppäimen edellisen asiakirjan valintaa varten sisältöikkunassa.
+prev_project	Valitse edellinen projekti
+prev_project.h	Määrittää toimintonäppäimen edellisen projektin valintaa varten pääikkunassa.
+right_dock	Kiinnitetty oikealle
+show_execute	Näytä Suorita-painike
+show_execute.h	Määrittää, näytetäänkö objektikuplassa toiston aikana suorituspainike. Painikkeen avulla käyttäjä voi suorittaa sovelluksessa toimen, minkä jälkeen näytetään seuraava vaihe.
+show_icon_on_start	Näytä tilakuvake aloituksen yhteydessä
+show_icon_on_start.h	Määrittää, näytetäänkö tilakuvake pääikkunan sijasta työpöytäavustajan käynnistystä varten
+start_doc	Avaa asiakirja
+start_doc.h	Määrittää toimintonäppäimen valitun asiakirjan sisältöikkunasta avaamista varten.
+step_on_same_page	Askel samalla sivulla
+top_dock	Kiinnitetty yläreunaan
+v_dock	Kiinnitetty pystysuoraan

@@ -1,0 +1,314 @@
+﻿#	Atomes de texte anglais
+BULLET	&#149;
+NEWLINE	\r\n
+TOK_COMPANY	SAP
+TOK_LIB	Cours
+TOK_TOUR	Leçon
+TOK_TRAINER	Desktop Assistant
+TOK_AUTOMATION	epo
+NAVIGATOR	Desktop Assistant
+NAV_LIBRARY	library
+BTN_ABORT	Quitter
+BTN_CLOSE	Quitter
+BTN_OK	OK
+BTN_CLOSE_DLG	Fermer
+BTN_CONTINUE	Poursuivre
+BTN_PREVIEW	Prévisualisation
+BTN_PROCEED	Poursuivre
+BTN_RESTART	Répéter
+BTN_SKIP	Saut
+BTN_START	Démarrage
+BTN_STOP	Arrêter
+BTN_EXECUTE	Exécuter
+CA_SWITCH	Aide contextuelle
+CONTENT_CAP	Contenu
+MAIL_SUBJECT	Demande de contenu pour l'assistant de bureau
+MAIL_HEADER	Cher auteur,\n\nje souhaiterais demander du contenu pour :
+MAIL_FOOTER	- Processus/Transaction : décrivez le processus d’application utilisé actuellement. \n\n- Description : décrivez les informations dont vous avez besoin. \n\nCordialement,
+MAIL_DATA	- Nom d'application :
+MAIL_TOOLTIP	Demander contenu
+SHARE_TOOLTIP	Partager contenu
+REQUEST_TEXT	Cliquez sur %s pour demander du contenu.
+REQUEST_LINK	ici
+SEARCH_CAP	Rechercher
+INFO_CAP	Info
+SETTINGS_CAP	Options
+BACK_TOOLTIP	Retour
+SHARE_CONTENT_TOOLTIP	Partager contenu
+CB_HIDE_OPTION	Ne plus afficher
+MY_ROLES	Mes rôles
+EDIT_ROLES	Modifier rôles
+NO_ROLES	Afficher contenu sans rôles
+SELECT_ALL_CAPTION	Sélectionner tout
+USER_CAPTION	Zone utilisateur
+READ_MORE	En savoir plus...
+NO_CATEGORY_CAPTION	Autre contenu
+DELETE_FAILED	Échec de la suppression
+RENAME_FAILED	'Renommer' a échoué.
+FILE_EXISTS	Un fichier portant ce nom existe déjà. Saisissez un autre nom.
+LBL_YES	Oui
+LBL_DELETE	Supprimer
+LBL_NO	Non
+LBL_OK	Ok
+DELETE_DLG_TEXT	Voulez-vous vraiment supprimer les documents sélectionnés (%N) ?
+LBL_CONCURRENT	Démarrer mode parallèle
+LBL_DA	Assistant de bureau
+LBL_SIM	Lancer simulation
+LBL_CDOC	Ouvrir
+LBL_DEMO	Démarrer mode démo
+LBL_NAVI	Lancer visite guidée
+LBL_BOOK	Lire livre
+LBL_GROUP	Ouvrir dans library
+LBL_NAVIGATION	Assistant de bureau
+LBL_PA	Visite guidée
+LBL_PRACTICE	Démarrer mode d'exercice
+LBL_SIMULATION	Simulation
+LBL_BOOKPAGE	Afficher page du livre
+LBL_TEST	Démarrer mode de test
+LBL_RECORD_DOCUMENT	Enregistrer document
+MSG_AUTOMATION_FINISHED	Automatisation terminée
+MSG_AUTOMATION_FINISHED_2	Cliquez sur « Répéter », pour redémarrer le processus automatique.
+MSG_AUTOMATION_START	Traiter les valeurs saisies
+MSG_AUTOMATION_START_2	Contrôlez ou modifiez les valeurs suivantes. Elles sont automatiquement saisies pendant le processus.
+MSG_EPO_DIALOG	Optimiseur de processus électronique
+MSG_NAVI_LIBRARY_NO_APP	Aucune information n'est disponible.
+LBL_NAVI_NO_MATCH	Aucun résultat pour votre recherche.
+NO_RECORDS	Aucun document disponible
+MSG_NAVI_LIBRARY_SUBTITLE	Contenus disponibles :
+MSG_NAVI_LIBRARY_TITLE	Assistant de bureau
+MSG_NOT_APPLICABLE	non paramétrable
+MSG_PA_CONTROL_STEP	Action requise pour cette étape :
+MSG_PA_EXPLANATION_STEP	Naviguez vers l'écran affiché ci-dessous.
+MSG_PA_FORM_STEP	Zones obligatoires à renseigner dans le formulaire :
+MSG_PA_DIALOG	Visite guidée
+MSG_PA_START_SCREEN	Ouvrez l'écran initial.
+MSG_PA_STEP_NOT_FOUND	Passez à l'écran requis.
+MSG_PA_STEP_NOT_FOUND1	Assurez-vous que l'application cible (@{TARGETAPPNAME}) est ouverte.
+MSG_PA_STEP_NOT_FOUND2	Naviguez vers l'écran avec la commande en surbrillance affichée ci-dessous.
+MSG_STEP_LIGHT	Prévisualisation de l'étape
+MSG_STEP_NOT_FOUND	Étape de la visite guidée non trouvée.
+MSG_STEP_NOT_FOUND_2	Cliquez sur la barre de titre de l'application cible ou naviguez jusqu'à l'écran souhaité.<br><br>Cliquez sur 'Prévisualisation’ pour afficher l'écran voulu.
+PA_FINISHED	Visite guidée terminée
+PROJECT_TITLE	Titre de projet
+TRAY_INFO_BUBBLE_HEADING	Visite guidée
+TRAY_INFO_BUBBLE_TEXT	Impossible d’afficher l’étape en cours. Pour en savoir plus, cliquez ici.
+RESTRICTED_BUBBLE_HEADING	Action bloquée
+RESTRICTED_BUBBLE_TEXT	Vous ne pouvez effectuer aucune action avant la confirmation de l'étape en cours.
+HELP_TITLE	Aide
+HELP_INTRO	L'aide permet d'obtenir une synthèse des parties et fonctions principales de @{NAVIGATOR}.</br></br><b>Note :</b> les fonctions disponibles dépendent de la configuration de @{NAVIGATOR}.</br>
+HELP_TITLE_DA	Barre latérale et fenêtres
+HELP_SIDEBAR_T	Barre latérale
+HELP_SIDEBAR_H	La barre latérale permet de lancer les fonctions principales de @{NAVIGATOR}. Le système affiche un bouton de commande pour chaque fonction. La barre latérale peut être déplacée à l'aide de l'opération glisser-déplacer. Elle peut être réduite et agrandie à l'aide d'un clic sur le bord de la barre latérale.
+HELP_CONTENT_CONTROL_T	Contenu
+HELP_CONTENT_CONTROL_H	Indique si du contenu est disponible. Ouvre la fenêtre principale avec le contenu.
+HELP_SEARCH_CONTROL_T	Rechercher
+HELP_SEARCH_CONTROL_H	Ouvre la recherche de contenu.
+HELP_EXTSEARCH_CONTROL_T	Recherche externe
+HELP_EXTSEARCH_CONTROL_H	Ouvre la recherche externe pour rechercher du contenu.
+HELP_STICKY_CONTROL_T	Ajouter note adhésive
+HELP_STICKY_CONTROL_H	Insère une note adhésive pour la fenêtre d'application actuelle. Vous pouvez saisir un texte pour votre note adhésive.
+HELP_RECORDING_CONTROL_T	Lancer l'enregistrement
+HELP_RECORDING_CONTROL_H	Lance l'enregistrement d'un processus. L'enregistrement est sauvegardé comme document dans la zone utilisateur.
+HELP_MAIN_WINDOW_T	Fenêtre principale
+HELP_MAIN_WINDOW_H	La fenêtre principale affiche les contenus disponibles pour un contexte de page spécifique.</br>Lors du repassage d'une visite guidée, la fenêtre affiche la liste des étapes.
+HELP_HEADER_T	En-tête
+HELP_HEADER_H	L'icône de statut dans l'en-tête indique si le contenu est disponible pour le contexte actuel.
+HELP_CONTENT_TAB_T	Onglet Contenu
+HELP_CONTENT_TAB_H	L'onglet affiche le contenu disponible pour l'application actuelle.
+HELP_CONTENT_VIEW_T	Vue de contenu
+HELP_CONTENT_VIEW_H	La vue de contenu affiche les informations, modes et documentation disponibles pour le contenu sélectionné.</br>Vous pouvez utiliser le contrôle 'Retour' pour revenir à la liste des contenus.
+HELP_SEARCH_TAB_T	Onglet Recherche
+HELP_SEARCH_TAB_H	L'onglet permet de rechercher un contenu spécifique pour votre contexte actuel.
+HELP_INFO_TAB_T	Onglet d'informations
+HELP_INFO_TAB_H	L'onglet affiche des informations générales sur @{NAVIGATOR}.
+HELP_USERAREA_TAB_T	Onglet Zone utilisateur
+HELP_USERAREA_TAB_H	L’onglet contient les documents de processus enregistrés. Vous pouvez ouvrir, partager ou supprimer un document. Vous pouvez enregistrer d’autres processus.
+HELP_INSTANT_T	Aide instantanée
+HELP_INSTANT_H	Lorsque l'option est activée, des informations de contexte complémentaires sont affichées directement sur l'écran de l'application actuel. L'option est activée par défaut.
+HELP_REQCONTENT_T	Demander contenu
+HELP_REQCONTENT_H	Ouvre une fenêtre d'e-mail pour demander le contenu manquant à l'auteur.
+HELP_SETTINGS_T	Options
+HELP_SETTINGS_H	La vue contient des options pour l'affichage du contenu @{NAVIGATOR}.
+HELP_MYROLES_T	Mes rôles
+HELP_MYROLES_H	Cette option affiche le contenu pour le rôle affecté.
+HELP_WITHOUTROLES_T	Afficher contenu sans rôles
+HELP_WITHOUTROLES_H	L'option affiche le contenu sans rôles affectés.
+HELP_EDITROLES_T	Rôles
+HELP_EDITROLES_H	Tous les rôles utilisés pour le contenu sont listés et peuvent être activés ou désactivés pour afficher le contenu.
+HELP_SHARECONTENT_T	Partager contenu
+HELP_SHARECONTENT_H	Ouvre une boîte de dialogue avec le lien vers le contenu. Le lien peut être partagé avec d'autres utilisateurs.
+HELP_REQUESTCONTENT_T	Demander contenu
+HELP_REQUESTCONTENT_H	Ouvre un e-mail prédéfini pour demander des contenus pour un cas donné.
+HELP_PLAYBACK_CONTENT_T	Contenu de playback
+HELP_PLAYBACK_CONTENT_H	Vous pouvez démarrer ou ouvrir le contenu disponible à l'aide des boutons de commande dans la fenêtre Contenu.
+HELP_MINIMIZED_STATUS_T	Statut réduit
+HELP_MINIMIZED_STATUS_H	Si vous fermez la fenêtre principale, une icône de statut flottante indique encore si le contenu est disponible pour le contexte actuel. Cliquez sur l'icône pour restaurer la fenêtre principale.
+HELP_MINIMIZED_MENU_T	Menu contextuel
+HELP_MINIMIZED_MENU_H	Le menu contextuel (clic droit sur l'icône) comprend des fonctions permettant d'afficher la fenêtre principale et l'aide contextuelle.
+HELP_BOOK_WINDOW_T	Fenêtre du livre
+HELP_BOOK_WINDOW_H	La fenêtre du livre est ouverte lors du repassage d'un livre. La fenêtre principale et la fenêtre Contenu sont masquées.
+HELP_GOTOTOP	Aller vers le haut
+HELP_CAPTION	Aide @{NAVIGATOR}
+NAVHELP_TITLE	Icône de statut et menu contextuel
+NAVHELP_INTRO	</br>L'aide vous fournit une synthèse des icônes de statut et des entrées du menu contextuel.
+NAVHELP_STATUS_ICON_T	Icône de statut (barre des tâches)
+NAVHELP_STATUS_ICON_H	L'icône de statut est positionnée dans la barre des tâches et affiche les activités actuelles du @{NAVIGATOR}. Les statuts suivants sont disponibles :
+NAVHELP_STATUS_FOUND_T	Contenu disponible (icône verte)
+NAVHELP_STATUS_FOUND_H	Le contenu est disponible pour le contexte actuel et affiché.
+NAVHELP_STATUS_CHECK_T	Chargement du contenu (icône jaune)
+NAVHELP_STATUS_CHECK_H	@{NAVIGATOR} vérifie si le contexte actuel dispose de contenu disponible et charge ce contenu.
+NAVHELP_STATUS_NOFOUND_T	Aucun contenu disponible (icône rouge)
+NAVHELP_STATUS_NOFOUND_H	Le contenu n'est pas disponible pour le contexte actuel.
+NAVHELP_STANDBY_T	Désactivé
+NAVHELP_STANDBY_H	@{NAVIGATOR} est désactivé. Cliquez sur l'icône de statut (<i>CTRL + F11</i>) pour activer ou désactiver le @{NAVIGATOR}.
+NAVHELP_STATUS_MIN_T	Réduit
+NAVHELP_STATUS_MIN_H	Les fenêtres et la barre latérale sont réduites.
+NAVHELP_STATUS_MENU_T	Menu contextuel
+NAVHELP_STATUS_MENU_H	Le menu contextuel (clic droit avec la souris sur l'icône) inclut les fonctions générales du @{NAVIGATOR}.
+NAVHELP_VERSION_T	Afficher la version
+NAVHELP_VERSION_H	Affiche le numéro de version du @{NAVIGATOR} installé. Cela est nécessaire pour tout contact avec le support en cas de problèmes.
+NAVHELP_JSCONSOLE_T	Console JavaScript
+NAVHELP_JSCONSOLE_H	Affiche la console Javascript pour fournir des messages d'erreur détaillés. Cela est nécessaire pour tout contact avec le support en cas de problèmes.
+NAVHELP_NAV_CACHE_T	Supprimer mémoire cache locale
+NAVHELP_NAV_CACHE_H	Supprime la mémoire cache locale du contenu de @{NAVIGATOR}.
+NAVHELP_RESET_HIDDEN_T	Afficher de nouveau l'aide masquée
+NAVHELP_RESET_HIDDEN_H	Réinitialise les éléments d'aide définis sur 'Masqué' pendant le repassage.
+NAVHELP_EXIT_T	Terminer
+NAVHELP_EXIT_H	Arrête le repassage et ferme le @{NAVIGATOR}.
+IDS_NAVP_ABOUT	Afficher la version...
+IDS_NAVP_CONSOLE	Console JavaScript...
+IDS_NAVP_DELETE_CACHE	Supprimer mémoire cache locale
+IDS_NAVP_HOOKER	Hooker
+IDS_SEARCH_INPUT	Rechercher contenu d'aide
+IDS_CLEAR_SEARCH	Réinitialiser la recherche
+IDS_NAVP_CLOSE	Terminer
+IDS_RESET_CURRENT	Afficher de nouveau éléments d'aide masqués
+IDS_RESET_ALL	Afficher de nouveau l'aide masquée
+IDS_RESET_ALL_TIP	Afficher de nouveau les conseils masqués en accédant à un écran pour la première fois.
+IDS_OPEN_RECORD_LBL	Ouvrir
+IDS_EDIT_RECORD_LBL	Renommer
+IDS_DELETE_RECORD_LBL	Supprimer
+IDS_SHARE_RECORD_LBL	Partager
+IDS_EXTERNAL_SEARCH_BTN	Recherche externe
+IDS_EXTERNAL_SEARCH_SUB_MENU	Recherche externe
+IDS_SHOW_SCREEN_ICON	Afficher l'assistant de bureau
+IDS_SHOW_DA	Afficher fenêtre principale
+IDS_SHOW_CONTENT	Afficher contenu
+IDS_HIDE_CONTENT	Masquer contenu
+IDS_SEARCH_BTN	Rechercher
+IDS_REQUEST_CONTENT_BTN	Demander contenu
+IDS_RECORDING_BTN	Lancer l'enregistrement
+IDS_SHOW_CA_SWITCH	Afficher l'aide contextuelle
+IDS_HIDE_CA_SWITCH	Masquer l'aide contextuelle
+IDS_CA_SWITCH_INACTIVE_BTN	Aucune aide contextuelle disponible
+IDS_DO_CTX_RECOGNITION	Afficher l'aide contextuelle
+IDS_NAV_STANDBY	@{NAVIGATOR} est désactivé.
+IDS_NAV_NO_STANDBY	@{NAVIGATOR} est activé.
+IDS_SHOW_DA_PANELS	@{NAVIGATOR} est désormais disponible à nouveau. Vous pouvez utiliser le @{NAVIGATOR} si vous avez besoin d'aide.
+IDS_HIDE_DA_PANELS	@{NAVIGATOR} a disparu automatiquement car l'aide est disponible dans l'application qui est actuellement ouverte. Si vous avez besoin d'aide, ouvrez tout simplement l'aide dans l'application.
+IDS_ADD_STICKY_NOTES_BTN	Ajouter note adhésive
+IDS_ADD_STICKY_NOTES_INACTIVE_BTN	Vous pouvez ajouter une seule note adhésive pour cette application.
+IDS_EXIT_DA	Terminer
+IDS_EXIT_DA_BTN	Terminer
+IDS_EXIT_DA_SUB_MENU	Terminer
+IDS_SHOW_MORE	Afficher plus
+IDS_HIDE_MORE	Masquer plus
+IDS_REQUEST_CONTENT_SUB_MENU	Demander contenu
+IDS_SHOW_CA_SUB_MENU	Afficher l'aide contextuelle
+IDS_HIDE_CA_SUB_MENU	Masquer l'aide contextuelle
+IDS_ADD_STICKY_NOTE_SUB_MENU	Ajouter note adhésive
+IDS_RECORDING_SUB_MENU	Lancer l'enregistrement
+IDS_CA_SWITCH_SUB_MENU	Aide contextuelle
+IDS_SHARE_DLG_CAPTION	Partager document
+IDS_DELETE_FRAMES	Suppression des cadres
+OPEN_FOLDER	Ouvrir un dossier
+SHARE_DOC	Partager via e-mail
+IDS_SHARE_DLG_TEXT	Que voulez-vous faire ?
+IDS_SEARCH_BTN_SUB_MENU	Rechercher contenu
+IDS_LIBRARY_SEARCH_BTN_SUB_MENU	Rechercher contenu dans library
+GRACEFUL_DEGRADATION	Cette fonctionnalité est temporairement indisponible à cause de problèmes de réseau. \n\nVeuillez réessayer ultérieurement.
+SHARE_BTN	Partager via e-mail
+COPY_BTN	Copier lien
+SHARE_MAIL_SUBJECT	Contenu recommandé
+SHARE_MAIL_HEADER	Bonjour,\n\nCe contenu peut vous intéresser. \n\n
+SHARE_MAIL_FOOTER	Cordialement,
+SHARE_MAIL_LINK	Lien :\t
+SHARE_MAIL_CAPTION	Légende :\t
+SHARE_TITLE	Partager contenu
+SELECT_ASSET	Sélectionner un asset pour commencer
+ENTER_NAME	Saisissez un nom
+DELETE_RECORD_WRN	Avertissement : cette action ne peut pas être annulée.
+MSG_PA_NEXT_LBL	Suivant
+MSG_PA_STEP_LBL	Liste des étapes
+TOGGLE_STEPLIST_TOOLTIP	Afficher/Masquer liste des étapes
+PREVIEW_STEP_TOOLTIP	Prévisualiser étape
+NEXT_STEP_TOOLTIP	Passer à l'étape suivante
+PREV_STEP_TOOLTIP	Aller à l'étape précédente
+ROLES_TITLE	Rôles d'assistant de bureau
+ROLES_LBL	Filtrer contenu d'aide par rôle
+OK_CAPTION	OK
+CANCEL_CAPTION	Annuler
+BTN_YES	Oui
+BTN_NO	Non
+DELETE_CONFIRM	Voulez-vous vraiment supprimer cette note adhésive ?
+EXIT_CONFIRM	Voulez-vous vraiment quitter le @{NAVIGATOR} ?
+sticky_notes	Notes adhésives
+exit_da	Terminer @{NAVIGATOR}
+STICKY_NOTE_DEFAULT_TEXT	Ajoutez du texte ici.
+SEARCH_BTN_TOOLTIP	Rechercher
+NEXT_BTN_TOOLTIP	Suivant
+PREV_BTN_TOOLTIP	Précédent
+HIDE_BTN_TOOLTIP	Masquer carrousel
+IDS_PRJ_NAME	Entrer nom :
+IDS_APPLICATIONS	Sélectionner fenêtre :
+IDS_PRJ_LANGUAGE	Sélectionner langue :
+IDS_FULL_SCREEN	Plein écran
+IDS_CHOOSE_APP_CAPTION	Sélectionner application
+IDS_RECORD_BTN	Enregistrer
+IDS_ANALYZE_ACTIONS	Analyse des actions...
+IDS_PARSE_PROJECT	Analyse du projet...
+IDS_REGION	Région
+IDS_AREA_HELP	Modifiez la taille de la région en sélectionnant un modèle ci-dessous. Mettez à l'échelle le rectangle rouge pour sélectionner une région ou sélectionnez plein écran.
+IDS_CHOOSE_SIZE	Sélectionner taille :
+IDS_DEFINE_REC_AREA	Zone d’enregistrement
+IDS_DEFINE_NAME_LANG	Générer contenu
+PLEASE_SELECT	Sélectionnez
+quick_recorder.help_caption	Astuce
+quick_recorder.help	Utilisez la touche 'PAUSE' pour mettre en pause ou reprendre. \nUtilisez la touche 'FIN' pour terminer. \n\nSélectionnez 'OK' pour lancer l'enregistrement.
+quick_recorder.audio_help	Utilisez la touche 'PAUSE' pour mettre en pause ou reprendre. \nUtilisez la touche 'FIN' pour terminer. \n\nAudio :\nvotre fichier audio n'est pas enregistré lors d'un clic. Prononcez votre texte avant de sélectionner une commande. \n\nSélectionnez 'OK' pour lancer l'enregistrement.
+FILE_EXISTS	Un fichier portant ce nom existe déjà. Saisissez un autre nom.
+HELP_EXIT_CONTROL_H	Arrête le repassage et ferme le @{NAVIGATOR}.
+HELP_EXIT_CONTROL_T	Terminer
+BTN_CLOSE_DLG	Fermer
+DELETE_RECORD_WRN	Avertissement : cette action ne peut pas être annulée.
+ENTER_NAME	Saisissez un nom
+IDS_CLEAR_SEARCH	Réinitialiser la recherche
+IDS_RESET_ALL_TIP	Afficher de nouveau les conseils masqués en accédant à un écran pour la première fois.
+IDS_SEARCH_INPUT	Rechercher contenu d'aide
+LBL_DELETE	Supprimer
+LBL_NAVI_NO_MATCH	Aucun résultat pour votre recherche.
+LBL_TU	Ouv.
+MSG_PA_NEXT_LBL	Suivant
+MSG_PA_STEP_LBL	Liste des étapes
+RENAME_FAILED	'Renommer' a échoué.
+ROLES_LBL	Filtrer contenu d'aide par rôle
+SELECT_ASSET	Sélectionner un asset pour commencer
+LBL_CDOC	Ouvrir
+LBL_RECORD_DOCUMENT	Enregistrer document
+QR_CAPTION	Sélectionner le type d'enregistrement
+QR_WELCOME	Que voulez-vous créer ?
+QR_DOC_CAP	Document
+QR_DOC_TXT	Crée un document Microsoft Word qui affiche une capture d'écran et des instructions pour chaque action que vous enregistrez.
+QR_VIDEO_CAP	Vidéo
+QR_VIDEO_TXT	Crée une vidéo haute définition de votre enregistrement.
+QR_DOC_VIDEO_CAP	Document et vidéo
+QR_DOC_VIDEO_TXT	Crée un document et une vidéo.
+SHARE_ERR_CAP	Impossible de partager l'enregistrement
+SHARE_ERR_TXT	Cet enregistrement est trop volumineux et ne peut pas être partagé par e-mail.\nVoulez-vous ouvrir un emplacement de fichier à la place ?
+HELP_CONTENT_WINDOW_H	La fenêtre de contenu affiche les informations, les modes et la documentation disponibles pour le contenu sélectionné de la fenêtre principale.</br>La fenêtre de contenu peut être ancrée sur la fenêtre principale, ce qui permet de déplacer les deux fenêtres ensemble sur l'écran.
+HELP_CONTENT_WINDOW_T	Fenêtre de contenu
+IDS_CONTENT_BTN	Contenu
+MSG_PA_STEP_NOT_FOUND_NUMERAL_1	1.
+MSG_PA_STEP_NOT_FOUND_NUMERAL_2	2.
+SHARE_URL	URL de la page actuelle :
+ors	d'un clic. Prononcez votre texte avant de sélectionner une commande. \n\nSélectionnez 'OK' pour lancer l'enregistrement.

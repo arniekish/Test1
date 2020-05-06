@@ -1,0 +1,765 @@
+﻿NAVIGATOR	Desktop Assistant
+XRAY	Web Assistant
+LIBRARY	library
+MANAGER	Manager
+form_bubble	Formularboble
+bform_height	Højde
+bform_height.h	Definerer højden på den formularboble, der skal vises i pixels
+bform_width	Bredde
+bform_width.h	Definerer bredden på den formularboble, der skal vises i pixels
+bform_position	Position
+bform_position.h	Definerer position for formularboble (venstre, oppe) for justeringen 'Fri' på skærmen. Værdierne angives i pixels.
+paramAutoMergeComplete	Fletning af skærme afsluttet
+form	Formular
+application_contexts	Applikation
+﻿Application	Applikation
+highlight_offset	Offset
+AutoBarChooseApp	Vælg applikation
+AutoBarReRecManual	Klik på objekt
+BubbleOnActivate	Vis boblen direkte
+ClickOnAAPosition	Klik på applikationen for at definere rektanglet
+ClickOnPosition	Klik på en position i applikationen
+EnabledOnPgLoad	Aktivér
+HighlightOnActivate	Vis fremhævelsen direkte
+start_from_arbitrary	Start fra vilkårligt trin
+focus_step	Fokuslag
+focus_step.h	Kun guidet rundvisning\nViser et gråt lag for at fremhæve det nødvendige styreelement for det aktuelle trin.
+yes	Ja
+no	Nej
+light_mode	Interaktiv mode
+light_mode.h	Angiver at brugeren skal navigere i objektboblen til næste trin. Ingen sidegenkendelse udføres under afspilning.
+restricted_mode	Begrænset mode
+restricted_mode.h	Angiver, at kun den aktuelle aktion kan udføres. De andre styreelementer for applikationssiden spærres. \nIndstillingen kan anvendes, hvis 'Fokuslag' er aktiveret.
+show_highlight	Fremhævelser
+action	Aktion
+active_area	Aktivt område
+add_application_expl	Indsæt forklaring
+adv	Udvidet
+display_behavior	Visningsadfærd
+all_values	Alle værdier
+anim_steps	Animationstrin
+application_context	Applikation
+area	Område
+auto_merge	Flet skærmmakroer
+b_height	Højde
+form_on	Formularmode
+b_percent	Boble synlig (%)
+b_hide_option	Vis skjulningsmulighed
+b_minimizable	Kan minimeres
+b_closable	Kan lukkes
+b_minimized	Minimeret
+b_width	Bredde
+b_width.h	Definerer bredden på objektboblen i pixels
+bmain_minimizable	Kan minimeres
+bmain_position	Position
+bmain_win_style	Typografi
+bmain_size	Størrelse
+bmain_alignment	Justering
+bubble	Objektboble
+bubble_offset	Offset
+bubblestyle_d	Stil
+bubblestyle_init	Boblestil
+choose_appl_template	Vælg applikationsprofil
+choose_bool	Valgt værdi
+choose_nr	Valgt indeks
+choose_text	Valgt værdi
+target_static_text	optages som 'Sideidentifikator'.
+target_spec_warning	Advarsel: Ingen informationer om ny optagelse tilgængelige for dette styreelement
+prev_step	Trin -
+next_step	Trin +
+click	Museaktion
+click_pos	Klik på position
+click_pos_rel	Bobleposition
+config_file	Applikationsprofil
+define_target	Skærm
+display	Rediger hovedboble
+display_name	Vis navn
+drag	Træk
+drop	Slip
+dump_page	Skærmbillede
+elem_bubble	Objektboble
+element_type	Objekttype
+enabled	Aktiveret
+optional	Valgfri
+enter	Museindgang
+executable	Applikation
+explanation_d	Tekst
+explanation_d_modified	Oversæt manuelt
+explanation_long	Forklaring
+fh_mouseover	Hjælp ved mouseover
+fh_onelem	Ikon
+fh_tooltip	Værktøjstip
+fh_bubble	Boble
+step_list	Trinliste
+fieldicon	Objektbillede
+fieldname	Objektnavn
+find	Søg
+AutoBarChooseScn	Klik på tilsvarende skærm
+frame	Ramme
+g_highlight_bgr	Farve
+g_highlight_border	Ramme
+g_highlight_effect	Effekt
+global	Global
+hide_on_focuslost	Skjul ved mistet fokus
+hilight	Fremhæv
+input_radio	Valgknap/afkrydsningsfelt
+input_text	Inputtekst
+init	Initialiser
+key	Tast
+key_desc	Hurtigtast
+key_name	Tastekode
+key_press	Tastetryk
+lclick	Venstre klik
+ldblclick	Venstre dobbeltklik
+force_display	Fremtving visning
+auto_execute	Automatisk udførelse
+show_confirmation	Vis bekræftelsesknap
+show_confirmation.h	Definerer, om en bekræftelsesknap vises i objektboblen under playback. Knappen gør det muligt for brugeren at bekræfte en udført aktion, og efterfølgende vises næste trin.
+link_to_sim	Indsæt simuleringslink
+macro_comment	Kommentar
+main_bubble	Vindue
+match_value	Matchværdi
+mini_on_focuslost	Minimer ved mistet fokus
+enable_tincan	@{NAVIGATOR} Sporing
+nav_check_freq	Opdateringsfrekvens (min.)
+navigation	Desktop-guide
+new_screen_context	Ny skærm
+no_spike	Ingen spike
+pa_caption	Guidet rundvisning
+none	Ingen
+objname	Objektnavn
+orientation	Retning
+path	Objektsti
+position	Position
+rclick	Højre museklik
+rdblclick	Højre dobbeltklik
+record_activearea	Optag aktivt område
+record_application_context	Optag applikation
+no_control	Intet objekt tilgængeligt ved klikket position
+record_control	Optag objekt
+record_control_pa	Optag trin i guidet rundvisning
+record_define_target	Optag skærm
+record_display	Rediger hovedboble
+record_end_display	Rediger boble
+record_explanation	Tilføj forklaring
+record_object_context	Optag objekt
+record_screen_context	Optag skærm
+record_target_specializer	Optag sideidentifikator
+record_compatible_application	Optag kompatibel applikation
+reference	Kilde
+regexp	Regulært udtryk
+replace	Erstat
+replace_continue	Erstat og fortsæt...
+replace_pgkey_attr	Erstat sidenøgleattributter
+error_regexp	Ugyldigt regulært udtryk. Korriger dit input.
+resize	Tilpas vinduesstørrelsen
+revision	Revision
+sc_config_header	Profilinformation
+screen	Skærm
+screenhelp	Skærmhjælp
+screenshot_rect	Skærmbilledposition
+select_single	Vælg enkelt
+selected_merge	Flet valgte skærmmakroer
+show_bubble	Vis direkte
+show_hilight	Vis fremhævelse
+show_on_focus	Vis ved fokus
+source	Kilde
+start_unit	Stil konteksthjælp
+subkey	Tilladt som undernøgle
+script	Script
+target_name	Titel
+target_specializer	Sideidentifikator
+text_d	Inputtekst
+text_d_specializer	Inputtekst
+tolerance	Tolerance til fletning af skærmmakroer
+translate	Automatisk oversættelse
+autoTranslate	Oversæt project
+paramReRecordLanguage	Sprog
+merge_critical_macros	Flet makroer automatisk
+merge_critical_macros.h	Hvis du konverterer simuleringer til navigationer, kan du automatisk flette de skærme, der er oprettet således. Dette kombineres ved hjælp af den determinerede toleranceværdi i parameteren 'Flet tolerance for skærmmakroer'.
+uid	UID
+underline	Understreg
+update_control	Opdater objekt
+update_target	Opdater skærm
+variant	Variant
+win_rect	Vinduesstørrelse
+wizCancel	Afbryd
+wizFinish	Afslut
+wizNext	Næste
+wizOk	OK
+wizExplanation	Forklaring
+wizContinue	Fortsæt
+app_info	Vis applikation
+app_link_to_sim	Indsæt simuleringslink for applikation
+screen_info	Vis skærm
+screen_link_to_sim	Indføj simuleringslink til skærm
+object_info	Visningsvariant
+object_link_to_sim	Indsæt simuleringslink
+disabled	Inaktiveret
+record_context_assistant_include	Inkluder @{NAVIGATOR} projekt
+project_id	Projekttitel
+project_id.h	Parameteren indeholder det indsatte projekt. Knappen 'Rediger link' gør det muligt at vælge projektet i arbejdsområdet.
+project	Projekt
+context_assistant_include	Desktop-guideprojekt
+open_expanded	Vis udvidet hovedboble
+restart_option	Knappen Genstart
+next_project_id	Næste projekt
+next_project_id.h	Denne valgmulighed definerer et projekt, der startes efter afslutning af den aktuelle proces. Den nye proces startes direkte, og ingen slutboble vises.
+end_unit	Slut på rundvisning
+add_end_unit	Tilføj processlut
+demo	Demomode
+uebung	Øvelsesmode
+praxis	Parallel mode
+test	Testmode
+doc	Word-dokument
+pdf	PDF-dokument
+html	HTML-dokument
+ppt	PowerPoint-dokument
+explanation_type	Ikon
+note	Note
+info	Info
+tipp	Tip
+warnung	Advarsel
+no_image	Intet ikon
+display_on	Vis hovedboble på
+nav_start	Navigationsstart
+app_focus	Applikationsfokus
+screen_focus	Skærmfokus
+never	Vis ikke
+list_type	Listetype for skærm
+list_type.h	Denne parameter determinerer typen til oplistningen af objekterne i skærmen, hvis valgmuligheden 'Vis alle objektinformationer' aktiveres til dette.
+unordered_list	Punkttegn
+ordered_list	Nummerering
+convert_sn	Generer desktop-guide
+Application	Applikation
+obj_context	Objekt
+expl_context	Forklaring
+record_cntrl_type	Type
+disable_standby	Deaktiver standby-status (@{NAVIGATOR})
+disable_standby.h	Angiver, at standby-status for @{NAVIGATOR} ikke kan sættes. Hvis denne valgmulighed er inaktiveret, kan du sætte standby-status med genvejen 'CTRL + F11' eller ved at klikke på statusikonet.
+disable_exit	Skjul exit-entry (@{NAVIGATOR})
+disable_exit.h	Angiver, at entry 'Exit' i genvejsmenuen for statusikonet for @{NAVIGATOR} skjules.
+bcontent_style	Boblestil
+bcontent_style.h	Denne indstilling definerer, hvilken boblestil der skal anvendes til visning af boblen
+cache_properties	Cache
+cache_folder	Mappeplacering
+cache_folder.h	Angiver placeringen af cache-mappen 'NavigatorCache'. Standardplaceringen er '%localappdata%'. Du kan indtaste en brugerdefineret placering. \nBemærk: Navnet på cache-mappen kan ikke ændres.
+use_caching	Anvend cache
+use_caching.h	Aktiverer anvendelsen af cache @{NAVIGATOR}.
+function_keys	Funktionstaster
+minimize_da	Minimer
+minimize_da.h	Definerer funktionstast til minimering af hovedvindue
+next_tab	Vælg næste faneblad
+next_tab.h	Definerer funktionstast til valg af næste faneblad i hovedvindue
+next_screen	Gå til næste skærm
+next_screen.h	Definerer en funktionstast til at navigere til den næste skærm for et valgt projekt
+back	Gå tilbage
+back.h	Definerer en funktionstast til at gå til den foregående skærm
+toggle_standby	Skift standby-mode
+toggle_standby.h	Definerer funktionstast til skift af standby-mode
+abort	Afbryd
+abort.h	Definerer funktionstast til afbrydelse af desktop-guide
+restart	Genstart
+restart.h	Definerer funktionstast til genstart af desktop-guide
+start_pa	Start desktop-guideprojekt
+start_pa.h	Definerer funktionstast til start af valgt projekt
+start_demo	Start demomode
+start_demo.h	Definerer funktionstast til start af valgt demomode
+start_prac	Start øvelsesmode
+start_prac.h	Definerer funktionstast til start af valgt øvelsesmode
+start_test	Start testmode
+start_test.h	Definerer funktionstast til start af valgt testmode
+start_concur	Start parallel mode
+start_concur.h	Definerer funktionstast til start af valgt parallel mode
+start_book	Start bog
+start_book.h	Definerer funktionstast til start af valgt bog
+start_group	Åbn i library
+start_group.h	Definerer en funktionstast til at åbne en gruppe i library
+toggle_ctx_rec	Skift kontekstgenkendelse
+toggle_ctx_rec.h	Definerer funktionstast til skift af kontekstgenkendelse af desktop-guide
+select_next	Vælg næste entry
+select_next.h	Definerer en funktionstast til at vælge den næste entry i det aktuelle vindue
+select_prev	Vælg foregående entry
+select_prev.h	Definerer en funktionstast til at vælge foregående entry i det aktuelle vindue
+toggle_warning	Vis advarselsdialog
+toggle_warning.h	Definerer funktionstast til visning af advarselsdialog for desktop-guide
+execute_step	Udfør trin
+execute_step.h	Definerer funktionstast til udførelse af trin ved afspilning af guidet rundvisning
+copy_link	Kopier link
+copy_link.h	Definerer en funktionstast til kopiering af link til den valgte entitet
+maximize_trainer	Maksimer indholdsvindue
+maximize_trainer.h	Definerer en funktionstast til maksimering af indholdsvinduet.
+share_email	Del via e-mail
+share_email.h	Definerer en funktionstast til at dele indholdet af den valgte entitet via e-mail
+start_default	Start standardindhold
+start_default.h	Definerer en funktionstast til at starte standardmode eller selekteret dokument
+show_da_help	Vis hjælp til desktop-guide
+show_da_help.h	Definerer en funktionstast til at åbne hjælp til desktop-guide
+request_content	Forespørg om indhold
+request_content.h	Definerer en funktionstast til at rekvirere indhold for en applikationsside
+search_content	Søg indhold
+search_content.h	Definer en funktionstast til at søge efter indhold afhængigt af den valgte søgetype
+show_hidden_elems	Vis skjulte hjælpeelementer
+show_hidden_elems.h	Definerer en funktionstast til at vise skjulte hjælpeelementer
+toggle_side_bar	Vis/skjul sidepanel
+toggle_side_bar.h	Definerer en funktionstast til at vise og skjule sidepanelet
+content_library	Desktop-guide - indhold og adfærd
+content_library_window	Desktop-guide - stil og vinduer
+content_library_sidebar	Desktop-guide - sidepanel
+style	Stil
+style.h	Definerer udseendet af komponenter for desktop-guide (hovedvindue, indholdvindue, statusikon). Vælg en stilressource fra listen.
+show_only_bar	Vis kun sidepanel ved start
+show_only_bar.h	Definerer, om kun sidepanelet eller også hovedvinduet vises ved start af desktop-guiden
+clear_on_mismatch	Slet indholdsliste ved manglende overensstemmelse
+clear_on_mismatch.h	Definerer, at indholdslisten slettes, hvis ingen kontekst blev fundet. Med inaktiveret indstilling vises indholdet af det senest genkendte objekt.
+da_positioning	Hovedvinduesjustering
+da_positioning.h	Definerer justering af hovedvinduet på skærmen. Valgmuligheden 'Fri' gør det muligt at definere en position i parameteren 'Position for hovedvindue'.
+bar_positioning	Sidepanelsjustering
+bar_positioning.h	Definerer justering af sidepanelet på skærmen
+left_top	Øvre venstre hjørne
+left_center	Venstre midte
+left_bottom	Nedre venstre hjørne
+right_top	Øverste højre hjørne
+right_center	Højre midte
+top_center	Midte foroven
+right_bottom	Nedre højre hjørne
+center	Centreret
+free	Fri
+list_order	Indholdssortering
+list_order.h	Definerer sortering af tilgængeligt indhold i listen
+by_default	Projekt-explorer-struktur
+by_name	Alfabetisk
+by_type	Alfabetisk pr. type
+library_position	Hovedvinduesposition (fri)
+library_position.h	Definerer hovedvinduets position (venstre, top) for 'Fri' justering på skærmen. Værdier angives i pixels.
+search_url	Søg gruppe
+search_url.h	Gør det muligt for dig at angive en gruppe for arbejdsområdet til at søge indhold i @{LIBRARY}.
+enable_recording	Position: ’Optagelse’-styreelement
+enable_recording.h	Giver dig mulighed for at vise et styreelement til at optage processer. Du kan angive positionen for dette styreelement i sidepanelet.\nOptagelsen giver brugeren mulighed for at optage processer som Microsoft Word-dokumenter eller som videoer. En ’Brugerområde’-tab vises i hovedvinduet for at vise de optagede filer.
+enable_exit_da	Position: 'Afslut'-styreelement
+enable_exit_da.h	Giver dig mulighed for at vise et styreelement til at afslutte @{NAVIGATOR}. Du kan angive positionen for styreelementet i sidepanelet.
+enable_info	Vis fanebladet 'Info'
+enable_info.h	Aktiverer 'Info'-tabben for hovedvinduet for desktop-guiden. Indsæt en informationstekst i kortbeskrivelsen af desktop-guidegruppen.
+request_content_type	Rekvirer indholdstype
+request_content_type.h	Angiver funktionaliteten til rekvirering af indhold. Vælg en type fra rullelisten. \nE-mail: Giver dig mulighed for at indtaste en e-mail-adresse for forespørgslerne. \nURL: Giver dig mulighed for at indtaste en URL til åbning af en webside. \nEt ’Rekvirer indhold’-styreelement vises i sidepanelet. Hvis intet indhold findes, vises linket til rekvirering af indhold i hovedvinduet.
+email	E-mail
+url	URL
+enable_request_content	Position: 'Rekvirer indhold'-styreelement
+enable_request_content.h	Angiver positionen for 'Rekvirer indhold’-styreelementet i sidepanelet.
+enable_external_search_ctx	Angiv kontekstinformationer
+enable_external_search_ctx.h	Angiver yderligere kontekstinformationer for brugeren med søge-URL’en under søgningen. Kontekstoplysningerne anvendes til søgning. Aktiver indstillingen, hvis din angivne søgning kan anvende kontekstinformationerne. \nDe angivne kontekstinformationer angives i parameteren 'Kontekstinformationer’.
+external_search_ctx	Kontekstinformationer
+external_search_ctx.h	Angiver kontekstinformationerne, hvis indstillingen 'Angiv kontekstinformationer’ blev aktiveret. Følgende kontekstinformationer kan angives: EXE for den aktuelle applikation (&executable=$#{EXE}), sidenøglen for den aktuelle applikationsside (&pagekey=$#{PAGEKEY})\nBemærk: Ændr ikke strukturen for kontekstinformationsstrengen.
+enable_external_search	Position: 'Ekstern søgning'-styreelement
+enable_external_search.h	Giver dig mulighed for at aktivere en ekstern søgeside til at søge efter indhold eller yderligere informationer. Når indstillingen er aktiveret vises en ’Ekstern søgning’-styreelementet i sidepanelet. Du kan angive positionen for dette styreelement i sidepanelet. \nKnappen åbner et søgefelt til input af et søgekriterium. Søgeresultaterne vises på den eksterne søgeside. Du skal angive en søge-URL for den eksterne søgning i parameteren 'URL til ekstern søgning’.
+external_search_url	URL
+external_search_url.h	Tillader at du angiver en URL for den eksterne søgning. Indtast URL’en i følgende struktur:\nhttps://www.google.com/#q=$#{SEARCHTERM}\nhttps://www.bing.com/search?q=$#{SEARCHTERM}\nhttps://search.yahoo.com/search?p=$#{SEARCHTERM}\nhttps://www.wolframalpha.com/input/?i=$#{SEARCHTERM}\n\nBemærk: Slet, eller ændr ikke '=$#{SEARCHTERM}' i URL-parameteren.
+enable_share_content	Vis 'Del indhold'-styreelement
+enable_share_content.h	Viser knappen 'Del indhold' i bundlinien af hovedvinduet. Knappen åbner en dialogboks med linket til det valgte indhold.
+author_email	E-mail
+author_email.h	Gør det muligt for dig at angive en e-mail-adresse til at rekvirere indhold. E-mail-adressen anvendes til funktionen 'Rekvirer indhold'.
+author_url	URL
+author_url.h	Gør det muligt for dig at angive en URL til at rekvirere indhold. URL’en anvendes til funktionen 'Rekvirer indhold'.
+author_url_params	URL-parametre
+author_url_params.h	Giver dig mulighed for at angive parametre for forfatter-URL'en. \nDu kan angive applikationsnavnet og den eksekverbare enhed. Erstat værdien 'applikation' eller 'eksekverbar enhed' med det nødvendige navn.
+enable_fuzzy_match	Aktiver fuzzy-match
+enable_fuzzy_match.h	Definerer, om fuzzy-match anvendes til matching af kontekst for indhold med en applikationsside
+enable_ident_filter	Aktiver udvidet applikationsidentifikation
+enable_ident_filter.h	Angiver, at kun de relevante applikationsinformationer anvendes for @{NAVIGATOR}-afspilning. Det giver dig mulighed for at optimere performance for @{NAVIGATOR}.\nBemærk: Valgmuligheden kan medføre fejlagtig objektgenkendelse. Det anbefales at teste afspilningen, inden indholdet publiceres.
+library_size	Størrelse på hovedvindue
+library_size.h	Definerer størrelsen (bredde, højde) på hovedvinduet i pixels
+book_win_position	Indholdsvinduesposition (fri)
+book_win_position.h	Definerer indholdsvinduets position (venstre, top) for 'Fri' justering på skærmen. Værdier angives i pixels.
+book_win_size	Indholdsvindue størrelse
+book_win_size.h	Definerer størrelsen (bredde, højde) af indholdsvinduet i pixels.
+book_win_positioning	Indholdsvindue justering
+book_win_positioning.h	Definerer justering af indholdsvinduet på skærmen. Valgmuligheden 'Fri' gør det muligt at definere en position i parameteren 'Position for indholdsvindue'.
+errNoApplicationContext	Aktuel makro er ikke en applikationskontekst
+errNoTargetDefinition	Makroen stemmer ikke overens med måldefinitionen
+errExtractPagekey	Ikke muligt at ekstrahere sidenøgle med profil:
+errScreenshot	Skærmbillede kan ikke udføres. Forsøg igen.
+errLoadTemplate	Profil kan ikke indlæses:
+errRecordProcessStep	Trin i guidet rundvisning kan ikke optages for projekter med 'konteksthjælp'
+errLanguageSelection	Intet sprog valgt
+errNoWriteToken	Du har ingen skriverettighed for valgt objekt.
+errMacroSelection	Ingen makro valgt
+errObjectInformation	Ingen objektinformation på angiven position
+errSpecializedInformation	Ingen specialinformation på angiven position
+errPosition	Position ikke i vinduesområde
+errActionMacroSelection	Ingen aktionsmakro valgt
+errUpdateObject	Valgt objekttype kan ikke opdateres
+errInsertExplanation	Fri forklaring kan ikke indføjes for valgt makro
+action.h	Kun guidet rundvisning\nDenne valgmulighed definerer aktionen, som brugeren skal udføre på objektet.
+all_values.h	I visse tilfælde har objektet for en applikation valgmuligheder for værdier, der ikke kan dækkes af et standard-HTML-styreelement. Så derfor anvendes et styreelement, der er tættest på objektet i applikationen. Dette felt indeholder desuden alle de værdier, som objektet har som valgmuligheder.
+anim_steps.h	Værdien definerer, i hvor mange trin den valgte fremhævelseseffekt animeres. Lave værdier accelererer animationen men efterlader et hakket indtryk. Høje værdier gør animationen mere problemfri men gør også den samlede animationshastighed langsommere.
+auto_execute.h	Denne indstilling definerer at aktionen skal udføres automatisk under afspilning af navigation
+b_height.h	Definerer højden på objektboblen i pixels. Hvis tekstmængden overskrider den tilgængelige plads i boblen, skalerer den højdemæssigt automatisk til den påkrævede plads.
+b_hide_option.h	Kun konteksthjælp\nVed aktivering af denne valgmulighed vises der en indstilling i objektet eller forklaringsboblen, hvor objektinformation (boble og fremhævelse) kan inaktiveres af slutbrugerne. På denne måde kan brugerne skjule alle de informationer, de ikke længere har brug for.
+b_minimizable.h	Denne valgmulighed definerer, om boblen kan minimeres under playback. Når denne valgmulighed er aktiveret, vises en 'Minimer'-knap i bobletoppen.
+b_closable.h	Kun konteksthjælp\nDenne valgmulighed definerer, om boblen kan lukkes under playback. Når denne valgmulighed er aktiveret, vises en 'Luk'-knap i bobletoppen.
+b_minimized.h	Kun konteksthjælp\nDenne valgmulighed definerer, om objektboblen vises minimeret, når siden indlæses.
+bmain_size.h	Definerer størrelsen (bredde, højde) på hovedvinduet i pixels
+bmain_minimizable.h	Denne valgmulighed definerer, om hovedvinduet kan minimeres eller ej
+bmain_position.h	De indtastede værdier her definerer positionen af hovedvinduet på skærmen. Tallene beskriver afstanden fra det øverste venstre hjørne af skærmen i pixels.
+bmain_win_style.h	Definerer udseendet på hovedvinduet. Vælg stilressource fra listen.
+bmain_alignment.h	Definerer justering af hovedvinduet på skærmen. Valgmuligheden 'Fri' gør det muligt at definere en position i parameteren 'Vinduesposition'.
+bubble_offset.h	Denne valgmulighed definerer det offset i pixels, i hvilket objektboblen vises for objektet
+bubblestyle_d.h	Angiver, hvilken boblestilressource der skal anvendes til visning af objektboblen for projektet.
+bubblestyle_d.h	Angiver, hvilken boblestilressource der skal anvendes til visning af objektboblen for projektet.
+choose_bool.h	Dette felt indeholder den værdi, der determinerer, om valgknappen eller afkrydsningsfeltet er aktiveret eller ej. Værdien for en valgknap er altid '1' (til). Værdien for et afkrydsningsfelt kan være '0' (fra) eller '1' (til).
+choose_text.h	Denne parameter indeholder den tegnstreng, der blev fundet for den valgte entry i en popup-menu eller i et listefelt under den automatiserede registreringsproces. Denne streng indsættes i forklaringsbobletekster i de forskellige modes i stedet for pladsholderen '${choose_text}' (se tekstmode i HTML-editor). Den anvendes som et tekstmodul for den automatisk genererede bobletekst ved automatisk generering af bobleindhold med tekstmoduler under optagelse.
+click_pos.h	Beskriver positionen i applikationsvinduet, der blev klikket på af forfatteren ved optagelse af objektet. Positionen angives i pixels og henviser til det øverste venstre hjørne af applikationsvinduesindholdet.
+click_pos_rel.h	Beskriver positionen i applikationsvinduet. Værdien i procent (%) angiver positionen, der relaterer til den samlede bredde og højde på applikationsvinduet med den venstre og øverste kant, som referencepunkt.
+config_file.h	Indeholder navn på appl.profil, der anvendes til opret. af nøgle og som også anvendes til fortolkning af nøgle senere
+display_name.h	Angiver applikationsnavnet. Navnet vises i undtagelsesvinduet for en guidet rundvisning.
+dump_page.h	Indeholder den optagede skærm. \nDu kan ændre billedet ved hjælp af funktionen 'Erstat billede’.
+element_type.h	Beskriver den objektklasse, der blev genkendt af genkendelsesmekanismen
+enabled.h	Kun konteksthjælp\nDenne valgmulighed definerer, om makroen indarbejdes i analysen af siden eller ej. Ved inaktivering af denne valgmulighed vises hjælpeobjektet ikke, selvom det tilhørende objekt findes på siden.
+optional.h	Kun guidet rundvisning\nValgmuligheden definerer, om trinnet i den guidede rundvisning er valgfrit for brugeren i en proces. \nUnder afspilningen vises et andet ikon i trinlisten. Hvis styreelementet ikke er synligt på siden, eller hvis siden er forkert, springes trinnet over.
+executable.h	Indeholder eksekverbart navn på applikation, der anvendes af operativsystemet
+explanation_d.h	Indeholder informationer om det respektive indhold (tekst, links, billeder osv.). Sørg for en optimal visning af informationer i hovedboblen.
+explanation_d_modified.h	Hvis denne valgmulighed aktiveres, genereres kontekstinfo ikke længere automatisk i tilfælde af automatisk oversættelse, men skal i stedet for redigeres manuelt. Dette gør det lettere at beholde manuelle ændringer af bobleindholdet.
+fieldname.h	Indeholder navnet på det optagede styreelement, der indsættes i bobleteksterne. \nDu kan ændre objektnavnene i tekstfeltet. Objektnavnet har pladsholderen '$#{fieldname}'.
+fieldicon.h	Indeholder billedet af en optaget knap eller et optaget ikon, der er indsat i bobleteksterne. \nDu kan ændre objektbilledet ved hjælp af funktionen ’Erstat billede’. Objektbilledet har pladsholderen '$I{fieldicon}'.
+g_highlight_bgr.h	Dette definerer standardfarven på fremhævelsesrammerne i navigationen. Farven må indtastes direkte som en RGB-værdi i HEX-format eller vælges ud fra dialogboksen Farvevælger.
+g_highlight_border.h	Denne parameter definerer den generelle tykkelse af objektfremhævelsesrammen i pixels. Pixelbredder er tilgængelige fra '1' til '10'.
+g_highlight_effect.h	Denne valgmulighed determinerer den fremhævelseseffektart, der anvendes til objekterne i navigation
+hide_on_focuslost.h	Denne valgmulighed definerer, om boblen skjules, når fokus på skærmen forlader det relevante objekt
+highlight_offset.h	Denne parameter definerer det tilføjede pixeloffset for fremhævelsesrektanglet, der omgiver det markerede element.
+key.h	Indeholder alle kriterierne til at identificere applikationsvinduet og en bestemt side i applikationen. Nøglen matcher kun, hvis siden i målapplikationen opfylder alle de kriterier, der er defineret i nøglen. For at få en mindre stram definition af enkelte nøglekriterier er anvendelse af regulære udtryk tilladt.
+key_name.h	Denne parameter determinerer den anvendte nøgle eller genvej. Dette inkluderer adskillelse af nøglenavnene med mellemrum, fx: 'Ctrl+k'.
+key_desc.h	Denne parameter determinerer den anvendte nøgle eller genvej. Dette inkluderer adskillelse af nøglenavnene med mellemrum, fx: 'Ctrl+k'.
+force_display.h	Kun konteksthjælp\nAngiver at makroindholdet altid vises som strakshjælp, selvom strakshjælpen inaktiveres under afspilning af desktop-guiden.
+link_to_sim.h	Denne valgmulighed inkluderer simlueringslinket i hovedboblen. Denne valgmulighed er relateret til en navigation, der er oprettet baseret på et simuleringsprojekt (ved konvertering).
+macro_comment.h	Generel kommentar. Den vises i miniatureviewet.
+match_value.h	Denne valgmulighed angiver, om den viste værdi skal sammenlignes med den reelle værdi for objektet i liveapplikationen.
+mini_on_focuslost.h	Denne valgmulighed definerer, om boblen minimeres, når fokus på skærmen forlader det relevante objekt
+nav_check_freq.h	Definerer, hvor ofte @{NAVIGATOR} søger efter opdateret indhold. Hvis der er opdateret indhold tilgængeligt, starter @{NAVIGATOR} indholdet automatisk. Dette er særligt hensigtsmæssigt ved ændringshåndteringsprocesser.
+enable_tincan.h	Aktiverer sporing af indholdet af @{NAVIGATOR}. Indholdet skal startes fra et @{MANAGER}-arbejdsområde.
+no_spike.h	Denne valgmulighed definerer, om objektboblen vises med eller uden en spike
+objname.h	Ethvert objekt i en navigation kræver et entydigt navn til identifikationsformål ved anvendelse af adfærd og adfærdsallokeringer.
+orientation.h	Denne parameter definerer retningen af objektboblen relativt til det refererede objekt. Boblepilen peger på positionen, der er refereret på siden, mens boblen selv vises forskudt i forhold til den valgte retning, som angivet. Hvis retningen 'Centreret' er valgt, vises boblen uden en pil centreret på den definerede position.
+path.h	Objektstien beskriver egenskaberne for objektet baseret på den anvendte applikationsprofil. Objektstien anvendes til at identificere objektet i liveapplikationen. Som regel er det ikke nødvendigt at redigere dette felt manuelt.
+position.h	De indtastede værdier her definerer positionen for hovedboblen på skærmen. Tallene beskriver afstanden fra det øverste venstre hjørne af skærmen i pixels.
+reference.h	Hvis navigationen blev konverteret fra en simulering, skal kilden til det respektive trin angives her
+resize.h	Denne valgmulighed definerer, om vinduesstørrelsen på målapplikationen skal ændres automatisk til den størrelse, der er anvendt ved oprettelse af navigationen. Dette kan være nyttigt for aktive områder, da de vises positionsbaseret.
+revision.h	Viser versionen af den anvendte applikationsprofil til oprettelse af nøglen ved optagelse af applikationsskærmen.
+sc_config_header.h	Informationer fra applikationens profil gemmes i dette felt. Navigationen anvender disse informationer for at kunne genkende applikationen og dens objekter korrekt under playback.
+screenshot_rect.h	Viser, hvilket område i originalskærmen der blev anvendt til skærmbilledet for objektet. Som regel vil det ikke være nødvendigt at redigere denne værdi manuelt.
+show_bubble.h	Denne valgmulighed definerer, om boblen vises lige efter, at siden er indlæst fuldstændigt
+start_from_arbitrary.h	Denne valgmulighed definerer, at den guidede rundvisning kan startes fra et vilkårligt trin og ikke fra start på processen.
+show_hilight.h	Angiver om en fremhævelse vises for objektet.
+show_highlight.h	Angiver om fremhævelser vises for objekterne.
+show_on_focus.h	Denne valgmulighed definerer, om boblen vises, når fokus på skærmen skifter til det relevante objekt
+source.h	Hvis en navigation blev konverteret fra en simulering, angiver parameteren det oprindelige læringsmodul.
+subkey.h	I nogle tilfælde er det nyttigt, hvis bestemte dele af den oprindelige del af en nøgle ignoreres, fx fordi varianterne for en bestemt side ikke er relevante og alle skal håndteres efter samme nøgle og trin i nagivationen. Denne valgmulighed tvinger genkendelsesmekanismen til at betragte en nøgle som et match, selvom siden havde flere nøglekriterier rapporteret af genkendelsen end defineret i nøglen. Derfor kan sidenøglen forkortes, for at dække mere end en side med en nøgle.
+target_name.h	Indeholder navnet på applikationsvinduet
+text_d.h	Denne parameter indeholder den tegnstreng, der skal indtastes i det refererede inputfelt. Den indeholder den værdi, der blev indtastet under den automatiserede registreringsproces. Denne streng indsættes i forklaringsbobletekster i de forskellige modes i stedet for pladsholderen '${text_d}' (se tekstmode i HTML-editor) ved generering af bobleindhold automatisk med tekstmoduler under optagelsen.
+text_d_specializer.h	Denne parameter indeholder den tegnstreng, der skal indtastes i det refererede inputfelt. Den indeholder den værdi, der blev indtastet under den automatiserede optagelsesproces. Denne streng indsættes i forklaringsbobletekster i de forskellige modes i stedet for pladsholderen '${text_d}' (se tekstmode i HTML-editor) ved generering af bobleindhold automatisk med tekstmoduler under optagelsen.
+tolerance.h	Denne værdi definerer tolerancen for overensstemmelsesgraden ved fletning af 'Skærm'-makroer. Denne indstilling relaterer til funktionen 'Flet skærmmakroer', der kan startes via menuen 'Værktøjer -> Masseændringer'. Forøgelse af værdien øger tolerancetærsklen. Bemærk, at i dette tilfælde kan skærmbilleder, i hvilke forskellige objekter vises, også flettes. Værdien angives i procent.
+uid.h	Indeholder en entydig identifier for den makro, under hvilken den administreres i projektet.
+win_rect.h	Definerer vinduesstørrelsen ved oprettelse af et projekt
+explanation_type.h	Denne valgmulighed definerer notetypen. Afhængigt af indstillingstypen, vises der et piktogram sammen med teksten for at fremhæve den rådgivende tekst.
+app_info.h	Indstillingen definerer, om applikationen vises i konteksthjælpen. Hvis applikationen ikke skal vises, skal indstillingen inaktiveres.
+app_link_to_sim.h	Denne parameter kan anvendes til at vise et link til den angivne simulering i parameteren 'Kilde' udover konteksttypen. Forskellige modes kan vælges i processen.
+screen_info.h	Indstillingen definerer, om siden vises i konteksthjælpen. Hvis skærmen ikke skal vises, skal indstillingen inaktiveres.
+screen_link_to_sim.h	Denne parameter kan anvendes til at vise et link til den angivne simulering i parameteren 'Kilde' udover konteksttypen. Forskellige modes kan vælges i processen.
+object_info.h	Kun konteksthjælp\nIndstillingen definerer den variant, der skal vises for objektet.
+open_expanded.h	Hvis denne valgmulighed aktiveres, vises hovedboblen med åben side og objektliste
+display_on.h	Denne parameter definerer, i hvilken situation navigationshovedboblen skal vises. Ved start af navigationen, visning af applikationen eller visning af den tilhørende applikationsside.
+area.h	Denne parameter definer styreelementets position og størrelse. De første to tal viser positionen for et objekt fra venstre og øverste kant på skærmen. De sidste to tal definerer objektets bredde og højde. Knappen ved siden af inputfeltet åbner en redigeringsdialogboks, der gør det muligt for objektets position og størrelse at blive tilpasset.
+form_on.h	Definerer, at trin er formular. Alle trinaktioner vises i boblen ved afspilning.
+transition	Næste trin i guidet rundvisning
+transition_info	Næste trin i guidet rundvisning
+action_pa	Aktion
+trans_action	Aktion
+step_name1	Trin +
+step_name2	Alternativt trin 1
+step_name3	Alternativt trin 2
+step_name4	Alternativt trin 3
+LClick	Venstre klik
+RClick	Højre klik
+LDblClick	Venstre dobbeltklik
+RDblClick	Højre dobbeltklik
+Focus	Fokus
+FocusLost	Fokus mistet
+step	Trin i guidet rundvisning
+name	Navn
+end_message	Tekst
+show_end_window	Vindue til slut
+show_end_window.h	Angiver, at et vindue vises i slutningen af den guideded rundvisning. Vinduet giver brugeren mulighed for at lukke den guidede rundvisning manuelt. Hvis denne valgmulighed er inaktiveret, vises vinduet ikke, og den guidede rundvisning lukker automatisk.
+trans_action.h	Kun guidet rundvisning\nAngive den aktion, der udløser gå til næste trin i den guidede rundvisning.
+action_pa.h	Denne indstilling angiver, hvilken brugeraktion der udløser springet til næste trin i den guidede rundvisning
+step_name1.h	Kun guidet rundvisning\nDefinerer det næste trin i procesforløbet.
+step_name2.h	Kun guidet rundvisning\nDefinerer et alternativt procestrin, hvis det definerede trin i den guidede rundvisning ikke kan vises.
+step_name3.h	Kun guidet rundvisning\nDefinerer et alternativt trin i den guidede rundvisning, hvis det definerede alternative trin 1 i den guidede rundvisning ikke kan vises.
+step_name4.h	Kun guidet rundvisning\nDefinerer et alternativt trin i den guidede rundvisning, hvis det definerede alternative trin 2 i den guidede rundvisning ikke kan vises.
+step_on_same_page.h	Kun guidet rundvisning\nDenne indstilling skal aktiveres, hvis det næste trin i den guidede rundvisning er på samme applikationsside. Derved undgås en sidegenkendelse.
+name.h	Definerer navnet på trinnet i den guidede rundvisning. Navnet vises i indstillingerne 'Næste trin i guidet rundvisning' af en 'Objekt'-makro til selektionen.
+set_value	Sæt værdi automatisk
+set_value.h	Denne indstilling definerer, om værdien for makroen sættes automatisk under playback af navigationen.
+end_message	Tekst
+end_message.h	Der kan indtastes tekst i dette tekstfelt, der vises i boblen i slutningen af processen. Tekstfeltet er forudindstillet med en standardtekst.
+restart_option	Knappen Genstart
+restart_option.h	Når denne valgmulighed aktiveres, vises der en knap i boblen, som brugeren kan anvende til at gentage en proces. Dette gør det muligt at udføre en proces på ny med andre entries.
+record_end_display	Rediger boble
+end_bubble	Processlut for boble
+bend_position	Position
+bend_position.h	De indtastede værdier her viser positionen for boblen på skærmen. Værdierne angives i pixels og relaterer til det øverste venstre hjørne af skærmen.
+bend_style	Stil
+bend_style.h	Denne indstilling definerer, hvilken boblestil der skal anvendes til visning af boblen. Boblestile defineres ved hjælp af boblestileditoren, der kan åbnes via menuen 'Værktøjer' -> 'Rediger boblestile'. Boblestile er altid tilgængelige for hele arbejdsområdet.
+bend_width	Bredde
+bend_width.h	Definerer bredden på boblen, der skal vises, i pixels
+bend_height	Højde
+bend_height.h	Definerer højden på boblen, der skal vises, i pixels
+process_start_unit	Stil guidet rundvisning
+record_pa_control	Optag trin i guidet rundvisning
+prev_step	Trin -
+next_step	Trin +
+disqualifier	Ekskluder skærm
+disqualifier.h	Med 'Sideidentifikator' kan du adskille lignende applikationssider ved at anvende et specifikt objekt. Denne valgmulighed angiver, om den genkendte applikationsside skal vises eller ekskluderes, hvis 'Sideidentifikator' er tilgængelig. \nMiniatureviewet viser status for valgmuligheden: Et plustegn (ekskluder ikke) eller minustegn (ekskluder).
+exception_bubble	Bobleundtagelsesbehandling
+bexp_position	Position
+bexp_position.h	De indtastede værdier her definerer boblens position på skærmen. Værdierne angives i pixels. Boblen vises i det øverste venstre hjørne af skærmen.
+bexp_style	Stil
+bexp_style.h	Her kan den type boble, der ønskes anvendt, vælges. Boblestile kan defineres i boblestileditoren, der kan åbnes i menuen:  Værktøjer -> Rediger boblestile.  De forskellige boblestile er altid tilgængelige for hele arbejdsområdet.
+content_demo	Demomode
+content_demo.h	Med denne valgmulighed vises demomodes for en gruppe i desktop-guiden
+content_practice	Øvelsesmode
+content_practice.h	Med denne valgmulighed vises øvelsesmodes for en gruppe i desktop-guiden
+content_test	Testmode
+content_test.h	Med denne valgmulighed vises testmodes for en gruppe i desktop-guiden
+content_concurrent	Parallel mode
+content_concurrent.h	Med denne valgmulighed vises parallelle modes for en gruppe i desktop-guiden
+content_navi	Navigation
+content_navi.h	Med denne valgmulighed vises navigationerne for en gruppe i desktop-guiden
+content_documentation	Dokumentation
+content_documentation.h	Med denne valgmulighed vises dokumentationerne for en gruppe i desktop-guiden
+content_externals	Eksterne filer
+content_externals.h	Med denne valgmulighed vises de eksterne filer for en gruppe i desktop-guiden
+navi_style	Stil
+navi_style.h	Definerer udseendet på navigationsvinduet. Vælg stilressource fra listen.
+menu_path:/record	Optagelse
+F1HELPNAME	hjælp
+alignment	Boblejustering
+alignment.h	Definerer justeringen af boblevinduet på skærmen. Valgmuligheden 'Fri' gør det muligt at definere en position i parameteren 'Bobleposition'.
+bform_alignment	Justering
+bform_alignment.h	Definerer justeringen af formularboblevinduet på skærmen. Valgmuligheden 'Fri' gør det muligt at definere en position i parameteren 'Formularbobleposition'.
+gloss_bubble	Glossarboble
+gloss_bubble_style	Stil
+gloss_bubble_style.h	Definerer udseendet på glossarboblen. Vælg stilressource fra listen.
+ellipse	Cirkel
+gloss_bubble_size	Størrelse
+gloss_bubble_size.h	Definerer størrelsen (bredde, højde) på glossarboblen i pixels
+Navi	Desktop-guide
+exclude_from_da	Ekskluder fra desktop-guide
+exclude_from_da.h	Angiver, at sidenøgle ikke medtages ved kontekstgenkendelse i desktop-guide
+all_as_descr	Anvend tekst fra
+all_as_descr.h	Definerer teksttypen for @{NAVIGATOR}. Standard er 'Kortbeskrivelse'.
+consider_roles	Medtag roller
+consider_roles.h	Aktiverer anvendelsen af roller for visningen af indholdet under afspilning
+consider_categories	Medtag indholdskategorier
+consider_categories.h	Aktiverer anvendelsen af indholdskategorier til sortering af indholdet i hovedvinduet for @{NAVIGATOR}.
+disable_ca_in_pa	Skjul strakshjælp i guidet rundvisning
+disable_ca_in_pa.h	Definerer, om alle strakshjælpeinformationer skjules under playback af den guidede rundvisning. Når den guidede rundvisning er afsluttet, vises strakshjæpen igen.
+full_desc	Beskrivelse
+shrt_desc	Kort beskrivelse
+wrong_position	Positionsfejl
+help	Hjælp
+warning	Advarsel
+maintenance	Vedligeholdelse
+update	Opdater
+new	Ny
+training	Kursus
+attachment	Bilag
+link	Link
+tip	Tip
+note	Note
+compliance	Overholdelse af vilkår
+mini_bubble_style	Miniikonstil
+mini_bubble_style.h	Definerer en stilressource for miniikoner, der anvendes til projektet. Miniikonerne er en ressourcetype for de justerbare ressourcer. \nDer kan indstilles et ikon i hver aktion og forklaringsmakro ved at anvende parameteren 'Miniikontype' i afsnittet 'Udvidet'.
+mini_bubble	Miniikontype
+mini_bubble.h	Kun konteksthjælp\nDefinerer en type for miniikonet for objektet. Ikonet er baseret på den definerede 'Stil for miniikoner' i makroen 'Stil'.
+NavRecMouseWheel	Anvend mus for at fortsætte. Tryk på ESC for af afslutte rulning med musen.
+search_type	Søg type
+none	Ingen
+search_in_lib	I @{LIBRARY}
+search_in_da	Desktop-guidegruppe
+search_type.h	Angiver funktionaliteten til søgning efter indhold. Vælg en type fra rullelisten. \nIngen: Inaktiverer søgefunktionen. \nI @{LIBRARY}: Åbner @{LIBRARY} for søgning i @{LIBRARY}-indholdet. \nI desktop-guidegruppe: Viser tabben 'Søg' i hovedvinduet til søgning i indholdet for desktop-guiden.
+errObjectUpdate	Objekt kan ikke opdateres. Opdater objektet med en lignende type.
+config_headers_differ1	Profilinformationer er forældede. Klik på 'Fortsæt' for at opdatere projekt.
+config_headers_differ2	Det anbefales at oprette et arkiv før opdatering
+default_start_mode	Standardstartindhold
+default_start_mode.h	Definerer mode eller dokumentformat, der som standard skal startes fra indholdslisten
+default_start_doc	Standardstartdokument
+default_start_doc.h	Definerer dokumentarten, hvis et dokument er indstillet i indstillingen 'Standardstartindhold'
+show_next_btn	knappen Næste
+show_next_btn.h	Kun guidet rundvisning\nAngiver, om trykknappen 'Gå til næste trin' vises i objektboblen.
+condition	Betingelse
+condition.h	Under playback skal den indtastede værdi af brugeren matche betingelsen for at gå til næste trin eller gå til et bestemt trin. \nVælg 'Rediger betingelse' for at oprette eller redigere en betingelse.
+errDuplicateContext	Denne applikation er allerede optaget
+add_sticky_notes	Position: 'Tilføj Sticky Note'-styreelement
+add_sticky_notes.h	Gør det muligt, at tilføje et styreelement til tilføjelse af en Sticky Note på en side. Du kan angive en position for dette styreelement i sidepanelet.
+show_instant_help_btn	Position: 'Strakshjælp'-styreelement
+show_instant_help_btn.h	Giver dig mulighed for at vise et styreelement til at aktivere strakshjælpen. Du kan angive positionen for styreelementet i sidepanelet.
+show_carousel	Vis karrusel
+show_carousel.h	Denne valgmulighed viser desktop-guide i karruselmode
+condition_pattern	Betingelsesmønster
+condition_pattern.h	Angiver mønstret, der anvendes til betingelsen
+condition_value	Betingelsesværdi
+condition_value.h	Indeholder værdien, der anvendes for betingelsen. Indtast en tekst eller et tal baseret på det valgte mønster.
+condition_jump_target	Gå til-mål
+condition_jump_target.h	Kun guidet rundvisning\nAngiver et gå til-mål for betingelsen. Vælg et trin fra rullelisten. Navigationen går til det angivne trin, hvis betingelsen matcher.
+condition_text	Betingelsestekst
+condition_text.h	Indeholder en tekst, der skal vises, hvis betingelsen ikke opfyldes
+condition_case_sensitive	Forskel på store og små bogstaver
+condition_case_sensitive.h	Angiver at betingelsen gør forskel på store og små bogstaver
+condition_ignore_on_load	Ignorer ved indlæsning af side
+condition_ignore_on_load.h	Kun konteksthjælp\nAngiver, at betingelsen ikke er markeret ved indlæsning af siden. Betingelsen markeres, når det tilsvarende styreelement anvendes. Derved undgås at betingelsesboblen vises direkte.
+c_equals	Er lig med
+c_not_equals	Er ikke lig med
+c_greater	Er større end
+c_greater_equals	Er større end eller lig med
+c_less	Er mindre end
+c_less_equals	Er mindre end eller lig med
+c_min_char	Mindste antal tegn
+c_max_char	Maksimalt antal tegn
+c_num_char	Antal tegn er lig med
+c_reg_exp	Regulært udtryk
+vertical	Vertikalt
+horizontal	Horisontalt
+AutoBarReady	Inaktiv
+AutoBarExplanation	Indsæt forklaring
+AutoBarChooseApp	Vælg applikation
+AutoBarRecord	Optag
+AutoBarBusy	Optaget
+AutoBarPause	Pause
+AutoBarReRecManualHotspot	Rediger styreelement: Tryk på Ctrl+ENTER for at fortsætte med ændringer. Tryk på Esc for at forkaste ændringerne.
+wizAddExplanation	Tilføj forklaring
+AutoBarNoRecognition	Ingen styreelementer genkendt
+AutoBarDiagnosis	Diagnose
+condition_bubblestyle	Boblestil
+condition_bubblestyle.h	Definerer hvilken boblestilressource skal anvendes til at vise betingelsesteksten
+condition_highlight_bgr	Fremhævelsesfarve
+condition_highlight_bgr.h	Definerer farven på fremhævelsen for styreelementet
+IDS_MPI_TOURSTOP_LABEL	Navn
+IDS_MPI_TOURSTOP_LABEL_MODIFIED	Oversæt manuelt
+IDS_MPI_TOURSTOP_NAME	UID
+IDS_MPI_TOURSTOP_SHOW	Vis i fremdriftsvisning
+IDS_MPI_TOURSTOP_JUMP	Gå til-mål
+IDS_MPI_TOURSTOP_CALLABLE	Er underprogram
+basic_info	Basis
+IDS_NO_IMAGE_SELECT	Intet billede valgt
+IDS_NO_IMAGE	Billede ikke fundet
+ID_INSERT_TAKE	Tilføj trin
+ID_PRJ_LAYOUT_HORZ	Horisontalt layout
+ID_PRJ_LAYOUT_VERT	Vertikalt layout
+ID_PRJ_LAYOUT_DIV	Opdelt layout - 1
+ID_PRJ_LAYOUT_4	Opdelt layout - 2
+ID_PRJ_LAYOUT_5	Opdelt layout - 3
+IDS_UNTITLED	(uden titel)
+docTableHeaderStep	Trin
+layout_advanced	Avanceret layout
+showEditorHelp	Vis hjælp til webeditor
+slide:insert_tb	Indføj
+slide:action_tb	Aktion
+slide:structure_tb	Struktur
+slide:view_tb	Vis
+existing_scrs_in_prj	Den aktuelle skærm anvendes allerede mere end en gang i dit projekt. \nVælg den skærm, hvor du vil tilføje de optagede objekter.
+start_topic	Start
+guided_tour	Guidet rundvisning
+context_help	Konteksthjælp
+off	Fra
+main_bar_1	Hovedlinie 1
+main_bar_2	Hovedlinie 2
+main_bar_3	Hovedlinie 3
+main_bar_4	Hovedlinie 4
+main_bar_5	Hovedlinie 5
+main_bar_6	Hovedlinie 6
+main_bar_7	Hovedlinie 7
+main_bar_8	Hovedlinie 8
+sub_menu_1	Undermenu 1
+sub_menu_2	Undermenu 2
+sub_menu_3	Undermenu 3
+sub_menu_4	Undermenu 4
+sub_menu_5	Undermenu 5
+sub_menu_6	Undermenu 6
+content_btn	Position: 'Indhold'-styreelement
+content_btn.h	Angiver positionen for 'Indhold’-styreelementet i sidepanelet.
+search_btn	Position: 'Søgning'-styreelement
+search_btn.h	Angiver positionen for 'Søgning’-styreelementet i sidepanelet.
+orCenter	Central
+orNorth	Nord
+orWest	Vest
+orNortWest	Nordvest
+orEast	Øst
+orNortEast	Nordøst
+orSouth	Syd
+orSouthWest	Sydvest
+orSoutEast	Sydøst
+screen_tolerence	Tolereret skærmdifference (%)
+screen_tolerence.h	Denne parameter definerer det nødvendige grafikmatch mellem den viste skærmside og det registrerede skærmbillede i procent, for at de tilhørende kontekstinformationer kan vises. Hvis grafafvigelserne ligger over den definerede værdi, sammenligner @{NAVIGATOR} den registrerede sidenøgle med skærmsiden og viser det relevante indhold for en anden applikationsside.
+video_folder	Mappe til videooptagelser
+video_folder.h	Angiver mappen til lagring af videooptagelser. \nBemærk: Videooptagelser gemmes ikke i cache-mappen for @{NAVIGATOR} pga. deres filstørrelse.
+allow_video_rec	Tillad videooptagelse
+allow_video_rec.h	Giver brugere mulighed for at optage videoindhold.
+hide_da_on_web_assistant	Skjul @{NAVIGATOR} ved kørsel @{XRAY}
+hide_da_on_web_assistant.h	Angiver, at @{NAVIGATOR} vinduer skjules, når @{XRAY} kører i forgrunden.
+show_web_assistant_msg	Vis @{XRAY} meddelelse
+show_web_assistant_msg.h	Angiver, at en meddelelse vises, når @{XRAY} kører i forgrunden, eller afslutter forgrundsmode.
+auto_hide	Skjul efter animation
+auto_hide.h	Hvis denne option aktiveres, skjules fremhævelsen automatisk igen, lige efter animationen er færdig.
+bmain_height	Højde
+bmain_height.h	Definerer højden på hovedboblen i pixels. Hvis tekstmængden overskrider den tilgængelige plads i boblen, skalerer den højdemæssigt automatisk til den påkrævede plads.
+bmain_style	Stil
+bmain_style.h	Denne indstilling definerer, hvilken bobletype der skal anvendes til visning af hovedboblen. Bobletyper defineres ved hjælp af 'Bobletypeeditoren', der kan startes fra menuen 'Værktøjer' -> 'Rediger bobletyper'. Bobletyper er altid tilgængelige for hele arbejdsområdet.
+bmain_width	Bredde
+bmain_width.h	Definerer bredden på hovedboblen i pixels
+bottom_dock	Forankret forneden
+cache_stale_interval	Forældet interval (min)
+cache_stale_interval.h	Aktiverer anvendelsen af @{NAVIGATOR}-cache og definerer en tidsramme til at opdatere indholdet i cache-mappen. Værdien defineres i minutter. \nÆndr værdien til '0' for at inaktivere cachen.
+centered	Centreret
+close_details	Luk indholsvindue
+close_details.h	Definer funktionstast til lukning af indholdsvindue for valgt projekt
+confirmation_hotkey	Hurtigtast for trinbekræftelse
+confirmation_hotkey.h	Definerer en hurtigtast til bekræftelse af trin under afspilning af procesguide
+detail_positioning	Indholdsvinduesjustering
+detail_positioning.h	Definerer justering af indholdsvinduet på skærmen. Indholdsvinduet forankret til hovedvinduet, undtagen i justeringen 'Centreret'.
+detail_size	Indholdsvinduesstørrelse
+detail_size.h	Definerer størrelsen (bredde, højde) på indholdsvinduet i pixels
+enable_search	Aktiver fanebladet Søgning
+enable_search.h	Aktiverer søgefunktion i desktop-guideindhold
+h_dock	Forankret horisontalt
+icon_position	Ikonposition
+icon_position.h	De indtastede værdier her definerer ikonets position på skærmen. Værdierne angives i pixels. Ikonet vises i det øverste venstre hjørne af skærmen.
+leaves_page	Afslutter skærm
+leaves_page.h	Denne valgmulighed viser navigationen, at den påkrævede aktion for dette objekt medfører indlæsning af en ny side. En ny sideanalyse udføres, så snart aktionen er udført for objektet, og siden er færdig med at indlæse.
+left_dock	Forankret venstre
+library_height	Boblehøjde
+library_height.h	Denne indstilling definerer højden på boblen i pixels.
+library_width	Boblebredde
+library_width.h	Denne indstilling definerer bredden på boblen i pixels.
+maximize_details	Maksimer indholdsvindue
+maximize_details.h	Definerer funktionstast til maksimering af indholdsvindue
+next_doc	Vælg næste dokument
+next_doc.h	Definerer funktionstast til valg af næste dokument i indholdsvindue
+next_project	Vælg næste projekt
+next_project.h	Definerer funktionstast til valg af næste projekt i hovedvindue
+open_content	Åbn indhold
+open_content.h	Definerer en funktionstast til at åbne et valgt indholdsobjekt
+open_details	Åbn indholdsvindue
+open_details.h	Definerer funktionstast til åbning af indholdsvindue for valgt projekt
+prev_doc	Vælg foregående dokument
+prev_doc.h	Definerer funktionstast til valg af foregående dokument i indholdsvindue
+prev_project	Vælg foregående projekt
+prev_project.h	Definerer funktionstast til valg af foregående projekt i hovedvindue
+right_dock	Forankret til højre
+show_execute	Vis knappen Udfør
+show_execute.h	Definerer, om en udførelsesknap vises i objektboblen under afspilning. Knappen gør det muligt for brugeren at udføre en aktion i applikationen, og efterfølgende vises næste trin.
+show_icon_on_start	Vis statusikon ved start
+show_icon_on_start.h	Definerer for start af desktop-guide, om statusikon vises i stedet for hovedvindue
+start_doc	Åbn dokument
+start_doc.h	Definerer funktionstast til åbning af valgt dokument fra indholdsvindue
+step_on_same_page	Trin på samme side
+top_dock	Forankret foroven
+v_dock	Forankret vertikalt

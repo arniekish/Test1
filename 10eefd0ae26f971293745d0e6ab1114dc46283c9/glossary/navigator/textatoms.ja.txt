@@ -1,0 +1,313 @@
+﻿#	英語テキスト Atom
+BULLET	&#149;
+NEWLINE	\r\n
+TOK_COMPANY	SAP
+TOK_LIB	コース
+TOK_TOUR	レッスン
+TOK_TRAINER	Desktop Assistant
+TOK_AUTOMATION	epo
+NAVIGATOR	Desktop Assistant
+NAV_LIBRARY	library
+BTN_ABORT	終了
+BTN_CLOSE	終了
+BTN_OK	OK
+BTN_CLOSE_DLG	閉じる
+BTN_CONTINUE	続行
+BTN_PREVIEW	プレビュー
+BTN_PROCEED	続行
+BTN_RESTART	再起動
+BTN_SKIP	ステップのスキップ
+BTN_START	開始
+BTN_STOP	停止
+BTN_EXECUTE	実行
+CA_SWITCH	コンテキストヘルプ
+CONTENT_CAP	コンテンツ
+MAIL_SUBJECT	デスクトップアシスタントのコンテンツ依頼
+MAIL_HEADER	作成者様\n\n次のコンテンツを依頼いたします。
+MAIL_FOOTER	- プロセス/トランザクション: 現在使用中のアプリケーションプロセスについて説明してください。\n\n- テキスト: 必要な情報について説明してください。\n\nよろしくお願いいたします。
+MAIL_DATA	- アプリケーション名:
+MAIL_TOOLTIP	コンテンツ依頼
+SHARE_TOOLTIP	コンテンツ共有
+REQUEST_TEXT	コンテンツを依頼するには %s をクリックしてください
+REQUEST_LINK	こちら
+SEARCH_CAP	検索
+INFO_CAP	情報
+SETTINGS_CAP	設定
+BACK_TOOLTIP	前画面
+SHARE_CONTENT_TOOLTIP	コンテンツ共有
+CB_HIDE_OPTION	再び表示しない
+MY_ROLES	My ロール
+EDIT_ROLES	ロール変更
+NO_ROLES	ロールなしのコンテンツ表示
+SELECT_ALL_CAPTION	全選択
+USER_CAPTION	ユーザエリア
+READ_MORE	続きを読む...
+NO_CATEGORY_CAPTION	その他コンテンツ
+DELETE_FAILED	削除操作が失敗しました。
+RENAME_FAILED	名称変更操作が失敗しました。
+FILE_EXISTS	同名のファイルがすでに存在します。別の名称を入力してください。
+LBL_YES	はい
+LBL_DELETE	削除
+LBL_NO	いいえ
+LBL_OK	OK
+DELETE_DLG_TEXT	選択したドキュメント (%N) を削除しますか。
+LBL_CONCURRENT	実践モード開始
+LBL_DA	デスクトップアシスタント
+LBL_SIM	シミュレーション開始
+LBL_CDOC	開く
+LBL_DEMO	デモモード開始
+LBL_NAVI	ガイドツアー開始
+LBL_BOOK	ブックの再生
+LBL_GROUP	Library で開く
+LBL_NAVIGATION	デスクトップアシスタント
+LBL_PA	ガイドツアー
+LBL_PRACTICE	練習モード開始
+LBL_SIMULATION	シミュレーション
+LBL_BOOKPAGE	ブックページ表示
+LBL_TEST	テストモード開始
+LBL_RECORD_DOCUMENT	ドキュメント記録
+MSG_AUTOMATION_FINISHED	自動化が終了
+MSG_AUTOMATION_FINISHED_2	自動プロセスを再開するには '再起動' をクリックします。
+MSG_AUTOMATION_START	記入値を編集する
+MSG_AUTOMATION_START_2	以下の値をチェックする、あるいは編集してください。 これらは、プロセス中に自動的に記入されます。
+MSG_EPO_DIALOG	電子プロセスオプティマイザ
+MSG_NAVI_LIBRARY_NO_APP	利用できる情報はありません。
+LBL_NAVI_NO_MATCH	検索結果がありません。
+NO_RECORDS	利用可能なドキュメントはありません。
+MSG_NAVI_LIBRARY_SUBTITLE	利用可能コンテンツ:
+MSG_NAVI_LIBRARY_TITLE	デスクトップアシスタント
+MSG_NOT_APPLICABLE	編集不可能
+MSG_PA_CONTROL_STEP	ステップに必要なアクション:
+MSG_PA_EXPLANATION_STEP	下に表示されている画面にナビゲートしてください。
+MSG_PA_FORM_STEP	フォームの入力必須項目:
+MSG_PA_DIALOG	ガイドツアー
+MSG_PA_START_SCREEN	開始画面を開きます。
+MSG_PA_STEP_NOT_FOUND	必要な画面に切り替えます
+MSG_PA_STEP_NOT_FOUND1	ターゲットアプリケーション (@{TARGETAPPNAME}) が開いていることを確認してください。
+MSG_PA_STEP_NOT_FOUND2	下記の強調表示されたコントロールを使用して画面にナビゲートしてください。
+MSG_STEP_LIGHT	ステッププレビュー
+MSG_STEP_NOT_FOUND	ガイドツアーステップが見つかりません。
+MSG_STEP_NOT_FOUND_2	ターゲットアプリケーションのタイトルバーをクリックするか、または正しい画面にナビゲートしてください。<br><br>希望する画面を照会するには、'プレビュー' をクリックします。
+PA_FINISHED	ガイドツアーが終了しました。
+PROJECT_TITLE	プロジェクトタイトル
+TRAY_INFO_BUBBLE_HEADING	ガイドツアー
+TRAY_INFO_BUBBLE_TEXT	現在のステップを表示できません。詳細についてはここをクリックしてください。
+RESTRICTED_BUBBLE_HEADING	アクションブロック済
+RESTRICTED_BUBBLE_TEXT	現在のステップが確認されるまで、アクションを実行することはできません。
+HELP_TITLE	ヘルプ
+HELP_INTRO	ヘルプでは、@{NAVIGATOR} の主要部分および機能に関する概要が提供されます。</br></br><b>注記: </b> 利用できる機能は @{NAVIGATOR} の設定に依存します。</br>
+HELP_TITLE_DA	サイドバーおよびウィンドウ
+HELP_SIDEBAR_T	サイドバー
+HELP_SIDEBAR_H	このサイドバーから @{NAVIGATOR} の主な機能を開始することができます。 機能ごとにボタンが表示されます。 このサイドバーは、ドラッグ & ドロップで移動することができ、サイドバーの枠をクリックすることによって最小化および最大化を行うことができます。
+HELP_CONTENT_CONTROL_T	コンテンツ
+HELP_CONTENT_CONTROL_H	コンテンツが利用可能かどうかを示します。コンテンツを含むメインウィンドウを開きます。
+HELP_SEARCH_CONTROL_T	検索
+HELP_SEARCH_CONTROL_H	コンテンツを検索するための検索を開きます。
+HELP_EXTSEARCH_CONTROL_T	外部検索
+HELP_EXTSEARCH_CONTROL_H	コンテンツを検索するための外部検索を開きます。
+HELP_STICKY_CONTROL_T	ふせん追加
+HELP_STICKY_CONTROL_H	現在のアプリケーションウィンドウに対するふせんを挿入します。ふせんに対するテキストを入力できます。
+HELP_RECORDING_CONTROL_T	レコーディングの開始
+HELP_RECORDING_CONTROL_H	プロセスのレコーディングを開始します。レコードされたプロセスはユーザエリアでドキュメントとして保存されます。
+HELP_MAIN_WINDOW_T	メインウィンドウ
+HELP_MAIN_WINDOW_H	メインウィンドウには、特定のページコンテキストに利用できるコンテンツが表示されます。</br>ガイドツアーの再生中に、このウィンドウにステップ一覧が表示されます。
+HELP_HEADER_T	ヘッダ
+HELP_HEADER_H	ヘッダのステータスアイコンによって、コンテンツを現在のコンテキストに利用できるかどうかが示されます。
+HELP_CONTENT_TAB_T	コンテンツタブ
+HELP_CONTENT_TAB_H	タブには、現在のアプリケーションに関して利用可能なコンテンツが表示されます。
+HELP_CONTENT_VIEW_T	コンテンツビュー
+HELP_CONTENT_VIEW_H	コンテンツビューには、選択したコンテンツに関して利用可能な情報、モードおよびドキュメンテーションが表示されます。</br>'前画面' コントロールを使用して、コンテンツ一覧に戻ることができます。
+HELP_SEARCH_TAB_T	検索タブ
+HELP_SEARCH_TAB_H	このタブでは、現在のコンテキストに対する特定のコンテンツを検索することができます。
+HELP_INFO_TAB_T	情報タブ
+HELP_INFO_TAB_H	このタブには @{NAVIGATOR} に関する一般情報が表示されます。
+HELP_USERAREA_TAB_T	ユーザエリアタブ
+HELP_USERAREA_TAB_H	タブにはレコードされたプロセスドキュメントが含まれます。ドキュメントを開く、共有する、または削除することができます。追加プロセスをレコードすることができます。
+HELP_INSTANT_T	インスタントヘルプ
+HELP_INSTANT_H	設定を有効化することにより、追加コンテキスト情報が現在のアプリケーション画面に表示されます。 この設定はデフォルトで有効になっています。
+HELP_REQCONTENT_T	コンテンツ依頼
+HELP_REQCONTENT_H	欠落しているコンテンツを作成者に依頼するための電子メールウィンドウを開きます。
+HELP_SETTINGS_T	設定
+HELP_SETTINGS_H	このビューには @{NAVIGATOR} コンテンツの表示に関する設定が含まれます。
+HELP_MYROLES_T	My ロール
+HELP_MYROLES_H	この設定により割当済ロールのコンテンツが表示されます。
+HELP_WITHOUTROLES_T	ロールなしのコンテンツ表示
+HELP_WITHOUTROLES_H	この設定により割当済ロールなしのコンテンツが表示されます。
+HELP_EDITROLES_T	ロール
+HELP_EDITROLES_H	コンテンツに使用されるすべてのロールが一覧にされ、コンテンツの表示に対して有効化または無効化することができます。
+HELP_SHARECONTENT_T	コンテンツ共有
+HELP_SHARECONTENT_H	コンテンツへのリンクを含むダイアログボックスを開きます。このリンクは他のユーザと共有することができます。
+HELP_REQUESTCONTENT_T	コンテンツ依頼
+HELP_REQUESTCONTENT_H	特定のケースに対してコンテンツを依頼するための事前定義された電子メールを開きます。
+HELP_PLAYBACK_CONTENT_T	コンテンツ再生
+HELP_PLAYBACK_CONTENT_H	利用できるコンテンツは、コンテンツウィンドウのボタンを使用して開始または開くことができます。
+HELP_MINIMIZED_STATUS_T	最小化ステータス
+HELP_MINIMIZED_STATUS_H	メインウィンドウを閉じた際、コンテンツが現在のコンテキストに利用できる場合は、フローティングステータスアイコンが表示されたままになります。 メインウィンドウを復元するにはアイコンをクリックします。
+HELP_MINIMIZED_MENU_T	コンテキストメニュー
+HELP_MINIMIZED_MENU_H	コンテキストメニュー (アイコンを右クリック) には、メインウィンドウおよびコンテキストヘルプを表示する機能が含まれています。
+HELP_BOOK_WINDOW_T	ブックウィンドウ
+HELP_BOOK_WINDOW_H	ブックを再生するとブックウィンドウが開きます。メインウィンドウおよびコンテンツウィンドウは非表示になります。
+HELP_GOTOTOP	一番上へ
+HELP_CAPTION	@{NAVIGATOR} ヘルプ
+NAVHELP_TITLE	ステータスアイコンおよびコンテキストメニュー
+NAVHELP_INTRO	</br>このヘルプでは、ステータスアイコンおよびコンテキストメニューエントリに関する概要が表示されます。
+NAVHELP_STATUS_ICON_T	ステータスアイコン (タスクバー)
+NAVHELP_STATUS_ICON_H	このステータスアイコンはタスクバーに配置され、@{NAVIGATOR} の現在のアクティビティを表示します。次のステータスがあります:
+NAVHELP_STATUS_FOUND_T	コンテンツ利用可能 (緑のアイコン)
+NAVHELP_STATUS_FOUND_H	現在のコンテキストに利用できるコンテンツが表示されます。
+NAVHELP_STATUS_CHECK_T	コンテンツロード中 (黄色のアイコン)
+NAVHELP_STATUS_CHECK_H	@{NAVIGATOR} では、利用可能コンテンツの現在のコンテキストがチェックされ、コンテンツがロードされます。
+NAVHELP_STATUS_NOFOUND_T	利用可能コンテンツなし (赤のアイコン)
+NAVHELP_STATUS_NOFOUND_H	コンテンツは現在のコンテキストには利用できません。
+NAVHELP_STANDBY_T	無効
+NAVHELP_STANDBY_H	@{NAVIGATOR} は無効です。ステータスアイコンをクリック (<i>CTRL + F11</i>) すると、@{NAVIGATOR} が無効化または有効化されます。
+NAVHELP_STATUS_MIN_T	最小化
+NAVHELP_STATUS_MIN_H	ウィンドウとサイドバーが最小化されます。
+NAVHELP_STATUS_MENU_T	コンテキストメニュー
+NAVHELP_STATUS_MENU_H	コンテキストメニュー (アイコンを右クリック) には、@{NAVIGATOR} の一般機能が含まれます。
+NAVHELP_VERSION_T	バージョン表示
+NAVHELP_VERSION_H	インストールされている @{NAVIGATOR} のバージョン番号を表示します。 これは、問題が発生した際にサポートに連絡する場合に必要です。
+NAVHELP_JSCONSOLE_T	JavaScript コンソール
+NAVHELP_JSCONSOLE_H	JavaScript コンソールを表示して、詳細なエラーメッセージを出力します。 これは、問題が発生した際にサポートに連絡する場合に必要です。
+NAVHELP_NAV_CACHE_T	ローカルキャッシュ削除
+NAVHELP_NAV_CACHE_H	@{NAVIGATOR} コンテンツのローカルキャッシュを削除します。
+NAVHELP_RESET_HIDDEN_T	すべての非表示ヘルプ再表示
+NAVHELP_RESET_HIDDEN_H	再生中に '非表示' に設定されたヘルプエレメントをリセットします。
+NAVHELP_EXIT_T	終了
+NAVHELP_EXIT_H	プレイバックを停止して @{NAVIGATOR} を閉じます。
+IDS_NAVP_ABOUT	バージョン表示...
+IDS_NAVP_CONSOLE	JavaScript コンソール...
+IDS_NAVP_DELETE_CACHE	ローカルキャッシュ削除
+IDS_NAVP_HOOKER	フッカ
+IDS_SEARCH_INPUT	検索ヘルプコンテンツ
+IDS_CLEAR_SEARCH	検索クリア
+IDS_NAVP_CLOSE	終了
+IDS_RESET_CURRENT	非表示ヘルプエレメント再表示
+IDS_RESET_ALL	すべての非表示ヘルプ再表示
+IDS_RESET_ALL_TIP	画面の初回表示時に、無効化されたすべてのヒントを表示します。
+IDS_OPEN_RECORD_LBL	開く
+IDS_EDIT_RECORD_LBL	名称変更
+IDS_DELETE_RECORD_LBL	削除
+IDS_SHARE_RECORD_LBL	共有
+IDS_EXTERNAL_SEARCH_BTN	外部検索
+IDS_EXTERNAL_SEARCH_SUB_MENU	外部検索
+IDS_SHOW_SCREEN_ICON	デスクトップアシスタント表示
+IDS_SHOW_DA	メインウィンドウ表示
+IDS_SHOW_CONTENT	コンテンツ表示
+IDS_HIDE_CONTENT	コンテンツ非表示
+IDS_SEARCH_BTN	検索
+IDS_REQUEST_CONTENT_BTN	コンテンツ依頼
+IDS_RECORDING_BTN	レコーディングの開始
+IDS_SHOW_CA_SWITCH	コンテキストヘルプ表示
+IDS_HIDE_CA_SWITCH	コンテキストヘルプ非表示
+IDS_CA_SWITCH_INACTIVE_BTN	コンテキストヘルプ利用不可
+IDS_DO_CTX_RECOGNITION	コンテキストヘルプ表示
+IDS_NAV_STANDBY	@{NAVIGATOR} は無効です。
+IDS_NAV_NO_STANDBY	@{NAVIGATOR} は有効です。
+IDS_SHOW_DA_PANELS	@{NAVIGATOR} は再び利用可能です。不明な点がある場合は @{NAVIGATOR} を利用することができます。
+IDS_HIDE_DA_PANELS	現在開いているアプリケーションでは適切なヘルプが利用可能のため、@{NAVIGATOR} は自動的に非表示になります。他に不明な点がある場合は、アプリケーションのヘルプを開いてください。
+IDS_ADD_STICKY_NOTES_BTN	ふせん追加
+IDS_ADD_STICKY_NOTES_INACTIVE_BTN	このアプリケーションのふせんは 1 つのみ追加できます。
+IDS_EXIT_DA	終了
+IDS_EXIT_DA_BTN	終了
+IDS_EXIT_DA_SUB_MENU	終了
+IDS_SHOW_MORE	表示追加
+IDS_HIDE_MORE	非表示追加
+IDS_REQUEST_CONTENT_SUB_MENU	コンテンツ依頼
+IDS_SHOW_CA_SUB_MENU	コンテキストヘルプ表示
+IDS_HIDE_CA_SUB_MENU	コンテキストヘルプ非表示
+IDS_ADD_STICKY_NOTE_SUB_MENU	ふせん追加
+IDS_RECORDING_SUB_MENU	レコーディングの開始
+IDS_CA_SWITCH_SUB_MENU	コンテキストヘルプ
+IDS_SHARE_DLG_CAPTION	ドキュメント共有
+IDS_DELETE_FRAMES	フレーム削除
+OPEN_FOLDER	フォルダを開く
+SHARE_DOC	電子メールによる共有
+IDS_SHARE_DLG_TEXT	何をしますか。
+IDS_SEARCH_BTN_SUB_MENU	コンテンツ検索
+IDS_LIBRARY_SEARCH_BTN_SUB_MENU	Library でのコンテンツ検索
+GRACEFUL_DEGRADATION	この機能はネットワークの問題により、一時的に使用できません。\n\n後で再試行してください。
+SHARE_BTN	電子メールによる共有
+COPY_BTN	リンクコピー
+SHARE_MAIL_SUBJECT	推奨コンテンツ
+SHARE_MAIL_HEADER	ユーザ各位\n\nこちらのコンテンツをお奨めします。 \n\n
+SHARE_MAIL_FOOTER	よろしくお願いいたします。
+SHARE_MAIL_LINK	リンク:\t
+SHARE_MAIL_CAPTION	キャプション:\t
+SHARE_TITLE	コンテンツ共有
+SELECT_ASSET	開始するには資産を選択してください。
+ENTER_NAME	名称を入力してください
+DELETE_RECORD_WRN	重要: このアクションは取り消すことができません。
+MSG_PA_NEXT_LBL	次へ
+MSG_PA_STEP_LBL	ステップ一覧
+TOGGLE_STEPLIST_TOOLTIP	ステップ一覧の表示/非表示
+PREVIEW_STEP_TOOLTIP	プレビューステップ
+NEXT_STEP_TOOLTIP	次のステップへジャンプ
+PREV_STEP_TOOLTIP	前のステップへジャンプ
+ROLES_TITLE	デスクトップアシスタントロール
+ROLES_LBL	ロール別のヘルプコンテンツフィルタリング
+OK_CAPTION	OK
+CANCEL_CAPTION	中止
+BTN_YES	はい
+BTN_NO	いいえ
+DELETE_CONFIRM	このふせんを削除しますか。
+EXIT_CONFIRM	@{NAVIGATOR} を終了しますか。
+sticky_notes	ふせん
+exit_da	@{NAVIGATOR} 終了
+STICKY_NOTE_DEFAULT_TEXT	ここにテキストを追加してください。
+SEARCH_BTN_TOOLTIP	検索
+NEXT_BTN_TOOLTIP	次
+PREV_BTN_TOOLTIP	前
+HIDE_BTN_TOOLTIP	カルーセル非表示
+IDS_PRJ_NAME	名称入力:
+IDS_APPLICATIONS	ウィンドウ選択:
+IDS_PRJ_LANGUAGE	言語選択:
+IDS_FULL_SCREEN	全画面
+IDS_CHOOSE_APP_CAPTION	アプリケーション選択
+IDS_RECORD_BTN	レコード
+IDS_ANALYZE_ACTIONS	アクション分析中...
+IDS_PARSE_PROJECT	プロジェクトの解析中...
+IDS_REGION	領域
+IDS_AREA_HELP	以下のテンプレートを選択することにより領域サイズを変更します。赤い長方形を調整して領域を選択するか、全画面を選択します。
+IDS_CHOOSE_SIZE	サイズ選択:
+IDS_DEFINE_REC_AREA	レコーディングエリア
+IDS_DEFINE_NAME_LANG	コンテキスト生成
+PLEASE_SELECT	選択してください
+quick_recorder.help_caption	ヒント
+quick_recorder.help	"一時停止" キーで一時停止または続行します。 \n"終了" キーで終了します。 \n\n"OK" を選択するとレコーディングが開始されます。
+quick_recorder.audio_help	"一時停止" キーで一時停止または続行します。\n"終了" キーで終了します。\n\nオーディオ:\nオーディオは、クリックしている間はレコードされません。コントロールを選択する前に、テキストを読み上げます。\n\n"OK" を選択するとレコーディングが開始されます。
+FILE_EXISTS	同名のファイルがすでに存在します。別の名称を入力してください。
+HELP_EXIT_CONTROL_H	プレイバックを停止して @{NAVIGATOR} を閉じます。
+HELP_EXIT_CONTROL_T	終了
+BTN_CLOSE_DLG	閉じる
+DELETE_RECORD_WRN	重要: このアクションは取り消すことができません。
+ENTER_NAME	名称を入力してください
+IDS_CLEAR_SEARCH	検索クリア
+IDS_RESET_ALL_TIP	画面の初回表示時に、無効化されたすべてのヒントを表示します。
+IDS_SEARCH_INPUT	検索ヘルプコンテンツ
+LBL_DELETE	削除
+LBL_NAVI_NO_MATCH	検索結果がありません。
+LBL_TU	開く
+MSG_PA_NEXT_LBL	次へ
+MSG_PA_STEP_LBL	ステップ一覧
+RENAME_FAILED	名称変更操作が失敗しました。
+ROLES_LBL	ロール別のヘルプコンテンツフィルタリング
+SELECT_ASSET	開始するには資産を選択してください。
+LBL_CDOC	開く
+LBL_RECORD_DOCUMENT	ドキュメント記録
+QR_CAPTION	レコーディング出力選択
+QR_WELCOME	何を登録しますか。
+QR_DOC_CAP	ドキュメント
+QR_DOC_TXT	レコードする各アクションのスクリーンショットおよびコメントテキストを表示する Microsoft Word ドキュメントを登録します。
+QR_VIDEO_CAP	ビデオ
+QR_VIDEO_TXT	レコーディングの高品質ビデオを登録します。
+QR_DOC_VIDEO_CAP	ドキュメントおよびビデオ
+QR_DOC_VIDEO_TXT	ドキュメントおよびビデオを登録します。
+SHARE_ERR_CAP	レコーディングを共有できません
+SHARE_ERR_TXT	このレコーディングは大きすぎるため、電子メールで共有することができません。\n代わりにファイルロケーションを開きますか。
+HELP_CONTENT_WINDOW_H	コンテンツウィンドウには、メインウィンドウで選択されたコンテンツに関して提供されている情報、モードおよび文書が表示されます。</br>このコンテンツウィンドウはメインウィンドウに結合することができ、画面上で 2 つのウィンドウを一緒に動かすことが可能です。
+HELP_CONTENT_WINDOW_T	コンテンツウィンドウ
+IDS_CONTENT_BTN	コンテンツ
+MSG_PA_STEP_NOT_FOUND_NUMERAL_1	1.
+MSG_PA_STEP_NOT_FOUND_NUMERAL_2	2.
+SHARE_URL	現在のページの URL:

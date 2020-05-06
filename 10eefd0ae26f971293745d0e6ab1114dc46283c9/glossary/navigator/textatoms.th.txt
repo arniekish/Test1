@@ -1,0 +1,313 @@
+﻿#	อะตอมข้อความภาษาอังกฤษ
+BULLET	&#149;
+NEWLINE	\r\n
+TOK_COMPANY	SAP
+TOK_LIB	หลักสูตร
+TOK_TOUR	บทเรียน
+TOK_TRAINER	Desktop Assistant
+TOK_AUTOMATION	epo
+NAVIGATOR	Desktop Assistant
+NAV_LIBRARY	library
+BTN_ABORT	ออก
+BTN_CLOSE	ออก
+BTN_OK	ตกลง
+BTN_CLOSE_DLG	ปิด
+BTN_CONTINUE	ดำเนินการต่อ
+BTN_PREVIEW	แสดงตัวอย่าง
+BTN_PROCEED	ดำเนินการต่อ
+BTN_RESTART	เริ่มต้นใหม่
+BTN_SKIP	ข้ามขั้นตอน
+BTN_START	เริ่มต้น
+BTN_STOP	หยุด
+BTN_EXECUTE	ดำเนินการ
+CA_SWITCH	วิธีใช้เนื้อหา
+CONTENT_CAP	เนื้อหา
+MAIL_SUBJECT	คำขอเนื้อหาสำหรับตัวช่วยเดสก์ทอป
+MAIL_HEADER	เรียนผู้เขียน\n\nฉันต้องการขอเนื้อหาสำหรับ:
+MAIL_FOOTER	- กระบวนการ/รายการ: กรุณาอธิบายกระบวนการของแอพพลิเคชันที่ใช้งานในขณะนี้ \n\n- คำอธิบาย: กรุณาอธิบายข้อมูลที่คุณต้องการ \n\nขอแสดงความนับถือ
+MAIL_DATA	- ชื่อแอพพลิเคชัน:
+MAIL_TOOLTIP	ขอเนื้อหา
+SHARE_TOOLTIP	แชร์เนื้อหา
+REQUEST_TEXT	คลิก %s เพื่อขอเนื้อหา
+REQUEST_LINK	ที่นี่
+SEARCH_CAP	การค้นหา
+INFO_CAP	ข้อมูล
+SETTINGS_CAP	การกำหนดค่า
+BACK_TOOLTIP	ย้อนกลับ
+SHARE_CONTENT_TOOLTIP	แชร์เนื้อหา
+CB_HIDE_OPTION	ไม่ต้องแสดงอีก
+MY_ROLES	บทบาทของผู้ใช้
+EDIT_ROLES	เปลี่ยนแปลงบทบาท
+NO_ROLES	แสดงเนื้อหาโดยไม่มีบทบาท
+SELECT_ALL_CAPTION	เลือกทั้งหมด
+USER_CAPTION	พื้นที่ของผู้ใช้
+READ_MORE	อ่านเพิ่มเติม...
+NO_CATEGORY_CAPTION	เนื้อหาอื่นๆ
+DELETE_FAILED	การดำเนินการลบล้มเหลว
+RENAME_FAILED	การดำเนินการเปลี่ยนชื่อล้มเหลว
+FILE_EXISTS	มีไฟล์ที่มีชื่อเหมือนกันอยู่แล้ว กรุณาป้อนชื่ออื่น
+LBL_YES	ใช่
+LBL_DELETE	ลบ
+LBL_NO	ไม่ใช่
+LBL_OK	ตกลง
+DELETE_DLG_TEXT	คุณแน่ใจหรือไม่ว่าต้องการลบเอกสารที่เลือก (%N)?
+LBL_CONCURRENT	เริ่มต้นโหมดทำงานเวลาเดียวกัน
+LBL_DA	ตัวช่วยเดสก์ทอป
+LBL_SIM	เริ่มต้นการจำลอง
+LBL_CDOC	เปิด
+LBL_DEMO	เริ่มต้นโหมดสาธิต
+LBL_NAVI	เริ่มต้นแนะนำการใช้งาน
+LBL_BOOK	เล่นหนังสือ
+LBL_GROUP	เปิดใน library
+LBL_NAVIGATION	ตัวช่วยเดสก์ทอป
+LBL_PA	แนะนำการใช้งาน
+LBL_PRACTICE	เริ่มต้นโหมดฝึกปฏิบัติ
+LBL_SIMULATION	การจำลอง
+LBL_BOOKPAGE	แสดงหน้าหนังสือ
+LBL_TEST	เริ่มต้นโหมดทดสอบ
+LBL_RECORD_DOCUMENT	เอกสารเรคคอร์ด
+MSG_AUTOMATION_FINISHED	ระบบปฏิบัติงานอัตโนมัติเสร็จสิ้นแล้ว
+MSG_AUTOMATION_FINISHED_2	คลิก 'เริ่มอีกครั้ง' เพื่อเริ่มต้นกระบวนการอัตโนมัติใหม่
+MSG_AUTOMATION_START	แก้ไขค่าอินพุท
+MSG_AUTOMATION_START_2	ตรวจสอบหรือแก้ไขค่าต่อไปนี้ ค่าเหล่านี้จะถูกป้อนโดยอัตโนมัติในระหว่างกระบวนการ
+MSG_EPO_DIALOG	Optimizer กระบวนการทางอิเล็กทรอนิกส์
+MSG_NAVI_LIBRARY_NO_APP	ไม่มีข้อมูล
+LBL_NAVI_NO_MATCH	ไม่มีผลลัพธ์สำหรับการค้นหาของคุณ
+NO_RECORDS	ไม่มีเอกสารที่พร้อมใช้งาน
+MSG_NAVI_LIBRARY_SUBTITLE	เนื้อหาที่มีอยู่:
+MSG_NAVI_LIBRARY_TITLE	ตัวช่วยเดสก์ทอป
+MSG_NOT_APPLICABLE	ไม่สามารถแก้ไขได้
+MSG_PA_CONTROL_STEP	การดำเนินการที่จำเป็นสำหรับขั้นตอนนี้:
+MSG_PA_EXPLANATION_STEP	เนวิเกตไปยังจอภาพที่แสดงด้านล่าง
+MSG_PA_FORM_STEP	ฟิลด์ที่ป้อนข้อมูลในฟอร์ม:
+MSG_PA_DIALOG	แนะนำการใช้งาน
+MSG_PA_START_SCREEN	เปิดจอภาพเริ่มต้น
+MSG_PA_STEP_NOT_FOUND	สลับไปยังจอภาพที่ต้องการ
+MSG_PA_STEP_NOT_FOUND1	ตรวจสอบให้แน่ใจว่าแอพพลิเคชันเป้าหมาย (@{TARGETAPPNAME}) เปิดอยู่
+MSG_PA_STEP_NOT_FOUND2	เนวิเกตไปยังจอภาพซึ่งมีตัวควบคุมที่เน้นอยู่ที่แสดงด้านล่าง
+MSG_STEP_LIGHT	การแสดงตัวอย่างขั้นตอน
+MSG_STEP_NOT_FOUND	ไม่พบขั้นตอนการแนะนำการใช้งาน
+MSG_STEP_NOT_FOUND_2	คลิกที่แถบชื่อของแอพพลิเคชันเป้าหมาย หรือเนวิเกตไปยังจอภาพด้านขวา<br><br>คลิก 'แสดงตัวอย่าง' เพื่อดูจอภาพที่ต้องการ
+PA_FINISHED	เสร็จสิ้นแนะนำการใช้งานแล้ว
+PROJECT_TITLE	ชื่อโครงการ
+TRAY_INFO_BUBBLE_HEADING	แนะนำการใช้งาน
+TRAY_INFO_BUBBLE_TEXT	ไม่สามารถแสดงขั้นตอนปัจจุบัน คลิกที่นี่สำหรับข้อมูลเพิ่มเติม
+RESTRICTED_BUBBLE_HEADING	การดำเนินการถูกบล็อค
+RESTRICTED_BUBBLE_TEXT	คุณไม่สามารถดำเนินการใดๆ จนกว่าขั้นตอนปัจจุบันจะได้รับการยืนยัน
+HELP_TITLE	วิธีใช้
+HELP_INTRO	วิธีใช้จะให้ภาพรวมเกี่ยวกับส่วนหลักและฟังก์ชันของ@{NAVIGATOR} </br></br><b>หมายเหตุ:</b> ฟังก์ชันที่มีอยู่จะขึ้นกับการกำหนดรูปแบบของ @{NAVIGATOR} </br>
+HELP_TITLE_DA	แถบด้านข้างและวินโดว์
+HELP_SIDEBAR_T	แถบด้านข้าง
+HELP_SIDEBAR_H	แถบด้านข้างช่วยให้คุณสามารถเริ่มฟังก์ชันหลักของ @{NAVIGATOR} ปุ่มจะแสดงขึ้นสำหรับแต่ละฟังก์ชัน คุณสามารถย้ายแถบด้านข้างได้โดยใช้วิธีลากแล้วปล่อย และสามารถย่อเล็กสุดและขยายใหญ่สุดได้โดยคลิกที่เส้นขอบของแถบด้านข้าง
+HELP_CONTENT_CONTROL_T	เนื้อหา
+HELP_CONTENT_CONTROL_H	ระบุว่ามีเนื้อหาหรือไม่ และเปิดวินโดว์หลักที่มีเนื้อหานั้น
+HELP_SEARCH_CONTROL_T	ค้นหา
+HELP_SEARCH_CONTROL_H	เปิดการค้นหาเพื่อค้นหาเนื้อหา
+HELP_EXTSEARCH_CONTROL_T	การค้นหาภายนอก
+HELP_EXTSEARCH_CONTROL_H	เปิดการค้นหาภายนอกเพื่อค้นหาเนื้อหา
+HELP_STICKY_CONTROL_T	เพิ่มบันทึกย่อช่วยเตือน
+HELP_STICKY_CONTROL_H	แทรกบันทึกย่อช่วยเตือนสำหรับวินโดว์แอพพลิเคชันปัจจุบัน คุณสามารถป้อนข้อความสำหรับบันทึกย่อช่วยเตือนของคุณได้
+HELP_RECORDING_CONTROL_T	เริ่มต้นการบันทึก
+HELP_RECORDING_CONTROL_H	เริ่มต้นการบันทึกกระบวนการ กระบวนการที่บันทึกจะถูกเก็บบันทึกไว้ในรูปเอกสารในพื้นที่ของผู้ใช้
+HELP_MAIN_WINDOW_T	วินโดว์หลัก
+HELP_MAIN_WINDOW_H	วินโดว์หลักจะแสดงเนื้อหาที่มีอยู่สำหรับบริบทของหน้าที่ระบุ</br>ในระหว่างการเล่นแนะนำการใช้งาน วินโดว์จะแสดงรายการขั้นตอน
+HELP_HEADER_T	ส่วนหัว
+HELP_HEADER_H	ไอคอนสถานะในส่วนหัวระบุว่ามีเนื้อหาสำหรับบริบทปัจจุบัน
+HELP_CONTENT_TAB_T	แท็บเนื้อหา
+HELP_CONTENT_TAB_H	แท็บจะแสดงเนื้อหาที่มีอยู่สำหรับแอพพลิเคชันปัจจุบัน
+HELP_CONTENT_VIEW_T	มุมมองเนื้อหา
+HELP_CONTENT_VIEW_H	มุมมองเนื้อหาจะแสดงข้อมูล โหมด และเอกสารอธิบายที่พร้อมใช้งานสำหรับเนื้อหาที่เลือก</br>คุณสามารถใช้ตัวควบคุม 'ย้อนกลับ' เพื่อกลับไปที่รายการเนื้อหาได้
+HELP_SEARCH_TAB_T	แท็บการค้นหา
+HELP_SEARCH_TAB_H	บนแท็บนี้ คุณสามารถค้นหาเนื้อหาเฉพาะสำหรับบริบทปัจจุบันของคุณ
+HELP_INFO_TAB_T	แท็บข้อมูล
+HELP_INFO_TAB_H	แท็บจะแสดงข้อมูลทั่วไปเกี่ยวกับ @{NAVIGATOR}
+HELP_USERAREA_TAB_T	แท็บพื้นที่ของผู้ใช้
+HELP_USERAREA_TAB_H	แท็บมีเอกสารของกระบวนการที่บันทึก คุณสามารถเปิด แชร์ หรือลบเอกสาร คุณสามารถบันทึกกระบวนการเพิ่มเติม
+HELP_INSTANT_T	วิธีใช้แบบทันที
+HELP_INSTANT_H	โดยใช้การกำหนดค่าที่เปิดใช้งาน ข้อมูลเนื้อหาเพิ่มเติมจะถูกแสดงที่ด้านขวาของจอภาพแอพพลิเคชันปัจจุบัน การกำหนดค่าเปิดใช้งานตามค่าตั้งต้น
+HELP_REQCONTENT_T	ขอเนื้อหา
+HELP_REQCONTENT_H	เปิดวินโดว์อีเมล์สำหรับการขอเนื้อหาที่ขาดหายไปจากผู้เขียน
+HELP_SETTINGS_T	การกำหนดค่า
+HELP_SETTINGS_H	มุมมองนี้ประกอบด้วยการกำหนดค่าสำหรับการแสดงผลเนื้อหาของ @{NAVIGATOR}
+HELP_MYROLES_T	บทบาทของผู้ใช้
+HELP_MYROLES_H	การกำหนดค่านี้จะแสดงเนื้อหาสำหรับบทบาทที่กำหนด
+HELP_WITHOUTROLES_T	แสดงเนื้อหาโดยไม่มีบทบาท
+HELP_WITHOUTROLES_H	การกำหนดค่านี้จะแสดงเนื้อหาโดยไม่มีบทบาทที่กำหนด
+HELP_EDITROLES_T	บทบาท
+HELP_EDITROLES_H	บทบาททั้งหมดที่ใช้สำหรับเนื้อหานี้จะถูกแสดงไว้และสามารถเปิดหรือปิดใช้งานในการแสดงเนื้อหาได้
+HELP_SHARECONTENT_T	แชร์เนื้อหา
+HELP_SHARECONTENT_H	เปิดไดอะลอกบ็อกซ์ที่มีลิงก์ไปยังเนื้อหา ลิงก์นี้สามารถแชร์กับผู้ใช้รายอื่นๆ ได้
+HELP_REQUESTCONTENT_T	ขอเนื้อหา
+HELP_REQUESTCONTENT_H	เปิดอีเมล์ที่กำหนดไว้ล่วงหน้าเพื่อขอเนื้อหาสำหรับกรณีที่เฉพาะเจาะจง
+HELP_PLAYBACK_CONTENT_T	เล่นเนื้อหา
+HELP_PLAYBACK_CONTENT_H	เนื้อหาที่มีอยู่สามารถเริ่มหรือเปิดได้โดยใช้ปุ่มในวินโดว์เนื้อหา
+HELP_MINIMIZED_STATUS_T	สถานะย่อเล็กสุด
+HELP_MINIMIZED_STATUS_H	ในกรณีที่คุณปิดวินโดว์หลัก ไอคอนสถานะแบบลอยตัวจะยังคงระบุว่ามีเนื้อหาสำหรับบริบทปัจจุบันอยู่หรือไม่ คลิกไอคอนเพื่อรีสโตร์วินโดว์หลัก
+HELP_MINIMIZED_MENU_T	เมนูเนื้อหา
+HELP_MINIMIZED_MENU_H	เมนูเนื้อหา (คลิกเมาส์ขวาบนไอคอน) มีฟังก์ชันสำหรับแสดงวินโดว์หลักและวิธีใช้เนื้อหา
+HELP_BOOK_WINDOW_T	วินโดว์หนังสือ
+HELP_BOOK_WINDOW_H	วินโดว์หนังสือจะเปิดขึ้นเมื่อเล่นเนื้อหาหนังสือ วินโดว์หลักและวินโดว์เนื้อหาจะถูกซ่อนไว้
+HELP_GOTOTOP	ไปที่ด้านบนสุด
+HELP_CAPTION	วิธีใช้@{NAVIGATOR}
+NAVHELP_TITLE	ไอคอนสถานะและเมนูเนื้อหา
+NAVHELP_INTRO	</br>วิธีใช้จะให้ภาพรวมเกี่ยวกับรายการไอคอนสถานะและเมนูเนื้อหา
+NAVHELP_STATUS_ICON_T	ไอคอนสถานะ (แถบงาน)
+NAVHELP_STATUS_ICON_H	ไอคอนสถานะถูกวางในแถบงานและแสดงกิจกรรมปัจจุบันของ @{NAVIGATOR} สถานะมีดังต่อไปนี้
+NAVHELP_STATUS_FOUND_T	มีเนื้อหาอยู่ (ไอคอนสีเขียว)
+NAVHELP_STATUS_FOUND_H	มีเนื้อหาสำหรับบริบทปัจจุบันและแสดงขึ้นแล้ว
+NAVHELP_STATUS_CHECK_T	กำลังโหลดเนื้อหา (ไอคอนสีเหลือง)
+NAVHELP_STATUS_CHECK_H	@{NAVIGATOR} ตรวจสอบเนื้อหาปัจจุบันสำหรับเนื้อหาที่มีอยู่และโหลดเนื้อหา
+NAVHELP_STATUS_NOFOUND_T	ไม่มีเนื้อหา (ไอคอนสีแดง)
+NAVHELP_STATUS_NOFOUND_H	ไม่มีเนื้อหาสำหรับบริบทปัจจุบัน
+NAVHELP_STANDBY_T	ปิดใช้งาน
+NAVHELP_STANDBY_H	@{NAVIGATOR} ถูกปิดใช้งาน การคลิกที่ไอคอนสถานะ (<i>CTRL + F11</i>)  จะปิดใช้งานหรือเปิดใช้งาน @{NAVIGATOR}
+NAVHELP_STATUS_MIN_T	ย่อเล็กสุด
+NAVHELP_STATUS_MIN_H	วินโดว์และแถบด้านข้างถูกย่อเล็กสุด
+NAVHELP_STATUS_MENU_T	เมนูเนื้อหา
+NAVHELP_STATUS_MENU_H	เมนูเนื้อหา (คลิกเมาส์ขวาที่ไอคอน) ประกอบด้วยฟังก์ชันทั่วไปของ @{NAVIGATOR}
+NAVHELP_VERSION_T	แสดงเวอร์ชัน
+NAVHELP_VERSION_H	แสดงหมายเลขเวอร์ชันของ @{NAVIGATOR}ที่ติดตั้ง ซึ่งจำเป็นสำหรับการติดต่อกับฝ่ายสนับสนุนในกรณีที่เกิดปัญหา
+NAVHELP_JSCONSOLE_T	คอนโซล JavaScript
+NAVHELP_JSCONSOLE_H	แสดงคอนโซล JavaScript เพื่อให้ข้อความแสดงข้อผิดพลาดโดยละเอียด ซึ่งจำเป็นสำหรับการติดต่อกับฝ่ายสนับสนุนในกรณีที่เกิดปัญหา
+NAVHELP_NAV_CACHE_T	ลบแคชภายใน
+NAVHELP_NAV_CACHE_H	ลบแคชภายในของเนื้อหา @{NAVIGATOR} 
+NAVHELP_RESET_HIDDEN_T	แสดงวิธีใช้ทั้งหมดที่ซ่อนอยู่อีกครั้ง
+NAVHELP_RESET_HIDDEN_H	รีเซ็ตองค์ประกอบวิธีใช้ที่ถูกกำหนดค่าเป็น 'ซ่อน' ในระหว่างการเล่น
+NAVHELP_EXIT_T	ออก
+NAVHELP_EXIT_H	หยุดการเล่นและปิด @{NAVIGATOR}
+IDS_NAVP_ABOUT	แสดงเวอร์ชัน...
+IDS_NAVP_CONSOLE	คอนโซล JavaScript...
+IDS_NAVP_DELETE_CACHE	ลบแคชภายใน
+IDS_NAVP_HOOKER	Hooker
+IDS_SEARCH_INPUT	ค้นหาเนื้อหาวิธีใช้
+IDS_CLEAR_SEARCH	ล้างการค้นหา
+IDS_NAVP_CLOSE	ออก
+IDS_RESET_CURRENT	แสดงองค์ประกอบวิธีใช้ที่ซ่อนอยู่อีกครั้ง
+IDS_RESET_ALL	แสดงวิธีใช้ทั้งหมดที่ซ่อนอยู่อีกครั้ง
+IDS_RESET_ALL_TIP	แสดงคำแนะนำทั้งหมดที่ปิดใช้งานอีกครั้งเมื่อเข้าสู่จอภาพครั้งแรก
+IDS_OPEN_RECORD_LBL	เปิด
+IDS_EDIT_RECORD_LBL	เปลี่ยนชื่อ
+IDS_DELETE_RECORD_LBL	ลบ
+IDS_SHARE_RECORD_LBL	แชร์
+IDS_EXTERNAL_SEARCH_BTN	การค้นหาภายนอก
+IDS_EXTERNAL_SEARCH_SUB_MENU	การค้นหาภายนอก
+IDS_SHOW_SCREEN_ICON	แสดงตัวช่วยเดสก์ทอป
+IDS_SHOW_DA	แสดงวินโดว์หลัก
+IDS_SHOW_CONTENT	แสดงเนื้อหา
+IDS_HIDE_CONTENT	ซ่อนเนื้อหา
+IDS_SEARCH_BTN	ค้นหา
+IDS_REQUEST_CONTENT_BTN	ขอเนื้อหา
+IDS_RECORDING_BTN	เริ่มต้นการบันทึก
+IDS_SHOW_CA_SWITCH	แสดงวิธีใช้เนื้อหา
+IDS_HIDE_CA_SWITCH	ซ่อนวิธีใช้เนื้อหา
+IDS_CA_SWITCH_INACTIVE_BTN	ไม่มีวิธีใช้เนื้อหาที่พร้อมใช้งาน
+IDS_DO_CTX_RECOGNITION	แสดงวิธีใช้เนื้อหา
+IDS_NAV_STANDBY	@{NAVIGATOR} ถูกปิดใช้งาน
+IDS_NAV_NO_STANDBY	@{NAVIGATOR} ถูกเปิดใช้งาน
+IDS_SHOW_DA_PANELS	@{NAVIGATOR} พร้อมใช้งานอีกครั้งในขณะนี้ คุณสามารถใช้ @{NAVIGATOR} หากคุณต้องการความช่วยเหลือใดๆ
+IDS_HIDE_DA_PANELS	@{NAVIGATOR} หายไปโดยอัตโนมัติเนื่องจากวิธีใช้ที่เหมาะสมพร้อมใช้งานในแอพพลิเคชันที่คุณเปิดอยู่ในขณะนี้ เพียงเปิดวิธีใช้ในแอพพลิเคชันหากคุณต้องการความช่วยเหลือเพิ่มเติม
+IDS_ADD_STICKY_NOTES_BTN	เพิ่มบันทึกย่อช่วยเตือน
+IDS_ADD_STICKY_NOTES_INACTIVE_BTN	คุณสามารถเพิ่มบันทึกย่อช่วยเตือนได้หนึ่งรายการเท่านั้นสำหรับแอพพลิเคชันนี้
+IDS_EXIT_DA	ออก
+IDS_EXIT_DA_BTN	ออก
+IDS_EXIT_DA_SUB_MENU	ออก
+IDS_SHOW_MORE	แสดงเพิ่มเติม
+IDS_HIDE_MORE	ซ่อนเพิ่มเติม
+IDS_REQUEST_CONTENT_SUB_MENU	ขอเนื้อหา
+IDS_SHOW_CA_SUB_MENU	แสดงวิธีใช้เนื้อหา
+IDS_HIDE_CA_SUB_MENU	ซ่อนวิธีใช้เนื้อหา
+IDS_ADD_STICKY_NOTE_SUB_MENU	เพิ่มบันทึกย่อช่วยเตือน
+IDS_RECORDING_SUB_MENU	เริ่มต้นการบันทึก
+IDS_CA_SWITCH_SUB_MENU	วิธีใช้เนื้อหา
+IDS_SHARE_DLG_CAPTION	แชร์เอกสาร
+IDS_DELETE_FRAMES	กำลังลบเฟรม
+OPEN_FOLDER	เปิดแฟ้ม
+SHARE_DOC	แชร์ผ่านอีเมล์
+IDS_SHARE_DLG_TEXT	คุณต้องการทำอะไร?
+IDS_SEARCH_BTN_SUB_MENU	ค้นหาเนื้อหา
+IDS_LIBRARY_SEARCH_BTN_SUB_MENU	ค้นหาเนื้อหาใน library
+GRACEFUL_DEGRADATION	ฟีเจอร์นี้ไม่พร้อมใช้งานชั่วคราวเนื่องจากปัญหาด้านเครือข่าย \n\nกรุณาลองอีกครั้งภายหลัง
+SHARE_BTN	แชร์ผ่านอีเมล์
+COPY_BTN	คัดลอกลิงก์
+SHARE_MAIL_SUBJECT	เนื้อหาที่แนะนำ
+SHARE_MAIL_HEADER	เรียน ผู้ใช้ \n\nคุณอาจสนใจเนื้อหานี้\n\n
+SHARE_MAIL_FOOTER	ขอแสดงความนับถือ
+SHARE_MAIL_LINK	ลิงก์:\t
+SHARE_MAIL_CAPTION	คำอธิบายภาพ:\t
+SHARE_TITLE	แชร์เนื้อหา
+SELECT_ASSET	เลือกสินทรัพย์เพื่อเริ่มต้น
+ENTER_NAME	ป้อนชื่อ
+DELETE_RECORD_WRN	สำคัญ: การดำเนินการนี้ไม่สามารถยกเลิกได้
+MSG_PA_NEXT_LBL	ถัดไป
+MSG_PA_STEP_LBL	รายการขั้นตอน
+TOGGLE_STEPLIST_TOOLTIP	แสดง/ซ่อนรายการขั้นตอน
+PREVIEW_STEP_TOOLTIP	แสดงตัวอย่างขั้นตอน
+NEXT_STEP_TOOLTIP	ไปยังขั้นตอนถัดไป
+PREV_STEP_TOOLTIP	ไปยังขั้นตอนถัดไป
+ROLES_TITLE	บทบาทของตัวช่วยเดสก์ทอป
+ROLES_LBL	ฟิลเตอร์เนื้อหาวิธีใช้ตามบทบาท
+OK_CAPTION	ตกลง
+CANCEL_CAPTION	ยกเลิก
+BTN_YES	ใช่
+BTN_NO	ไม่ใช่
+DELETE_CONFIRM	คุณแน่ใจหรือไม่ว่าต้องการลบบันทึกย่อช่วยเตือนนี้?
+EXIT_CONFIRM	คุณแน่ใจหรือไม่ว่าต้องการออกจาก @{NAVIGATOR}?
+sticky_notes	บันทึกย่อช่วยเตือน
+exit_da	ออก @{NAVIGATOR}
+STICKY_NOTE_DEFAULT_TEXT	เพิ่มข้อความของคุณที่นี่
+SEARCH_BTN_TOOLTIP	ค้นหา
+NEXT_BTN_TOOLTIP	ถัดไป
+PREV_BTN_TOOLTIP	ก่อนหน้า
+HIDE_BTN_TOOLTIP	ซ่อน Carousel
+IDS_PRJ_NAME	ป้อนชื่อ:
+IDS_APPLICATIONS	เลือกวินโดว์:
+IDS_PRJ_LANGUAGE	เลือกภาษา:
+IDS_FULL_SCREEN	เต็มจอภาพ
+IDS_CHOOSE_APP_CAPTION	เลือกแอพพลิเคชัน
+IDS_RECORD_BTN	บันทึก
+IDS_ANALYZE_ACTIONS	กำลังวิเคราะห์การดำเนินการ
+IDS_PARSE_PROJECT	กำลังแยกวิเคราะห์โครงการ...
+IDS_REGION	ขอบเขต
+IDS_AREA_HELP	เปลี่ยนแปลงขนาดของขอบเขตโดยการเลือกแบบร่างด้านล่าง ปรับขนาดกรอบสี่เหลี่ยมสีแดงเพื่อเลือกขอบเขตหรือเลือกเต็มจอภาพ
+IDS_CHOOSE_SIZE	เลือกขนาด:
+IDS_DEFINE_REC_AREA	พื้นที่การบันทึก
+IDS_DEFINE_NAME_LANG	สร้างเนื้อหา
+PLEASE_SELECT	กรุณาเลือก
+quick_recorder.help_caption	เคล็ดลับ
+quick_recorder.help	ใช้แป้น "PAUSE" เพื่อหยุดชั่วขณะหรือดำเนินการต่อ \nใช้แป้น "END" เพื่อเสร็จสิ้น \n\nเลือก "ตกลง" เพื่อเริ่มต้นการบันทึก
+quick_recorder.audio_help	ใช้แป้น "PAUSE" เพื่อหยุดชั่วขณะหรือดำเนินการต่อ\nใช้แป้น "END" เพื่อเสร็จสิ้น\n\nเสียง:\nเสียงของคุณจะไม่ได้รับการบันทึกระหว่างการคลิก ให้อ่านออกเสียงข้อความก่อนเลือกตัวควบคุม\n\nเลือก "ตกลง" เพื่อเริ่มต้นการบันทึก
+FILE_EXISTS	มีไฟล์ที่มีชื่อเหมือนกันอยู่แล้ว กรุณาป้อนชื่ออื่น
+HELP_EXIT_CONTROL_H	หยุดการเล่นและปิด @{NAVIGATOR}
+HELP_EXIT_CONTROL_T	ออก
+BTN_CLOSE_DLG	ปิด
+DELETE_RECORD_WRN	สำคัญ: การดำเนินการนี้ไม่สามารถยกเลิกได้
+ENTER_NAME	ป้อนชื่อ
+IDS_CLEAR_SEARCH	ล้างการค้นหา
+IDS_RESET_ALL_TIP	แสดงคำแนะนำทั้งหมดที่ปิดใช้งานอีกครั้งเมื่อเข้าสู่จอภาพครั้งแรก
+IDS_SEARCH_INPUT	ค้นหาเนื้อหาวิธีใช้
+LBL_DELETE	ลบ
+LBL_NAVI_NO_MATCH	ไม่มีผลลัพธ์สำหรับการค้นหาของคุณ
+LBL_TU	เปิด
+MSG_PA_NEXT_LBL	ถัดไป
+MSG_PA_STEP_LBL	รายการขั้นตอน
+RENAME_FAILED	การดำเนินการเปลี่ยนชื่อล้มเหลว
+ROLES_LBL	ฟิลเตอร์เนื้อหาวิธีใช้ตามบทบาท
+SELECT_ASSET	เลือกสินทรัพย์เพื่อเริ่มต้น
+LBL_CDOC	เปิด
+LBL_RECORD_DOCUMENT	เอกสารเรคคอร์ด
+QR_CAPTION	เลือกเอาท์พุทการบันทึก
+QR_WELCOME	คุณต้องการสร้างสิ่งใด?
+QR_DOC_CAP	เอกสาร
+QR_DOC_TXT	สร้างเอกสาร Microsoft Word ที่แสดงสกรีนช็อตและข้อความแสดงวิธีใช้งานสำหรับการดำเนินการทั้งหมดที่คุณบันทึกไว้
+QR_VIDEO_CAP	วิดีโอ
+QR_VIDEO_TXT	สร้างวิดีโอคุณภาพสูงสำหรับการบันทึกของคุณ
+QR_DOC_VIDEO_CAP	เอกสารและวิดีโอ
+QR_DOC_VIDEO_TXT	สร้างเอกสารและวิดีโอ
+SHARE_ERR_CAP	ไม่สามารถแชร์การบันทึก
+SHARE_ERR_TXT	การบันทึกนี้ใหญ่เกินกว่าที่จะแชร์ทางอีเมล์\nคุณต้องการเปิดที่ตั้งไฟล์แทนหรือไม่?
+HELP_CONTENT_WINDOW_H	วินโดว์เนื้อหาจะแสดงข้อมูล โหมด และเอกสารอธิบายที่มีอยู่สำหรับเนื้อหาที่เลือกของวินโดว์หลัก</br>วินโดว์เนื้อหาสามารถจัดเทียบชิดขอบกับวินโดว์หลัก ซึ่งทำให้คุณย้ายวินโดว์ทั้งสองไปพร้อมกันได้บนจอภาพ
+HELP_CONTENT_WINDOW_T	วินโดว์เนื้อหา
+IDS_CONTENT_BTN	เนื้อหา
+MSG_PA_STEP_NOT_FOUND_NUMERAL_1	1.
+MSG_PA_STEP_NOT_FOUND_NUMERAL_2	2.
+SHARE_URL	URL ของหน้าปัจจุบัน:

@@ -1,0 +1,714 @@
+﻿NAVIGATOR	Desktop Assistant
+XRAY	Web Assistant
+LIBRARY	library
+MANAGER	Manager
+form_bubble	Form Bubble
+bform_height	Height
+bform_height.h	Defines the height of the form bubble to be displayed in pixels.
+bform_width	Width
+bform_width.h	Defines the width of the form bubble to be displayed in pixels.
+bform_position	Position
+bform_position.h	Defines the form bubble's position (left, top) for the 'Free' alignment on the screen. The values are given in pixels.
+paramAutoMergeComplete	Merging Screens has been finished.
+form	Form
+application_contexts	Application
+﻿Application	Application
+highlight_offset	Offset
+AutoBarChooseApp	Choose Application
+AutoBarReRecManual	Click on object.
+BubbleOnActivate	Show Bubble directly
+ClickOnAAPosition	Click into Application to define Rectangle.
+ClickOnPosition	Click on a position in the application.
+EnabledOnPgLoad	Activate
+HighlightOnActivate	Show Highlight directly
+start_from_arbitrary	Start from Arbitrary Step
+focus_step	Focus Layer
+focus_step.h	Guided tour only\nDisplays a gray layer to highlight the control required in the current step.
+yes	Yes
+no	No
+light_mode	Interactive Mode
+light_mode.h	Specifies that the user has to navigate in the object bubble to the next step. No page recognition is done during playback.
+restricted_mode	Restricted Mode
+restricted_mode.h	Specifies that only the current action can be executed. The other controls of the application page are blocked. \nThe setting can be used if 'Focus Layer' has been activated.
+show_highlight	Highlights
+action	Action
+active_area	Active Area
+add_application_expl	Insert Explanation
+adv	Advanced
+display_behavior	Display Behavior
+all_values	All Values
+anim_steps	Animation Steps
+application_context	Application
+area	Area
+auto_merge	Merge Screen Macros
+b_height	Height
+form_on	Form Mode
+b_percent	Bubble Visible (%)
+b_hide_option	Hide Option
+b_minimizable	Minimizable
+b_closable	Closable
+b_minimized	Minimized
+b_width	Width
+b_width.h	Defines the width of the object bubble in pixels.
+bmain_minimizable	Minimizable
+bmain_position	Position
+bmain_win_style	Style
+bmain_size	Size
+bmain_alignment	Alignment
+bubble	Object Bubble
+bubble_offset	Offset
+bubblestyle_d	Style
+bubblestyle_init	Bubble Style
+choose_appl_template	Choose Application Profile
+choose_bool	Selected Value
+choose_nr	Selected Index
+choose_text	Selected Value
+target_static_text	is recorded as 'Page Specifier'.
+target_spec_warning	Warning: No rerecording information available for this control.
+prev_step	Previous Step
+next_step	Next Step
+click	Mouse Action
+click_pos	Click Position
+click_pos_rel	Bubble Position
+config_file	Application Profile
+define_target	Screen
+display	Edit Main Bubble
+display_name	Display Name
+drag	Drag
+drop	Drop
+dump_page	Screenshot
+elem_bubble	Object Bubble
+element_type	Object Type
+enabled	Enabled
+optional	Optional
+enter	Mouse Enter
+executable	Application
+explanation_d	Text
+explanation_d_modified	Translate Manually
+explanation_long	Explanation
+fh_mouseover	Help on MouseOver
+fh_onelem	Icon
+fh_tooltip	Tooltip
+fh_bubble	Bubble
+step_list	Step List
+fieldicon	Object Image
+fieldname	Object Name
+find	Find
+AutoBarChooseScn	Click on respective Screen
+frame	Frame
+g_highlight_bgr	Color
+g_highlight_border	Border
+g_highlight_effect	Effect
+global	Global
+hide_on_focuslost	Hide on Focus Lost
+hilight	Highlight
+input_radio	Radio/Checkbox
+input_text	Input Text
+init	Init
+key	Key
+key_desc	Hotkey
+key_name	Key Code
+key_press	Key Press
+lclick	Left Click
+ldblclick	Left Double Click
+force_display	Force Display
+auto_execute	Auto Execute
+show_confirmation	Show Confirmation Button
+show_confirmation.h	Defines, whether a confirmation button is shown in the object bubble during playback. The button allows the user to confirm an executed action and afterwards the next step is shown.
+link_to_sim	Insert Simulation Link
+macro_comment	Comment
+main_bubble	Window
+match_value	Match Value
+mini_on_focuslost	Minimize on Focus Lost
+enable_tincan	@{NAVIGATOR} Tracking
+nav_check_freq	Update Frequency (min)
+navigation	Desktop Assistant
+new_screen_context	New Screen
+no_spike	No Spike
+pa_caption	Guided Tour
+none	None
+objname	Object Name
+orientation	Orientation
+path	Object Path
+position	Position
+rclick	Right Mouse Click
+rdblclick	Right Double Click
+record_activearea	Record Active Area
+record_application_context	Record Application
+no_control	No object available at clicked position.
+record_control	Record Object
+record_control_pa	Record Guided Tour Step
+record_define_target	Record Screen
+record_display	Edit Main Bubble
+record_end_display	Edit Bubble
+record_explanation	Add Explanation
+record_object_context	Record Object
+record_screen_context	Record Screen
+record_target_specializer	Record Page Specifier
+record_compatible_application	Record Compatible Application
+reference	Source
+regexp	Regular Expression
+replace	Replace
+replace_continue	Replace and Continue...
+replace_pgkey_attr	Replace Page Key Attributes
+error_regexp	Invalid Regular Expression. Correct your input.
+resize	Resize Window
+revision	Revision
+sc_config_header	Profile Information
+screen	Screen
+screenhelp	Screen Help
+screenshot_rect	Screenshot Position
+select_single	Select Single
+selected_merge	Merge selected Screen Macros
+show_bubble	Show directly
+show_hilight	Show Highlight
+show_on_focus	Show on Focus
+source	Source
+start_unit	Context Help Style
+subkey	Allowed as Subkey
+script	Script
+target_name	Title
+target_specializer	Page Specifier
+text_d	Input Text
+text_d_specializer	Input Text
+tolerance	Merge Screen Macros Tolerance
+translate	Automated Translation
+autoTranslate	Translate Project
+paramReRecordLanguage	Language
+merge_critical_macros	Merge Macros Automatically
+merge_critical_macros.h	If you are converting simulations into navigations, you can automatically merge the screens so created. These are combined using the tolerance value determined in the parameter 'Merge Screen Macros Tolerance'.
+uid	UID
+underline	Underline
+update_control	Update Object
+update_target	Update Screen
+variant	Variant
+win_rect	Window Size
+wizCancel	Cancel
+wizFinish	Finish
+wizNext	Next
+wizOk	OK
+wizExplanation	Explanation
+wizContinue	Continue
+app_info	Show Application
+app_link_to_sim	Insert Simulation Link for Application
+screen_info	Show Screen
+screen_link_to_sim	Insert Simulation Link for Screen
+object_info	Display Variant
+object_link_to_sim	Insert Simulation Link
+disabled	Disabled
+record_context_assistant_include	Include @{NAVIGATOR} Project
+project_id	Project Title
+project_id.h	The parameter contains the inserted project. The 'Edit link' button allows you to select the project in the workarea.
+project	Project
+context_assistant_include	Desktop Assistant Project
+open_expanded	Display advanced main bubble
+restart_option	Restart Button
+next_project_id	Next Project
+next_project_id.h	This option defines a project that will be started after the completion of the current process. The new process starts directly and no end bubble will be displayed.
+end_unit	Tour End
+add_end_unit	Add Process End
+demo	Demo Mode
+uebung	Practice Mode
+praxis	Concurrent Mode
+test	Test Mode
+doc	Word Document
+pdf	PDF Document
+html	HTML Document
+ppt	PowerPoint Document
+explanation_type	Icon
+note	Note
+info	Info
+tipp	Tip
+warnung	Warning
+no_image	No icon
+display_on	Display main bubble on
+nav_start	Navigation start
+app_focus	Application focus
+screen_focus	Screen focus
+never	Do not show
+list_type	List Type for Screen
+list_type.h	This parameter determines the type for the listing of the objects in the screen, if the option 'Display all Object Information' is enabled for this.
+unordered_list	Bullets
+ordered_list	Numbering
+convert_sn	Generate Desktop Assistant
+Application	Application
+obj_context	Object
+expl_context	Explanation
+record_cntrl_type	Type
+disable_standby	Disable Standby Status (@{NAVIGATOR})
+disable_standby.h	Specifies that the standby status of the @{NAVIGATOR} cannot be set. If this option is deactivated, you can set the standby status with the shortcut 'CTRL + F11' or by clicking on the status icon.
+disable_exit	Hide Exit Entry (@{NAVIGATOR})
+disable_exit.h	Specifies that the 'Exit' entry in the context menu of the @{NAVIGATOR}'s status icon is hidden.
+bcontent_style	Bubble Style
+bcontent_style.h	This setting defines which bubble style is to be used for displaying the bubble.
+cache_properties	Cache
+cache_folder	Folder Location
+cache_folder.h	Specifies the location of the cache folder 'NavigatorCache'. The default location is '%localappdata%'. You can enter a custom location. \nNote: The name of the cache folder cannot be changed.
+use_caching	Use Caching
+use_caching.h	Activates the use of the @{NAVIGATOR} cache.
+function_keys	Function Keys
+minimize_da	Minimize
+minimize_da.h	Defines a function key for minimizing the main window.
+next_tab	Select Next Tab
+next_tab.h	Defines a function key for selecting the next tab in the main window.
+next_screen	Go to Next Screen
+next_screen.h	Defines a function key for navigating to the next screen for a selected project.
+back	Go Back
+back.h	Defines a function key for going to the previous screen.
+toggle_standby	Toggle Standby Mode
+toggle_standby.h	Defines a function key for toggling the standby mode.
+abort	Abort
+abort.h	Defines a function key for aborting the desktop assistant.
+restart	Restart
+restart.h	Defines a function key for restarting the desktop assistant.
+start_pa	Start Desktop Assistant Project
+start_pa.h	Defines a function key for starting a selected project.
+start_demo	Start Demo Mode
+start_demo.h	Defines a function key for starting a selected demo mode.
+start_prac	Start Practice Mode
+start_prac.h	Defines a function key for starting a selected practice mode.
+start_test	Start Test Mode
+start_test.h	Defines a function key for starting a selected test mode.
+start_concur	Start Concurrent Mode
+start_concur.h	Defines a function key for starting a selected concurrent mode.
+start_book	Start Book
+start_book.h	Defines a function key for starting a selected book.
+start_group	Open in library
+start_group.h	Defines a function key for opening a group in library.
+toggle_ctx_rec	Toggle Context Recognition
+toggle_ctx_rec.h	Defines a function key for toggling the context recognition of the desktop assistant.
+select_next	Select Next Entry
+select_next.h	Defines a function key for selecting the next entry in the current window.
+select_prev	Select Previous Entry
+select_prev.h	Defines a function key for selecting the previous entry in the current window.
+toggle_warning	Show Warning Dialog
+toggle_warning.h	Defines a function key for showing the warning dialog of the desktop assistant.
+execute_step	Execute Step
+execute_step.h	Defines a function key for executing a step during playback of the guided tour.
+copy_link	Copy Link
+copy_link.h	Defines a function key for copying link of the selected entity.
+maximize_trainer	Maximize Content Window
+maximize_trainer.h	Defines a function key for maximizing the content window.
+share_email	Share Via E-Mail
+share_email.h	Defines a function key for sharing content of the selected entity via e-mail.
+start_default	Start Default Content
+start_default.h	Defines a function key for starting the default mode or selected document.
+show_da_help	Show Desktop Assistant Help
+show_da_help.h	Defines a function key for opening desktop assistant help.
+request_content	Request Content
+request_content.h	Defines a function key for requesting content for an application page.
+search_content	Search Content
+search_content.h	Defines a function key for searching content depending on the search type selected.
+show_hidden_elems	Show Hidden Help Elements
+show_hidden_elems.h	Defines a function key for showing hidden help elements.
+toggle_side_bar	Show / Hide Sidebar
+toggle_side_bar.h	Defines a function key for showing and hiding the sidebar.
+content_library	Desktop Assistant - Content and Behavior
+content_library_window	Desktop Assistant - Style and Windows
+content_library_sidebar	Desktop Assistant - Sidebar
+style	Style
+style.h	Defines the appearance of the desktop assistant components (main window, content window, status icon). Select a style resource from the list.
+show_only_bar	Show Only Sidebar on Start
+show_only_bar.h	Defines whether only the sidebar will be displayed at the start of the desktop assistant or also the main window.
+clear_on_mismatch	Clear Content List on Context Mismatch
+clear_on_mismatch.h	Defines, that the content list is cleared if no context was found. With deactivated setting the content of the last recognized object is shown.
+da_positioning	Main Window Alignment
+da_positioning.h	Defines the alignment of the main window on the screen. The option 'Free' allows it to define a position in the 'Main Window Position' parameter.
+bar_positioning	Sidebar Alignment
+bar_positioning.h	Defines the alignment of the sidebar on the screen.
+left_top	Left Top Corner
+left_center	Left Center
+left_bottom	Left Bottom Corner
+right_top	Right Top Corner
+right_center	Right Center
+top_center	Top Center
+right_bottom	Right Bottom Corner
+center	Center
+free	Free
+list_order	Content Sorting
+list_order.h	Defines the sorting of the available content in the list.
+by_default	Explorer Structure
+by_name	Alphabetical
+by_type	Alphabetical per Type
+library_position	Main Window Position (Free)
+library_position.h	Defines the main window's position (left, top) for the 'Free' alignment on the screen. The values are given in pixels.
+search_url	Search Group
+search_url.h	Allows you to specify a workarea group for searching content in the @{LIBRARY}.
+enable_recording	Position: 'Recording' Control
+enable_recording.h	Allows you to show a control for recording processes. You can specify the position of the control in the sidebar.\nThe recording allows the user to record processes as Microsoft Word documents or as videos. The recorded files are displayed in the main window on the User Area tab.
+enable_exit_da	Position: 'Exit' Control
+enable_exit_da.h	Allows you to show a control for quitting the @{NAVIGATOR}. You can specify the position of the control in the sidebar.
+enable_info	Show 'Info' Tab
+enable_info.h	Enables the 'Info' tab for the main window of the desktop assistant. Insert an info text in the short description of the desktop assistant group.
+request_content_type	Request Content Type
+request_content_type.h	Specifies the functionality for requesting content. Select a type from the dropdown list. \nE-mail: Allows you to enter an e-mail address for the requests. \nURL: Allows you to enter an URL for opening a web page. \nA 'Request Content' control is displayed in the sidebar. If no content is found, the 'Request Content' link is displayed in the main window.
+email	E-Mail
+url	URL
+enable_request_content	Position: 'Request Content' Control
+enable_request_content.h	Specifies the position of the 'Request Content' control in the sidebar.
+enable_external_search_ctx	Provide Context Information
+enable_external_search_ctx.h	Provides additional context information of the user with the search URL during search. The context information will be used for search. Activate the setting if your specified search can use the context information. \nThe provided context information is specified in the 'Context Information' parameter.
+external_search_ctx	Context Information
+external_search_ctx.h	Specifies the context information if the setting 'Provide Context Information' has been activated. The following context information can be provided: EXE of the current application (&executable=$#{EXE}), page key of the current application page (&pagekey=$#{PAGEKEY})\nNote: Do not change the structure of the context information string.
+enable_external_search	Position: 'External Search' Control
+enable_external_search.h	Allows you to activate an external search page for searching content or further information. With activated setting, the 'External Search' control is displayed in the sidebar. You can specify the position of the control in the sidebar. \nThe button opens a search field for the input of a search term. The search results are shown on the external search page. For the external search, you have to specify a search URL in the 'External Search URL' parameter.
+external_search_url	URL
+external_search_url.h	Allows you to specify a URL for the external search. Enter the URL in the following structure:\nhttps://www.google.com/#q=$#{SEARCHTERM}\nhttps://www.bing.com/search?q=$#{SEARCHTERM}\nhttps://search.yahoo.com/search?p=$#{SEARCHTERM}\nhttps://www.wolframalpha.com/input/?i=$#{SEARCHTERM}\n\nNote: Do not delete or change '=$#{SEARCHTERM}' of the URL parameter.
+enable_share_content	Show 'Share Content' Control
+enable_share_content.h	Displays a 'Share Content' button in the footer of the main window. The button opens a dialog box with the link to the selected content.
+author_email	E-Mail
+author_email.h	Allows you to specify an e-mail address for requesting content. The e-mail address is used for the 'Request Content' function.
+author_url	URL
+author_url.h	Allows you to specify a URL for requesting content. The URL is used for the 'Request Content' function.
+author_url_params	URL Parameters
+author_url_params.h	Allows you to specify the parameters for the author URL. \nYou can specify the application name and the executable. Replace the value 'application' or 'executable' with the required name.
+enable_fuzzy_match	Enable Fuzzy Match
+enable_fuzzy_match.h	Defines whether fuzzy match is used for matching the context of the content with an application page.
+enable_ident_filter	Enable Advanced Application Identification
+enable_ident_filter.h	Specifies that only the relevant application information is used for the @{NAVIGATOR} playback. This allows you to optimize the performance of the @{NAVIGATOR}.\nNote: The option can lead to a false object recognition. It is recommended to test the playback before publishing the content.
+library_size	Main Window Size
+library_size.h	Defines the size (width, height) of the main window in pixels.
+book_win_position	Content Window Position (Free)
+book_win_position.h	Defines the content window's position (left, top) for the 'Free' alignment on the screen. The values are given in pixels.
+book_win_size	Content Window Size
+book_win_size.h	Defines the size (width, height) of the content window in pixels.
+book_win_positioning	Content Window Alignment
+book_win_positioning.h	Defines the alignment of the content window on the screen. The option 'Free' allows you to define a position in the 'Content Window Position' parameter.
+errNoApplicationContext	Current macro is not an application context.
+errNoTargetDefinition	The macro does not correspond to the target definition.
+errExtractPagekey	Unable to extract pagekey with profile:
+errScreenshot	Unable to screenshot. Try again.
+errLoadTemplate	Unable to load profile:
+errRecordProcessStep	Guided tour steps cannot be recorded for 'context help' projects.
+errLanguageSelection	No language selected.
+errNoWriteToken	You have no write permission for the selected object.
+errMacroSelection	No macro selected.
+errObjectInformation	No object Information at given position.
+errSpecializedInformation	No specialized Information at given position.
+errPosition	Position not in window area.
+errActionMacroSelection	No action macro selected.
+errUpdateObject	Selected object type cannot be updated.
+errInsertExplanation	Free explanation cannot be inserted for the selected macro.
+action.h	Guided tour only\nThis option defines the action the user is supposed to perform on the object.
+all_values.h	In some cases the object of an application holds choices for values that cannot be covered by a standard HTML control. Then a control is used that is closest to the object in the application. This field in addition hold all values that the object holds as choices.
+anim_steps.h	The value defines in how many steps the chosen highlight effect is animated. Low values are speeding up the animation but make for a choppy impression. High values make the animation smoother but also slow down the overall animation speed.
+auto_execute.h	The setting defines that the action will be executed automatically during playback of the navigation.
+b_height.h	Defines the height of the object bubble in pixels. If the amount of text exceeds the available space in the bubble it will scale height-wise automatically to the required space.
+b_hide_option.h	Context help only\nBy activating this option, a setting will appear in the object or explanation bubble in which object information (bubble and highlight) can be deactivated by the end users. This allows the users to hide any information that they no longer need.
+b_minimizable.h	This option defines if the bubble can be minimized during playback. With activated option a 'Minimize' button is displayed in the bubble header.
+b_closable.h	Context help only\nThis option defines if the bubble can be closed during playback. With activated option a 'Close' button is displayed in the bubble header.
+b_minimized.h	Context help only\nThis option defines if the object bubble is displayed minimized when the page is loaded.
+bmain_size.h	Defines the size (width, height) of the main window in pixels.
+bmain_minimizable.h	This option defines if the main window is minimizable or not.
+bmain_position.h	The values entered here define the position of the main window on the screen. The numbers describe the distance from the upper left corner of the screen in pixels.
+bmain_win_style.h	Defines the appearance of the main window. Select a style resource from the list.
+bmain_alignment.h	Defines the alignment of the main window on the screen. The option 'Free' allows it to define a position in the 'Window Position' parameter.
+bubble_offset.h	This option defines the offset in pixels in which the object bubble is displayed to the object.
+bubblestyle_d.h	Specifies the bubble style resource for displaying the object bubbles of the project.
+bubblestyle_d.h	Specifies the bubble style resource for displaying the object bubbles of the project.
+choose_bool.h	This field contains the value that determines whether the radiobutton or checkbox is switched on or off. The value for a radiobutton is always '1' (on). The value for a checkbox can be '0' (off) or '1' (on).
+choose_text.h	This parameter contains the character string that was found for the selected entry in a popup menu or list field during the automated recording process. This string is inserted in the explanatory bubble texts in the various modes instead of the placeholder '${choose_text}' (see text mode in HTML Editor). It is used as a text module for the automatically generated bubble text when generating bubble content automatically with text modules while recording.
+click_pos.h	Describes the position in the application window that was clicked by the author when the object was recorded. The position is specified in pixels and refers to the upper let corner of the application window content.
+click_pos_rel.h	Describes the position in the application window. The value in percent (%) gives the position relative to the overall width and height of the application window with the left und the upper edge as the reference point.
+config_file.h	Contains the name of the Application Profile used for creating the key and also interpreting the key later on.
+display_name.h	Specifies the application name. The name will be displayed in the exception window of a guided tour.
+dump_page.h	Contains the recorded screen. \nYou can change the image by using the 'Replace Image' function.
+element_type.h	Describes the object class that was recognized by the recognition mechanism.
+enabled.h	Context help only\nThis option defines if the macro is incorporated into the analysis of the page or not. If this option is deactivated, the help object is not displayed even if the associated object exists on the page.
+optional.h	Guided tour only\nThe option defines whether the guided tour step is optional for the user in a process. \nDuring playback a different icon will be shown in the step list. If the control is not visible on the page or if the page is wrong the step will be skipped.
+executable.h	Contains the executable name of the application as used by the operating system.
+explanation_d.h	Contains the information to respective context (text, links, images etc.). Please ensure an optimal display of information within the main bubble.
+explanation_d_modified.h	If this option is activated, the context info are no longer automatically generated in the event of automatic translation but have to be edited manually instead. This helps to retain manual changes to the bubble content.
+fieldname.h	Contains the name of the recorded control, which is inserted in the bubble texts. \nYou can change the object name in the text field. The object name has the placeholder '$#{fieldname}'.
+fieldicon.h	Contains the image of a recorded button or icon, which is inserted in the bubble texts. \nYou can change the object image by using the 'Replace Image' function. The object image has the placeholder '$I{fieldicon}'.
+g_highlight_bgr.h	This defines the standard color of the highlight borders in the navigation. The color may be entered directly as an RBG value in HEX format or selected from out of the Color Picker dialog box.
+g_highlight_border.h	This parameter defines the general thickness of the object highlight frame in pixels. Pixel widths are available from '1' to '10'.
+g_highlight_effect.h	This option determines the kind of highlighting effect used for the objects in the navigation.
+hide_on_focuslost.h	This option defines if the bubble will be hide when the focus on the screen is leaving the regarding object.
+highlight_offset.h	This parameter defines the added pixel offset for the highlight rectangle surrounding the marked element.
+key.h	Contains all criteria for identifying the application window and a certain page in the application. The key only matches if the page in the target application meets all criteria defined in the key. In order to soften the defintion of single key criteria, the use of regular expressions is allowed.
+key_name.h	This parameter determines the key or shortcut used. This involves separating the key names by spaces, for example: 'ctrl + k'.
+key_desc.h	This parameter determines the key or shortcut used. This involves separating the key names by spaces, for example: 'ctrl + k'.
+force_display.h	Context help only\nSpecifies that the macro content is always displayed as instant help, even if instant help is disabled during playback of the desktop assistant.
+link_to_sim.h	This option will include the simulation link into the main bubble. This option is related to a navigation which has been created based on a simulation project (by conversion).
+macro_comment.h	General comment. It is displayed in the miniature view.
+match_value.h	This option specifies whether the indicated value is to be compared to the real value of the object in the live application.
+mini_on_focuslost.h	This option defines if the bubble is minimized when the focus on the screen is leaving the regarding object.
+nav_check_freq.h	Defines how the frequently the @{NAVIGATOR} checks for updated content. If updated content is available, the @{NAVIGATOR} will start the content automatically. This is especially useful for change management processes.
+enable_tincan.h	Activates the tracking for @{NAVIGATOR} content. The content has to be started from a @{MANAGER} workarea.
+no_spike.h	This option defines if the object bubble is displayed with or without a spike.
+objname.h	Every object in a navigation needs a unique name for identification purposes when using behaviors and behavior assignments.
+orientation.h	This parameter defines the orientation of the object bubble relative to the referenced object. The bubble arrow points to the position referenced on the page, while the bubble itself is shown offset to the selected direction, as instructed. If the orientation 'Center' is selected, the bubble is displayed without an arrow centered on the defined position.
+path.h	The object path describes the properties of the object on basis of the used application profile. The object path is used to identify the object in the live application. As a rule, you should not need to edit this field manually.
+position.h	The values entered here define the position of the main bubble on the screen. The numbers describe the distance from the upper left corner of the screen in pixels.
+reference.h	If the navigation was converted from a simulation, the source of the respective step is to be specified here.
+resize.h	This option defines if the target application window size shall be changed automatically to the size which has been used when the navigation has been created. This might be helpful for active areas as they will be displayed position based.
+revision.h	Shows the version of the Application Profile used for creating the key when recording the application screen.
+sc_config_header.h	Information from the application's profile is saved in this field. The navigation uses this information to be able to correctly recognize the application and its objects during playback.
+screenshot_rect.h	Shows which area of the original screen was used for the screenshot of the object. As a rule, you should not need to edit this value manually.
+show_bubble.h	This option defines if the bubble is shown right after the page is loaded comepletely.
+start_from_arbitrary.h	This option defines, that the guided tour can be started from an arbitrary step and not from the beginning of the process.
+show_hilight.h	Specifies whether a highlight is displayed for the object.
+show_highlight.h	Specifies whether highlights are displayed for the objects.
+show_on_focus.h	This option defines if the bubble is displayed when the focus on the screen is changing to the regarding object.
+source.h	If a navigation was converted from a simulation, the parameter specifies the original lesson.
+subkey.h	In some cases it is helpful if certain parts of the original part of a key are ignored, e.g. because the variants of a certain page are not relevant and shall be handled all by the same Key and Step in the navigation. This option forces the recognition mechanism to consider a key as a match, even if the page had more key criteria reported by the recognition than defined in the key. Therefore the page key can be shortened in order to cover more than one page with one key.
+target_name.h	Contains the name of the application window.
+text_d.h	This parameter contains the character string to be entered in the referenced entry field. It contains the value entered during the automated recording process. This string is inserted in the explanatory bubble texts in the various modes instead of the placeholder '${text_d}' (see text mode in HTML Editor) when generating bubble content automatically with text modules while recording.
+text_d_specializer.h	This parameter contains the character string to be entered in the referenced entry field. It contains the value entered during the automated recording process. This string is inserted in the explanatory bubble texts in the various modes instead of the placeholder '${text_d}' (see text mode in HTML Editor) when generating bubble content automatically with text modules while recording.
+tolerance.h	The value defines the tolerance for the degree of match when merging 'Screen' macros. This setting relates to the 'Merge Screen Macros' function that can be launched from the 'Tools -> Bulk Changes' menu. Increasing the value increases the tolerance threshold. Note in this case, that also screenshots can be merged, on which different objects are displayed. The value is specified in percent.
+uid.h	Contains a unique identifier of the macro under which it is managed in the project.
+win_rect.h	Defines the window size when creating a project.
+explanation_type.h	This option determines the note type. Depending on the type setting, a pictogram is displayed together with the text so as to highlight the advisory text.
+app_info.h	The setting defines whether the application is displayed in the context help. If the application is not to be displayed, the setting is to be deactivated.
+app_link_to_sim.h	This parameter can be used to display a link to the simulation specified in the 'Source' parameter in addition to the context type. Different modes can be selected in the process.
+screen_info.h	The setting defines whether the page is displayed in the context help. If the screen is not to be displayed, the setting is to be deactivated.
+screen_link_to_sim.h	This parameter can be used to display a link to the simulation specified in the 'Source' parameter in addition to the context type. Different modes can be selected in the process.
+object_info.h	Context help only\nThe setting defines the variant to be displayed for the object.
+open_expanded.h	If this option is activated the main bubble is displayed with page and object list open.
+display_on.h	This parameter defines in which situation the navigation main bubble is to be displayed. When starting the navigation, viewing the application or viewing the corresponding application page.
+area.h	The parameter defines the control's position and size. The first two numbers indicate the position of an object from the left hand and upper edge of the screen. The last two numbers define the object's width and height. The button next to the input field opens an editing dialog box allowing the object's position and size to be customized.
+form_on.h	Defines, that the step is a form. All actions of the step are displayed in one bubble during playback.
+transition	Next Guided Tour Step
+transition_info	Next Guided Tour Step
+action_pa	Action
+trans_action	Action
+step_name1	Next Step
+step_name2	Alternative Step 1
+step_name3	Alternative Step 2
+step_name4	Alternative Step 3
+LClick	Left Click
+RClick	Right Click
+LDblClick	Left Double Click
+RDblClick	Right Double Click
+Focus	Focus
+FocusLost	Focus lost
+step	Guided Tour Step
+name	Name
+end_message	Text
+show_end_window	End Window
+show_end_window.h	Specifies that a window is shown at the end of the guided tour. The window allows the user to close the guided tour manually. If this option is deactivated, the window is not shown and the guided tour closes automatically.
+trans_action.h	Guided tour only\nSpecifies the action that triggers the jump to the next guided tour step.
+action_pa.h	This setting specifies which user action triggers the jump to the next guided tour step.
+step_name1.h	Guided tour only\nDefines the next step in the process flow.
+step_name2.h	Guided tour only\nDefines an alternative guided tour step, if the defined guided tour step cannot be displayed.
+step_name3.h	Guided tour only\nDefines an alternative guided tour step, if the defined alternative guided tour step 1 cannot be displayed.
+step_name4.h	Guided tour only\nDefines an alternative guided tour step, if the defined alternative guided tour step 2 cannot be displayed.
+step_on_same_page.h	Guided tour only\nThis setting should be activated if the next guided tour step is on the same application page. This will avoid a page recognition.
+name.h	Defines the name of the guided tour step. The name is displayed in the 'Next Guided Tour Step' settings of an 'Object' macro for the selection.
+set_value	Set Value Automatically
+set_value.h	The setting defines whether the value of the macro will be set automatically during playback of the navigation.
+end_message	Text
+end_message.h	You can enter text in this text box that is displayed in the bubble at the end of the process. The text box is preset with a default text.
+restart_option	Restart Button
+restart_option.h	When this option is activated, a button appears in the bubble that the user can use to repeat a process. This makes it possible to carry out a process again with different entries.
+record_end_display	Edit Bubble
+end_bubble	Bubble Process End
+bend_position	Position
+bend_position.h	The values entered here indicate the position of the bubble on the screen. The values are specified in pixels and relate to the upper left-hand corner of the screen.
+bend_style	Style
+bend_style.h	This setting defines which bubble style is to be used for displaying the bubble. Bubble styles are defined using the Bubble Style Editor which can be opened from the menu 'Tools > Edit Bubble Styles'. Bubble styles are always available for the entire workarea.
+bend_width	Width
+bend_width.h	This defines the width of the bubble to be displayed in pixels.
+bend_height	Height
+bend_height.h	This defines the height of the bubble to be displayed in pixels.
+process_start_unit	Guided Tour Style
+record_pa_control	Record Guided Tour Step
+prev_step	Previous Step
+next_step	Next Step
+disqualifier	Exclude Screen
+disqualifier.h	With the 'Page Specifier' you can differentiate between similar application pages by using a specific object. This option specifies whether the recognized application page should be displayed or excluded if the 'Page Specifier' is available. \nThe thumbnail view displays the status of the option: a plus (not exclude) or minus (exclude) symbol.
+exception_bubble	Bubble Exception Handling
+bexp_position	Position
+bexp_position.h	The values entered here will define the bubble's position on the screen. The values are given in pixels. The bubble will appear in the upper left-hand corner of the screen.
+bexp_style	Style
+bexp_style.h	Here you can choose the type of bubble you would like to use. Bubble styles can be defined in the bubble style editor that can be opened from the menu:  Tools -> Edit Bubble Style.  The different bubble styles are always available for the entire workarea.
+content_demo	Demo Mode
+content_demo.h	With this option the demo modes of a group will be shown in the desktop assistant.
+content_practice	Practice Mode
+content_practice.h	With this option the practice modes of a group will be shown in the desktop assistant.
+content_test	Test Mode
+content_test.h	With this option the test modes of a group will be shown in the desktop assistant.
+content_concurrent	Concurrent Mode
+content_concurrent.h	With this option the concurrent modes of a group will be shown in the desktop assistant.
+content_navi	Navigation
+content_navi.h	With this option the navigations of a group will be shown in the desktop assistant.
+content_documentation	Documentation
+content_documentation.h	With this option the documentations of a group will be shown in the desktop assistant.
+content_externals	External Files
+content_externals.h	With this option the external files of a group will be shown in the desktop assistant.
+navi_style	Style
+navi_style.h	Defines the appearance of the navigation window. Select a style resource from the list.
+menu_path:/record	Recording
+F1HELPNAME	help
+alignment	Bubble Alignment
+alignment.h	Specifies the alignment of the bubble window on the screen. The option 'Free' allows you to define a position in the 'Bubble Position' parameter.
+bform_alignment	Alignment
+bform_alignment.h	Defines the alignment of the form bubble window on the screen. The option 'Free' allows you to define a position in the 'Form Bubble Position' parameter.
+gloss_bubble	Glossary Bubble
+gloss_bubble_style	Style
+gloss_bubble_style.h	Defines the appearance of the glossary bubble. Select a style resource from the list.
+ellipse	Circle
+gloss_bubble_size	Size
+gloss_bubble_size.h	Defines the size (width, height) of the glossary bubble in pixels.
+Navi	Desktop Assistant
+exclude_from_da	Exclude from Desktop Assistant
+exclude_from_da.h	Specifies that the page key will not be considered for the context recognition of the desktop assistant.
+all_as_descr	Use Text From
+all_as_descr.h	Defines the text type for the @{NAVIGATOR}. The default is 'Short Description'.
+consider_roles	Consider Roles
+consider_roles.h	Activates the use of roles for displaying content during playback.
+consider_categories	Consider Content Categories
+consider_categories.h	Activates the use of content categories for sorting content in the main window of the @{NAVIGATOR}.
+disable_ca_in_pa	Hide Instant Help in Guided Tour
+disable_ca_in_pa.h	Specifies if all instant help information is hidden during playback of the guided tour. Once the guided tour is finished, the instant help is shown again.
+full_desc	Description
+shrt_desc	Short Description
+wrong_position	Position Error
+help	Help
+warning	Warning
+maintenance	Maintenance
+update	Update
+new	New
+training	Training
+attachment	Attachment
+link	Link
+tip	Tip
+note	Note
+compliance	Compliance
+mini_bubble_style	Mini Icons Style
+mini_bubble_style.h	Defines a style resource for the mini icons used for the project. The mini icons are a resource type of the adaptable resources. \nAn icon can be set in each action and explanation macro by using the 'Mini Icon Type' parameter in the 'Advanced' section.
+mini_bubble	Mini Icon Type
+mini_bubble.h	Context help only\nDefines a type for the mini icon of the object. The icon is based on the defined 'Mini Icons Style' of the 'Style' macro.
+NavRecMouseWheel	Use mouse wheel to continue. Press ESC to finish mouse scroll.
+search_type	Search Type
+none	None
+search_in_lib	@{LIBRARY}
+search_in_da	Desktop Assistant Group
+search_type.h	Specifies the functionality for searching content. Select a type from the dropdown list. \nNone: Deactivates the search functionality. \nIn @{LIBRARY}: Opens the @{LIBRARY} for searching in the @{LIBRARY} content. \nIn Desktop Assistant Group: Shows the 'Search' tab in the main window for searching in the desktop assistant content.
+errObjectUpdate	Object cannot be updated. Update the object with similar type.
+config_headers_differ1	The profile information is outdated. Click 'Continue' to update the project.
+config_headers_differ2	It is recommended to create an archive before updating.
+default_start_mode	Default Start Content
+default_start_mode.h	Defines the mode or document format to be started by default from the content list.
+default_start_doc	Default Start Document
+default_start_doc.h	Defines the document type, if  a document is set in the 'Default Start Content' setting.
+show_next_btn	Next Button
+show_next_btn.h	Guided tour only\nSpecifies if the 'Go to Next Step' button is shown in the object bubble.
+condition	Condition
+condition.h	During playback, the value entered by the user must match the condition, in order to go to the next step or jump to a specific step. \nSelect 'Edit Condition' to create or edit a condition.
+errDuplicateContext	This application is already recorded.
+add_sticky_notes	Position: 'Add Sticky Note' Control
+add_sticky_notes.h	Allows you to show a control for adding a sticky note on a page. You can specify the position of the control in the sidebar.
+show_instant_help_btn	Position: 'Instant Help' Control
+show_instant_help_btn.h	Allows you to show a control for activating the instant help. You can specify the position of the control in the sidebar.
+show_carousel	Show Carousel
+show_carousel.h	This option shows Desktop Assistant in carousel mode.
+condition_pattern	Condition Pattern
+condition_pattern.h	Specifies the pattern used for the condition.
+condition_value	Condition Value
+condition_value.h	Contains the value used for the condition. Enter a text or a number based on the selected pattern.
+condition_jump_target	Jump Target
+condition_jump_target.h	Guided tour only\nSpecifies a jump target for the condition. Select a step from the dropdown list. The navigation jumps to the specified step, if the condition matches.
+condition_text	Condition Text
+condition_text.h	Contains a text to be shown, if the condition is not fulfilled.
+condition_case_sensitive	Case Sensitive
+condition_case_sensitive.h	Specifies, that the condition is case sensitive.
+condition_ignore_on_load	Ignore on Page Load
+condition_ignore_on_load.h	Context help only\nSpecifies that the condition is not checked on page load. The condition is checked when using a corresponding control. This avoids it, to display the condition bubble directly.
+c_equals	Is equal to
+c_not_equals	Is not equal to
+c_greater	Is greater than
+c_greater_equals	Is greater than or equal to
+c_less	Is less than
+c_less_equals	Is less than or equal to
+c_min_char	Minimum number of characters
+c_max_char	Maximum number of characters
+c_num_char	Number of characters equal to
+c_reg_exp	Regular expression
+vertical	Vertical
+horizontal	Horizontal
+AutoBarReady	Idle
+AutoBarExplanation	Insert Explanation
+AutoBarChooseApp	Choose Application
+AutoBarRecord	Record
+AutoBarBusy	Busy
+AutoBarPause	Pause
+AutoBarReRecManualHotspot	Edit control: Press Ctrl + Enter to proceed with changes. Press Esc to discard the changes.
+wizAddExplanation	Add Explanation
+AutoBarNoRecognition	No controls recognized
+AutoBarDiagnosis	Diagnosis
+condition_bubblestyle	Bubble Style
+condition_bubblestyle.h	Defines which bubble style resource is to be used for displaying the condition text.
+condition_highlight_bgr	Highlight Color
+condition_highlight_bgr.h	Defines the color of the highlight for the control.
+IDS_MPI_TOURSTOP_LABEL	Name
+IDS_MPI_TOURSTOP_LABEL_MODIFIED	Translate Manually
+IDS_MPI_TOURSTOP_NAME	UID
+IDS_MPI_TOURSTOP_SHOW	Show in Progress Display
+IDS_MPI_TOURSTOP_JUMP	Jump Target
+IDS_MPI_TOURSTOP_CALLABLE	Is Subroutine
+basic_info	Basic Properties
+IDS_NO_IMAGE_SELECT	No image selected
+IDS_NO_IMAGE	Image not found
+ID_INSERT_TAKE	Add Step
+ID_PRJ_LAYOUT_HORZ	Horizontal Layout
+ID_PRJ_LAYOUT_VERT	Vertical Layout
+ID_PRJ_LAYOUT_DIV	Divided Layout - 1
+ID_PRJ_LAYOUT_4	Divided Layout - 2
+ID_PRJ_LAYOUT_5	Divided Layout - 3
+layout_1	@{ID_PRJ_LAYOUT_HORZ}
+layout_2	@{ID_PRJ_LAYOUT_VERT}
+layout_3	@{ID_PRJ_LAYOUT_DIV}
+layout_4	@{ID_PRJ_LAYOUT_4}
+layout_5	@{ID_PRJ_LAYOUT_5}
+IDS_UNTITLED	(untitled)
+docTableHeaderStep	Step
+layout_advanced	Advanced Layout
+showEditorHelp	Show Web Editor Help
+slide:insert_tb	Insert
+slide:action_tb	Action
+slide:structure_tb	Structure
+slide:view_tb	View
+existing_scrs_in_prj	The current screen is already used more than once in your project. \nSelect the screen where you want to add the recorded objects.
+start_topic	Start
+guided_tour	Guided Tour
+context_help	Context Help
+off	Off
+main_bar_1	Main Bar 1
+main_bar_2	Main Bar 2
+main_bar_3	Main Bar 3
+main_bar_4	Main Bar 4
+main_bar_5	Main Bar 5
+main_bar_6	Main Bar 6
+main_bar_7	Main Bar 7
+main_bar_8	Main Bar 8
+sub_menu_1	Submenu 1
+sub_menu_2	Submenu 2
+sub_menu_3	Submenu 3
+sub_menu_4	Submenu 4
+sub_menu_5	Submenu 5
+sub_menu_6	Submenu 6
+content_btn	Position: 'Content' Control
+content_btn.h	Specifies the position of the 'Content' control in the sidebar.
+search_btn	Position: 'Search' Control
+search_btn.h	Specifies the position of the 'Search' control in the sidebar.
+orCenter	Center
+orNorth	North
+orWest	West
+orNortWest	Northwest
+orEast	East
+orNortEast	Northeast
+orSouth	South
+orSouthWest	Southwest
+orSoutEast	Southeast
+screen_tolerence	Tolerated Screen Difference (%)
+screen_tolerence.h	This parameter defines the necessary graphic match between the displayed screen page and the recorded screenshot in percent for the associated context information to be displayed. If the graphic discrepancies lie above the defined value, the @{NAVIGATOR} will compare the recorded page key with the screen page and display the appropriate contents for a different application page.
+video_folder	Video Recordings Folder
+video_folder.h	Specifies the folder for storing video recordings. \nNote: Video recordings are not stored in the cache folder of the @{NAVIGATOR} because of their file size.
+allow_video_rec	Allow Video Recording
+allow_video_rec.h	Allows the users to record video content.
+hide_da_on_web_assistant	Hide @{NAVIGATOR} on Running @{XRAY}
+hide_da_on_web_assistant.h	Specifies that @{NAVIGATOR} windows are hidden when @{XRAY} is running in the foreground.
+show_web_assistant_msg	Show @{XRAY} Message
+show_web_assistant_msg.h	Specifies that a message is displayed when @{XRAY} is running in the foreground or leaves the foreground mode.
